@@ -1,0 +1,693 @@
+{
+    "distretto":  "Trunk",
+    "sezioni":  [
+                    {
+                        "nome":  "Chest",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Push the Arms Forward Against the Air",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the chest muscles. It simulates the action of pushing a heavy door open or moving a light piece of furniture away.",
+                                             "howToDo":  "Sit on an upright chair with your back well supported. Bring your closed fists close to the sides of your chest, with your elbows bent backward. From this position, slowly extend your arms forward at chest height, as if you were pushing away an invisible wall. Hold still for one second, then slowly bring your elbows back.",
+                                             "whatToDo":  "Breathe out through your mouth as you push forward and breathe in through your nose as you return.",
+                                             "whatNotToDo":  "Do not lift your back away from the backrest of the chair during the push.",
+                                             "id":  "trunk-001",
+                                             "sezione":  "Chest",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Push the Arms Forward Against the Air",
+                                             "movementDistrict":  "chest",
+                                             "movementTags":  [
+                                                                  "push",
+                                                                  "horizontal-adduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Open the Straight Arms to the Side",
+                                             "image":  "",
+                                             "description":  "This movement helps stretch the chest muscles and expand the ribs, improving the lungs’ ability to fill with air.",
+                                             "howToDo":  "Sit upright or stand. Extend your arms forward in front of you, with your palms facing each other. As you breathe in deeply through your nose, open your arms out to the sides as far as possible, bringing them slightly backward so you feel your chest opening. Hold the air for 2 seconds, then breathe out as you bring your hands forward again.",
+                                             "whatToDo":  "Keep your shoulders low and relaxed; do not bring them up toward your ears.",
+                                             "whatNotToDo":  "Do not excessively arch your lower back.",
+                                             "id":  "trunk-002",
+                                             "sezione":  "Chest",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Open the Straight Arms to the Side",
+                                             "movementDistrict":  "chest",
+                                             "movementTags":  [
+                                                                  "opening",
+                                                                  "horizontal-abduction",
+                                                                  "breathing"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Bend the Arms While Leaning on the Wall",
+                                             "image":  "",
+                                             "description":  "This exercise provides a lot of strength to the whole chest and arms in complete safety, using the wall to avoid overloading the body.",
+                                             "howToDo":  "Stand facing a flat wall, about one step away. Place the palms of your hands on the wall at chest height, keeping your arms straight. Slowly bend your elbows out to the sides to bring your face and chest closer to the wall, while keeping your body straight. Then push through your hands to return to the starting position with your arms straight.",
+                                             "whatToDo":  "Keep your feet firmly planted on the floor and your abdominal muscles slightly engaged for stability.",
+                                             "whatNotToDo":  "Do not bend your back or push your buttocks backward; your body should move as one single unit.",
+                                             "id":  "trunk-003",
+                                             "sezione":  "Chest",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Bend the Arms While Leaning on the Wall",
+                                             "movementDistrict":  "chest",
+                                             "movementTags":  [
+                                                                  "push",
+                                                                  "horizontal-adduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Cross the Wrists in Front of the Chest",
+                                             "image":  "",
+                                             "description":  "This movement activates the chest muscles used to hold an object close to your body, such as a cushion, a bunch of flowers, or a bag.",
+                                             "howToDo":  "Sit upright on the chair. Extend your arms out to the sides at shoulder height, keeping your hands open. From this position, bring your arms forward, crossing your wrists in front of your chest, trying to tighten your chest muscles as if you were giving yourself a tight hug. Slowly open your arms again.",
+                                             "whatToDo":  "Alternate the crossing position, once with the right wrist on top and once with the left wrist on top.",
+                                             "whatNotToDo":  "Do not raise your shoulders toward your ears and do not make quick or jerky movements.",
+                                             "id":  "trunk-004",
+                                             "sezione":  "Chest",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Cross the Wrists in Front of the Chest",
+                                             "movementDistrict":  "chest",
+                                             "movementTags":  [
+                                                                  "horizontal-adduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Side Rib Breathing",
+                                             "image":  "",
+                                             "description":  "This exercise helps improve rib mobility and breathing control, making it easier to expand the chest during calm breathing.",
+                                             "howToDo":  "Sit upright on a chair. Place your hands gently on the sides of your lower ribs. Breathe in slowly through your nose, trying to expand the ribs sideways into your hands. Breathe out slowly through your mouth and feel the ribs move back inward. Repeat for 5 slow breaths.",
+                                             "whatToDo":  "Keep your shoulders relaxed and let the ribs move naturally.",
+                                             "whatNotToDo":  "Do not lift your shoulders while breathing in.",
+                                             "id":  "trunk-024",
+                                             "sezione":  "Chest",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Side Rib Breathing",
+                                             "movementDistrict":  "chest",
+                                             "movementTags":  [
+                                                                  "breathing",
+                                                                  "rib-expansion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Cushion Press with the Forearms",
+                                             "image":  "",
+                                             "description":  "This exercise activates the chest and arm muscles in a gentle way, helping with the action of holding an object close to the body.",
+                                             "howToDo":  "Sit upright on a chair. Hold a soft cushion in front of your chest between your forearms, keeping your elbows bent. Gently press your forearms inward to squeeze the cushion. Hold the pressure for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your back straight and breathe normally.",
+                                             "whatNotToDo":  "Do not raise your shoulders and do not squeeze so hard that your neck becomes tense.",
+                                             "id":  "trunk-025",
+                                             "sezione":  "Chest",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Cushion Press with the Forearms",
+                                             "movementDistrict":  "chest",
+                                             "movementTags":  [
+                                                                  "horizontal-adduction",
+                                                                  "isometric"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "chest"
+                    },
+                    {
+                        "nome":  "Abdomen",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Pull the Belly In While Seated",
+                                             "image":  "",
+                                             "description":  "This exercise activates the deepest abdominal muscles, which work like a protective belt for the back, improving posture while sitting.",
+                                             "howToDo":  "Sit on an upright chair, keeping your back away from the backrest. Rest your hands on your thighs. Breathe in through your nose and, as you slowly breathe out through your mouth, pull your belly inward as if you were drawing your navel back toward the chair, like when fastening a tight pair of trousers. Keep your belly pulled in for 4 seconds, continuing to breathe, then relax.",
+                                             "whatToDo":  "Keep your shoulders relaxed and your back straight during the exercise.",
+                                             "whatNotToDo":  "Do not hold your breath and do not round your shoulders forward.",
+                                             "id":  "trunk-005",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Pull the Belly In While Seated",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lift One Knee at a Time While Seated",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the lower abdominal area and the hips. It simulates the action needed to climb stairs, get on a bus, or put on socks.",
+                                             "howToDo":  "Sit upright on the front half of the chair, with your feet resting on the floor. Slightly tighten your abdominal muscles. From this position, lift your right knee upward by a few centimetres, as if you were taking a step while seated. Keep your foot lifted for 2 seconds, then slowly place it back down and do the same with your left leg. Alternate the movements.",
+                                             "whatToDo":  "You can hold the sides of the chair seat with your hands to stay more stable.",
+                                             "whatNotToDo":  "Do not rock your back backward when lifting your leg.",
+                                             "id":  "trunk-006",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lift One Knee at a Time While Seated",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "hip-flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lean the Trunk Sideways While Seated",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the side abdominal muscles, the waist muscles. It reproduces the movement used to pick up an object from the floor next to the chair or to put on shoes.",
+                                             "howToDo":  "Sit on a stable chair with your feet well apart on the floor. Let your arms hang down by your sides. Slowly lean your torso to the right, sliding your right hand toward the floor, as if you were trying to pick something up. Use your abdominal strength to return upright to the centre, then repeat the same movement to the left.",
+                                             "whatToDo":  "Go down only as far as you feel safe and always keep your buttocks firmly resting on the chair.",
+                                             "whatNotToDo":  "Do not bend your torso forward; you should move only sideways, as if you were between two walls.",
+                                             "id":  "trunk-007",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lean the Trunk Sideways While Seated",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "lateral-flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Press the Hands Against the Thighs",
+                                             "image":  "",
+                                             "description":  "This isometric exercise wakes up and strengthens the entire abdominal wall without moving the vertebrae, making it ideal for people who suffer from back pain.",
+                                             "howToDo":  "Sit upright on the chair. Place the palms of both hands on your thighs, near your knees. Breathe in and, as you breathe out through your mouth, push your hands firmly downward against your legs and, at the same time, strongly tighten your abdominal muscles. Maintain the push and the contraction for 5 seconds, then relax.",
+                                             "whatToDo":  "Feel your abdomen tighten under your hands during the push.",
+                                             "whatNotToDo":  "Do not let your neck sink between your shoulders and do not make sudden pushes.",
+                                             "id":  "trunk-008",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Press the Hands Against the Thighs",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Heel Press into the Floor",
+                                             "image":  "",
+                                             "description":  "This isometric exercise activates the lower abdominal muscles and helps stabilize the pelvis while seated.",
+                                             "howToDo":  "Sit upright on the front half of a chair with your feet resting on the floor. Place your hands on your thighs. Gently press both heels downward into the floor while slightly tightening your abdominal muscles. Hold for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your back straight and breathe out during the pressure.",
+                                             "whatNotToDo":  "Do not lean backward and do not hold your breath.",
+                                             "id":  "trunk-026",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Heel Press into the Floor",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Knee Push Against the Hands",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the abdominal muscles without moving the spine, helping improve seated stability.",
+                                             "howToDo":  "Sit upright on a chair. Lift your right knee slightly and place both hands on top of it. Try to bring the knee upward while your hands gently push downward to stop the movement. Hold this steady resistance for 5 seconds, then relax and switch legs.",
+                                             "whatToDo":  "Keep your abdomen slightly engaged during the effort.",
+                                             "whatNotToDo":  "Do not round your back forward and do not pull on the leg with your hands.",
+                                             "id":  "trunk-027",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Knee Push Against the Hands",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Supine Heel Tap",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the lower abdominal muscles in a safe lying position. It helps improve pelvic control and protects the lower back during leg movements.",
+                                             "howToDo":  "Lie on your back on a mat with your knees bent and your feet resting on the floor. Tighten your abdominal muscles slightly. Lift your right foot a few centimetres from the floor and gently tap the heel forward, then bring it back to the starting position. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Keep your lower back relaxed and your abdomen slightly engaged.",
+                                             "whatNotToDo":  "Do not arch your back and do not hold your breath.",
+                                             "id":  "trunk-034",
+                                             "sezione":  "Abdomen",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Supine Heel Tap",
+                                             "movementDistrict":  "abdomen",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "hip-flexion",
+                                                                  "hip-extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "abdomen"
+                    },
+                    {
+                        "nome":  "Abdomen and Back - Integrated Stability",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Seated Ball Pass Around the Waist",
+                                             "image":  "",
+                                             "description":  "This exercise improves trunk rotation, shoulder coordination, and hand control. It is useful for daily actions such as reaching behind the body or passing objects from one hand to the other.",
+                                             "howToDo":  "Sit upright on a chair and hold a small soft ball or cushion with both hands. Pass the object from one hand to the other around your waist, moving it behind your back and then back to the front. Make 5 slow circles in one direction, then 5 in the opposite direction.",
+                                             "whatToDo":  "Keep your back straight and move the object slowly.",
+                                             "whatNotToDo":  "Do not bend forward or rush the hand-to-hand passage.",
+                                             "id":  "trunk-022",
+                                             "sezione":  "Abdomen and Back - Integrated Stability",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Ball Pass Around the Waist",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "rotation"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Opposite Arm and Leg Reach on the Mat",
+                                             "image":  "",
+                                             "description":  "This exercise trains coordination and strengthens the deep muscles that stabilize the spine. It helps improve balance and body control.",
+                                             "howToDo":  "Get on all fours on a mat. Slowly extend your right arm forward and your left leg backward at the same time. Hold the position for 2 seconds, then return to the starting position. Repeat with the left arm and right leg. Alternate slowly for 5 repetitions on each side.",
+                                             "whatToDo":  "Keep your back long and your gaze toward the mat.",
+                                             "whatNotToDo":  "Do not let your pelvis rotate and do not move too quickly.",
+                                             "id":  "trunk-033",
+                                             "sezione":  "Abdomen and Back - Integrated Stability",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Opposite Arm and Leg Reach on the Mat",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "abdomen-back-integrated-stability"
+                    },
+                    {
+                        "nome":  "Pelvis - Mobility and Stability",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Rock the Pelvis Forward and Back",
+                                             "image":  "",
+                                             "description":  "This movement loosens the hip joints and the lower back, reducing stiffness that can make it difficult to turn over in bed in the morning.",
+                                             "howToDo":  "Sit on the front half of the chair, keeping your back away from the backrest and your hands on your knees. Slowly push your pelvis forward, slightly arching your lower back and bringing your chest outward. Immediately after, do the opposite movement: move your pelvis backward, rounding your back. Repeat this slow rocking movement 10 times.",
+                                             "whatToDo":  "Make very smooth movements, without jerking, as if you were sitting on a rocking chair.",
+                                             "whatNotToDo":  "Do not move your neck or shoulders; the movement should come only from your pelvis.",
+                                             "id":  "trunk-010",
+                                             "sezione":  "Pelvis - Mobility and Stability",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Rock the Pelvis Forward and Back",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "anterior-pelvic-tilt",
+                                                                  "posterior-pelvic-tilt",
+                                                                  "mobility"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lift the Hips from the Bed",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the back part of the pelvis and the thighs. It is very useful for regaining the strength needed to lift the pelvis when adjusting the blankets or putting on trousers while lying down.",
+                                             "howToDo":  "Lie on your back on the bed, or on a comfortable mat, with your knees bent and your feet firmly resting on the floor. Keep your arms stretched out by your sides. Squeeze your buttock muscles and lift your pelvis upward by a few centimetres. Stay up for 3 seconds, then slowly lower back down, placing your back down one small section at a time.",
+                                             "whatToDo":  "Push firmly with your feet against the mattress or the floor to help yourself lift up.",
+                                             "whatNotToDo":  "Do not lift your pelvis too high if you feel back pain; lifting it two fingers’ width off the bed is enough.",
+                                             "id":  "trunk-011",
+                                             "sezione":  "Pelvis - Mobility and Stability",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lift the Hips from the Bed",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "hip-extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Open the Knees Against an Elastic Band or the Hands",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the side muscles of the pelvis, the gluteus medius muscles, which are truly responsible for balance. It helps prevent swaying sideways when walking or standing in line.",
+                                             "howToDo":  "Sit upright on the chair with your feet together. Wrap an elastic band around your thighs, just above your knees, or, more simply, place the palms of your hands on the outside of your knees. Push your knees outward to move them away from each other, while your hands, or the elastic band, provide resistance. Hold the push for 5 seconds.",
+                                             "whatToDo":  "Keep your feet firmly planted on the floor as you open your knees.",
+                                             "whatNotToDo":  "Do not bend your back forward during the effort.",
+                                             "id":  "trunk-012",
+                                             "sezione":  "Pelvis - Mobility and Stability",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Open the Knees Against an Elastic Band or the Hands",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "abduction",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Pelvic Side Shift",
+                                             "image":  "",
+                                             "description":  "This movement improves awareness and control of the pelvis, helping with small adjustments while sitting and with weight shifting during daily activities.",
+                                             "howToDo":  "Sit upright on a chair with your feet resting on the floor. Without lifting your buttocks, slowly shift your weight toward the right side of your pelvis, then return to the centre. Repeat toward the left side. Alternate slowly for 10 repetitions.",
+                                             "whatToDo":  "Keep your shoulders relaxed and your feet stable on the floor.",
+                                             "whatNotToDo":  "Do not lift one buttock completely from the chair and do not move quickly.",
+                                             "id":  "trunk-028",
+                                             "sezione":  "Pelvis - Mobility and Stability",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Pelvic Side Shift",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "lateral-shift",
+                                                                  "stabilization"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "pelvis-mobility-stability"
+                    },
+                    {
+                        "nome":  "Back - Mobility and Functional Control",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Bring the Elbows Toward the Sides",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the side and upper part of the back. It simulates the movement used to pull an object toward you from a shelf or to help yourself stand up by holding onto a secure support.",
+                                             "howToDo":  "Sit upright on a chair, keeping your back away from the backrest. Raise your arms upward in front of you, with your hands open, as if you were trying to grab a rope hanging from the ceiling. Close your hands into fists and slowly pull your arms downward, bending your elbows and squeezing them firmly against your sides. You will feel your back muscles contract. Hold the squeeze for 3 seconds, then stretch your arms upward again.",
+                                             "whatToDo":  "Push your chest outward and keep your neck straight as you pull your arms down.",
+                                             "whatNotToDo":  "Do not make fast movements and do not raise your shoulders toward your ears when stretching your arms.",
+                                             "id":  "trunk-013",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Bring the Elbows Toward the Sides",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "scapular-retraction",
+                                                                  "postural-extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Turn the Trunk to Look to the Side",
+                                             "image":  "",
+                                             "description":  "This exercise trains back flexibility, which is useful for all daily actions where you need to turn to the side to pick up an object from the table or look at someone calling you.",
+                                             "howToDo":  "Sit upright in the centre of the chair with your feet firmly planted on the floor. Cross your arms over your chest. Without moving your legs or pelvis, slowly turn your whole torso and head to the right, going as far as you can without feeling pain. Hold still for 3 seconds, return to the centre, then repeat the same movement to the left.",
+                                             "whatToDo":  "Keep your buttocks firmly still and resting on the chair at all times.",
+                                             "whatNotToDo":  "Do not make fast movements, to avoid feeling dizzy.",
+                                             "id":  "trunk-016",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Turn the Trunk to Look to the Side",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "rotation"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Diagonal Reach",
+                                             "image":  "",
+                                             "description":  "This exercise trains trunk mobility and coordination, helping with daily movements such as reaching for an object placed diagonally on a table.",
+                                             "howToDo":  "Sit upright on a chair with your feet firmly on the floor. Start with both hands resting on your thighs. Slowly reach your right hand diagonally upward toward the left side, as if you were trying to touch an object placed high in front of you. Return to the starting position and repeat with the left hand toward the right side. Repeat 5 times per side.",
+                                             "whatToDo":  "Follow the hand with your eyes and breathe normally.",
+                                             "whatNotToDo":  "Do not twist quickly and do not lift your buttocks from the chair.",
+                                             "id":  "trunk-021",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Diagonal Reach",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "rotation",
+                                                                  "lateral-flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Wall Back Lengthening",
+                                             "image":  "",
+                                             "description":  "This exercise helps improve posture by activating the muscles that keep the spine upright. It is useful for reducing the tendency to round the back forward.",
+                                             "howToDo":  "Stand with your back against a wall. Keep your feet slightly away from the wall and your knees softly bent. Gently press the middle and upper part of your back against the wall while lengthening the top of your head toward the ceiling. Hold this position for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your chin slightly tucked and breathe calmly.",
+                                             "whatNotToDo":  "Do not push your head backward forcefully and do not arch your lower back.",
+                                             "id":  "trunk-023",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Wall Back Lengthening",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Back Extension with Hands on Thighs",
+                                             "image":  "",
+                                             "description":  "This exercise activates the muscles that straighten the upper back, helping reduce a rounded sitting posture.",
+                                             "howToDo":  "Sit on the front half of a chair with your hands resting on your thighs. Gently slide your hands slightly backward along your thighs while lifting your chest and lengthening your spine. Hold the tall position for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your chin slightly tucked and look forward.",
+                                             "whatNotToDo":  "Do not arch your lower back too much and do not push your head backward.",
+                                             "id":  "trunk-029",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Back Extension with Hands on Thighs",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Forward Reach and Return",
+                                             "image":  "",
+                                             "description":  "This exercise trains controlled trunk movement, useful when reaching for objects on a table without losing balance.",
+                                             "howToDo":  "Sit upright on a chair with your feet firmly on the floor. Stretch both arms forward at chest height. Slowly reach forward a few centimetres with your hands, then use your back and abdominal muscles to return to the upright position. Repeat 5 times.",
+                                             "whatToDo":  "Move slowly and keep your feet well planted on the floor.",
+                                             "whatNotToDo":  "Do not reach so far that your buttocks lift from the chair.",
+                                             "id":  "trunk-030",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Forward Reach and Return",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Cat-Cow on the Mat",
+                                             "image":  "",
+                                             "description":  "This exercise improves the mobility of the spine and helps reduce stiffness in the back, especially after sitting or lying down for a long time.",
+                                             "howToDo":  "Get on all fours on a mat, with your hands under your shoulders and your knees under your hips. Slowly round your back upward, as if you were an angry cat, bringing your chin slightly toward your chest. Then slowly do the opposite movement, gently lowering your back and lifting your chest. Repeat this slow movement 5 times.",
+                                             "whatToDo":  "Move slowly and coordinate the movement with calm breathing.",
+                                             "whatNotToDo":  "Do not force the neck upward or downward and do not make sudden movements.",
+                                             "id":  "trunk-032",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Cat-Cow on the Mat",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Standing Trunk Rotation with Stick",
+                                             "image":  "",
+                                             "description":  "This exercise improves trunk rotation and helps with daily actions such as turning to look behind you, reaching to the side, or changing direction while walking.",
+                                             "howToDo":  "Stand upright with your feet slightly apart. Hold a stick horizontally in front of your chest with both hands, keeping your elbows bent. Slowly rotate your torso to the right, keeping your pelvis facing forward. Return to the centre, then rotate to the left. Repeat 5 times on each side.",
+                                             "whatToDo":  "Keep the movement slow and controlled, and keep your feet firmly planted on the floor.",
+                                             "whatNotToDo":  "Do not twist quickly and do not move your knees or pelvis during the rotation.",
+                                             "id":  "trunk-036",
+                                             "sezione":  "Back - Mobility and Functional Control",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Standing Trunk Rotation with Stick",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "rotation"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "back-mobility-functional-control"
+                    },
+                    {
+                        "nome":  "Back - Posterior Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Straighten the Back Against the Backrest",
+                                             "image":  "",
+                                             "description":  "This movement trains the muscles that keep the spine straight. It helps correct the rounded posture that is common when reading, eating, or watching television.",
+                                             "howToDo":  "Sit all the way back on the chair, resting your whole back against the backrest. Place your feet on the floor and your hands on your thighs. Push the middle and upper part of your back firmly against the backrest of the chair and, at the same time, push the top of your head toward the ceiling, as if you wanted to stretch yourself taller. Hold this lengthened position steadily for 5 seconds, then relax.",
+                                             "whatToDo":  "Continue breathing normally, breathing out through your mouth during the effort.",
+                                             "whatNotToDo":  "Do not lift your chin upward; your head should move straight up.",
+                                             "id":  "trunk-014",
+                                             "sezione":  "Back - Posterior Region",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Straighten the Back Against the Backrest",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Open the Arms to the Side with Thumbs Up",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the back muscles that support the shoulders, helping older adults maintain balance and avoid falling forward during walks.",
+                                             "howToDo":  "Sit away from the backrest or stand. Keep your arms by your sides. Close your hands into fists, keeping your thumbs pointing upward. Slowly lift your arms out to the sides up to shoulder height and bring them slightly backward, always keeping your thumbs pointing toward the ceiling. Count to 3 while feeling your back muscles working, then slowly lower your arms back down.",
+                                             "whatToDo":  "Perform the movement very slowly, carefully controlling the lowering of your arms.",
+                                             "whatNotToDo":  "Do not raise your hands above shoulder height.",
+                                             "id":  "trunk-015",
+                                             "sezione":  "Back - Posterior Region",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Open the Arms to the Side with Thumbs Up",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "postural-extension",
+                                                                  "scapular-retraction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Prone Back Extension with Hands Under the Forehead",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the muscles of the back that help keep the spine upright. It is useful for improving posture and reducing the tendency to bend forward.",
+                                             "howToDo":  "Lie on your stomach on a mat. Place your hands one on top of the other under your forehead. Keeping your gaze toward the mat, gently lift your head and upper chest only a few centimetres from the floor. Hold for 2 seconds, then slowly lower back down. Repeat 5 times.",
+                                             "whatToDo":  "Keep the movement small and controlled.",
+                                             "whatNotToDo":  "Do not throw your head backward and do not lift your chest too high.",
+                                             "id":  "trunk-035",
+                                             "sezione":  "Back - Posterior Region",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Prone Back Extension with Hands Under the Forehead",
+                                             "movementDistrict":  "spine",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "back-posterior-region"
+                    },
+                    {
+                        "nome":  "Perineum",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Squeeze the Glutes and Belly While Seated",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the internal pelvic muscles and the pelvic floor, which are essential for helping prevent urine leakage and providing stability to the back.",
+                                             "howToDo":  "Sit upright on a chair. Imagine that you urgently need to stop the flow of urine or prevent yourself from passing gas. Strongly contract the internal pelvic muscles, pulling them upward, and at the same time squeeze your buttocks. Hold this contraction for 5 seconds, continuing to breathe normally, then relax completely.",
+                                             "whatToDo":  "Focus on moving only the internal muscles of the lower abdomen and buttocks.",
+                                             "whatNotToDo":  "Do not hold your breath and do not push downward; you should only contract and lift upward.",
+                                             "id":  "trunk-009",
+                                             "sezione":  "Perineum",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Squeeze the Glutes and Belly While Seated",
+                                             "movementDistrict":  "pelvic-floor",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Contract and Lift the Pelvic Floor While Seated",
+                                             "image":  "",
+                                             "description":  "This exercise teaches you to control and strengthen the perineal muscles in an isolated and safe way, improving bladder control.",
+                                             "howToDo":  "Sit upright on a firm chair, with your feet resting on the floor. Imagine that your pelvic floor muscles are an elevator. Contract the muscles you use to stop the flow of urine and try to “lift them upward” toward your abdomen, as if the elevator were going up to the first floor. Hold this contraction for 4 seconds, continuing to breathe calmly, then slowly release.",
+                                             "whatToDo":  "Completely relax your abdomen, thighs, and buttocks; only the intimate area should work.",
+                                             "whatNotToDo":  "Do not hold your breath and do not push downward.",
+                                             "id":  "trunk-017",
+                                             "sezione":  "Perineum",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Contract and Lift the Pelvic Floor While Seated",
+                                             "movementDistrict":  "pelvic-floor",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "elevation"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Squeeze a Soft Ball Between the Knees While Seated",
+                                             "image":  "",
+                                             "description":  "The inner thigh muscles work together with the perineal muscles. This exercise helps activate the intimate area by using the movement of the legs.",
+                                             "howToDo":  "Sit upright on the chair. Place a soft foam ball, or a well-folded cushion, between your knees. Breathe in through your nose and, as you slowly breathe out through your mouth, squeeze your knees together to press the ball. At the same time, strongly contract your pelvic floor muscles. Hold the position for 5 seconds, then relax.",
+                                             "whatToDo":  "Feel how squeezing the legs helps activate the inner part of the pelvis.",
+                                             "whatNotToDo":  "Do not round your back forward during the effort.",
+                                             "id":  "trunk-018",
+                                             "sezione":  "Perineum",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Squeeze a Soft Ball Between the Knees While Seated",
+                                             "movementDistrict":  "pelvic-floor",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "adduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Contract the Pelvic Floor Before Standing Up from the Chair",
+                                             "image":  "",
+                                             "description":  "This is a purely functional exercise: it trains the perineum to protect the body during daily effort, helping prevent urine leakage caused by changes in position.",
+                                             "howToDo":  "Sit on the front part of the chair. Before you even move, strongly contract your pelvic floor muscles, as in the elevator exercise. Keeping this contraction firm, lean your torso forward and push with your legs to stand up. Once you are standing, relax the pelvic floor muscles. Repeat this action every time you stand up.",
+                                             "whatToDo":  "Breathe out through your mouth as you stand up.",
+                                             "whatNotToDo":  "Do not make quick, sudden movements and do not release the contraction while standing up.",
+                                             "id":  "trunk-019",
+                                             "sezione":  "Perineum",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Contract the Pelvic Floor Before Standing Up from the Chair",
+                                             "movementDistrict":  "pelvic-floor",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Open the Knees While Keeping the Feet Together",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the deep muscles of the pelvis and perineum in a supported position, which is excellent for avoiding strain on the back.",
+                                             "howToDo":  "Lie on your back on the bed or on a comfortable mat, with your knees bent and your feet together, resting on the mattress or floor. Keeping your feet in contact with each other, slowly open your knees out to the sides, as if you were a shell opening. Slowly bring your knees back together, contracting your pelvic floor muscles during the final part of the movement. Repeat 5 times.",
+                                             "whatToDo":  "Perform the movement very slowly and in a relaxed way.",
+                                             "whatNotToDo":  "Do not arch your back when opening your legs.",
+                                             "id":  "trunk-020",
+                                             "sezione":  "Perineum",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Open the Knees While Keeping the Feet Together",
+                                             "movementDistrict":  "pelvic-floor",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "abduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Pelvic Floor Quick Contractions",
+                                             "image":  "",
+                                             "description":  "This exercise trains the pelvic floor muscles to react quickly, which can help during sudden efforts such as coughing, sneezing, or laughing.",
+                                             "howToDo":  "Sit upright on a firm chair with your feet resting on the floor. Quickly contract the pelvic floor muscles, as if you wanted to stop the flow of urine, then immediately relax. Repeat 5 quick contractions, resting a few seconds between each one.",
+                                             "whatToDo":  "Relax completely after each contraction.",
+                                             "whatNotToDo":  "Do not hold your breath and do not squeeze your thighs together.",
+                                             "id":  "trunk-031",
+                                             "sezione":  "Perineum",
+                                             "distretto":  "Trunk",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Pelvic Floor Quick Contractions",
+                                             "movementDistrict":  "pelvic-floor",
+                                             "movementTags":  [
+                                                                  "contraction",
+                                                                  "relaxation"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "perineum"
+                    }
+                ],
+    "id":  "trunk"
+}

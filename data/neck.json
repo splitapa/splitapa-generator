@@ -1,0 +1,234 @@
+{
+    "distretto":  "Neck",
+    "sezioni":  [
+                    {
+                        "nome":  "Anterior Neck Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Lying Chin Tuck",
+                                             "image":  "",
+                                             "description":  "This exercise helps you perform a gentle neck movement.",
+                                             "howToDo":  "Lie on your back with your knees bent and your feet flat on the floor. Gently push your chin backward toward your throat, as if you were trying to make a double chin. Keep your gaze fixed toward the ceiling. Count to 5, then relax.",
+                                             "whatToDo":  "Always keep the back of your head resting on the floor.",
+                                             "whatNotToDo":  "Do not lift your head off the floor and do not clench your teeth.",
+                                             "id":  "neck-001",
+                                             "sezione":  "Anterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lying Chin Tuck",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "retraction",
+                                                                  "flexion",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lying Head Lift",
+                                             "image":  "",
+                                             "description":  "This exercise helps strengthen the neck by lifting only the weight of the head.",
+                                             "howToDo":  "Lie on your back. First, lower your chin toward your throat, as in the previous exercise. Immediately after, lift your head very slightly off the floor, only by two or three fingers’ width. Keep your head lifted for 3 to 5 seconds, then slowly lower it back down.",
+                                             "whatToDo":  "Keep your shoulders and back well relaxed on the floor.",
+                                             "whatNotToDo":  "Do not let your chin move upward while lifting your head, and do not lift your shoulders off the floor.",
+                                             "id":  "neck-002",
+                                             "sezione":  "Anterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lying Head Lift",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Forehead Press Against the Hand",
+                                             "image":  "",
+                                             "description":  "This exercise helps strengthen the neck without moving the head.",
+                                             "howToDo":  "You can sit upright on a chair or stand. Place the palm of your hand on your forehead. Push your head forward against your hand and, at the same time, use your hand like a wall to stop your head from moving. Neither your head nor your hand should move. Push gently for 5 seconds.",
+                                             "whatToDo":  "Keep your back and neck straight.",
+                                             "whatNotToDo":  "Do not push too hard and do not raise your shoulders toward your ears.",
+                                             "id":  "neck-003",
+                                             "sezione":  "Anterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Forehead Press Against the Hand",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Mouth Opening with Head Tilted Up",
+                                             "image":  "",
+                                             "description":  "This exercise helps coordinate gentle neck extension and mouth opening in a controlled way.",
+                                             "howToDo":  "Sit upright on a chair. Start by looking straight ahead. Slowly tilt your head upward toward the ceiling. Once comfortable, gently open your mouth, then close it again while keeping your head tilted up. Return your head to the starting position slowly. Repeat 5 times.",
+                                             "whatToDo":  "Move slowly and keep your shoulders relaxed throughout the exercise.",
+                                             "whatNotToDo":  "Do not drop your head backward suddenly and do not force the mouth open if it causes discomfort.",
+                                             "id":  "neck-004",
+                                             "sezione":  "Anterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Mouth Opening with Head Tilted Up",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "anterior-neck-region"
+                    },
+                    {
+                        "nome":  "Lateral Neck Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Seated Lateral Head Tilt",
+                                             "image":  "",
+                                             "description":  "This exercise helps stretch the muscles on the side of the neck.",
+                                             "howToDo":  "Sit upright on a chair with your arms relaxed by your sides. Slowly bring your right ear toward your right shoulder, without lifting your shoulder. Stop when you feel a gentle stretch on the left side. Count to 5, return to the centre, then repeat the same movement to the left.",
+                                             "whatToDo":  "Always look straight ahead and keep your shoulders down.",
+                                             "whatNotToDo":  "Do not raise your shoulders toward your ears and do not rotate your head.",
+                                             "id":  "neck-005",
+                                             "sezione":  "Lateral Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Lateral Head Tilt",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "lateral-flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Side of Head Press Against the Hand",
+                                             "image":  "",
+                                             "description":  "This exercise helps strengthen the side muscles without moving the neck.",
+                                             "howToDo":  "Sit upright on a chair or stand. Place the palm of your right hand on your right temple, above your ear. Push your head to the right against your hand and, at the same time, use your hand like a wall to stop the head from moving. Neither your head nor your hand should move. Push gently for 5 seconds, then repeat on the left side.",
+                                             "whatToDo":  "Keep your back and neck straight in a natural position.",
+                                             "whatNotToDo":  "Do not push too hard and do not tilt your head to the side.",
+                                             "id":  "neck-006",
+                                             "sezione":  "Lateral Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Side of Head Press Against the Hand",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "lateral-flexion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Head Rotation Toward the Shoulder",
+                                             "image":  "",
+                                             "description":  "This exercise helps maintain neck flexibility when turning to the side.",
+                                             "howToDo":  "Sit upright on a chair. Slowly turn your head to the right, as if you were trying to look behind your right shoulder. Go as far as you can without feeling pain. Hold the position for 3 to 5 seconds, return to the centre, then turn your head to the left.",
+                                             "whatToDo":  "Move very slowly and continue breathing normally.",
+                                             "whatNotToDo":  "Do not move your torso or shoulders while turning your head.",
+                                             "id":  "neck-007",
+                                             "sezione":  "Lateral Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Head Rotation Toward the Shoulder",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "rotation"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lateral Head Tilt with Hand on Temple",
+                                             "image":  "",
+                                             "description":  "This exercise helps stretch the side muscles a little more deeply.",
+                                             "howToDo":  "Sit upright on a chair. Bring your right ear toward your right shoulder. Gently place your right hand on top of your head, near your left ear. Use only the weight of your hand to guide the movement downward, without pulling forcefully. Count to 5, then repeat on the opposite side.",
+                                             "whatToDo":  "Completely relax the opposite arm toward the floor.",
+                                             "whatNotToDo":  "Do not pull your head downward forcefully and stop immediately if you feel pain.",
+                                             "id":  "neck-008",
+                                             "sezione":  "Lateral Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lateral Head Tilt with Hand on Temple",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "lateral-flexion"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "lateral-neck-region"
+                    },
+                    {
+                        "nome":  "Posterior Neck Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Seated Downward Gaze",
+                                             "image":  "",
+                                             "description":  "This exercise helps stretch the muscles at the back of the neck and the upper back.",
+                                             "howToDo":  "Sit upright on a chair with your hands resting on your thighs. Slowly let your head drop forward, bringing your chin toward your chest, until you feel a gentle stretch at the back of your neck. Count to 5, then raise your head back up very slowly.",
+                                             "whatToDo":  "Keep your shoulders relaxed and open.",
+                                             "whatNotToDo":  "Do not round your back forward; move only your head.",
+                                             "id":  "neck-009",
+                                             "sezione":  "Posterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Downward Gaze",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Back of Head Press Against the Hands",
+                                             "image":  "",
+                                             "description":  "This exercise helps strengthen the posterior muscles without moving the neck.",
+                                             "howToDo":  "Sit upright on a chair. Interlace your fingers and place your palms behind your head, on the back of your neck. Push your head backward against your hands and, at the same time, use your hands like a wall to stop the head from moving. Neither your head nor your hands should move. Push gently for 5 seconds.",
+                                             "whatToDo":  "Always look straight ahead during the push.",
+                                             "whatNotToDo":  "Do not push too hard and do not let your chin move upward.",
+                                             "id":  "neck-010",
+                                             "sezione":  "Posterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Back of Head Press Against the Hands",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Neck Stretch with Hands Behind the Head",
+                                             "image":  "",
+                                             "description":  "This exercise helps relax the back of the neck after strengthening it.",
+                                             "howToDo":  "Sit upright on a chair. Interlace your hands and place them gently behind your head. Let your head drop forward toward your chest, using only the weight of your arms to guide the movement downward. You should not pull forcefully. Count to 5, then slowly return to the starting position.",
+                                             "whatToDo":  "Keep your back straight against the backrest of the chair.",
+                                             "whatNotToDo":  "Do not pull your head downward with your arms and do not hold your breath.",
+                                             "id":  "neck-011",
+                                             "sezione":  "Posterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Neck Stretch with Hands Behind the Head",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Shoulder Blade Squeeze",
+                                             "image":  "",
+                                             "description":  "Although it moves the back, this exercise is essential for reducing the load and tension in the muscles at the back of the neck.",
+                                             "howToDo":  "Sit comfortably and upright. Bend your elbows and bring your hands close to your shoulders. From this position, push your elbows backward, trying to bring the two flat bones in your upper back, the shoulder blades, closer together. You will feel the muscles at the back of your neck and between your shoulders working. Hold this position for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your neck straight and look forward.",
+                                             "whatNotToDo":  "Do not raise your shoulders toward your ears and do not make sudden movements.",
+                                             "id":  "neck-012",
+                                             "sezione":  "Posterior Neck Region",
+                                             "distretto":  "Neck",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Shoulder Blade Squeeze",
+                                             "movementDistrict":  "neck",
+                                             "movementTags":  [
+                                                                  "stabilization",
+                                                                  "scapular-retraction"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "posterior-neck-region"
+                    }
+                ],
+    "id":  "neck"
+}

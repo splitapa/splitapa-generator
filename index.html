@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Split APA Generator</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <section class="access-screen" id="accessScreen" aria-labelledby="accessTitle">
+    <div class="access-card">
+      <div class="eyebrow">Private beta / Split APA</div>
+      <h1 id="accessTitle">Access required</h1>
+      <p>Enter the beta password to load the exercise archive and build your plan.</p>
+
+      <form class="access-form" id="accessForm">
+        <label class="access-field">
+          <span class="small-label">Password</span>
+          <input id="accessPassword" type="password" autocomplete="current-password" aria-label="Access password">
+        </label>
+        <button class="button access-button" type="submit">Unlock generator</button>
+      </form>
+
+      <div class="access-error small-label" id="accessError" role="alert" aria-live="polite"></div>
+      <div class="access-note small-label">Beta access / protected preview</div>
+    </div>
+  </section>
+
+  <main class="page app-shell" id="appShell" hidden>
+    <header class="masthead">
+      <a class="brand" href="./" aria-label="Split APA generator home">
+        <span class="brand-mark">SA</span>
+        <span class="brand-name">Split APA</span>
+      </a>
+      <div class="masthead-actions">
+        <div class="status small-label" id="appStatus">Loading archive</div>
+        <button class="logout-button small-label" type="button" id="logoutButton">Log out</button>
+      </div>
+    </header>
+
+    <section class="hero" id="top">
+      <div class="hero-main">
+        <div class="eyebrow">Adapted physical activity / Exercise archive</div>
+        <h1>Program Generator</h1>
+        <p class="lead">Create a focused APA workout by body district. Data is loaded externally, keeping the page light and scalable.</p>
+        <div class="district-tabs" id="districtTabs" aria-label="Body district selector"></div>
+      </div>
+
+      <aside class="control-panel" aria-label="Generator controls">
+        <div class="panel-top">
+          <div class="field">
+            <div class="field-label">Selected district</div>
+            <div class="field-value" id="selectedDistrictLabel">--</div>
+          </div>
+          <div class="field">
+            <div class="field-label">Archive size</div>
+            <div class="field-value" id="selectedDistrictMeta">--</div>
+          </div>
+        </div>
+
+        <div class="panel-main">
+          <h2 id="generatorTitle">Build your plan</h2>
+          <p id="generatorCopy">Choose a body district, then generate a complete workout from the available sections.</p>
+
+          <div class="control-grid">
+            <label class="control-field">
+              <span class="small-label">District</span>
+              <select id="districtSelect" aria-label="Select body district"></select>
+            </label>
+            <label class="control-field">
+              <span class="small-label">Per section</span>
+              <select id="quantitySelect" aria-label="Exercises per section">
+                <option value="1">1 exercise</option>
+                <option value="2" selected>2 exercises</option>
+                <option value="3">3 exercises</option>
+              </select>
+            </label>
+          </div>
+
+          <form class="ask-panel" id="askForm">
+            <label class="ask-field">
+              <span class="small-label">Ask Split APA</span>
+              <input id="askInput" type="search" placeholder="Try shoulder flexion or ankle plantar flexion" aria-label="Ask Split APA">
+            </label>
+            <button class="ask-button small-label" type="submit">Find exercises</button>
+            <div class="ask-hint small-label" id="askHint">Local movement search / district + action</div>
+          </form>
+        </div>
+
+        <div class="panel-actions">
+          <button class="button" type="button" id="generateButton">Generate workout</button>
+          <button class="button" type="button" id="clearButton">Clear workout</button>
+        </div>
+      </aside>
+    </section>
+
+    <section class="output" id="workout">
+      <div class="output-header">
+        <div>
+          <div class="eyebrow">Generated plan</div>
+          <h2 id="outputTitle">Workout preview</h2>
+        </div>
+        <div class="output-side">
+          <div class="small-label" id="outputMeta">No workout generated</div>
+          <a class="feedback-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe_YrYD27fUvGoD-tD0ZrxprN_ZDmblzoxFpQ9BfQwx38mnPw/viewform?usp=dialog" target="_blank" rel="noopener">Suggest an exercise</a>
+        </div>
+      </div>
+      <div class="workout-list" id="workoutList" aria-live="polite"></div>
+    </section>
+
+    <footer class="footer">
+      <span>Split APA Generator / Static app</span>
+      <span>Data loaded from JSON</span>
+    </footer>
+  </main>
+
+  <noscript>
+    <div class="noscript">JavaScript is required to load the exercise archive.</div>
+  </noscript>
+
+  <script type="module" src="assets/app.js?v=20260617c"></script>
+</body>
+</html>

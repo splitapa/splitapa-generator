@@ -1,0 +1,1003 @@
+{
+    "distretto":  "Lower Limb",
+    "sezioni":  [
+                    {
+                        "nome":  "Pelvis - Mobility and Balance",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Move the Knees Sideways While Lying Down",
+                                             "image":  "",
+                                             "description":  "This movement helps loosen and lubricate the joints of the pelvis and hips, making it easier to get out of bed in the morning.",
+                                             "howToDo":  "Lie on your back on the bed with your knees bent and your feet firmly resting on the mattress. Keeping your shoulders still, slowly let both knees fall to the right, as far as you can comfortably go. Bring them back to the centre, then let them fall to the left, as if your legs were the windscreen wipers of a car. Repeat 5 times on each side.",
+                                             "whatToDo":  "Perform the movement with slow, regular breathing.",
+                                             "whatNotToDo":  "Do not lift your upper back or shoulders off the bed.",
+                                             "id":  "lower-limb-002",
+                                             "sezione":  "Pelvis - Mobility and Balance",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Move the Knees Sideways While Lying Down",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "rotation"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Standing Hip Circles with Support",
+                                             "image":  "",
+                                             "description":  "This movement helps loosen the hip and pelvis joints, improving mobility for walking, turning, and changing direction.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold the backrest with both hands. Keeping your feet on the floor, slowly move your pelvis in a small circle, as if you were drawing a circle with your hips. Make 5 circles in one direction, then 5 circles in the opposite direction.",
+                                             "whatToDo":  "Keep the movement small, slow, and comfortable.",
+                                             "whatNotToDo":  "Do not move your shoulders in large circles and do not arch your lower back too much.",
+                                             "id":  "lower-limb-033",
+                                             "sezione":  "Pelvis - Mobility and Balance",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Standing Hip Circles with Support",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "circumduction",
+                                                                  "mobility"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Standing Weight Shift Side to Side",
+                                             "image":  "",
+                                             "description":  "This exercise improves balance and trains the pelvis to control body weight when shifting from one leg to the other.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold on with both hands. Keep your feet slightly apart. Slowly shift your weight onto your right foot without lifting the left foot from the floor. Return to the centre, then shift your weight onto your left foot. Repeat 10 times.",
+                                             "whatToDo":  "Keep both feet in contact with the floor and move slowly.",
+                                             "whatNotToDo":  "Do not let your hips drop to one side and do not move suddenly.",
+                                             "id":  "lower-limb-040",
+                                             "sezione":  "Pelvis - Mobility and Balance",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Standing Weight Shift Side to Side",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "lateral-shift",
+                                                                  "stabilization"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "pelvis-mobility-balance"
+                    },
+                    {
+                        "nome":  "Pelvis - Lateral Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Lift Each Side of the Hips Alternately",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the side muscles of the pelvis, which are very useful for regaining balance if you take a wrong step while walking.",
+                                             "howToDo":  "Sit on an upright chair without resting your back against the backrest. Keep your hands on your thighs. Without standing up, lift only your right buttock off the seat, shifting all your weight onto the left side. Hold this position for 2 seconds, place your buttock back down, then lift your left buttock. Alternate the two sides 10 times.",
+                                             "whatToDo":  "Keep your shoulders as still as possible, moving only the lower part of your pelvis.",
+                                             "whatNotToDo":  "Do not make sudden movements, to avoid losing your balance on the chair.",
+                                             "id":  "lower-limb-001",
+                                             "sezione":  "Pelvis - Lateral Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lift Each Side of the Hips Alternately",
+                                             "movementDistrict":  "pelvis",
+                                             "movementTags":  [
+                                                                  "lateral-elevation",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Move the Leg to the Side While Standing",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the stabilizing muscles of the pelvis. It simulates the movement needed to get into the bathtub, step into the shower, or step over a small obstacle in the street.",
+                                             "howToDo":  "Stand sideways next to a stable chair or table and hold on firmly with your right hand for safety. Keeping your body straight, slightly lift your left leg and move it out to the side, as if you were taking a sideways step in the air. Count to 2, return to the starting position, and repeat the movement 5 times. Then turn around and do the same with your right leg.",
+                                             "whatToDo":  "Keep the supporting leg slightly bent to stay more stable.",
+                                             "whatNotToDo":  "Do not lean your whole torso to the side to lift the leg; move only from the hip.",
+                                             "id":  "lower-limb-003",
+                                             "sezione":  "Pelvis - Lateral Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Move the Leg to the Side While Standing",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "abduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Supported Side Step",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the side muscles of the pelvis, which are essential for balance and for keeping the body stable while walking.",
+                                             "howToDo":  "Stand behind a sturdy chair or next to a table and hold on with both hands for safety. Starting with your feet together, take a small step to the right with your right foot, then bring your left foot close to it. Repeat the same movement to the left. Move slowly and keep your body upright. Repeat 5 times on each side.",
+                                             "whatToDo":  "Keep your knees slightly bent and your feet pointing forward during the movement.",
+                                             "whatNotToDo":  "Do not drag your feet and do not lean your torso to the side while stepping.",
+                                             "id":  "lower-limb-029",
+                                             "sezione":  "Pelvis - Lateral Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Supported Side Step",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "abduction",
+                                                                  "adduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Supported Cross Step",
+                                             "image":  "",
+                                             "description":  "This exercise improves coordination and strengthens the muscles that control side movements of the pelvis. It is useful for reacting better when changing direction while walking.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold the backrest with both hands. Slowly cross your right foot in front of your left foot, placing it gently on the floor. Return to the starting position, then cross your left foot in front of your right foot. Alternate the movement slowly for 5 repetitions on each side.",
+                                             "whatToDo":  "Keep your hands firmly on the chair and perform only small, controlled steps.",
+                                             "whatNotToDo":  "Do not cross your feet too far and do not perform the exercise if you feel unstable.",
+                                             "id":  "lower-limb-030",
+                                             "sezione":  "Pelvis - Lateral Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Supported Cross Step",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "adduction",
+                                                                  "abduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Side Toe Tap",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the side muscles of the hip and pelvis in a safe seated position, helping improve control of the legs during side steps.",
+                                             "howToDo":  "Sit upright on a chair with your feet resting on the floor. Slide your right foot out to the side, keeping the toes in contact with the floor, then bring it back to the centre. Repeat 5 times, then do the same with the left foot.",
+                                             "whatToDo":  "Keep your trunk upright and move only the leg.",
+                                             "whatNotToDo":  "Do not lean your body to the opposite side while moving the foot.",
+                                             "id":  "lower-limb-038",
+                                             "sezione":  "Pelvis - Lateral Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Side Toe Tap",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "abduction",
+                                                                  "adduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Side-Lying Straight Leg Lift",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the lateral hip muscles and improves leg control in a side-lying position, helping pelvic stability during walking.",
+                                             "howToDo":  "Lie on your side on a mat, with your lower leg slightly bent for comfort and your upper leg straight. Slowly lift the upper leg a few centimetres, keeping the toes pointing forward. Hold for 2 seconds, then lower the leg slowly. Repeat 5 times, then turn onto the other side.",
+                                             "whatToDo":  "Keep your pelvis still and your body aligned.",
+                                             "whatNotToDo":  "Do not roll your body backward and do not lift the leg too high.",
+                                             "id":  "lower-limb-054",
+                                             "sezione":  "Pelvis - Lateral Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Side-Lying Straight Leg Lift",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "abduction"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "pelvis-lateral-region"
+                    },
+                    {
+                        "nome":  "Pelvis - Posterior Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Push the Leg Back While Standing",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the posterior muscles of the pelvis, the gluteus maximus muscles, which are essential for maintaining an upright posture and avoiding falling forward while walking.",
+                                             "howToDo":  "Stand facing the backrest of a sturdy chair, or facing a table, and place both hands on it. Keeping your back straight, move your right leg backward without bending the knee, as if you were taking a step backward. Squeeze your buttock muscle for 3 seconds, then bring your foot back next to the other one. Do the same with your left leg.",
+                                             "whatToDo":  "Keep your gaze straight ahead throughout the exercise.",
+                                             "whatNotToDo":  "Do not arch your lower back forward while the leg moves backward.",
+                                             "id":  "lower-limb-004",
+                                             "sezione":  "Pelvis - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Push the Leg Back While Standing",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Backward Toe Tap with Chair Support",
+                                             "image":  "",
+                                             "description":  "This exercise activates the buttock muscles and improves the ability to move the leg backward safely, which is useful for walking and maintaining an upright posture.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold on with both hands. Move your right foot slightly backward and touch the floor with your toes, without shifting too much weight onto that leg. Return to the starting position and repeat 5 times. Then switch to the left leg.",
+                                             "whatToDo":  "Keep your chest open and your body straight.",
+                                             "whatNotToDo":  "Do not arch your lower back and do not swing the leg backward quickly.",
+                                             "id":  "lower-limb-037",
+                                             "sezione":  "Pelvis - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Backward Toe Tap with Chair Support",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Supported Backward Walking Steps",
+                                             "image":  "",
+                                             "description":  "This exercise improves coordination and activates the posterior muscles of the pelvis and legs, which are useful for balance and posture.",
+                                             "howToDo":  "Stand beside a stable table or kitchen counter and keep one hand on it for support. Take one small step backward with your right foot, then bring your left foot close to it. Continue for 3 small steps, then return forward carefully. Repeat 3 times.",
+                                             "whatToDo":  "Take very small steps and keep your gaze forward.",
+                                             "whatNotToDo":  "Do not perform this exercise without support and do not rush the backward steps.",
+                                             "id":  "lower-limb-048",
+                                             "sezione":  "Pelvis - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Supported Backward Walking Steps",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "stabilization"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Backward Lunge with Stick Support",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the buttocks and the back part of the thigh. It helps improve balance and control when stepping backward or adjusting your position while standing.",
+                                             "howToDo":  "Stand upright and hold a stick vertically with one hand for support. Take a small step backward with your right foot, placing the toes gently on the floor. Slightly bend both knees, then push through the front leg to return to the starting position. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Keep your torso upright and perform a small, controlled movement.",
+                                             "whatNotToDo":  "Do not move too quickly and do not place too much weight on the back foot if you feel unstable.",
+                                             "id":  "lower-limb-052",
+                                             "sezione":  "Pelvis - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Backward Lunge with Stick Support",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Quadruped Leg Extension",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the buttocks and the back part of the pelvis, helping improve posture and walking stability.",
+                                             "howToDo":  "Get on all fours on a mat. Slowly extend your right leg backward, sliding it along the floor first and then lifting it slightly, keeping the knee straight. Hold for 2 seconds, then return to the starting position. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Keep your pelvis as still as possible while the leg moves.",
+                                             "whatNotToDo":  "Do not arch your lower back and do not lift the leg too high.",
+                                             "id":  "lower-limb-053",
+                                             "sezione":  "Pelvis - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Quadruped Leg Extension",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "pelvis-posterior-region"
+                    },
+                    {
+                        "nome":  "Thigh - Anterior Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Extend the Leg Forward While Seated",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the front part of the thigh in complete safety, while protecting the knees. It helps build the strength needed to walk with a steady and confident step.",
+                                             "howToDo":  "Sit on an upright chair with your back well supported against the backrest. Keep your hands on the sides of the seat. Slowly lift your right foot and extend your leg forward until it is parallel to the floor. Tighten your thigh muscle well and pull your toes toward you. Count to 3, then slowly lower your foot back down. Do the same with your left leg.",
+                                             "whatToDo":  "Perform the movement very slowly, both when lifting and lowering the leg.",
+                                             "whatNotToDo":  "Do not lift your back away from the chair and do not make quick, jerky movements with your knee.",
+                                             "id":  "lower-limb-005",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Extend the Leg Forward While Seated",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lift the Straight Leg a Few Centimeters While Lying Down",
+                                             "image":  "",
+                                             "description":  "This movement isolates the muscle at the front of the thigh without placing body weight on the back or joints.",
+                                             "howToDo":  "Lie on your back on the bed. Bend your left knee, placing your foot on the mattress; this helps protect your back. Keep your right leg fully extended on the bed. Tighten the muscle of your right thigh and lift your straight leg only slightly, about the height of one hand. Hold the leg up for 3 seconds, then slowly lower it back down. Repeat 5 times on each side.",
+                                             "whatToDo":  "Keep your belly slightly pulled in during the lift.",
+                                             "whatNotToDo":  "Do not lift your leg too high and do not arch your back.",
+                                             "id":  "lower-limb-006",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lift the Straight Leg a Few Centimeters While Lying Down",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Half Sit-to-Stand",
+                                             "image":  "",
+                                             "description":  "This exercise is the most important one for maintaining independence in the legs. It reproduces the daily action of standing up from the toilet, low armchairs, or car seats.",
+                                             "howToDo":  "Sit on the front part of the chair with your feet firmly planted on the floor and slightly apart. Rest your hands on your thighs. Lean your torso slightly forward, push firmly with your thigh muscles, and lift your buttocks off the chair by only two or three fingers’ width. Hold this raised position for 2 seconds, then slowly sit back down. Repeat 5 times.",
+                                             "whatToDo":  "Control the downward movement well, without dropping onto the chair.",
+                                             "whatNotToDo":  "Do not let your knees move inward while pushing.",
+                                             "id":  "lower-limb-007",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Half Sit-to-Stand",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Press the Thigh Upward Against the Hands",
+                                             "image":  "",
+                                             "description":  "This isometric exercise provides considerable strength to the thigh and hip without moving the knee joint, making it excellent for people with osteoarthritis.",
+                                             "howToDo":  "Sit upright on the chair. Place the palms of both hands on top of your right thigh, just above the knee. Try to lift your thigh toward the ceiling and, at the same time, push firmly downward with your hands to stop the leg from moving. Neither your hands nor your leg should move. Maintain this resistance between your hands and leg for 5 seconds, then relax and switch sides.",
+                                             "whatToDo":  "Breathe out through your mouth during the push.",
+                                             "whatNotToDo":  "Do not round your back forward and do not lift your shoulders.",
+                                             "id":  "lower-limb-008",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Press the Thigh Upward Against the Hands",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Mini Squat with Chair Support",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the front part of the thighs and helps improve the ability to stand up, sit down, and walk with more confidence.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold the backrest with both hands. Keep your feet slightly apart. Slowly bend your knees a little, as if you were starting to sit down, then push through your feet to return upright. The movement must be small and controlled. Repeat 5 times.",
+                                             "whatToDo":  "Keep your knees pointing in the same direction as your toes.",
+                                             "whatNotToDo":  "Do not bend too low and do not let your knees move inward.",
+                                             "id":  "lower-limb-031",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Mini Squat with Chair Support",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated March with Opposite Arm",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the hip flexors and thighs while improving coordination between the arms and legs, which is useful for walking.",
+                                             "howToDo":  "Sit upright on the front half of a chair. Lift your right knee slightly while raising your left arm forward at the same time. Lower them slowly, then lift your left knee while raising your right arm. Alternate the movement for 10 repetitions.",
+                                             "whatToDo":  "Move slowly and keep your abdomen slightly engaged.",
+                                             "whatNotToDo":  "Do not lean backward when lifting the knee.",
+                                             "id":  "lower-limb-036",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated March with Opposite Arm",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Standing Forward Toe Tap",
+                                             "image":  "",
+                                             "description":  "This exercise trains hip and thigh control, useful for taking a safe step forward or touching the floor before placing full weight on the foot.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold on with both hands. Move your right foot forward and lightly tap the floor with your toes. Bring the foot back to the starting position. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Keep your body upright and your supporting knee slightly bent.",
+                                             "whatNotToDo":  "Do not lean backward while moving the foot forward.",
+                                             "id":  "lower-limb-041",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Standing Forward Toe Tap",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Forward Lunge with Stick Support",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the front part of the thigh and improves control when taking a longer step forward, such as when climbing a step or walking over an obstacle.",
+                                             "howToDo":  "Stand upright and hold a stick vertically with one hand for support. Take a small step forward with your right foot. Slowly bend both knees a little, lowering your body only as far as comfortable. Push through the front foot to return to the starting position. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Keep the front knee aligned with the foot and use the stick to stay stable.",
+                                             "whatNotToDo":  "Do not take a step that is too long and do not let the front knee move inward.",
+                                             "id":  "lower-limb-051",
+                                             "sezione":  "Thigh - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Forward Lunge with Stick Support",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "thigh-anterior-region"
+                    },
+                    {
+                        "nome":  "Thigh - Posterior Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Bend the Knee Back While Standing",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the muscles at the back of the thigh. It simulates the movement needed to lift the foot off the ground to avoid tripping over rugs or pavements.",
+                                             "howToDo":  "Stand behind a sturdy chair or in front of a table and place both hands on it for safety. Keeping your body straight, lift your right foot backward toward your buttocks by bending your knee. Hold still for 2 seconds with the leg bent, then lower your foot back to the floor very slowly. Do the same with your left leg.",
+                                             "whatToDo":  "Keep your thighs close together and aligned while bending your knee.",
+                                             "whatNotToDo":  "Do not push your thigh forward and do not bend your torso toward the table.",
+                                             "id":  "lower-limb-009",
+                                             "sezione":  "Thigh - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Bend the Knee Back While Standing",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Press the Heel Against the Floor While Seated",
+                                             "image":  "",
+                                             "description":  "This isometric exercise safely activates the muscles at the back of the thigh, without moving the joints and without tiring the back.",
+                                             "howToDo":  "Sit upright on the front part of the chair. Move your right foot a small step forward, resting only the heel on the floor, with your toes pointing upward. From this position, push your heel firmly downward against the floor and, at the same time, try to pull it backward toward the chair. The foot should not actually move; it should only apply force. Hold the push for 5 seconds, then switch legs.",
+                                             "whatToDo":  "Feel the muscles under and behind the thigh tighten during the effort.",
+                                             "whatNotToDo":  "Do not hold your breath and do not slide your buttocks forward on the chair.",
+                                             "id":  "lower-limb-010",
+                                             "sezione":  "Thigh - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Press the Heel Against the Floor While Seated",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Press a Soft Ball Under the Knee While Lying Down",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the back part of the thigh using the bed, making it ideal for reactivating the legs in the morning before getting up.",
+                                             "howToDo":  "Lie on your back on the bed. Place a well-rolled cushion or a soft foam ball directly under your right knee. Your leg will be slightly bent. From this position, firmly push the back of your knee downward to press the cushion against the mattress, slightly lifting your heel. Hold the pressure for 4 seconds, then relax and repeat on the left side.",
+                                             "whatToDo":  "Keep your hands resting on your belly and breathe normally.",
+                                             "whatNotToDo":  "Do not arch your back and do not tense your neck during the push.",
+                                             "id":  "lower-limb-011",
+                                             "sezione":  "Thigh - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Press a Soft Ball Under the Knee While Lying Down",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Slide the Heel Back on the Floor While Seated",
+                                             "image":  "",
+                                             "description":  "This exercise simulates the strength needed to move the legs backward or to give yourself a push to adjust your position when sitting on a chair or armchair.",
+                                             "howToDo":  "Sit upright on the chair. Place the whole sole of your right foot on the floor, slightly farther forward than the chair. Pressing firmly against the floor, slide your foot backward toward the chair, applying strong pressure to the floor. You can use a sock or a cloth under your foot to help it slide more easily. You will feel the back of your thigh working. Repeat 5 times on each side.",
+                                             "whatToDo":  "Keep your hands firmly on the armrests or on the sides of the chair for stability.",
+                                             "whatNotToDo":  "Do not lift the sole of your foot off the floor while pulling it backward.",
+                                             "id":  "lower-limb-012",
+                                             "sezione":  "Thigh - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Slide the Heel Back on the Floor While Seated",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Pillow Squeeze Under the Thigh",
+                                             "image":  "",
+                                             "description":  "This exercise gently activates the back of the thigh while seated, helping improve leg stability without loading the knee too much.",
+                                             "howToDo":  "Sit upright on a chair. Place a small soft cushion or folded towel under your right thigh, close to the back of the knee. Press your thigh downward into the cushion for 5 seconds, then relax. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Feel the back of the thigh working during the pressure.",
+                                             "whatNotToDo":  "Do not lift your foot from the floor and do not lean your trunk backward.",
+                                             "id":  "lower-limb-042",
+                                             "sezione":  "Thigh - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Pillow Squeeze Under the Thigh",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "extension",
+                                                                  "isometric"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "thigh-posterior-region"
+                    },
+                    {
+                        "nome":  "Hip and Knee - Functional Mobility",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Supported Step Over an Imaginary Line",
+                                             "image":  "",
+                                             "description":  "This exercise trains the ability to lift the foot and clear small obstacles, helping reduce the risk of tripping.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold on with both hands. Imagine a line on the floor in front of your right foot. Lift your right foot and step over the imaginary line, then bring it back to the starting position. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Lift the foot clearly from the floor and place it down softly.",
+                                             "whatNotToDo":  "Do not drag the foot across the floor and do not lean heavily on the chair.",
+                                             "id":  "lower-limb-049",
+                                             "sezione":  "Hip and Knee - Functional Mobility",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Supported Step Over an Imaginary Line",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Kneeling Rock Back on the Mat",
+                                             "image":  "",
+                                             "description":  "This movement gently mobilizes the hips and knees, helping reduce stiffness and improve comfort when bending the legs.",
+                                             "howToDo":  "Get on all fours on a mat. Keeping your hands on the floor, slowly move your pelvis backward toward your heels, only as far as comfortable. Then return slowly to the starting position. Repeat 5 times.",
+                                             "whatToDo":  "Move slowly and stop before feeling pain in the knees or hips.",
+                                             "whatNotToDo":  "Do not force your pelvis all the way back if the knees feel uncomfortable.",
+                                             "id":  "lower-limb-055",
+                                             "sezione":  "Hip and Knee - Functional Mobility",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Kneeling Rock Back on the Mat",
+                                             "movementDistrict":  "hip",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "hip-knee-functional-mobility"
+                    },
+                    {
+                        "nome":  "Knee - Mobility",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Heel Slide on the Bed",
+                                             "image":  "",
+                                             "description":  "This movement trains knee flexion gently and without placing body weight on the joint, helping keep the joint well lubricated.",
+                                             "howToDo":  "Lie on your back on the bed with your legs extended. Slowly slide your right heel along the mattress, bringing it toward your buttocks so that you bend your knee as far as you can without feeling pain. Then slide your heel forward to return to the starting position. Repeat 5 times for each leg.",
+                                             "whatToDo":  "You can use a wool sock or a cloth under your heel to help it slide more easily.",
+                                             "whatNotToDo":  "Do not force the bend if you feel pain, and do not lift your heel off the bed during the movement.",
+                                             "id":  "lower-limb-014",
+                                             "sezione":  "Knee - Mobility",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Heel Slide on the Bed",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Heel Lift While Lying on the Stomach",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the posterior muscles surrounding the knee. It helps older adults build the strength needed to bend the leg when stepping onto a high step or putting on trousers.",
+                                             "howToDo":  "Lie on your stomach on the bed in a comfortable position. If your back hurts, you can place a flat cushion under your abdomen. From this position, slowly bend your right knee, bringing your heel toward your buttocks as far as you can without feeling pain. Hold the leg bent for 3 seconds, then lower your foot back down onto the bed very slowly. Repeat 5 times, then switch legs.",
+                                             "whatToDo":  "Keep your pelvis and hips well supported on the mattress while lifting your foot.",
+                                             "whatNotToDo":  "Do not make fast or jerky movements and do not arch your back.",
+                                             "id":  "lower-limb-015",
+                                             "sezione":  "Knee - Mobility",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Heel Lift While Lying on the Stomach",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Pendulum",
+                                             "image":  "",
+                                             "description":  "This exercise uses gravity to let the knee move freely. It helps reduce joint stiffness, which is common after spending a lot of time sitting in an armchair.",
+                                             "howToDo":  "Sit on a chair that is high enough so your feet do not fully touch the floor, or use a small support under the chair. Let your legs hang freely. Very slowly, swing your right leg forward and backward, as if it were the pendulum of a clock. Continue this movement for 10 seconds, then do the same with your left leg.",
+                                             "whatToDo":  "Completely relax the leg muscles; the movement should be very light and effortless.",
+                                             "whatNotToDo":  "Do not make wide or fast swings if you feel discomfort or pain.",
+                                             "id":  "lower-limb-016",
+                                             "sezione":  "Knee - Mobility",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Pendulum",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "flexion",
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Knee Circles",
+                                             "image":  "",
+                                             "description":  "This exercise helps keep the knee joint mobile and gently lubricated, reducing stiffness after sitting for a long time.",
+                                             "howToDo":  "Sit upright on a chair with your feet resting on the floor. Lift your right foot slightly from the ground and draw small circles in the air with your knee. Make 5 slow circles in one direction, then 5 in the opposite direction. Place the foot down and repeat with the left leg.",
+                                             "whatToDo":  "Keep the movement small and relaxed.",
+                                             "whatNotToDo":  "Do not make large or fast circles if you feel discomfort in the knee.",
+                                             "id":  "lower-limb-034",
+                                             "sezione":  "Knee - Mobility",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Knee Circles",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "circumduction",
+                                                                  "mobility"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "knee-mobility"
+                    },
+                    {
+                        "nome":  "Knee - Anterior Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Straighten the Knee with a Pillow Under the Thigh",
+                                             "image":  "",
+                                             "description":  "This exercise helps restore full knee extension. It is very useful for regaining the correct leg push when walking, helping prevent limping.",
+                                             "howToDo":  "Sit on the bed or on a comfortable sofa with your legs stretched out in front of you. Place a rolled towel or a small cushion under your right thigh, just above the knee. Push the back of your thigh downward against the cushion and, at the same time, straighten your knee by lifting your heel off the bed. Keep your leg straight for 4 seconds, then slowly lower it back down.",
+                                             "whatToDo":  "Pull your toes toward your face as your leg straightens.",
+                                             "whatNotToDo":  "Do not make sudden movements and do not lift your thigh off the cushion.",
+                                             "id":  "lower-limb-013",
+                                             "sezione":  "Knee - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Straighten the Knee with a Pillow Under the Thigh",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Knee Straightening with Heel on the Floor",
+                                             "image":  "",
+                                             "description":  "This exercise helps regain knee extension in a gentle way, useful for walking with a more stable step.",
+                                             "howToDo":  "Sit upright on a chair. Place your right heel on the floor slightly in front of you, with your toes pointing upward. Slowly straighten your knee as much as comfortable, gently tightening the front of your thigh. Hold for 3 seconds, then relax. Repeat 5 times and switch legs.",
+                                             "whatToDo":  "Keep your heel on the floor while straightening the knee.",
+                                             "whatNotToDo":  "Do not force the knee fully straight if it causes pain.",
+                                             "id":  "lower-limb-043",
+                                             "sezione":  "Knee - Anterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Knee Straightening with Heel on the Floor",
+                                             "movementDistrict":  "knee",
+                                             "movementTags":  [
+                                                                  "extension"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "knee-anterior-region"
+                    },
+                    {
+                        "nome":  "Lower Leg - Posterior Region",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Rise onto the Toes",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the calves. It simulates the movement used to reach up and take an object from a high shelf or to look over an obstacle, improving balance.",
+                                             "howToDo":  "Stand behind the backrest of a sturdy chair, or in front of a table, and place both hands on it for safety. Keeping your body straight, slowly lift your heels off the floor, rising up onto your toes. Stay up for 2 seconds, then slowly lower yourself back down, placing the whole sole of your foot on the floor. Repeat 10 times.",
+                                             "whatToDo":  "Push the top of your head toward the ceiling as you rise, keeping your body straight.",
+                                             "whatNotToDo":  "Do not make jerky movements and do not suddenly drop down onto your heels during the lowering phase.",
+                                             "id":  "lower-limb-017",
+                                             "sezione":  "Lower Leg - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Rise onto the Toes",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "plantar-flexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Wall Calf Stretch",
+                                             "image":  "",
+                                             "description":  "This exercise stretches the calf muscles and helps maintain ankle mobility, which is important for walking and climbing stairs.",
+                                             "howToDo":  "Stand facing a wall and place both hands on it at chest height. Step your right foot slightly backward, keeping the heel on the floor and the knee straight. Bend the front knee a little until you feel a gentle stretch in the back calf. Hold for 5 seconds, then switch legs.",
+                                             "whatToDo":  "Keep the back heel firmly on the floor.",
+                                             "whatNotToDo":  "Do not bounce during the stretch and do not force the movement if you feel pain.",
+                                             "id":  "lower-limb-035",
+                                             "sezione":  "Lower Leg - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Wall Calf Stretch",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "dorsiflexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Calf Press into the Floor",
+                                             "image":  "",
+                                             "description":  "This isometric exercise strengthens the calf muscles without requiring standing balance.",
+                                             "howToDo":  "Sit upright on a chair with both feet flat on the floor. Press the front part of your right foot firmly into the floor, as if you wanted to rise onto your toes without actually lifting the heel. Hold the pressure for 5 seconds, then relax. Repeat with the left foot.",
+                                             "whatToDo":  "Feel the calf muscle tighten during the pressure.",
+                                             "whatNotToDo":  "Do not lift the heel if the goal is to keep the movement isometric.",
+                                             "id":  "lower-limb-044",
+                                             "sezione":  "Lower Leg - Posterior Region",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Calf Press into the Floor",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "plantar-flexion",
+                                                                  "isometric"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "lower-leg-posterior-region"
+                    },
+                    {
+                        "nome":  "Ankle",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Seated Heel Walking",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the front part of the lower leg, the shin. It helps build the strength needed to lift the toes properly when walking, preventing trips over rugs or pavement edges.",
+                                             "howToDo":  "Sit upright on a chair with your feet resting on the floor. Keeping your heels firmly planted on the floor, lift the toes of both feet upward at the same time, bringing them as close as possible to your shins. Hold your toes lifted for 3 seconds, feeling the front part of your lower leg working, then place your feet back down. Repeat 10 times.",
+                                             "whatToDo":  "Keep your hands resting on your thighs and your back away from the backrest.",
+                                             "whatNotToDo":  "Do not lift your heels off the floor and do not hold your breath.",
+                                             "id":  "lower-limb-018",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Heel Walking",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "dorsiflexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Pedaling Movement",
+                                             "image":  "",
+                                             "description":  "This exercise combines toe and heel movement. It works like a real blood pump, which is very useful for reducing swelling in the legs and heavy ankles at the end of the day.",
+                                             "howToDo":  "Sit comfortably on the chair. Slightly lift your right foot off the floor, keeping your leg slightly extended. Point your toes forward, as if you were pressing the car pedal, then pull your toes backward toward your face, bringing your heel forward. Repeat this continuous movement 10 times, then do the same with your left foot.",
+                                             "whatToDo":  "Move your ankle in a very smooth and wide range of motion.",
+                                             "whatNotToDo":  "Do not move your knee up and down; the movement should come only from the ankle.",
+                                             "id":  "lower-limb-019",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Pedaling Movement",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "plantar-flexion",
+                                                                  "dorsiflexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Press the Feet Outward Against the Chair Legs",
+                                             "image":  "",
+                                             "description":  "This isometric exercise strengthens the side muscles of the lower leg, which are directly responsible for ankle stability when walking on uneven ground, such as cobblestones or grass.",
+                                             "howToDo":  "Sit on the chair and place your feet inside the front legs of the chair, so that the outer side of your feet touches the wood or metal of the chair. Push your feet firmly outward against the chair legs, as if you were trying to spread them apart. Maintain this steady push for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your hands firmly on the seat to help you apply force.",
+                                             "whatNotToDo":  "Do not lift the soles of your feet off the floor during the push.",
+                                             "id":  "lower-limb-020",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Press the Feet Outward Against the Chair Legs",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "eversion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Draw Numbers in the Air with the Foot",
+                                             "image":  "",
+                                             "description":  "This exercise trains ankle mobility in all directions. It helps keep the joint flexible and ready to react to changes in direction.",
+                                             "howToDo":  "Sit upright on a chair. Lift your right foot off the floor, keeping your leg slightly extended forward. Imagine that your big toe is a pencil and use it to “draw” the numbers from 1 to 5 in the air with slow, large movements. Place your foot back down and do the same with your left ankle.",
+                                             "whatToDo":  "Move only your ankle, keeping your knee and thigh as still as possible.",
+                                             "whatNotToDo":  "Do not rush; the slower the movements are, the more effective the exercise will be.",
+                                             "id":  "lower-limb-021",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Draw Numbers in the Air with the Foot",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "circumduction",
+                                                                  "mobility"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Press the Soles of the Feet Together",
+                                             "image":  "",
+                                             "description":  "This isometric exercise strengthens the inner muscles of the ankle, which are essential for preventing the foot from collapsing inward when walking.",
+                                             "howToDo":  "Sit on the front part of the chair with your knees slightly apart. Bring the soles of your feet together, so that the inner sides of your feet touch. Gently push your feet against each other, as if you were trying to squeeze something between them. Maintain the steady push for 5 seconds, then relax.",
+                                             "whatToDo":  "Keep your hands resting on the sides of the chair to stay upright and stable.",
+                                             "whatNotToDo":  "Do not lift your heels off the floor during the effort.",
+                                             "id":  "lower-limb-022",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Press the Soles of the Feet Together",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "inversion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lift the Outside of the Foot While Keeping the Heel Still",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the outer muscles of the ankle, which act as true protective shields against sprains and sideways falls.",
+                                             "howToDo":  "Sit with your feet firmly planted on the floor. Keeping your heels fixed on the floor, try to lift only the outer edge of your right foot upward, so the little toe side moves toward the ceiling while the big toe stays close to the floor. Hold the position for 3 seconds, then slowly lower it back down and repeat with your left foot.",
+                                             "whatToDo":  "Feel the muscles working on the outer side of the lower leg and ankle.",
+                                             "whatNotToDo":  "Do not lift your heels off the floor and do not rotate your knees.",
+                                             "id":  "lower-limb-023",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lift the Outside of the Foot While Keeping the Heel Still",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "eversion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Rock Between Toes and Heels",
+                                             "image":  "",
+                                             "description":  "This functional exercise trains dynamic ankle balance, simulating the continuous weight shift that happens when walking or suddenly stopping.",
+                                             "howToDo":  "Sit on the front part of a chair, with your back away from the backrest. Slowly lift your heels, rising onto your toes. Slowly lower them back down and, without stopping, lift your toes, shifting onto your heels. Continue this slow, controlled rocking movement 5 times.",
+                                             "whatToDo":  "Slightly tighten your abdominal and buttock muscles to keep your body straight like a board.",
+                                             "whatNotToDo":  "Do not push your buttocks backward when shifting onto your heels.",
+                                             "id":  "lower-limb-024",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Rock Between Toes and Heels",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "plantar-flexion",
+                                                                  "dorsiflexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Standing Heel-to-Toe Weight Shift",
+                                             "image":  "",
+                                             "description":  "This exercise trains dynamic ankle control and helps improve balance during walking, especially when slowing down or changing speed.",
+                                             "howToDo":  "Stand behind a sturdy chair and hold on with both hands. Slowly shift your body weight forward onto your toes, lifting your heels slightly from the floor. Then slowly shift your weight backward onto your heels, lifting the front part of your feet slightly. Continue this gentle rocking movement for 5 repetitions.",
+                                             "whatToDo":  "Keep your body tall and move slowly from the ankles.",
+                                             "whatNotToDo":  "Do not let yourself fall backward or forward; always keep control of the movement.",
+                                             "id":  "lower-limb-032",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Standing Heel-to-Toe Weight Shift",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "plantar-flexion",
+                                                                  "dorsiflexion"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Inner Foot Lift",
+                                             "image":  "",
+                                             "description":  "This movement strengthens the muscles that control the inner side of the ankle, helping improve foot alignment during walking.",
+                                             "howToDo":  "Sit with your feet flat on the floor. Keeping your heel still, try to lift only the inner edge of your right foot slightly upward, so the big toe side moves away from the floor. Hold for 2 seconds, then lower it slowly. Repeat 5 times, then switch feet.",
+                                             "whatToDo":  "Keep the heel planted on the floor during the movement.",
+                                             "whatNotToDo":  "Do not rotate your knee inward or lift the whole foot.",
+                                             "id":  "lower-limb-045",
+                                             "sezione":  "Ankle",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Inner Foot Lift",
+                                             "movementDistrict":  "ankle",
+                                             "movementTags":  [
+                                                                  "inversion"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "ankle"
+                    },
+                    {
+                        "nome":  "Foot",
+                        "esercizi":  [
+                                         {
+                                             "nome":  "Curl a Tissue with the Toes",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the small muscles under the sole of the foot. It helps provide stability and grip on the ground when walking barefoot or with shoes.",
+                                             "howToDo":  "Sit on an upright chair. Spread a cloth handkerchief, or a piece of kitchen paper, on the floor in front of your right foot. Place your bare foot, or your foot with a sock on, over the handkerchief. Using only your toes, scrunch and pull the cloth toward your heel. Repeat 3 times, then switch feet.",
+                                             "whatToDo":  "Keep your heel firmly resting on the floor; only your toes should move.",
+                                             "whatNotToDo":  "Do not lift your whole foot off the floor to move the handkerchief.",
+                                             "id":  "lower-limb-025",
+                                             "sezione":  "Foot",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Curl a Tissue with the Toes",
+                                             "movementDistrict":  "foot",
+                                             "movementTags":  [
+                                                                  "finger-flexion",
+                                                                  "grip"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Spread the Toes Like a Fan",
+                                             "image":  "",
+                                             "description":  "This movement helps create more space between the toes, counteracting stiffness caused by tight shoes and improving the body’s base of support.",
+                                             "howToDo":  "Sit comfortably on the chair with your feet firmly resting on the floor. Slightly lift the toes of your right foot while keeping the sole of your foot on the floor. Spread your toes apart as much as possible, as if you were trying to form a fan. Hold the open position for 3 seconds, then relax your toes and place them back on the floor. Repeat 5 times on each side.",
+                                             "whatToDo":  "Preferably do the exercise without shoes, so you can clearly see the movement.",
+                                             "whatNotToDo":  "Do not tense your neck or hands while trying to spread your toes.",
+                                             "id":  "lower-limb-026",
+                                             "sezione":  "Foot",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Spread the Toes Like a Fan",
+                                             "movementDistrict":  "foot",
+                                             "movementTags":  [
+                                                                  "finger-abduction"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Massage the Sole of the Foot with a Small Ball",
+                                             "image":  "",
+                                             "description":  "This exercise reactivates the foot receptors that send balance information to the brain, while also releasing painful tension under the sole of the foot.",
+                                             "howToDo":  "Sit upright. Place a tennis ball, or a hard rubber ball, under the sole of your right foot. Slide your foot forward and backward over the ball, applying gentle pressure, from the heel to the toes. Continue this slow massage for 15 seconds, then switch to the left foot.",
+                                             "whatToDo":  "Adjust the pressure of your foot so that the massage feels pleasant and never painful.",
+                                             "whatNotToDo":  "Do not do this exercise while standing, to avoid slipping or losing your balance.",
+                                             "id":  "lower-limb-027",
+                                             "sezione":  "Foot",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Massage the Sole of the Foot with a Small Ball",
+                                             "movementDistrict":  "foot",
+                                             "movementTags":  [
+                                                                  "mobility",
+                                                                  "release"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Lift Only the Big Toe and Then the Other Toes",
+                                             "image":  "",
+                                             "description":  "This movement trains fine foot control, which is very useful for providing the correct push-off at the end of each step when walking.",
+                                             "howToDo":  "Sit with your feet flat on the floor. Try to lift only the big toe of your right foot upward, keeping the other four toes firmly pressed against the floor. Then keep the big toe down and try to do the opposite: lift the other four toes while keeping the big toe still on the floor. Repeat this slow alternation 5 times, then switch feet.",
+                                             "whatToDo":  "If at first your toes do not move on their own, you can help yourself by looking at them and concentrating.",
+                                             "whatNotToDo":  "Do not lift the inner or outer edge of the foot; the sole should remain still.",
+                                             "id":  "lower-limb-028",
+                                             "sezione":  "Foot",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Lift Only the Big Toe and Then the Other Toes",
+                                             "movementDistrict":  "foot",
+                                             "movementTags":  [
+                                                                  "finger-extension",
+                                                                  "selective-control"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Toe Press into the Floor",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the toes and improves the foot’s ability to grip the ground during walking.",
+                                             "howToDo":  "Sit on a chair with your feet resting on the floor. Press all the toes of your right foot gently into the floor, as if you wanted to grip the ground without curling them too much. Hold for 5 seconds, then relax. Repeat 5 times and switch feet.",
+                                             "whatToDo":  "Keep the heel and the ball of the foot resting on the floor.",
+                                             "whatNotToDo":  "Do not curl the toes so strongly that they cramp.",
+                                             "id":  "lower-limb-046",
+                                             "sezione":  "Foot",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Toe Press into the Floor",
+                                             "movementDistrict":  "foot",
+                                             "movementTags":  [
+                                                                  "finger-flexion",
+                                                                  "isometric"
+                                                              ]
+                                         },
+                                         {
+                                             "nome":  "Seated Big Toe Press",
+                                             "image":  "",
+                                             "description":  "This exercise strengthens the big toe, which is important for balance and for the final push-off phase of walking.",
+                                             "howToDo":  "Sit with your feet flat on the floor. Keep the right foot still and press only the big toe downward into the floor. Hold the pressure for 3 seconds, then relax. Repeat 5 times, then switch feet.",
+                                             "whatToDo":  "Keep the other toes relaxed while the big toe works.",
+                                             "whatNotToDo":  "Do not lift the heel or twist the foot during the pressure.",
+                                             "id":  "lower-limb-047",
+                                             "sezione":  "Foot",
+                                             "distretto":  "Lower Limb",
+                                             "thumbnail":  "",
+                                             "imageAlt":  "Seated Big Toe Press",
+                                             "movementDistrict":  "foot",
+                                             "movementTags":  [
+                                                                  "big-toe-flexion",
+                                                                  "isometric"
+                                                              ]
+                                         }
+                                     ],
+                        "id":  "foot"
+                    }
+                ],
+    "id":  "lower-limb"
+}
