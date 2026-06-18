@@ -3,121 +3,1313 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Split APA Generator</title>
-  <link rel="stylesheet" href="assets/style.css">
+  <title>Split APA</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;900&family=Inter+Tight:wght@900&family=JetBrains+Mono:wght@500&display=swap");
+
+    :root {
+      --bg: #000000;
+      --fg: #ffffff;
+      --accent: #6366f1;
+      --hairline: rgba(255, 255, 255, 0.15);
+      --muted: rgba(255, 255, 255, 0.64);
+      --dim: rgba(255, 255, 255, 0.42);
+      --panel: rgba(255, 255, 255, 0.045);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      width: 100%;
+      max-width: 100%;
+      overflow-x: hidden;
+      scroll-behavior: smooth;
+      background: var(--bg);
+    }
+
+    body {
+      margin: 0;
+      width: 100%;
+      max-width: 100%;
+      min-height: 100vh;
+      overflow-x: hidden;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 300;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      pointer-events: none;
+      opacity: 0.05;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='256' height='256' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+      mix-blend-mode: screen;
+    }
+
+    a,
+    button {
+      color: inherit;
+      font: inherit;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    button {
+      appearance: none;
+      cursor: pointer;
+    }
+
+    .page {
+      width: min(100%, 1360px);
+      max-width: 100%;
+      margin: 0 auto;
+      overflow: hidden;
+      min-height: 100vh;
+      border-left: 0.5px solid var(--hairline);
+      border-right: 0.5px solid var(--hairline);
+      background:
+        linear-gradient(90deg, rgba(255, 255, 255, 0.055) 0.5px, transparent 0.5px) 0 0 / 25% 100%,
+        var(--bg);
+    }
+
+    .mono,
+    .nav button,
+    .eyebrow,
+    .tag,
+    .meta,
+    .button,
+    .section-index,
+    .field-label,
+    .phase-number,
+    .principle-code,
+    .small-label {
+      font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .masthead {
+      display: grid;
+      grid-template-columns: minmax(0, 320px) minmax(0, 1fr);
+      min-height: 74px;
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .masthead,
+    .brand,
+    .nav,
+    .hero,
+    .hero-copy,
+    .hero-visual,
+    .section,
+    .section-body,
+    .generator,
+    .generator-panel,
+    .generator-map,
+    .value-grid,
+    .solution-grid,
+    .audience-grid,
+    .method-grid,
+    .method-col,
+    .cta {
+      min-width: 0;
+    }
+
+    .brand,
+    .nav {
+      display: flex;
+      align-items: center;
+      padding: 18px 22px;
+    }
+
+    .brand {
+      gap: 14px;
+      border: 0;
+      border-right: 0.5px solid var(--hairline);
+      background: transparent;
+      color: inherit;
+      text-align: left;
+    }
+
+    .brand-mark {
+      display: grid;
+      width: 34px;
+      height: 34px;
+      place-items: center;
+      border: 0.5px solid var(--fg);
+      background: var(--fg);
+      color: var(--bg);
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: 15px;
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 1;
+    }
+
+    .brand-name {
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: 28px;
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.82;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .nav {
+      gap: 12px 18px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .nav button {
+      padding: 0;
+      border: 0;
+      background: transparent;
+      color: var(--muted);
+      line-height: 1.25;
+      text-align: left;
+      transition: color 300ms ease;
+    }
+
+    .nav button:hover {
+      color: var(--accent);
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.08fr) minmax(0, 0.92fr);
+      min-height: calc(100vh - 74px);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .hero-copy {
+      display: grid;
+      align-content: space-between;
+      min-height: 100%;
+      padding: clamp(30px, 5vw, 72px);
+      border-right: 0.5px solid var(--hairline);
+    }
+
+    .eyebrow {
+      color: var(--accent);
+    }
+
+    h1,
+    h2,
+    h3,
+      .display,
+      .metric-value,
+      .phase-title,
+      .principle-title {
+      margin: 0;
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.78;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    h1 {
+      max-width: 1000px;
+      margin-top: 56px;
+      font-size: clamp(70px, 13vw, 180px);
+    }
+
+    .hero-statement {
+      max-width: 780px;
+      margin: 40px 0 0;
+      font-size: clamp(22px, 3vw, 42px);
+      font-weight: 400;
+      letter-spacing: -0.03em;
+      line-height: 0.98;
+    }
+
+    .hero-substatement {
+      max-width: 640px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: clamp(17px, 1.7vw, 24px);
+      line-height: 1.28;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 34px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      max-width: 100%;
+      min-height: 44px;
+      padding: 0 18px;
+      border: 0.5px solid var(--fg);
+      border-radius: 999px;
+      background: transparent;
+      color: var(--fg);
+      line-height: 1.2;
+      text-align: center;
+      white-space: normal;
+      transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
+    }
+
+    .button.primary {
+      background: var(--fg);
+      color: var(--bg);
+    }
+
+    .button:hover,
+    .button.primary:hover {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: var(--fg);
+    }
+
+    .hero-visual {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 100%;
+    }
+
+    .hero-meta {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .meta {
+      min-height: 72px;
+      padding: 18px;
+      color: var(--muted);
+      border-right: 0.5px solid var(--hairline);
+    }
+
+    .meta:last-child {
+      border-right: 0;
+    }
+
+    .hero-signal {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 520px;
+      border-bottom: 0.5px solid var(--hairline);
+      background:
+        linear-gradient(90deg, rgba(255, 255, 255, 0.06) 0.5px, transparent 0.5px) 0 0 / 50% 100%,
+        linear-gradient(0deg, rgba(255, 255, 255, 0.05) 0.5px, transparent 0.5px) 0 0 / 100% 25%,
+        var(--bg);
+    }
+
+    .signal-strip {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .signal-strip span,
+    .signal-footer span {
+      min-height: 54px;
+      padding: 18px;
+      color: var(--muted);
+      border-right: 0.5px solid var(--hairline);
+    }
+
+    .signal-strip span:last-child,
+    .signal-footer span:last-child {
+      border-right: 0;
+    }
+
+    .signal-strip .signal-index {
+      color: var(--accent);
+    }
+
+    .hero-designed-main {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: clamp(28px, 4vw, 54px);
+    }
+
+    .hero-designed-title {
+      max-width: 680px;
+      font-size: clamp(54px, 7vw, 112px);
+    }
+
+    .hero-designed-copy {
+      max-width: 520px;
+      margin: 24px 0 0;
+      color: var(--muted);
+      font-size: clamp(17px, 1.7vw, 23px);
+      line-height: 1.24;
+    }
+
+    .hero-value-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      border-top: 0.5px solid var(--hairline);
+    }
+
+    .hero-value-card {
+      min-height: 150px;
+      padding: 18px;
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .hero-value-card:nth-child(2n) {
+      border-right: 0;
+    }
+
+    .hero-value-card:nth-last-child(-n + 2) {
+      border-bottom: 0;
+    }
+
+    .hero-value-title {
+      margin-top: 34px;
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: clamp(22px, 2.2vw, 38px);
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.84;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      min-height: 148px;
+    }
+
+    .metric {
+      padding: 20px;
+      border-right: 0.5px solid var(--hairline);
+    }
+
+    .metric:last-child {
+      border-right: 0;
+    }
+
+    .metric-value {
+      margin-top: 28px;
+      font-size: clamp(38px, 4vw, 72px);
+    }
+
+    .section {
+      display: grid;
+      grid-template-columns: minmax(160px, 0.2fr) minmax(0, 1fr);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .section-index {
+      padding: 24px;
+      color: var(--accent);
+      border-right: 0.5px solid var(--hairline);
+    }
+
+    .section-body {
+      padding: clamp(30px, 5vw, 72px);
+    }
+
+    .section-heading {
+      max-width: 1120px;
+      font-size: clamp(58px, 10vw, 150px);
+    }
+
+    .section-lead {
+      max-width: 760px;
+      margin: 26px 0 0;
+      color: var(--muted);
+      font-size: clamp(18px, 2vw, 28px);
+      line-height: 1.18;
+    }
+
+    .generator {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+      margin-top: 50px;
+      border-top: 0.5px solid var(--hairline);
+      border-left: 0.5px solid var(--hairline);
+    }
+
+    .generator-panel,
+    .generator-map {
+      min-height: 420px;
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .generator-panel {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      background: var(--fg);
+      color: var(--bg);
+    }
+
+    .panel-top,
+    .panel-actions {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .panel-actions.single {
+      grid-template-columns: 1fr;
+    }
+
+    .field {
+      padding: 18px;
+      border-right: 0.5px solid rgba(0, 0, 0, 0.18);
+      border-bottom: 0.5px solid rgba(0, 0, 0, 0.18);
+    }
+
+    .field:last-child {
+      border-right: 0;
+    }
+
+    .field-label {
+      color: rgba(0, 0, 0, 0.48);
+    }
+
+    .field-value {
+      margin-top: 18px;
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: clamp(28px, 3vw, 52px);
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.82;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .panel-main {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: clamp(26px, 4vw, 56px);
+      text-align: center;
+    }
+
+    .panel-main h3 {
+      font-size: clamp(42px, 6vw, 88px);
+    }
+
+    .panel-main p {
+      max-width: 780px;
+      margin: 28px auto 0;
+      font-size: 17px;
+      font-weight: 400;
+      line-height: 1.45;
+    }
+
+    .panel-actions button,
+    .panel-actions .button {
+      min-height: 74px;
+      border: 0;
+      border-right: 0.5px solid rgba(0, 0, 0, 0.18);
+      border-top: 0.5px solid rgba(0, 0, 0, 0.18);
+      background: transparent;
+      color: var(--bg);
+      transition: background 300ms ease, color 300ms ease;
+    }
+
+    .panel-actions button:last-child,
+    .panel-actions .button:last-child {
+      border-right: 0;
+    }
+
+    .panel-actions.single button,
+    .panel-actions.single .button {
+      border-right: 0;
+    }
+
+    .panel-actions button:hover,
+    .panel-actions .button:hover {
+      background: var(--accent);
+      color: var(--fg);
+    }
+
+    .generator-map {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .map-item {
+      display: block;
+      width: 100%;
+      min-height: 210px;
+      padding: 22px;
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+      background: transparent;
+      color: inherit;
+      text-align: left;
+      transition: background 300ms ease, color 300ms ease;
+    }
+
+    .map-item:nth-child(2n) {
+      border-right: 0;
+    }
+
+    .map-item:nth-last-child(-n + 2) {
+      border-bottom: 0;
+    }
+
+    .map-item:hover {
+      background: var(--accent);
+      color: var(--fg);
+    }
+
+    .map-title {
+      margin-top: 62px;
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: clamp(30px, 3vw, 56px);
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.84;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .generator-feedback {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 24px;
+      align-items: center;
+      padding: 22px;
+      border-left: 0.5px solid var(--hairline);
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .generator-feedback p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.45;
+    }
+
+    .value-grid,
+    .solution-grid,
+    .audience-grid {
+      display: grid;
+      margin-top: 50px;
+      border-top: 0.5px solid var(--hairline);
+      border-left: 0.5px solid var(--hairline);
+    }
+
+    .value-grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .solution-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .audience-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .audience-block {
+      margin-top: 58px;
+      padding-top: 28px;
+      border-top: 0.5px solid var(--hairline);
+    }
+
+    .audience-heading {
+      max-width: 880px;
+      margin-top: 18px;
+      font-size: clamp(42px, 6vw, 96px);
+    }
+
+    .audience-lead {
+      max-width: 720px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: clamp(17px, 1.8vw, 24px);
+      line-height: 1.25;
+    }
+
+    .value-card,
+    .solution-card,
+    .audience-card {
+      min-height: 260px;
+      padding: 22px;
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+      transition: background 300ms ease, color 300ms ease;
+    }
+
+    .solution-card {
+      min-height: 340px;
+      background: linear-gradient(135deg, transparent 0, transparent 67%, rgba(99, 102, 241, 0.18) 67%, rgba(99, 102, 241, 0.18) 100%);
+    }
+
+    .value-card:hover,
+    .solution-card:hover,
+    .audience-card:hover {
+      background: var(--fg);
+      color: var(--bg);
+    }
+
+    .value-card:hover p,
+    .solution-card:hover p,
+    .audience-card:hover p,
+    .value-card:hover .small-label,
+    .solution-card:hover .small-label,
+    .audience-card:hover .small-label {
+      color: rgba(0, 0, 0, 0.64);
+    }
+
+    .value-title,
+    .solution-title,
+    .audience-title {
+      margin-top: 80px;
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: clamp(30px, 3vw, 58px);
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.84;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .value-card p,
+    .solution-card p,
+    .audience-card p {
+      max-width: 330px;
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.42;
+      transition: color 300ms ease;
+    }
+
+    .problem-line {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 0.42fr);
+      margin-top: 44px;
+      border-top: 0.5px solid var(--hairline);
+      border-left: 0.5px solid var(--hairline);
+    }
+
+    .problem-line > * {
+      min-height: 150px;
+      padding: 22px;
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .problem-main {
+      font-family: "Inter Tight", "Inter", sans-serif;
+      font-size: clamp(32px, 5vw, 78px);
+      font-weight: 900;
+      letter-spacing: -0.06em;
+      line-height: 0.82;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .problem-note {
+      display: flex;
+      align-items: flex-end;
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.35;
+    }
+
+    .method-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0;
+      margin-top: 50px;
+      border-top: 0.5px solid var(--hairline);
+      border-left: 0.5px solid var(--hairline);
+    }
+
+    .method-col {
+      min-height: 620px;
+      padding: 26px;
+      border-right: 0.5px solid var(--hairline);
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .method-col:last-child {
+      border-right: 0;
+    }
+
+    .mission {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .mission-text {
+      max-width: 470px;
+      color: var(--fg);
+      font-size: clamp(24px, 3vw, 44px);
+      line-height: 1.05;
+      letter-spacing: -0.04em;
+      overflow-wrap: anywhere;
+    }
+
+    .mission-note {
+      max-width: 460px;
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.45;
+    }
+
+    .principles {
+      display: grid;
+      gap: 0;
+      padding: 0;
+    }
+
+    .principle {
+      display: grid;
+      grid-template-columns: 42px minmax(0, 1fr);
+      gap: 16px;
+      padding: 18px 0;
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .principle:last-child {
+      border-bottom: 0;
+    }
+
+    .principle-code {
+      display: grid;
+      width: 36px;
+      height: 36px;
+      place-items: center;
+      border: 0.5px solid var(--hairline);
+      color: var(--accent);
+      letter-spacing: 0;
+    }
+
+    .principle-title {
+      font-size: clamp(22px, 2.5vw, 34px);
+    }
+
+    .principle p,
+    .phase p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    .phases {
+      display: grid;
+      gap: 0;
+    }
+
+    .phase {
+      display: grid;
+      grid-template-columns: 52px minmax(0, 1fr);
+      gap: 16px;
+      padding: 18px 0;
+      border-bottom: 0.5px solid var(--hairline);
+    }
+
+    .phase:last-child {
+      border-bottom: 0;
+    }
+
+    .phase-number {
+      display: grid;
+      width: 42px;
+      height: 42px;
+      place-items: center;
+      border-radius: 999px;
+      background: var(--fg);
+      color: var(--bg);
+      letter-spacing: 0;
+    }
+
+    .phase-title {
+      font-size: clamp(26px, 3vw, 44px);
+    }
+
+    .cta {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 24px;
+      padding: clamp(30px, 5vw, 72px);
+      background: var(--accent);
+      color: var(--fg);
+    }
+
+    .cta h2 {
+      max-width: 980px;
+      font-size: clamp(58px, 10vw, 150px);
+    }
+
+    .cta .button {
+      border-color: var(--fg);
+      background: var(--fg);
+      color: var(--accent);
+    }
+
+    .cta .button:hover {
+      border-color: var(--bg);
+      background: var(--bg);
+      color: var(--fg);
+    }
+
+    @media (max-width: 980px) {
+      .masthead,
+      .hero,
+      .section,
+      .generator,
+      .value-grid,
+      .solution-grid,
+      .audience-grid,
+      .problem-line,
+      .generator-feedback,
+      .method-grid,
+      .cta {
+        grid-template-columns: 1fr;
+      }
+
+      .brand,
+      .hero-copy,
+      .section-index {
+        border-right: 0;
+      }
+
+      .brand,
+      .section-index {
+        border-bottom: 0.5px solid var(--hairline);
+      }
+
+      .nav {
+        justify-content: center;
+        overflow: visible;
+      }
+
+      .hero-copy {
+        min-height: auto;
+      }
+
+      .hero-signal {
+        min-height: 380px;
+      }
+
+      .method-col {
+        min-height: auto;
+        border-right: 0;
+      }
+
+      .value-card,
+      .solution-card,
+      .audience-card,
+      .problem-line > * {
+        min-height: 220px;
+        border-right: 0;
+      }
+
+      .cta .button {
+        justify-self: start;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .page {
+        background: var(--bg);
+      }
+
+      .nav {
+        gap: 16px;
+      }
+
+      .brand,
+      .nav button {
+        text-align: center;
+      }
+
+      .hero-meta,
+      .metrics,
+      .hero-value-grid,
+      .signal-strip,
+      .panel-top,
+      .panel-actions,
+      .generator-map {
+        grid-template-columns: 1fr;
+      }
+
+      .meta,
+      .metric,
+      .hero-value-card,
+      .signal-strip span,
+      .field,
+      .panel-actions button,
+      .map-item {
+        border-right: 0;
+      }
+
+      .map-item:nth-last-child(-n + 2) {
+        border-bottom: 0.5px solid var(--hairline);
+      }
+
+      .map-item:last-child {
+        border-bottom: 0;
+      }
+
+      .hero-actions {
+        display: grid;
+      }
+
+      .button {
+        width: 100%;
+      }
+    }
+  </style>
 </head>
 <body>
-  <section class="access-screen" id="accessScreen" aria-labelledby="accessTitle">
-    <div class="access-card">
-      <div class="eyebrow">Private beta / Split APA</div>
-      <h1 id="accessTitle">Access required</h1>
-      <p>Enter the beta password to load the exercise archive and build your plan.</p>
-
-      <form class="access-form" id="accessForm">
-        <label class="access-field">
-          <span class="small-label">Password</span>
-          <input id="accessPassword" type="password" autocomplete="current-password" aria-label="Access password">
-        </label>
-        <button class="button access-button" type="submit">Unlock generator</button>
-      </form>
-
-      <div class="access-error small-label" id="accessError" role="alert" aria-live="polite"></div>
-      <div class="access-note small-label">Beta access / protected preview</div>
-    </div>
-  </section>
-
-  <main class="page app-shell" id="appShell" hidden>
+  <main class="page">
     <header class="masthead">
-      <a class="brand" href="./" aria-label="Split APA generator home">
+      <button class="brand" type="button" data-scroll-target="home" aria-label="Split APA home">
         <span class="brand-mark">SA</span>
         <span class="brand-name">Split APA</span>
-      </a>
-      <div class="masthead-actions">
-        <div class="status small-label" id="appStatus">Loading archive</div>
-        <button class="logout-button small-label" type="button" id="logoutButton">Log out</button>
-      </div>
+      </button>
+      <nav class="nav" aria-label="Main navigation">
+        <button type="button" data-scroll-target="home">Home Page</button>
+        <button type="button" data-scroll-target="why">Why Split APA</button>
+        <button type="button" data-scroll-target="build">Build Your Plan</button>
+        <button type="button" data-scroll-target="method">Split APA Method</button>
+      </nav>
     </header>
 
-    <section class="hero" id="top">
-      <div class="hero-main">
-        <div class="eyebrow">Adapted physical activity / Exercise archive</div>
-        <h1>Program Generator</h1>
-        <p class="lead">Create a focused APA workout by body district. Data is loaded externally, keeping the page light and scalable.</p>
-        <div class="district-tabs" id="districtTabs" aria-label="Body district selector"></div>
+    <section class="hero" id="home">
+      <div class="hero-copy">
+        <div>
+          <div class="eyebrow">Adapted physical activity / Program builder</div>
+          <h1>Split APA</h1>
+          <p class="hero-statement">Create adapted physical activity programs.</p>
+          <p class="hero-substatement">A simple, fast, and professional way to design personalized APA plans through structure, selection, and clear execution guidance.</p>
+          <div class="hero-actions">
+            <button class="button primary" type="button" data-scroll-target="build">Build your plan</button>
+            <button class="button" type="button" data-scroll-target="method">Explore the method</button>
+          </div>
+        </div>
       </div>
 
-      <aside class="control-panel" aria-label="Generator controls">
-        <div class="panel-top">
-          <div class="field">
-            <div class="field-label">Selected district</div>
-            <div class="field-value" id="selectedDistrictLabel">--</div>
+      <aside class="hero-visual" aria-label="Split APA overview">
+        <div class="hero-meta">
+          <div class="meta">System / Split APA</div>
+          <div class="meta">Status / Program design</div>
+        </div>
+        <div class="hero-signal" aria-labelledby="designed-better-title">
+          <div class="signal-strip">
+            <span class="small-label signal-index">01 / Designed better</span>
+            <span class="small-label">Adapted physical activity</span>
           </div>
-          <div class="field">
-            <div class="field-label">Archive size</div>
-            <div class="field-value" id="selectedDistrictMeta">--</div>
+          <div class="hero-designed-main">
+            <h2 class="hero-designed-title" id="designed-better-title">Designed better.</h2>
+            <p class="hero-designed-copy">Build personalized programs with a structured exercise archive and tools dedicated to adapted physical activity.</p>
+          </div>
+          <div class="hero-value-grid" aria-label="Split APA core benefits">
+            <article class="hero-value-card">
+              <div class="small-label">01</div>
+              <div class="hero-value-title">Organized exercises</div>
+            </article>
+            <article class="hero-value-card">
+              <div class="small-label">02</div>
+              <div class="hero-value-title">Custom sheets</div>
+            </article>
+            <article class="hero-value-card">
+              <div class="small-label">03</div>
+              <div class="hero-value-title">Adapted approach</div>
+            </article>
+            <article class="hero-value-card">
+              <div class="small-label">04</div>
+              <div class="hero-value-title">Professional method</div>
+            </article>
           </div>
         </div>
-
-        <div class="panel-main">
-          <h2 id="generatorTitle">Build your plan</h2>
-          <p id="generatorCopy">Choose a body district, then generate a complete workout from the available sections.</p>
-
-          <div class="control-grid">
-            <label class="control-field">
-              <span class="small-label">District</span>
-              <select id="districtSelect" aria-label="Select body district"></select>
-            </label>
-            <label class="control-field">
-              <span class="small-label">Per section</span>
-              <select id="quantitySelect" aria-label="Exercises per section">
-                <option value="1">1 exercise</option>
-                <option value="2" selected>2 exercises</option>
-                <option value="3">3 exercises</option>
-              </select>
-            </label>
+        <div class="metrics" aria-label="Core promise">
+          <div class="metric">
+            <div class="small-label">Mode</div>
+            <div class="metric-value">Simple</div>
           </div>
-
-          <form class="ask-panel" id="askForm">
-            <label class="ask-field">
-              <span class="small-label">Ask Split APA</span>
-              <input id="askInput" type="search" placeholder="Try shoulder flexion or ankle plantar flexion" aria-label="Ask Split APA">
-            </label>
-            <button class="ask-button small-label" type="submit">Find exercises</button>
-            <div class="ask-hint small-label" id="askHint">Local movement search / district + action</div>
-          </form>
-        </div>
-
-        <div class="panel-actions">
-          <button class="button" type="button" id="generateButton">Generate workout</button>
-          <button class="button" type="button" id="clearButton">Clear workout</button>
+          <div class="metric">
+            <div class="small-label">Flow</div>
+            <div class="metric-value">Fast</div>
+          </div>
+          <div class="metric">
+            <div class="small-label">Output</div>
+            <div class="metric-value">Pro</div>
+          </div>
         </div>
       </aside>
     </section>
 
-    <section class="output" id="workout">
-      <div class="output-header">
-        <div>
-          <div class="eyebrow">Generated plan</div>
-          <h2 id="outputTitle">Workout preview</h2>
+    <section class="section" id="why">
+      <div class="section-index">02 / Why Split APA</div>
+      <div class="section-body">
+        <h2 class="section-heading">Everything you need. One tool.</h2>
+        <p class="section-lead">Movement professionals spend time searching, organizing, and selecting exercises. Split APA simplifies the process.</p>
+
+        <div class="problem-line" aria-label="Problem and solution">
+          <div class="problem-main">Less search. More planning.</div>
+          <div class="problem-note">A structured workflow for faster, clearer, personalized programs.</div>
         </div>
-        <div class="output-side">
-          <div class="small-label" id="outputMeta">No workout generated</div>
-          <a class="feedback-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe_YrYD27fUvGoD-tD0ZrxprN_ZDmblzoxFpQ9BfQwx38mnPw/viewform?usp=dialog" target="_blank" rel="noopener">Suggest an exercise</a>
+
+        <div class="solution-grid" aria-label="Split APA solution">
+          <article class="solution-card">
+            <div class="small-label">Archive</div>
+            <h3 class="solution-title">Organized archive</h3>
+            <p>Exercises grouped by area, easy to consult, always ready.</p>
+          </article>
+          <article class="solution-card">
+            <div class="small-label">Sheets</div>
+            <h3 class="solution-title">Customizable sheets</h3>
+            <p>Create tailored plans in minutes.</p>
+          </article>
+          <article class="solution-card">
+            <div class="small-label">APA</div>
+            <h3 class="solution-title">Adapted approach</h3>
+            <p>Safety, function, and well-being at the center.</p>
+          </article>
+        </div>
+
+        <div class="audience-block">
+          <div class="small-label">Who it's for</div>
+          <h3 class="audience-heading">Built for movement work.</h3>
+          <p class="audience-lead">For professionals, operators, and organizations offering safe and adapted physical activity.</p>
+        </div>
+        <div class="audience-grid" aria-label="Split APA target users">
+          <article class="audience-card">
+            <div class="small-label">Clinical</div>
+            <h3 class="audience-title">Physiotherapists</h3>
+            <p>Assess, design, and propose safe exercises.</p>
+          </article>
+          <article class="audience-card">
+            <div class="small-label">Movement</div>
+            <h3 class="audience-title">Kinesiologists</h3>
+            <p>Create personalized programs quickly.</p>
+          </article>
+          <article class="audience-card">
+            <div class="small-label">Facilities</div>
+            <h3 class="audience-title">Gyms and sports centers</h3>
+            <p>Offer tailored programs for every need.</p>
+          </article>
+          <article class="audience-card">
+            <div class="small-label">Care</div>
+            <h3 class="audience-title">Senior centers</h3>
+            <p>Promote well-being, autonomy, and quality of life.</p>
+          </article>
+          <article class="audience-card">
+            <div class="small-label">Education</div>
+            <h3 class="audience-title">Educators and operators</h3>
+            <p>Support motor and rehabilitation activities.</p>
+          </article>
+          <article class="audience-card">
+            <div class="small-label">People</div>
+            <h3 class="audience-title">End users</h3>
+            <p>Follow safe, simple, guided exercises.</p>
+          </article>
         </div>
       </div>
-      <div class="workout-list" id="workoutList" aria-live="polite"></div>
     </section>
 
-    <footer class="footer">
-      <span>Split APA Generator / Static app</span>
-      <span>Data loaded from JSON</span>
-    </footer>
+    <section class="section" id="build">
+      <div class="section-index">03 / Build your plan</div>
+      <div class="section-body">
+        <h2 class="section-heading">Workout plan generator.</h2>
+        <p class="section-lead">Choose a body district and open the generator. The home stays fast while the exercise archive loads only when needed.</p>
+
+        <div class="generator">
+          <div class="generator-panel" aria-label="Generator launcher">
+            <div class="panel-top">
+              <div class="field">
+                <div class="field-label">Flow</div>
+                <div class="field-value">Choose</div>
+              </div>
+              <div class="field">
+              <div class="field-label">Archive</div>
+              <div class="field-value">148</div>
+              </div>
+            </div>
+            <div class="panel-main">
+              <h3>Build by district</h3>
+              <p>One lightweight app, four body districts, same Split APA workflow with a cleaner and faster experience.</p>
+            </div>
+            <div class="panel-actions single">
+              <button class="button" type="button" data-generator-url="generator/">Open generator</button>
+            </div>
+          </div>
+
+          <div class="generator-map" aria-label="Body district generator links">
+            <a class="map-item" href="generator/?district=neck">
+              <div class="small-label">01 / Generator</div>
+              <div class="map-title">Neck</div>
+            </a>
+            <a class="map-item" href="generator/?district=upper-limb">
+              <div class="small-label">02 / Generator</div>
+              <div class="map-title">Upper limb</div>
+            </a>
+            <a class="map-item" href="generator/?district=trunk">
+              <div class="small-label">03 / Generator</div>
+              <div class="map-title">Trunk</div>
+            </a>
+            <a class="map-item" href="generator/?district=lower-limb">
+              <div class="small-label">04 / Generator</div>
+              <div class="map-title">Lower limb</div>
+            </a>
+          </div>
+        </div>
+
+        <div class="generator-feedback">
+          <p>Want to suggest a new exercise for the archive or share an idea for a missing movement?</p>
+          <button class="button" type="button" data-external-url="https://docs.google.com/forms/d/e/1FAIpQLSe_YrYD27fUvGoD-tD0ZrxprN_ZDmblzoxFpQ9BfQwx38mnPw/viewform?usp=dialog">Suggest an exercise</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="method">
+      <div class="section-index">04 / Split APA method</div>
+      <div class="section-body">
+        <h2 class="section-heading">The Split APA method.</h2>
+        <p class="section-lead">Exercises organized by functional criteria to support adapted and personalized workout plans.</p>
+
+        <div class="method-grid">
+          <div class="method-col mission">
+            <p class="mission-text">From individual needs to practical programs.</p>
+            <p class="mission-note">A project developed to support movement professionals and practitioners with clear tools for adapted physical activity.</p>
+          </div>
+
+          <div class="method-col">
+            <div class="small-label">Key principles</div>
+            <div class="principles">
+              <article class="principle">
+                <div class="principle-code">01</div>
+                <div>
+                  <h3 class="principle-title">Simplicity</h3>
+                  <p>Intuitive and immediate tools.</p>
+                </div>
+              </article>
+              <article class="principle">
+                <div class="principle-code">02</div>
+                <div>
+                  <h3 class="principle-title">Organization</h3>
+                  <p>Structured archive and easy consultation.</p>
+                </div>
+              </article>
+              <article class="principle">
+                <div class="principle-code">03</div>
+                <div>
+                  <h3 class="principle-title">Personalization</h3>
+                  <p>Custom programs based on individual needs.</p>
+                </div>
+              </article>
+              <article class="principle">
+                <div class="principle-code">04</div>
+                <div>
+                  <h3 class="principle-title">Accessibility</h3>
+                  <p>Online content available anytime, anywhere.</p>
+                </div>
+              </article>
+              <article class="principle">
+                <div class="principle-code">05</div>
+                <div>
+                  <h3 class="principle-title">Evolution</h3>
+                  <p>The project is constantly updated and improved.</p>
+                </div>
+              </article>
+            </div>
+          </div>
+
+          <div class="method-col">
+            <div class="small-label">The 4 phases</div>
+            <div class="phases">
+              <article class="phase">
+                <div class="phase-number">1</div>
+                <div>
+                  <h3 class="phase-title">Analysis</h3>
+                  <p>Understand needs, goals, abilities, limitations, and priorities to choose suitable exercises.</p>
+                </div>
+              </article>
+              <article class="phase">
+                <div class="phase-number">2</div>
+                <div>
+                  <h3 class="phase-title">Selection</h3>
+                  <p>Choose exercises from the organized archive by anatomical areas and functional goals.</p>
+                </div>
+              </article>
+              <article class="phase">
+                <div class="phase-number">3</div>
+                <div>
+                  <h3 class="phase-title">Planning</h3>
+                  <p>Combine exercises to create clear, effective, and personalized plans.</p>
+                </div>
+              </article>
+              <article class="phase">
+                <div class="phase-number">4</div>
+                <div>
+                  <h3 class="phase-title">Application</h3>
+                  <p>Put theory into practice and turn the plan into a practical tool for wellness and health goals.</p>
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta" id="prototype">
+      <h2>Design the plan. Then make it practical.</h2>
+      <button class="button" type="button" data-generator-url="generator/">Start from the generator</button>
+    </section>
   </main>
 
-  <noscript>
-    <div class="noscript">JavaScript is required to load the exercise archive.</div>
-  </noscript>
+  <script>
+    (function() {
+      function scrollToSection(id) {
+        var target = document.getElementById(id);
+        if (!target) return;
+        target.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
 
-  <script type="module" src="assets/app.js?v=20260617c"></script>
+      document.querySelectorAll("[data-scroll-target]").forEach(function(button) {
+        button.addEventListener("click", function(event) {
+          event.preventDefault();
+          scrollToSection(button.getAttribute("data-scroll-target"));
+        });
+      });
+
+      document.querySelectorAll("[data-external-url]").forEach(function(button) {
+        button.addEventListener("click", function(event) {
+          event.preventDefault();
+          window.open(button.getAttribute("data-external-url"), "_blank", "noopener,noreferrer");
+        });
+      });
+
+      document.querySelectorAll("[data-generator-url]").forEach(function(button) {
+        button.addEventListener("click", function(event) {
+          event.preventDefault();
+          window.location.href = button.getAttribute("data-generator-url");
+        });
+      });
+    })();
+  </script>
+
 </body>
 </html>
