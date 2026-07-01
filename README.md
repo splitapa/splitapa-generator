@@ -6,10 +6,6 @@ Questa cartella contiene il sito unico Split APA pronto per GitHub Pages.
 
 ```text
 index.html
-.github/
-  ISSUE_TEMPLATE/
-    config.yml
-    exercise_suggestion.yml
 generator/
   index.html
   assets/
@@ -49,30 +45,11 @@ Visible media paths: 0
 Movement metadata: English only
 Access: beta password screen
 Smart search: Ask Split APA
-Exercise suggestions: GitHub Issue Form
 ```
 
 ## Nota password
 
 La password beta e' utile per una preview privata, ma non e' una protezione sufficiente per vendere accessi a pagamento. GitHub Pages pubblica file statici, quindi per una fase commerciale servira' un sistema con autenticazione reale.
-
-## Suggerimenti esercizi
-
-Il pulsante `Suggest an exercise` apre un form interno a GitHub:
-
-```text
-https://github.com/splitapa/splitapa-generator/issues/new?template=exercise_suggestion.yml
-```
-
-Ogni proposta viene salvata come Issue nella repository.
-
-Importante:
-
-```text
-Settings > General > Features > Issues
-```
-
-La spunta `Issues` deve essere attiva nella repository, altrimenti il form non sara' disponibile.
 
 ## Come pubblicare
 

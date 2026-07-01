@@ -68,7 +68,7 @@
     }
 
     .page {
-      width: min(100%, 1360px);
+      width: min(100%, 1560px);
       max-width: 100%;
       margin: 0 auto;
       overflow: hidden;
@@ -585,24 +585,6 @@
       overflow-wrap: anywhere;
     }
 
-    .generator-feedback {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      gap: 24px;
-      align-items: center;
-      padding: 22px;
-      border-left: 0.5px solid var(--hairline);
-      border-right: 0.5px solid var(--hairline);
-      border-bottom: 0.5px solid var(--hairline);
-    }
-
-    .generator-feedback p {
-      margin: 0;
-      color: var(--muted);
-      font-size: 16px;
-      line-height: 1.45;
-    }
-
     .value-grid,
     .solution-grid,
     .audience-grid {
@@ -882,7 +864,6 @@
       .solution-grid,
       .audience-grid,
       .problem-line,
-      .generator-feedback,
       .method-grid,
       .cta {
         grid-template-columns: 1fr;
@@ -1144,8 +1125,8 @@
                 <div class="field-value">Choose</div>
               </div>
               <div class="field">
-              <div class="field-label">Archive</div>
-              <div class="field-value">148</div>
+                <div class="field-label">Archive</div>
+                <div class="field-value">148</div>
               </div>
             </div>
             <div class="panel-main">
@@ -1175,11 +1156,6 @@
               <div class="map-title">Lower limb</div>
             </a>
           </div>
-        </div>
-
-        <div class="generator-feedback">
-          <p>Want to suggest a new exercise for the archive or share an idea for a missing movement?</p>
-          <button class="button" type="button" data-external-url="https://github.com/splitapa/splitapa-generator/issues/new?template=exercise_suggestion.yml">Suggest an exercise</button>
         </div>
       </div>
     </section>
@@ -1276,7 +1252,7 @@
 
     <section class="cta" id="prototype">
       <h2>Design the plan. Then make it practical.</h2>
-      <button class="button" type="button" data-generator-url="generator/">Start from the generator</button>
+      <button class="button" type="button" data-scroll-target="build">Start from the generator</button>
     </section>
   </main>
 
@@ -1292,13 +1268,6 @@
         button.addEventListener("click", function(event) {
           event.preventDefault();
           scrollToSection(button.getAttribute("data-scroll-target"));
-        });
-      });
-
-      document.querySelectorAll("[data-external-url]").forEach(function(button) {
-        button.addEventListener("click", function(event) {
-          event.preventDefault();
-          window.open(button.getAttribute("data-external-url"), "_blank", "noopener,noreferrer");
         });
       });
 

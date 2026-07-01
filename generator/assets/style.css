@@ -545,30 +545,6 @@ h1 {
   text-align: right;
 }
 
-.feedback-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 42px;
-  padding: 0 16px;
-  border: 0.5px solid var(--fg);
-  border-radius: 999px;
-  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
-  font-size: 10px;
-  font-weight: 500;
-  letter-spacing: 0.24em;
-  line-height: 1.2;
-  text-transform: uppercase;
-  color: var(--fg);
-  transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
-}
-
-.feedback-link:hover {
-  border-color: var(--accent);
-  background: var(--accent);
-  color: var(--fg);
-}
-
 .workout-list {
   min-height: 240px;
   padding-top: 24px;
