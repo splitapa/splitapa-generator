@@ -430,18 +430,21 @@
 
     .section {
       display: grid;
-      grid-template-columns: minmax(160px, 0.2fr) minmax(0, 1fr);
+      grid-template-columns: clamp(104px, 8vw, 138px) minmax(0, 1fr);
       border-bottom: 0.5px solid var(--hairline);
     }
 
     .section-index {
-      padding: 24px;
+      padding: 20px 16px;
       color: var(--accent);
       border-right: 0.5px solid var(--hairline);
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      text-align: right;
     }
 
     .section-body {
-      padding: clamp(30px, 5vw, 72px);
+      padding: clamp(30px, 4vw, 64px);
     }
 
     .section-heading {
@@ -680,12 +683,17 @@
     .audience-title {
       margin-top: 80px;
       font-family: "Inter Tight", "Inter", sans-serif;
-      font-size: clamp(30px, 3vw, 58px);
+      font-size: clamp(28px, 2.35vw, 48px);
       font-weight: 900;
       letter-spacing: -0.06em;
-      line-height: 0.84;
+      line-height: 0.9;
       text-transform: uppercase;
       overflow-wrap: anywhere;
+    }
+
+    .audience-title {
+      font-size: clamp(27px, 2.1vw, 44px);
+      line-height: 0.92;
     }
 
     .value-card p,
@@ -746,10 +754,6 @@
       padding: 26px;
       border-right: 0.5px solid var(--hairline);
       border-bottom: 0.5px solid var(--hairline);
-    }
-
-    .method-col:last-child {
-      border-right: 0;
     }
 
     .mission {
@@ -889,6 +893,16 @@
       color: var(--fg);
     }
 
+    @media (max-width: 1180px) {
+      .method-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .method-col {
+        min-height: auto;
+      }
+    }
+
     @media (max-width: 980px) {
       .masthead,
       .hero,
@@ -925,6 +939,12 @@
 
       .hero-signal {
         min-height: 380px;
+      }
+
+      .section-index {
+        writing-mode: horizontal-tb;
+        transform: none;
+        text-align: left;
       }
 
       .method-col {
