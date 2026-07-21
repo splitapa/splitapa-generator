@@ -538,11 +538,38 @@ h1 {
   display: grid;
   gap: 12px;
   justify-items: end;
+  min-width: min(100%, 280px);
 }
 
 #outputMeta {
   color: var(--muted);
   text-align: right;
+}
+
+.sort-field {
+  display: grid;
+  gap: 8px;
+  justify-items: end;
+}
+
+.sort-field span {
+  color: var(--dim);
+}
+
+.sort-field select {
+  width: 100%;
+  min-height: 40px;
+  padding: 0 12px;
+  border: 0.5px solid var(--hairline);
+  border-radius: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-size: 13px;
+}
+
+.sort-field select:disabled {
+  color: var(--dim);
+  cursor: not-allowed;
 }
 
 .workout-list {
@@ -620,9 +647,17 @@ h1 {
   letter-spacing: 0.22em;
 }
 
+.exercise-meta-row {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
 .movement-tag {
   display: block;
-  margin-bottom: 10px;
+  min-width: 0;
   color: var(--muted);
   font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
   font-size: 10px;
@@ -630,6 +665,30 @@ h1 {
   letter-spacing: 0.22em;
   line-height: 1.35;
   text-transform: uppercase;
+}
+
+.difficulty-tag {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  align-items: center;
+  color: var(--muted);
+  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  line-height: 1.35;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.difficulty-stars {
+  color: var(--accent);
+  letter-spacing: 0.04em;
+}
+
+.difficulty-empty {
+  color: var(--dim);
 }
 
 .exercise-change-button,
@@ -806,6 +865,10 @@ h1 {
   .output-side {
     justify-items: start;
   }
+
+  .sort-field {
+    justify-items: start;
+  }
 }
 
 @media (max-width: 720px) {
@@ -852,6 +915,11 @@ h1 {
 
   .exercise-change-button {
     justify-self: start;
+  }
+
+  .exercise-meta-row {
+    display: grid;
+    gap: 8px;
   }
 
   .district-tab,

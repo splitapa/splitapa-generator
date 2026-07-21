@@ -20,12 +20,13 @@
                                              "movementTags":  [
                                                                   "push",
                                                                   "horizontal-adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Open the Straight Arms to the Side",
                                              "image":  "",
-                                             "description":  "This movement helps stretch the chest muscles and expand the ribs, improving the lungs’ ability to fill with air.",
+                                             "description":  "This movement helps stretch the chest muscles and expand the ribs, improving the lungsâ€™ ability to fill with air.",
                                              "howToDo":  "Sit upright or stand. Extend your arms forward in front of you, with your palms facing each other. As you breathe in deeply through your nose, open your arms out to the sides as far as possible, bringing them slightly backward so you feel your chest opening. Hold the air for 2 seconds, then breathe out as you bring your hands forward again.",
                                              "whatToDo":  "Keep your shoulders low and relaxed; do not bring them up toward your ears.",
                                              "whatNotToDo":  "Do not excessively arch your lower back.",
@@ -39,7 +40,8 @@
                                                                   "opening",
                                                                   "horizontal-abduction",
                                                                   "breathing"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Bend the Arms While Leaning on the Wall",
@@ -57,7 +59,8 @@
                                              "movementTags":  [
                                                                   "push",
                                                                   "horizontal-adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Cross the Wrists in Front of the Chest",
@@ -74,7 +77,8 @@
                                              "movementDistrict":  "chest",
                                              "movementTags":  [
                                                                   "horizontal-adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Side Rib Breathing",
@@ -92,7 +96,8 @@
                                              "movementTags":  [
                                                                   "breathing",
                                                                   "rib-expansion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Seated Cushion Press with the Forearms",
@@ -110,7 +115,8 @@
                                              "movementTags":  [
                                                                   "horizontal-adduction",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          }
                                      ],
                         "id":  "chest"
@@ -134,7 +140,8 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Lift One Knee at a Time While Seated",
@@ -152,7 +159,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "hip-flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Lean the Trunk Sideways While Seated",
@@ -169,7 +177,8 @@
                                              "movementDistrict":  "abdomen",
                                              "movementTags":  [
                                                                   "lateral-flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Press the Hands Against the Thighs",
@@ -187,7 +196,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Heel Press into the Floor",
@@ -205,7 +215,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Seated Knee Push Against the Hands",
@@ -223,7 +234,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Supine Heel Tap",
@@ -242,7 +254,8 @@
                                                                   "stabilization",
                                                                   "hip-flexion",
                                                                   "hip-extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "abdomen"
@@ -265,7 +278,8 @@
                                              "movementDistrict":  "spine",
                                              "movementTags":  [
                                                                   "rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Opposite Arm and Leg Reach on the Mat",
@@ -283,7 +297,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          }
                                      ],
                         "id":  "abdomen-back-integrated-stability"
@@ -308,7 +323,8 @@
                                                                   "anterior-pelvic-tilt",
                                                                   "posterior-pelvic-tilt",
                                                                   "mobility"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Lift the Hips from the Bed",
@@ -316,7 +332,7 @@
                                              "description":  "This exercise strengthens the back part of the pelvis and the thighs. It is very useful for regaining the strength needed to lift the pelvis when adjusting the blankets or putting on trousers while lying down.",
                                              "howToDo":  "Lie on your back on the bed, or on a comfortable mat, with your knees bent and your feet firmly resting on the floor. Keep your arms stretched out by your sides. Squeeze your buttock muscles and lift your pelvis upward by a few centimetres. Stay up for 3 seconds, then slowly lower back down, placing your back down one small section at a time.",
                                              "whatToDo":  "Push firmly with your feet against the mattress or the floor to help yourself lift up.",
-                                             "whatNotToDo":  "Do not lift your pelvis too high if you feel back pain; lifting it two fingers’ width off the bed is enough.",
+                                             "whatNotToDo":  "Do not lift your pelvis too high if you feel back pain; lifting it two fingersâ€™ width off the bed is enough.",
                                              "id":  "trunk-011",
                                              "sezione":  "Pelvis - Mobility and Stability",
                                              "distretto":  "Trunk",
@@ -326,7 +342,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "hip-extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Open the Knees Against an Elastic Band or the Hands",
@@ -344,7 +361,8 @@
                                              "movementTags":  [
                                                                   "abduction",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Seated Pelvic Side Shift",
@@ -362,7 +380,8 @@
                                              "movementTags":  [
                                                                   "lateral-shift",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          }
                                      ],
                         "id":  "pelvis-mobility-stability"
@@ -386,7 +405,8 @@
                                              "movementTags":  [
                                                                   "scapular-retraction",
                                                                   "postural-extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Turn the Trunk to Look to the Side",
@@ -403,7 +423,8 @@
                                              "movementDistrict":  "spine",
                                              "movementTags":  [
                                                                   "rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Diagonal Reach",
@@ -421,7 +442,8 @@
                                              "movementTags":  [
                                                                   "rotation",
                                                                   "lateral-flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Wall Back Lengthening",
@@ -439,7 +461,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Seated Back Extension with Hands on Thighs",
@@ -456,7 +479,8 @@
                                              "movementDistrict":  "spine",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Seated Forward Reach and Return",
@@ -475,7 +499,8 @@
                                                                   "flexion",
                                                                   "extension",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Cat-Cow on the Mat",
@@ -493,7 +518,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Standing Trunk Rotation with Stick",
@@ -510,7 +536,8 @@
                                              "movementDistrict":  "spine",
                                              "movementTags":  [
                                                                   "rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          }
                                      ],
                         "id":  "back-mobility-functional-control"
@@ -534,7 +561,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Open the Arms to the Side with Thumbs Up",
@@ -552,7 +580,8 @@
                                              "movementTags":  [
                                                                   "postural-extension",
                                                                   "scapular-retraction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Prone Back Extension with Hands Under the Forehead",
@@ -569,7 +598,8 @@
                                              "movementDistrict":  "spine",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          }
                                      ],
                         "id":  "back-posterior-region"
@@ -593,13 +623,14 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Contract and Lift the Pelvic Floor While Seated",
                                              "image":  "",
                                              "description":  "This exercise teaches you to control and strengthen the perineal muscles in an isolated and safe way, improving bladder control.",
-                                             "howToDo":  "Sit upright on a firm chair, with your feet resting on the floor. Imagine that your pelvic floor muscles are an elevator. Contract the muscles you use to stop the flow of urine and try to “lift them upward” toward your abdomen, as if the elevator were going up to the first floor. Hold this contraction for 4 seconds, continuing to breathe calmly, then slowly release.",
+                                             "howToDo":  "Sit upright on a firm chair, with your feet resting on the floor. Imagine that your pelvic floor muscles are an elevator. Contract the muscles you use to stop the flow of urine and try to â€œlift them upwardâ€ toward your abdomen, as if the elevator were going up to the first floor. Hold this contraction for 4 seconds, continuing to breathe calmly, then slowly release.",
                                              "whatToDo":  "Completely relax your abdomen, thighs, and buttocks; only the intimate area should work.",
                                              "whatNotToDo":  "Do not hold your breath and do not push downward.",
                                              "id":  "trunk-017",
@@ -611,7 +642,8 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "elevation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Squeeze a Soft Ball Between the Knees While Seated",
@@ -629,7 +661,8 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Contract the Pelvic Floor Before Standing Up from the Chair",
@@ -647,7 +680,8 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Open the Knees While Keeping the Feet Together",
@@ -665,7 +699,8 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Pelvic Floor Quick Contractions",
@@ -683,7 +718,8 @@
                                              "movementTags":  [
                                                                   "contraction",
                                                                   "relaxation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          }
                                      ],
                         "id":  "perineum"

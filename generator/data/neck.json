@@ -21,13 +21,14 @@
                                                                   "retraction",
                                                                   "flexion",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Lying Head Lift",
                                              "image":  "",
                                              "description":  "This exercise helps strengthen the neck by lifting only the weight of the head.",
-                                             "howToDo":  "Lie on your back. First, lower your chin toward your throat, as in the previous exercise. Immediately after, lift your head very slightly off the floor, only by two or three fingers’ width. Keep your head lifted for 3 to 5 seconds, then slowly lower it back down.",
+                                             "howToDo":  "Lie on your back. First, lower your chin toward your throat, as in the previous exercise. Immediately after, lift your head very slightly off the floor, only by two or three fingersâ€™ width. Keep your head lifted for 3 to 5 seconds, then slowly lower it back down.",
                                              "whatToDo":  "Keep your shoulders and back well relaxed on the floor.",
                                              "whatNotToDo":  "Do not let your chin move upward while lifting your head, and do not lift your shoulders off the floor.",
                                              "id":  "neck-002",
@@ -38,7 +39,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Forehead Press Against the Hand",
@@ -56,7 +58,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Mouth Opening with Head Tilted Up",
@@ -73,7 +76,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          }
                                      ],
                         "id":  "anterior-neck-region"
@@ -96,7 +100,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "lateral-flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Side of Head Press Against the Hand",
@@ -114,7 +119,8 @@
                                              "movementTags":  [
                                                                   "lateral-flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Head Rotation Toward the Shoulder",
@@ -131,7 +137,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Lateral Head Tilt with Hand on Temple",
@@ -148,7 +155,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "lateral-flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          }
                                      ],
                         "id":  "lateral-neck-region"
@@ -171,7 +179,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Back of Head Press Against the Hands",
@@ -189,7 +198,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Neck Stretch with Hands Behind the Head",
@@ -206,7 +216,8 @@
                                              "movementDistrict":  "neck",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Seated Shoulder Blade Squeeze",
@@ -224,7 +235,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "scapular-retraction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "posterior-neck-region"

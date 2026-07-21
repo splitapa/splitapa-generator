@@ -20,7 +20,8 @@
                                              "movementTags":  [
                                                                   "circumduction",
                                                                   "mobility"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "shoulder-mobility-control"
@@ -44,7 +45,8 @@
                                              "movementTags":  [
                                                                   "abduction",
                                                                   "external-rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Press the Palms Together",
@@ -62,7 +64,8 @@
                                              "movementTags":  [
                                                                   "horizontal-adduction",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Raise the Arms Forward",
@@ -79,13 +82,14 @@
                                              "movementDistrict":  "shoulder",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Finger Walk on the Wall",
                                              "image":  "",
                                              "description":  "This exercise combines stretching with strengthening of the front part of the shoulder, helping you recover upward arm movement without putting too much strain on your back.",
-                                             "howToDo":  "Stand facing a wall, about one step away. Place your fingertips on the wall at chest height. Using your fingers as if they were the legs of a spider, make them “walk” up the wall, one small step at a time, as far as you can comfortably reach. Stay at the highest point for 5 seconds, then make your fingers “walk” back down.",
+                                             "howToDo":  "Stand facing a wall, about one step away. Place your fingertips on the wall at chest height. Using your fingers as if they were the legs of a spider, make them â€œwalkâ€ up the wall, one small step at a time, as far as you can comfortably reach. Stay at the highest point for 5 seconds, then make your fingers â€œwalkâ€ back down.",
                                              "whatToDo":  "Take a small step closer to the wall as your hand moves upward, so you do not strain your back.",
                                              "whatNotToDo":  "Do not lift your heels off the floor and do not force the upward movement if you feel shoulder pain.",
                                              "id":  "upper-limb-004",
@@ -96,7 +100,8 @@
                                              "movementDistrict":  "shoulder",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Shoulder Blade Push Forward",
@@ -113,7 +118,8 @@
                                              "movementDistrict":  "shoulder",
                                              "movementTags":  [
                                                                   "scapular-protraction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Quadruped Single Arm Reach",
@@ -131,7 +137,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          }
                                      ],
                         "id":  "shoulder-anterior-region"
@@ -154,13 +161,14 @@
                                              "movementDistrict":  "shoulder",
                                              "movementTags":  [
                                                                   "abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Side Elbow Press Against the Wall",
                                              "image":  "",
                                              "description":  "This exercise strengthens the side muscles without moving the joint, making it excellent for people with mild pain. It simulates the strength needed to move an object sideways with your body or to make space for yourself.",
-                                             "howToDo":  "Stand sideways next to a wall, about half an arm’s length away. Bend your elbow to 90 degrees and place the outer side of your arm and elbow against the wall. Push your elbow sideways against the wall, as if you were trying to knock it down. Maintain a steady push for 5 seconds, then relax and switch sides.",
+                                             "howToDo":  "Stand sideways next to a wall, about half an armâ€™s length away. Bend your elbow to 90 degrees and place the outer side of your arm and elbow against the wall. Push your elbow sideways against the wall, as if you were trying to knock it down. Maintain a steady push for 5 seconds, then relax and switch sides.",
                                              "whatToDo":  "Keep your body straight and still; only the shoulder should push.",
                                              "whatNotToDo":  "Do not lean your torso toward the wall to help yourself and do not clench your teeth.",
                                              "id":  "upper-limb-006",
@@ -172,7 +180,8 @@
                                              "movementTags":  [
                                                                   "abduction",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Open the Arms as if Cleaning the Table",
@@ -190,13 +199,14 @@
                                              "movementTags":  [
                                                                   "abduction",
                                                                   "adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Sideways Finger Walk on the Wall",
                                              "image":  "",
                                              "description":  "This exercise helps improve the side opening of the arms and mobility, which is essential for reaching an object placed beside you without having to turn your whole body.",
-                                             "howToDo":  "Stand sideways next to a wall, with your right side facing the wall. Place the fingertips of your right hand on the wall at shoulder height. Using your fingers, make them “walk” up the wall, moving your arm out to the side as far as you can comfortably reach. Stay there for 5 seconds, then slowly come back down and repeat with your left side facing the wall.",
+                                             "howToDo":  "Stand sideways next to a wall, with your right side facing the wall. Place the fingertips of your right hand on the wall at shoulder height. Using your fingers, make them â€œwalkâ€ up the wall, moving your arm out to the side as far as you can comfortably reach. Stay there for 5 seconds, then slowly come back down and repeat with your left side facing the wall.",
                                              "whatToDo":  "Keep your body fully turned sideways, without rotating your chest toward the wall.",
                                              "whatNotToDo":  "Do not force the movement if you feel a sharp pain or strong pain in your shoulder.",
                                              "id":  "upper-limb-008",
@@ -207,7 +217,8 @@
                                              "movementDistrict":  "shoulder",
                                              "movementTags":  [
                                                                   "abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "shoulder-lateral-region"
@@ -231,7 +242,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "scapular-retraction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Backward Elbow Press Against the Backrest",
@@ -249,7 +261,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Bring the Hands Behind the Back",
@@ -267,7 +280,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "internal-rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Open the Straight Arms Backward",
@@ -285,7 +299,8 @@
                                              "movementTags":  [
                                                                   "horizontal-abduction",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Shoulder External Rotation with Elbows Close",
@@ -302,7 +317,8 @@
                                              "movementDistrict":  "shoulder",
                                              "movementTags":  [
                                                                   "external-rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Seated Shoulder Blade Squeeze Downward",
@@ -320,7 +336,8 @@
                                              "movementTags":  [
                                                                   "scapular-depression",
                                                                   "scapular-retraction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Towel Pull Apart",
@@ -338,7 +355,8 @@
                                              "movementTags":  [
                                                                   "horizontal-abduction",
                                                                   "scapular-retraction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          }
                                      ],
                         "id":  "shoulder-posterior-region"
@@ -361,7 +379,8 @@
                                              "movementDistrict":  "elbow",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Lift the Hands from the Table Toward the Chest",
@@ -378,7 +397,8 @@
                                              "movementDistrict":  "elbow",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Squeeze a Pillow Between the Hands and Chest",
@@ -396,7 +416,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "The Waiter Plate Exercise",
@@ -414,7 +435,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "arm-anterior-region"
@@ -438,7 +460,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Extend the Arm Forward",
@@ -455,7 +478,8 @@
                                              "movementDistrict":  "elbow",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Push the Arms Back Against the Wall",
@@ -473,7 +497,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Extend the Arms Upward with a Pillow",
@@ -490,7 +515,8 @@
                                              "movementDistrict":  "elbow",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          }
                                      ],
                         "id":  "arm-posterior-region"
@@ -514,7 +540,8 @@
                                              "movementTags":  [
                                                                   "pronation",
                                                                   "supination"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Press the Elbow Against the Other Hand",
@@ -532,7 +559,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Clench the Fists and Extend the Arms Downward",
@@ -549,7 +577,8 @@
                                              "movementDistrict":  "elbow",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "The Balance Exercise with Hands on the Table",
@@ -567,7 +596,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Seated Elbow Press into the Table",
@@ -585,7 +615,8 @@
                                              "movementTags":  [
                                                                   "stabilization",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          }
                                      ],
                         "id":  "elbow"
@@ -610,7 +641,8 @@
                                                                   "pronation",
                                                                   "supination",
                                                                   "grip"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Open and Close the Fingers",
@@ -628,7 +660,8 @@
                                              "movementTags":  [
                                                                   "finger-flexion",
                                                                   "finger-extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Raise the Wrist Up and Down with Support",
@@ -646,7 +679,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Wrap an Imaginary Thread",
@@ -665,7 +699,8 @@
                                                                   "pronation",
                                                                   "supination",
                                                                   "circumduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Seated Palm Turn with Light Object",
@@ -683,7 +718,8 @@
                                              "movementTags":  [
                                                                   "pronation",
                                                                   "supination"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          }
                                      ],
                         "id":  "forearm"
@@ -695,7 +731,7 @@
                                              "nome":  "Push the Palm Back with the Other Hand",
                                              "image":  "",
                                              "description":  "This exercise helps stretch the muscles and tendons of the wrist, improving the ability to bend the hand back when leaning on a chair or table.",
-                                             "howToDo":  "Sit upright on a chair. Stretch your right arm forward at chest height, with the palm of your hand facing forward and your fingers pointing toward the ceiling, as if you were saying “stop.” With your left hand, gently hold the fingers of your right hand and slowly pull them toward your body. Stop when you feel a gentle stretch under the wrist. Count to 5, then switch arms.",
+                                             "howToDo":  "Sit upright on a chair. Stretch your right arm forward at chest height, with the palm of your hand facing forward and your fingers pointing toward the ceiling, as if you were saying â€œstop.â€ With your left hand, gently hold the fingers of your right hand and slowly pull them toward your body. Stop when you feel a gentle stretch under the wrist. Count to 5, then switch arms.",
                                              "whatToDo":  "Keep your arm straight, but without straining your shoulder.",
                                              "whatNotToDo":  "Do not pull your fingers too forcefully and stop immediately if you feel pain.",
                                              "id":  "upper-limb-029",
@@ -706,7 +742,8 @@
                                              "movementDistrict":  "wrist",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Press the Backs of the Hands Together",
@@ -723,7 +760,8 @@
                                              "movementDistrict":  "wrist",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Turn the Wrist Sideways",
@@ -741,7 +779,8 @@
                                              "movementTags":  [
                                                                   "radial-deviation",
                                                                   "ulnar-deviation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Make Circles in the Air with the Hands",
@@ -758,7 +797,8 @@
                                              "movementDistrict":  "wrist",
                                              "movementTags":  [
                                                                   "circumduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          }
                                      ],
                         "id":  "wrist"
@@ -781,13 +821,14 @@
                                              "movementDistrict":  "hand",
                                              "movementTags":  [
                                                                   "opposition"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Finger Walk on the Table",
                                              "image":  "",
                                              "description":  "This movement strengthens and stretches the finger muscles, imitating the action of typing on a phone keyboard or on a remote control.",
-                                             "howToDo":  "Sit upright in front of a table. Place your right hand open on the table, keeping the palm lifted so that only the fingertips touch the surface, as if your hand were a spider. Using only your fingertips, make your hand “walk” forward along the table and then back again. Repeat 5 times with each hand.",
+                                             "howToDo":  "Sit upright in front of a table. Place your right hand open on the table, keeping the palm lifted so that only the fingertips touch the surface, as if your hand were a spider. Using only your fingertips, make your hand â€œwalkâ€ forward along the table and then back again. Repeat 5 times with each hand.",
                                              "whatToDo":  "Keep your wrist still and relaxed; move only your fingers.",
                                              "whatNotToDo":  "Do not press the palm of your hand against the table while moving.",
                                              "id":  "upper-limb-034",
@@ -799,12 +840,13 @@
                                              "movementTags":  [
                                                                   "finger-flexion",
                                                                   "finger-extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Spread the Fingers Against an Elastic Band",
                                              "image":  "",
-                                             "description":  "This exercise helps strengthen the muscles that open the hand, which is very useful for counteracting the tendency of older adults’ fingers to remain bent or stiff.",
+                                             "description":  "This exercise helps strengthen the muscles that open the hand, which is very useful for counteracting the tendency of older adultsâ€™ fingers to remain bent or stiff.",
                                              "howToDo":  "Sit comfortably. Bring the fingertips of your right hand together. Place a regular kitchen elastic band around the joined fingers, just below the fingernails. From this position, spread your fingers outward, pushing against the resistance of the elastic band. Hold the open position for 3 seconds, then slowly close your fingers again. Repeat 5 times on each side.",
                                              "whatToDo":  "Perform the movement very slowly, both when opening and closing your fingers.",
                                              "whatNotToDo":  "Do not use an elastic band that is too tight, as it may hurt or cut the skin.",
@@ -816,7 +858,8 @@
                                              "movementDistrict":  "hand",
                                              "movementTags":  [
                                                                   "finger-abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Pick Up and Crumple a Sheet of Paper",
@@ -834,7 +877,8 @@
                                              "movementTags":  [
                                                                   "finger-flexion",
                                                                   "grip"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Table Finger Lifts",
@@ -851,7 +895,8 @@
                                              "movementDistrict":  "hand",
                                              "movementTags":  [
                                                                   "finger-extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Finger Spread on the Table",
@@ -869,7 +914,8 @@
                                              "movementTags":  [
                                                                   "finger-abduction",
                                                                   "finger-adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Thumb Slide Across the Palm",
@@ -887,7 +933,8 @@
                                              "movementTags":  [
                                                                   "opposition",
                                                                   "thumb-adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "hand"

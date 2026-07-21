@@ -19,7 +19,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "rotation"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Standing Hip Circles with Support",
@@ -37,7 +38,8 @@
                                              "movementTags":  [
                                                                   "circumduction",
                                                                   "mobility"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Standing Weight Shift Side to Side",
@@ -55,7 +57,8 @@
                                              "movementTags":  [
                                                                   "lateral-shift",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "pelvis-mobility-balance"
@@ -79,7 +82,8 @@
                                              "movementTags":  [
                                                                   "lateral-elevation",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Move the Leg to the Side While Standing",
@@ -96,7 +100,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Supported Side Step",
@@ -114,7 +119,8 @@
                                              "movementTags":  [
                                                                   "abduction",
                                                                   "adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Supported Cross Step",
@@ -132,7 +138,8 @@
                                              "movementTags":  [
                                                                   "adduction",
                                                                   "abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Side Toe Tap",
@@ -150,7 +157,8 @@
                                              "movementTags":  [
                                                                   "abduction",
                                                                   "adduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Side-Lying Straight Leg Lift",
@@ -167,7 +175,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "pelvis-lateral-region"
@@ -190,7 +199,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Backward Toe Tap with Chair Support",
@@ -207,7 +217,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Supported Backward Walking Steps",
@@ -225,7 +236,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "stabilization"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Backward Lunge with Stick Support",
@@ -243,7 +255,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Quadruped Leg Extension",
@@ -260,7 +273,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          }
                                      ],
                         "id":  "pelvis-posterior-region"
@@ -283,7 +297,8 @@
                                              "movementDistrict":  "knee",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Lift the Straight Leg a Few Centimeters While Lying Down",
@@ -300,13 +315,14 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Half Sit-to-Stand",
                                              "image":  "",
                                              "description":  "This exercise is the most important one for maintaining independence in the legs. It reproduces the daily action of standing up from the toilet, low armchairs, or car seats.",
-                                             "howToDo":  "Sit on the front part of the chair with your feet firmly planted on the floor and slightly apart. Rest your hands on your thighs. Lean your torso slightly forward, push firmly with your thigh muscles, and lift your buttocks off the chair by only two or three fingers’ width. Hold this raised position for 2 seconds, then slowly sit back down. Repeat 5 times.",
+                                             "howToDo":  "Sit on the front part of the chair with your feet firmly planted on the floor and slightly apart. Rest your hands on your thighs. Lean your torso slightly forward, push firmly with your thigh muscles, and lift your buttocks off the chair by only two or three fingersâ€™ width. Hold this raised position for 2 seconds, then slowly sit back down. Repeat 5 times.",
                                              "whatToDo":  "Control the downward movement well, without dropping onto the chair.",
                                              "whatNotToDo":  "Do not let your knees move inward while pushing.",
                                              "id":  "lower-limb-007",
@@ -318,7 +334,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Press the Thigh Upward Against the Hands",
@@ -336,7 +353,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Mini Squat with Chair Support",
@@ -354,7 +372,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Seated March with Opposite Arm",
@@ -371,7 +390,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Standing Forward Toe Tap",
@@ -388,7 +408,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Forward Lunge with Stick Support",
@@ -406,7 +427,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "thigh-anterior-region"
@@ -429,7 +451,8 @@
                                              "movementDistrict":  "knee",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Press the Heel Against the Floor While Seated",
@@ -447,7 +470,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Press a Soft Ball Under the Knee While Lying Down",
@@ -465,7 +489,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Slide the Heel Back on the Floor While Seated",
@@ -482,7 +507,8 @@
                                              "movementDistrict":  "knee",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Seated Pillow Squeeze Under the Thigh",
@@ -500,7 +526,8 @@
                                              "movementTags":  [
                                                                   "extension",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "thigh-posterior-region"
@@ -523,7 +550,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Kneeling Rock Back on the Mat",
@@ -540,7 +568,8 @@
                                              "movementDistrict":  "hip",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "hip-knee-functional-mobility"
@@ -564,7 +593,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Heel Lift While Lying on the Stomach",
@@ -581,7 +611,8 @@
                                              "movementDistrict":  "knee",
                                              "movementTags":  [
                                                                   "flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Seated Pendulum",
@@ -599,7 +630,8 @@
                                              "movementTags":  [
                                                                   "flexion",
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Seated Knee Circles",
@@ -617,7 +649,8 @@
                                              "movementTags":  [
                                                                   "circumduction",
                                                                   "mobility"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "knee-mobility"
@@ -640,7 +673,8 @@
                                              "movementDistrict":  "knee",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Seated Knee Straightening with Heel on the Floor",
@@ -657,7 +691,8 @@
                                              "movementDistrict":  "knee",
                                              "movementTags":  [
                                                                   "extension"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "knee-anterior-region"
@@ -680,7 +715,8 @@
                                              "movementDistrict":  "ankle",
                                              "movementTags":  [
                                                                   "plantar-flexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Wall Calf Stretch",
@@ -697,7 +733,8 @@
                                              "movementDistrict":  "ankle",
                                              "movementTags":  [
                                                                   "dorsiflexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Calf Press into the Floor",
@@ -715,7 +752,8 @@
                                              "movementTags":  [
                                                                   "plantar-flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "lower-leg-posterior-region"
@@ -738,7 +776,8 @@
                                              "movementDistrict":  "ankle",
                                              "movementTags":  [
                                                                   "dorsiflexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Seated Pedaling Movement",
@@ -756,7 +795,8 @@
                                              "movementTags":  [
                                                                   "plantar-flexion",
                                                                   "dorsiflexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Press the Feet Outward Against the Chair Legs",
@@ -774,13 +814,14 @@
                                              "movementTags":  [
                                                                   "eversion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          },
                                          {
                                              "nome":  "Draw Numbers in the Air with the Foot",
                                              "image":  "",
                                              "description":  "This exercise trains ankle mobility in all directions. It helps keep the joint flexible and ready to react to changes in direction.",
-                                             "howToDo":  "Sit upright on a chair. Lift your right foot off the floor, keeping your leg slightly extended forward. Imagine that your big toe is a pencil and use it to “draw” the numbers from 1 to 5 in the air with slow, large movements. Place your foot back down and do the same with your left ankle.",
+                                             "howToDo":  "Sit upright on a chair. Lift your right foot off the floor, keeping your leg slightly extended forward. Imagine that your big toe is a pencil and use it to â€œdrawâ€ the numbers from 1 to 5 in the air with slow, large movements. Place your foot back down and do the same with your left ankle.",
                                              "whatToDo":  "Move only your ankle, keeping your knee and thigh as still as possible.",
                                              "whatNotToDo":  "Do not rush; the slower the movements are, the more effective the exercise will be.",
                                              "id":  "lower-limb-021",
@@ -792,7 +833,8 @@
                                              "movementTags":  [
                                                                   "circumduction",
                                                                   "mobility"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Press the Soles of the Feet Together",
@@ -810,7 +852,8 @@
                                              "movementTags":  [
                                                                   "inversion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Lift the Outside of the Foot While Keeping the Heel Still",
@@ -827,7 +870,8 @@
                                              "movementDistrict":  "ankle",
                                              "movementTags":  [
                                                                   "eversion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          },
                                          {
                                              "nome":  "Rock Between Toes and Heels",
@@ -845,7 +889,8 @@
                                              "movementTags":  [
                                                                   "plantar-flexion",
                                                                   "dorsiflexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Standing Heel-to-Toe Weight Shift",
@@ -863,7 +908,8 @@
                                              "movementTags":  [
                                                                   "plantar-flexion",
                                                                   "dorsiflexion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Inner Foot Lift",
@@ -880,7 +926,8 @@
                                              "movementDistrict":  "ankle",
                                              "movementTags":  [
                                                                   "inversion"
-                                                              ]
+                                                              ],
+                                             "difficulty":  4
                                          }
                                      ],
                         "id":  "ankle"
@@ -904,12 +951,13 @@
                                              "movementTags":  [
                                                                   "finger-flexion",
                                                                   "grip"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Spread the Toes Like a Fan",
                                              "image":  "",
-                                             "description":  "This movement helps create more space between the toes, counteracting stiffness caused by tight shoes and improving the body’s base of support.",
+                                             "description":  "This movement helps create more space between the toes, counteracting stiffness caused by tight shoes and improving the bodyâ€™s base of support.",
                                              "howToDo":  "Sit comfortably on the chair with your feet firmly resting on the floor. Slightly lift the toes of your right foot while keeping the sole of your foot on the floor. Spread your toes apart as much as possible, as if you were trying to form a fan. Hold the open position for 3 seconds, then relax your toes and place them back on the floor. Repeat 5 times on each side.",
                                              "whatToDo":  "Preferably do the exercise without shoes, so you can clearly see the movement.",
                                              "whatNotToDo":  "Do not tense your neck or hands while trying to spread your toes.",
@@ -921,7 +969,8 @@
                                              "movementDistrict":  "foot",
                                              "movementTags":  [
                                                                   "finger-abduction"
-                                                              ]
+                                                              ],
+                                             "difficulty":  1
                                          },
                                          {
                                              "nome":  "Massage the Sole of the Foot with a Small Ball",
@@ -939,7 +988,8 @@
                                              "movementTags":  [
                                                                   "mobility",
                                                                   "release"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Lift Only the Big Toe and Then the Other Toes",
@@ -957,12 +1007,13 @@
                                              "movementTags":  [
                                                                   "finger-extension",
                                                                   "selective-control"
-                                                              ]
+                                                              ],
+                                             "difficulty":  5
                                          },
                                          {
                                              "nome":  "Seated Toe Press into the Floor",
                                              "image":  "",
-                                             "description":  "This exercise strengthens the toes and improves the foot’s ability to grip the ground during walking.",
+                                             "description":  "This exercise strengthens the toes and improves the footâ€™s ability to grip the ground during walking.",
                                              "howToDo":  "Sit on a chair with your feet resting on the floor. Press all the toes of your right foot gently into the floor, as if you wanted to grip the ground without curling them too much. Hold for 5 seconds, then relax. Repeat 5 times and switch feet.",
                                              "whatToDo":  "Keep the heel and the ball of the foot resting on the floor.",
                                              "whatNotToDo":  "Do not curl the toes so strongly that they cramp.",
@@ -975,7 +1026,8 @@
                                              "movementTags":  [
                                                                   "finger-flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  3
                                          },
                                          {
                                              "nome":  "Seated Big Toe Press",
@@ -993,7 +1045,8 @@
                                              "movementTags":  [
                                                                   "big-toe-flexion",
                                                                   "isometric"
-                                                              ]
+                                                              ],
+                                             "difficulty":  2
                                          }
                                      ],
                         "id":  "foot"

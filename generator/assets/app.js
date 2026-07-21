@@ -7,6 +7,7 @@ const state = {
   databaseByDistrict: new Map(),
   currentDistrictId: '',
   generatedExercises: [],
+  sortMode: 'default',
   outputMetaLabel: 'exercises generated',
   outputMetaText: ''
 };
@@ -31,6 +32,7 @@ const els = {
   askHint: document.getElementById('askHint'),
   generateButton: document.getElementById('generateButton'),
   clearButton: document.getElementById('clearButton'),
+  sortSelect: document.getElementById('sortSelect'),
   outputTitle: document.getElementById('outputTitle'),
   outputMeta: document.getElementById('outputMeta'),
   workoutList: document.getElementById('workoutList')
@@ -209,6 +211,7 @@ function showError(message) {
   box.className = 'error-state';
   box.textContent = message;
   els.workoutList.appendChild(box);
+  setSortEnabled(false);
   setStatus('Archive error');
 }
 
@@ -467,6 +470,7 @@ function renderEmptyState(meta = getDistrictMeta(state.currentDistrictId)) {
     : 'No workout generated.';
   els.outputMeta.textContent = 'No workout generated';
   els.workoutList.appendChild(empty);
+  setSortEnabled(false);
 }
 
 function shuffle(list) {
@@ -478,6 +482,48 @@ function shuffle(list) {
 
 function chooseRandom(list, quantity) {
   return shuffle(list).slice(0, Math.min(quantity, list.length));
+}
+
+function getDifficultyLevel(exercise) {
+  const level = Number(exercise?.difficulty);
+  if (!Number.isFinite(level)) return 3;
+  return Math.min(5, Math.max(1, Math.round(level)));
+}
+
+function setSortEnabled(enabled) {
+  els.sortSelect.disabled = !enabled;
+  if (!enabled) {
+    state.sortMode = 'default';
+    els.sortSelect.value = 'default';
+  }
+}
+
+function attachWorkoutOrder(exercise, order) {
+  return {
+    ...exercise,
+    workoutOrder: order
+  };
+}
+
+function sortGeneratedExercises() {
+  const direction = state.sortMode;
+  state.generatedExercises.sort((a, b) => {
+    if (direction === 'easy-hard') {
+      return getDifficultyLevel(a) - getDifficultyLevel(b) || (a.workoutOrder ?? 0) - (b.workoutOrder ?? 0);
+    }
+
+    if (direction === 'hard-easy') {
+      return getDifficultyLevel(b) - getDifficultyLevel(a) || (a.workoutOrder ?? 0) - (b.workoutOrder ?? 0);
+    }
+
+    return (a.workoutOrder ?? 0) - (b.workoutOrder ?? 0);
+  });
+}
+
+function handleSortChange() {
+  state.sortMode = els.sortSelect.value;
+  sortGeneratedExercises();
+  renderWorkout();
 }
 
 function asDistrictList(database) {
@@ -527,8 +573,10 @@ async function generateWorkout() {
   const quantity = Number(els.quantitySelect.value) || 2;
   const meta = getDistrictMeta(state.currentDistrictId);
   state.generatedExercises = [];
+  state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
+  els.sortSelect.value = 'default';
   if (meta) {
     els.outputTitle.textContent = `${meta.title} workout`;
   }
@@ -537,12 +585,12 @@ async function generateWorkout() {
     (district.sezioni || []).forEach((section) => {
       const selected = chooseRandom(section.esercizi || [], quantity);
       selected.forEach((exercise) => {
-        state.generatedExercises.push({
+        state.generatedExercises.push(attachWorkoutOrder({
           ...exercise,
           districtId: state.currentDistrictId,
           distretto: district.distretto,
           sezione: section.nome
-        });
+        }, state.generatedExercises.length));
       });
     });
   });
@@ -554,8 +602,10 @@ async function generateWorkout() {
 function clearWorkout() {
   const meta = getDistrictMeta(state.currentDistrictId);
   state.generatedExercises = [];
+  state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
+  els.sortSelect.value = 'default';
   if (meta) {
     els.outputTitle.textContent = `${meta.title} workout`;
   }
@@ -579,11 +629,13 @@ async function handleSmartSearch(event) {
   try {
     const result = await findSmartMatches(query);
     els.outputTitle.textContent = 'Smart results';
-    state.generatedExercises = result.matches;
+    state.generatedExercises = result.matches.map((exercise, index) => attachWorkoutOrder(exercise, index));
+    state.sortMode = 'default';
     state.outputMetaLabel = 'smart matches';
     state.outputMetaText = result.total > result.matches.length
       ? `${result.matches.length} of ${result.total} smart matches`
       : `${result.matches.length} smart matches`;
+    els.sortSelect.value = 'default';
 
     if (!result.matches.length) {
       els.workoutList.innerHTML = '';
@@ -592,6 +644,7 @@ async function handleSmartSearch(event) {
       empty.textContent = 'No matching exercise found. Try a broader query such as shoulder mobility or ankle flexion.';
       els.workoutList.appendChild(empty);
       els.outputMeta.textContent = 'No smart match';
+      setSortEnabled(false);
       setAskHint('No match. Try a broader query.');
       setStatus('No smart match');
       document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -648,9 +701,35 @@ function createMovementTag(exercise) {
   return movement;
 }
 
+function createDifficultyTag(exercise) {
+  const level = getDifficultyLevel(exercise);
+  const difficulty = document.createElement('span');
+  difficulty.className = 'difficulty-tag';
+  difficulty.setAttribute('aria-label', `Difficulty ${level} of 5`);
+
+  const label = document.createElement('span');
+  label.textContent = 'Difficulty';
+
+  const stars = document.createElement('span');
+  stars.className = 'difficulty-stars';
+
+  const filled = document.createElement('span');
+  filled.textContent = '★'.repeat(level);
+
+  const empty = document.createElement('span');
+  empty.className = 'difficulty-empty';
+  empty.textContent = '☆'.repeat(5 - level);
+
+  stars.append(filled, empty);
+  difficulty.append(label, stars);
+  return difficulty;
+}
+
 function replaceExercise(index, nextExercise) {
   if (!state.generatedExercises[index] || !nextExercise) return;
-  state.generatedExercises[index] = nextExercise;
+  const order = state.generatedExercises[index].workoutOrder ?? index;
+  state.generatedExercises[index] = attachWorkoutOrder(nextExercise, order);
+  sortGeneratedExercises();
   renderWorkout();
 }
 
@@ -730,13 +809,18 @@ function createExerciseCard(exercise, index) {
   tag.textContent = `[${exercise.sezione}]`;
 
   const movementTag = createMovementTag(exercise);
+  const difficultyTag = createDifficultyTag(exercise);
+  const metaRow = document.createElement('div');
+  metaRow.className = 'exercise-meta-row';
+  if (movementTag) {
+    metaRow.append(movementTag);
+  }
+  metaRow.append(difficultyTag);
 
   const title = document.createElement('span');
   title.textContent = exercise.nome;
   name.append(tag);
-  if (movementTag) {
-    name.append(movementTag);
-  }
+  name.append(metaRow);
   name.append(title);
 
   const change = document.createElement('button');
@@ -779,6 +863,7 @@ function renderWorkout() {
     return;
   }
 
+  sortGeneratedExercises();
   const fragment = document.createDocumentFragment();
   let previousDistrict = '';
 
@@ -796,6 +881,7 @@ function renderWorkout() {
 
   els.workoutList.appendChild(fragment);
   els.outputMeta.textContent = state.outputMetaText || `${state.generatedExercises.length} ${state.outputMetaLabel}`;
+  setSortEnabled(true);
   setStatus('Workout generated');
 }
 
@@ -810,6 +896,7 @@ async function init() {
     els.generateButton.addEventListener('click', generateWorkout);
     els.clearButton.addEventListener('click', clearWorkout);
     els.askForm.addEventListener('submit', handleSmartSearch);
+    els.sortSelect.addEventListener('change', handleSortChange);
 
     const initialDistrict = getInitialDistrictId(state.manifest);
     await selectDistrict(initialDistrict);

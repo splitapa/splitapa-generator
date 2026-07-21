@@ -43,8 +43,10 @@ https://splitapa.github.io/splitapa-generator/generator/?district=lower-limb
 Total exercises: 148
 Visible media paths: 0
 Movement metadata: English only
+Difficulty metadata: 1-5 stars
 Access: beta password screen
 Smart search: Ask Split APA
+Workout sorting: generated order, easy to hard, hard to easy
 ```
 
 ## Nota password

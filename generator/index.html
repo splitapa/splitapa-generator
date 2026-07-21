@@ -102,6 +102,14 @@
         </div>
         <div class="output-side">
           <div class="small-label" id="outputMeta">No workout generated</div>
+          <label class="sort-field">
+            <span class="small-label">Sort difficulty</span>
+            <select id="sortSelect" aria-label="Sort generated exercises by difficulty" disabled>
+              <option value="default">Generated order</option>
+              <option value="easy-hard">Easy to hard</option>
+              <option value="hard-easy">Hard to easy</option>
+            </select>
+          </label>
         </div>
       </div>
       <div class="workout-list" id="workoutList" aria-live="polite"></div>
@@ -117,6 +125,6 @@
     <div class="noscript">JavaScript is required to load the exercise archive.</div>
   </noscript>
 
-  <script type="module" src="assets/app.js?v=20260617c"></script>
+  <script type="module" src="assets/app.js?v=20260721a"></script>
 </body>
 </html>
