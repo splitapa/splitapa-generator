@@ -904,6 +904,21 @@ function createDifficultyTag(exercise) {
   return difficulty;
 }
 
+function getExerciseMovementLabel(exercise) {
+  const area = exercise.movementDistrict ? formatMovementToken(exercise.movementDistrict) : 'Not tagged';
+  const movement = Array.isArray(exercise.movementTags) && exercise.movementTags.length
+    ? exercise.movementTags.map(formatMovementToken).join(' + ')
+    : 'Not tagged';
+
+  return `Area: ${area} | Movement: ${movement}`;
+}
+
+function createReplaceOptionLabel(exercise) {
+  const section = exercise.sezione ? `[${exercise.sezione}]` : '[Unsectioned]';
+  const difficulty = `Difficulty: ${getDifficultyLevel(exercise)}/5`;
+  return `${section} ${exercise.nome} | ${getExerciseMovementLabel(exercise)} | ${difficulty}`;
+}
+
 function replaceExercise(index, nextExercise) {
   if (!state.generatedExercises[index] || !nextExercise) return;
   const order = state.generatedExercises[index].workoutOrder ?? index;
@@ -942,7 +957,7 @@ function createReplaceArea(currentExercise, index) {
     if (exercise.id === currentExercise.id) return;
     const option = document.createElement('option');
     option.value = String(exerciseIndex);
-    option.textContent = `[${exercise.sezione}] ${exercise.nome}`;
+    option.textContent = createReplaceOptionLabel(exercise);
     select.appendChild(option);
   });
 

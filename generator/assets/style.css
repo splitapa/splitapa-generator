@@ -874,14 +874,16 @@ h1 {
 
 .replace-select {
   width: 100%;
-  min-height: 48px;
+  min-height: 52px;
   margin-top: 12px;
   padding: 0 14px;
   border: 0.5px solid var(--hairline);
   border-radius: 0;
   background: var(--bg);
   color: var(--fg);
-  font-size: 15px;
+  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+  font-size: 12px;
+  letter-spacing: 0.04em;
 }
 
 .replace-actions {
