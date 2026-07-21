@@ -9,7 +9,8 @@ const state = {
   generatedExercises: [],
   sortMode: 'default',
   outputMetaLabel: 'exercises generated',
-  outputMetaText: ''
+  outputMetaText: '',
+  outputTotal: null
 };
 
 const els = {
@@ -33,12 +34,18 @@ const els = {
   generateButton: document.getElementById('generateButton'),
   clearButton: document.getElementById('clearButton'),
   sortSelect: document.getElementById('sortSelect'),
+  workoutCodeInput: document.getElementById('workoutCodeInput'),
+  copyCodeButton: document.getElementById('copyCodeButton'),
+  loadCodeButton: document.getElementById('loadCodeButton'),
+  codeHint: document.getElementById('codeHint'),
   outputTitle: document.getElementById('outputTitle'),
   outputMeta: document.getElementById('outputMeta'),
   workoutList: document.getElementById('workoutList')
 };
 
 let appInitialized = false;
+const workoutCodePrefix = 'SAPA1-';
+const sortModes = new Set(['default', 'easy-hard', 'hard-easy']);
 
 const districtAliases = {
   abdomen: ['abs', 'core'],
@@ -221,6 +228,12 @@ function setAskHint(message) {
   }
 }
 
+function setCodeHint(message) {
+  if (els.codeHint) {
+    els.codeHint.textContent = message;
+  }
+}
+
 function normalizeText(value) {
   return String(value || '')
     .toLowerCase()
@@ -239,6 +252,24 @@ function hasPhrase(text, phrase) {
 
 function uniqueValues(list) {
   return [...new Set(list.filter(Boolean))];
+}
+
+function base64UrlEncode(value) {
+  const bytes = new TextEncoder().encode(value);
+  let binary = '';
+  bytes.forEach((byte) => {
+    binary += String.fromCharCode(byte);
+  });
+
+  return window.btoa(binary).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/g, '');
+}
+
+function base64UrlDecode(value) {
+  const normalized = value.replace(/-/g, '+').replace(/_/g, '/');
+  const padded = normalized.padEnd(normalized.length + ((4 - (normalized.length % 4)) % 4), '=');
+  const binary = window.atob(padded);
+  const bytes = Uint8Array.from(binary, (character) => character.charCodeAt(0));
+  return new TextDecoder().decode(bytes);
 }
 
 function findAliasMatches(normalizedQuery, aliasMap) {
@@ -448,6 +479,11 @@ function renderSelectedDistrict() {
 async function selectDistrict(id) {
   state.currentDistrictId = id;
   state.generatedExercises = [];
+  state.sortMode = 'default';
+  state.outputMetaLabel = 'exercises generated';
+  state.outputMetaText = '';
+  state.outputTotal = null;
+  els.sortSelect.value = 'default';
   updateUrl(id);
   renderSelectedDistrict();
 
@@ -490,12 +526,57 @@ function getDifficultyLevel(exercise) {
   return Math.min(5, Math.max(1, Math.round(level)));
 }
 
+function createWorkoutCode() {
+  if (!state.generatedExercises.length) return '';
+
+  const payload = {
+    v: 1,
+    sort: state.sortMode,
+    items: state.generatedExercises.map((exercise) => ({
+      d: exercise.districtId || state.currentDistrictId,
+      id: exercise.id
+    }))
+  };
+
+  return `${workoutCodePrefix}${base64UrlEncode(JSON.stringify(payload))}`;
+}
+
+function parseWorkoutCode(rawCode) {
+  const code = String(rawCode || '').replace(/\s+/g, '');
+  if (!code.startsWith(workoutCodePrefix)) {
+    throw new Error('Unsupported workout code.');
+  }
+
+  const payload = JSON.parse(base64UrlDecode(code.slice(workoutCodePrefix.length)));
+  if (payload?.v !== 1 || !Array.isArray(payload.items) || !payload.items.length) {
+    throw new Error('Invalid workout code.');
+  }
+
+  payload.items.forEach((item) => {
+    if (!item?.d || !item?.id) {
+      throw new Error('Invalid workout item.');
+    }
+  });
+
+  return {
+    sort: sortModes.has(payload.sort) ? payload.sort : 'default',
+    items: payload.items
+  };
+}
+
+function updateWorkoutCodeField() {
+  const code = createWorkoutCode();
+  els.workoutCodeInput.value = code;
+  els.copyCodeButton.disabled = !code;
+}
+
 function setSortEnabled(enabled) {
   els.sortSelect.disabled = !enabled;
   if (!enabled) {
     state.sortMode = 'default';
     els.sortSelect.value = 'default';
   }
+  updateWorkoutCodeField();
 }
 
 function attachWorkoutOrder(exercise, order) {
@@ -559,6 +640,103 @@ function getReplacementExercises(currentExercise) {
   return flattenDistrictExercises(database, districtId);
 }
 
+async function getExercisesFromWorkoutCode(payload) {
+  const districtIds = uniqueValues(payload.items.map((item) => item.d));
+  await Promise.all(districtIds.map((id) => loadDistrict(id)));
+
+  const exerciseIndex = new Map();
+  districtIds.forEach((districtId) => {
+    const database = state.databaseByDistrict.get(districtId);
+    flattenDistrictExercises(database, districtId).forEach((exercise) => {
+      exerciseIndex.set(`${districtId}:${exercise.id}`, exercise);
+    });
+  });
+
+  const missing = [];
+  const exercises = [];
+  payload.items.forEach((item) => {
+    const exercise = exerciseIndex.get(`${item.d}:${item.id}`);
+    if (exercise) {
+      exercises.push(attachWorkoutOrder(exercise, exercises.length));
+      return;
+    }
+    missing.push(`${item.d}:${item.id}`);
+  });
+
+  return { exercises, missing };
+}
+
+function getOutputMetaText() {
+  if (state.outputTotal && state.outputTotal > state.generatedExercises.length) {
+    return `${state.generatedExercises.length} of ${state.outputTotal} ${state.outputMetaLabel}`;
+  }
+
+  return `${state.generatedExercises.length} ${state.outputMetaLabel}`;
+}
+
+async function copyWorkoutCode() {
+  const code = createWorkoutCode();
+  if (!code) {
+    setCodeHint('Generate a workout before copying a code.');
+    return;
+  }
+
+  els.workoutCodeInput.value = code;
+  try {
+    await navigator.clipboard.writeText(code);
+    setCodeHint('Workout code copied.');
+  } catch (error) {
+    els.workoutCodeInput.focus();
+    els.workoutCodeInput.select();
+    setCodeHint('Code selected. Copy it manually.');
+  }
+}
+
+async function loadWorkoutCode() {
+  let payload;
+  try {
+    payload = parseWorkoutCode(els.workoutCodeInput.value);
+  } catch (error) {
+    setCodeHint('Invalid workout code.');
+    setStatus('Code not loaded');
+    return;
+  }
+
+  setStatus('Loading workout code');
+  setCodeHint('Loading saved workout');
+
+  try {
+    const { exercises, missing } = await getExercisesFromWorkoutCode(payload);
+    if (!exercises.length) {
+      throw new Error('No matching exercises found.');
+    }
+
+    state.generatedExercises = exercises;
+    state.sortMode = payload.sort;
+    state.outputMetaLabel = 'exercises restored';
+    state.outputMetaText = '';
+    state.outputTotal = null;
+    els.sortSelect.value = state.sortMode;
+    els.outputTitle.textContent = 'Restored workout';
+
+    const firstDistrictId = exercises[0]?.districtId;
+    if (firstDistrictId && getDistrictMeta(firstDistrictId)) {
+      state.currentDistrictId = firstDistrictId;
+      updateUrl(firstDistrictId);
+      renderSelectedDistrict();
+      els.outputTitle.textContent = 'Restored workout';
+    }
+
+    renderWorkout();
+    setCodeHint(missing.length ? `${missing.length} exercise could not be restored.` : 'Workout restored from code.');
+    document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } catch (error) {
+    setCodeHint('Workout code could not be loaded.');
+    setStatus('Code not loaded');
+    console.error(error);
+  }
+}
+
 async function generateWorkout() {
   let database;
   try {
@@ -576,6 +754,7 @@ async function generateWorkout() {
   state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
+  state.outputTotal = null;
   els.sortSelect.value = 'default';
   if (meta) {
     els.outputTitle.textContent = `${meta.title} workout`;
@@ -605,6 +784,7 @@ function clearWorkout() {
   state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
+  state.outputTotal = null;
   els.sortSelect.value = 'default';
   if (meta) {
     els.outputTitle.textContent = `${meta.title} workout`;
@@ -632,9 +812,8 @@ async function handleSmartSearch(event) {
     state.generatedExercises = result.matches.map((exercise, index) => attachWorkoutOrder(exercise, index));
     state.sortMode = 'default';
     state.outputMetaLabel = 'smart matches';
-    state.outputMetaText = result.total > result.matches.length
-      ? `${result.matches.length} of ${result.total} smart matches`
-      : `${result.matches.length} smart matches`;
+    state.outputMetaText = '';
+    state.outputTotal = result.total;
     els.sortSelect.value = 'default';
 
     if (!result.matches.length) {
@@ -733,6 +912,12 @@ function replaceExercise(index, nextExercise) {
   renderWorkout();
 }
 
+function removeExercise(index) {
+  if (!state.generatedExercises[index]) return;
+  state.generatedExercises.splice(index, 1);
+  renderWorkout();
+}
+
 function createReplaceArea(currentExercise, index) {
   const allExercises = getReplacementExercises(currentExercise);
 
@@ -828,12 +1013,22 @@ function createExerciseCard(exercise, index) {
   change.className = 'exercise-change-button';
   change.textContent = 'Change';
 
+  const remove = document.createElement('button');
+  remove.type = 'button';
+  remove.className = 'exercise-remove-button';
+  remove.textContent = 'Remove';
+  remove.addEventListener('click', () => removeExercise(index));
+
   const replaceArea = createReplaceArea(exercise, index);
   change.addEventListener('click', () => {
     replaceArea.classList.toggle('active');
   });
 
-  header.append(checkbox, name, change);
+  const actions = document.createElement('div');
+  actions.className = 'exercise-card-actions';
+  actions.append(change, remove);
+
+  header.append(checkbox, name, actions);
 
   const content = document.createElement('div');
   content.className = 'exercise-content';
@@ -880,8 +1075,9 @@ function renderWorkout() {
   });
 
   els.workoutList.appendChild(fragment);
-  els.outputMeta.textContent = state.outputMetaText || `${state.generatedExercises.length} ${state.outputMetaLabel}`;
+  els.outputMeta.textContent = state.outputMetaText || getOutputMetaText();
   setSortEnabled(true);
+  updateWorkoutCodeField();
   setStatus('Workout generated');
 }
 
@@ -897,6 +1093,8 @@ async function init() {
     els.clearButton.addEventListener('click', clearWorkout);
     els.askForm.addEventListener('submit', handleSmartSearch);
     els.sortSelect.addEventListener('change', handleSortChange);
+    els.copyCodeButton.addEventListener('click', copyWorkoutCode);
+    els.loadCodeButton.addEventListener('click', loadWorkoutCode);
 
     const initialDistrict = getInitialDistrictId(state.manifest);
     await selectDistrict(initialDistrict);

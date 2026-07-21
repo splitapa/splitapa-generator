@@ -91,6 +91,18 @@
           <button class="button" type="button" id="generateButton">Generate workout</button>
           <button class="button" type="button" id="clearButton">Clear workout</button>
         </div>
+
+        <div class="code-panel" aria-label="Workout code tools">
+          <label class="code-field">
+            <span class="small-label">Workout code</span>
+            <textarea id="workoutCodeInput" rows="3" placeholder="Generate a workout or paste a saved code" aria-label="Workout code"></textarea>
+          </label>
+          <div class="code-actions">
+            <button class="code-button small-label" type="button" id="copyCodeButton" disabled>Copy code</button>
+            <button class="code-button small-label" type="button" id="loadCodeButton">Load code</button>
+          </div>
+          <div class="code-hint small-label" id="codeHint">Code updates when the plan changes</div>
+        </div>
       </aside>
     </section>
 
@@ -125,6 +137,6 @@
     <div class="noscript">JavaScript is required to load the exercise archive.</div>
   </noscript>
 
-  <script type="module" src="assets/app.js?v=20260721a"></script>
+  <script type="module" src="assets/app.js?v=20260721b"></script>
 </body>
 </html>

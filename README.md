@@ -47,6 +47,7 @@ Difficulty metadata: 1-5 stars
 Access: beta password screen
 Smart search: Ask Split APA
 Workout sorting: generated order, easy to hard, hard to easy
+Workout code: copy and restore generated plans
 ```
 
 ## Nota password
