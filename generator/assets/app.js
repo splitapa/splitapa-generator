@@ -393,13 +393,16 @@ function describeSmartCriteria(criteria) {
 }
 
 function normalizeDistrictIds(ids, manifest = state.manifest) {
-  const validIds = new Set((manifest?.districts || []).map((district) => district.id));
-  return uniqueValues(
+  const requestedIds = new Set(
     (Array.isArray(ids) ? ids : [ids])
       .flatMap((id) => String(id || '').split(','))
       .map((id) => id.trim())
-      .filter((id) => validIds.has(id))
+      .filter(Boolean)
   );
+
+  return (manifest?.districts || [])
+    .map((district) => district.id)
+    .filter((id) => requestedIds.has(id));
 }
 
 function getInitialDistrictIds(manifest) {
