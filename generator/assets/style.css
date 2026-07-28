@@ -336,8 +336,13 @@ h1 {
   border-radius: 999px;
   background: transparent;
   color: var(--fg);
+  cursor: pointer;
   text-align: center;
   transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
+}
+
+.district-tab {
+  cursor: default;
 }
 
 .district-tab:hover,
@@ -437,6 +442,98 @@ h1 {
   background: var(--fg);
   color: var(--bg);
   font-size: 15px;
+}
+
+.multi-select {
+  position: relative;
+  margin-top: 12px;
+}
+
+.multi-select-trigger {
+  width: 100%;
+  min-height: 48px;
+  padding: 0 14px;
+  border: 0.5px solid var(--ink-hairline);
+  border-radius: 0;
+  background: var(--fg);
+  color: var(--bg);
+  font-size: 15px;
+  text-align: left;
+  transition: border-color 300ms ease, color 300ms ease;
+}
+
+.multi-select-trigger::after {
+  content: "+";
+  float: right;
+  color: var(--accent);
+  font-family: "JetBrains Mono", monospace;
+}
+
+.multi-select.open .multi-select-trigger {
+  border-color: var(--accent);
+}
+
+.multi-select-menu {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% - 0.5px);
+  left: 0;
+  right: 0;
+  display: none;
+  border: 0.5px solid var(--ink-hairline);
+  background: var(--fg);
+}
+
+.multi-select.open .multi-select-menu {
+  display: block;
+}
+
+.multi-select-option {
+  display: flex;
+  width: 100%;
+  min-height: 42px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 14px;
+  border: 0;
+  border-bottom: 0.5px solid var(--ink-hairline);
+  border-radius: 0;
+  background: var(--fg);
+  color: var(--bg);
+  text-align: left;
+  transition: background 300ms ease, color 300ms ease;
+}
+
+.multi-select-option:last-child {
+  border-bottom: 0;
+}
+
+.multi-select-option::after {
+  content: "";
+  color: var(--fg);
+}
+
+.multi-select-option.active {
+  background: var(--accent);
+  color: var(--fg);
+}
+
+.multi-select-option.active::after {
+  content: "SELECTED";
+  font-family: "JetBrains Mono", monospace;
+  font-size: 8px;
+  font-weight: 500;
+  letter-spacing: 0.28em;
+}
+
+.multi-select-option:hover {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.multi-select-option.active:hover {
+  background: var(--accent);
+  color: var(--fg);
 }
 
 .ask-panel {

@@ -6,6 +6,7 @@ const state = {
   manifest: null,
   databaseByDistrict: new Map(),
   currentDistrictId: '',
+  selectedDistrictIds: [],
   generatedExercises: [],
   sortMode: 'default',
   outputMetaLabel: 'exercises generated',
@@ -391,15 +392,36 @@ function describeSmartCriteria(criteria) {
     : 'Matched by exercise text';
 }
 
-function getInitialDistrictId(manifest) {
+function normalizeDistrictIds(ids, manifest = state.manifest) {
+  const validIds = new Set((manifest?.districts || []).map((district) => district.id));
+  return uniqueValues(
+    (Array.isArray(ids) ? ids : [ids])
+      .flatMap((id) => String(id || '').split(','))
+      .map((id) => id.trim())
+      .filter((id) => validIds.has(id))
+  );
+}
+
+function getInitialDistrictIds(manifest) {
   const params = new URLSearchParams(window.location.search);
   const requested = params.get('district') || window.location.hash.replace('#', '');
-  const hasRequested = manifest.districts.some((district) => district.id === requested);
-  return hasRequested ? requested : manifest.districts[0]?.id;
+  const requestedIds = normalizeDistrictIds(requested, manifest);
+  return requestedIds.length ? requestedIds : [manifest.districts[0]?.id].filter(Boolean);
 }
 
 function getDistrictMeta(id) {
   return state.manifest.districts.find((district) => district.id === id);
+}
+
+function getSelectedDistrictIds() {
+  const selectedIds = normalizeDistrictIds(state.selectedDistrictIds);
+  if (selectedIds.length) return selectedIds;
+  return [state.currentDistrictId].filter(Boolean);
+}
+
+function getSelectedDistrictMetas() {
+  const selectedIds = new Set(getSelectedDistrictIds());
+  return state.manifest.districts.filter((district) => selectedIds.has(district.id));
 }
 
 async function fetchJson(url) {
@@ -426,9 +448,14 @@ async function loadDistrict(id) {
   return database;
 }
 
-function updateUrl(id) {
+function updateUrl(ids) {
   const url = new URL(window.location.href);
-  url.searchParams.set('district', id);
+  const selectedIds = normalizeDistrictIds(ids);
+  if (selectedIds.length) {
+    url.searchParams.set('district', selectedIds.join(','));
+  } else {
+    url.searchParams.delete('district');
+  }
   try {
     window.history.replaceState({}, '', url);
   } catch (error) {
@@ -440,69 +467,129 @@ function renderDistrictControls() {
   els.districtTabs.innerHTML = '';
   els.districtSelect.innerHTML = '';
 
+  const trigger = document.createElement('button');
+  trigger.type = 'button';
+  trigger.className = 'multi-select-trigger';
+  trigger.setAttribute('aria-expanded', 'false');
+  trigger.textContent = 'Select districts';
+  trigger.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    els.districtSelect.classList.toggle('open');
+    trigger.setAttribute('aria-expanded', String(els.districtSelect.classList.contains('open')));
+  });
+
+  const menu = document.createElement('div');
+  menu.className = 'multi-select-menu';
+
   state.manifest.districts.forEach((district) => {
-    const tab = document.createElement('button');
-    tab.type = 'button';
+    const tab = document.createElement('span');
     tab.className = 'district-tab small-label';
     tab.dataset.district = district.id;
     tab.textContent = district.title;
-    tab.addEventListener('click', () => selectDistrict(district.id));
+    tab.setAttribute('aria-hidden', 'true');
     els.districtTabs.appendChild(tab);
 
-    const option = document.createElement('option');
-    option.value = district.id;
+    const option = document.createElement('button');
+    option.type = 'button';
+    option.className = 'multi-select-option';
+    option.dataset.district = district.id;
     option.textContent = district.title;
-    els.districtSelect.appendChild(option);
+    option.addEventListener('click', async (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      await toggleDistrictSelection(district.id);
+    });
+    menu.appendChild(option);
   });
+
+  els.districtSelect.append(trigger, menu);
 }
 
-function renderSelectedDistrict() {
-  const meta = getDistrictMeta(state.currentDistrictId);
-  if (!meta) return;
+async function toggleDistrictSelection(id) {
+  const currentIds = getSelectedDistrictIds();
+  const nextIds = currentIds.includes(id)
+    ? currentIds.filter((currentId) => currentId !== id)
+    : [...currentIds, id];
 
-  els.selectedDistrictLabel.textContent = meta.title;
-  els.selectedDistrictMeta.textContent = `${meta.exercises} exercises`;
-  els.generatorTitle.textContent = `${meta.title} plan`;
-  els.generatorCopy.textContent = `${meta.sections} sections available. Generate a complete plan or replace individual exercises after generation.`;
-  els.outputTitle.textContent = `${meta.title} workout`;
-  els.districtSelect.value = meta.id;
-
-  document.querySelectorAll('.district-tab').forEach((tab) => {
-    tab.classList.toggle('active', tab.dataset.district === meta.id);
-  });
-
-  if (!state.generatedExercises.length) {
-    renderEmptyState(meta);
+  await selectDistricts(nextIds.length ? nextIds : currentIds);
+  els.districtSelect.classList.add('open');
+  const trigger = els.districtSelect.querySelector('.multi-select-trigger');
+  if (trigger) {
+    trigger.setAttribute('aria-expanded', 'true');
   }
 }
 
-async function selectDistrict(id) {
-  state.currentDistrictId = id;
+function renderSelectedDistrict() {
+  const metas = getSelectedDistrictMetas();
+  if (!metas.length) return;
+
+  const totalExercises = metas.reduce((sum, meta) => sum + (Number(meta.exercises) || 0), 0);
+  const totalSections = metas.reduce((sum, meta) => sum + (Number(meta.sections) || 0), 0);
+  const selectedLabel = metas.length === 1 ? metas[0].title : `${metas.length} districts`;
+  const workoutTitle = metas.length === 1 ? `${metas[0].title} workout` : 'Multi-district workout';
+
+  els.selectedDistrictLabel.textContent = selectedLabel;
+  els.selectedDistrictMeta.textContent = metas.length === 1
+    ? `${metas[0].exercises} exercises`
+    : `${totalSections} sections / ${totalExercises} exercises`;
+  els.generatorTitle.textContent = metas.length === 1 ? `${metas[0].title} plan` : 'Multi-district plan';
+  els.generatorCopy.textContent = metas.length === 1
+    ? `${metas[0].sections} sections available. Generate a complete plan or replace individual exercises after generation.`
+    : `${metas.length} body districts selected. Generate a grouped plan while keeping each district separated.`;
+  els.outputTitle.textContent = workoutTitle;
+
+  const selectedIds = getSelectedDistrictIds();
+  const trigger = els.districtSelect.querySelector('.multi-select-trigger');
+  if (trigger) {
+    trigger.textContent = selectedLabel;
+  }
+
+  document.querySelectorAll('.multi-select-option').forEach((option) => {
+    option.classList.toggle('active', selectedIds.includes(option.dataset.district));
+    option.setAttribute('aria-pressed', String(selectedIds.includes(option.dataset.district)));
+  });
+
+  document.querySelectorAll('.district-tab').forEach((tab) => {
+    tab.classList.toggle('active', selectedIds.includes(tab.dataset.district));
+  });
+
+  if (!state.generatedExercises.length) {
+    renderEmptyState();
+  }
+}
+
+async function selectDistricts(ids) {
+  const selectedIds = normalizeDistrictIds(ids);
+  state.selectedDistrictIds = selectedIds.length
+    ? selectedIds
+    : [state.manifest.districts[0]?.id].filter(Boolean);
+  state.currentDistrictId = state.selectedDistrictIds[0] || '';
   state.generatedExercises = [];
   state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
   state.outputTotal = null;
   els.sortSelect.value = 'default';
-  updateUrl(id);
+  updateUrl(state.selectedDistrictIds);
   renderSelectedDistrict();
 
   try {
-    await loadDistrict(id);
+    await Promise.all(state.selectedDistrictIds.map((id) => loadDistrict(id)));
     setStatus('Archive ready');
   } catch (error) {
-    const meta = getDistrictMeta(id);
-    showError(`${meta?.title || 'Selected'} archive could not be loaded. Check that this district JSON file is published correctly.`);
+    showError('One selected archive could not be loaded. Check that the district JSON files are published correctly.');
     console.error(error);
   }
 }
 
-function renderEmptyState(meta = getDistrictMeta(state.currentDistrictId)) {
+function renderEmptyState(metas = getSelectedDistrictMetas()) {
   els.workoutList.innerHTML = '';
   const empty = document.createElement('div');
   empty.className = 'empty-state';
-  empty.textContent = meta
-    ? `No workout generated. Select ${meta.title} and press Generate workout.`
+  const label = metas.length === 1 ? metas[0].title : 'one or more districts';
+  empty.textContent = metas.length
+    ? `No workout generated. Select ${label} and press Generate workout.`
     : 'No workout generated.';
   els.outputMeta.textContent = 'No workout generated';
   els.workoutList.appendChild(empty);
@@ -586,9 +673,22 @@ function attachWorkoutOrder(exercise, order) {
   };
 }
 
+function getDistrictRank(exercise) {
+  const districtId = exercise.districtId || state.currentDistrictId;
+  const selectedIds = getSelectedDistrictIds();
+  const selectedIndex = selectedIds.indexOf(districtId);
+  if (selectedIndex >= 0) return selectedIndex;
+
+  const manifestIndex = state.manifest?.districts.findIndex((district) => district.id === districtId) ?? -1;
+  return manifestIndex >= 0 ? selectedIds.length + manifestIndex : 999;
+}
+
 function sortGeneratedExercises() {
   const direction = state.sortMode;
   state.generatedExercises.sort((a, b) => {
+    const districtOrder = getDistrictRank(a) - getDistrictRank(b);
+    if (districtOrder !== 0) return districtOrder;
+
     if (direction === 'easy-hard') {
       return getDifficultyLevel(a) - getDifficultyLevel(b) || (a.workoutOrder ?? 0) - (b.workoutOrder ?? 0);
     }
@@ -719,10 +819,11 @@ async function loadWorkoutCode() {
     els.sortSelect.value = state.sortMode;
     els.outputTitle.textContent = 'Restored workout';
 
-    const firstDistrictId = exercises[0]?.districtId;
-    if (firstDistrictId && getDistrictMeta(firstDistrictId)) {
-      state.currentDistrictId = firstDistrictId;
-      updateUrl(firstDistrictId);
+    const restoredDistrictIds = normalizeDistrictIds(exercises.map((exercise) => exercise.districtId));
+    if (restoredDistrictIds.length) {
+      state.selectedDistrictIds = restoredDistrictIds;
+      state.currentDistrictId = restoredDistrictIds[0];
+      updateUrl(restoredDistrictIds);
       renderSelectedDistrict();
       els.outputTitle.textContent = 'Restored workout';
     }
@@ -738,38 +839,41 @@ async function loadWorkoutCode() {
 }
 
 async function generateWorkout() {
-  let database;
+  const selectedIds = getSelectedDistrictIds();
+  let archives;
   try {
-    database = await loadDistrict(state.currentDistrictId);
+    archives = await Promise.all(selectedIds.map(async (districtId) => ({
+      districtId,
+      database: await loadDistrict(districtId)
+    })));
   } catch (error) {
-    const meta = getDistrictMeta(state.currentDistrictId);
-    showError(`${meta?.title || 'Selected'} archive could not be loaded. Check that this district JSON file and its images are published correctly.`);
+    showError('One selected archive could not be loaded. Check that the district JSON files are published correctly.');
     console.error(error);
     return;
   }
 
   const quantity = Number(els.quantitySelect.value) || 2;
-  const meta = getDistrictMeta(state.currentDistrictId);
+  const metas = getSelectedDistrictMetas();
   state.generatedExercises = [];
   state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
   state.outputTotal = null;
   els.sortSelect.value = 'default';
-  if (meta) {
-    els.outputTitle.textContent = `${meta.title} workout`;
-  }
+  els.outputTitle.textContent = metas.length === 1 ? `${metas[0].title} workout` : 'Multi-district workout';
 
-  asDistrictList(database).forEach((district) => {
-    (district.sezioni || []).forEach((section) => {
-      const selected = chooseRandom(section.esercizi || [], quantity);
-      selected.forEach((exercise) => {
-        state.generatedExercises.push(attachWorkoutOrder({
-          ...exercise,
-          districtId: state.currentDistrictId,
-          distretto: district.distretto,
-          sezione: section.nome
-        }, state.generatedExercises.length));
+  archives.forEach(({ districtId, database }) => {
+    asDistrictList(database).forEach((district) => {
+      (district.sezioni || []).forEach((section) => {
+        const selected = chooseRandom(section.esercizi || [], quantity);
+        selected.forEach((exercise) => {
+          state.generatedExercises.push(attachWorkoutOrder({
+            ...exercise,
+            districtId,
+            distretto: district.distretto,
+            sezione: section.nome
+          }, state.generatedExercises.length));
+        });
       });
     });
   });
@@ -779,15 +883,15 @@ async function generateWorkout() {
 }
 
 function clearWorkout() {
-  const meta = getDistrictMeta(state.currentDistrictId);
+  const metas = getSelectedDistrictMetas();
   state.generatedExercises = [];
   state.sortMode = 'default';
   state.outputMetaLabel = 'exercises generated';
   state.outputMetaText = '';
   state.outputTotal = null;
   els.sortSelect.value = 'default';
-  if (meta) {
-    els.outputTitle.textContent = `${meta.title} workout`;
+  if (metas.length) {
+    els.outputTitle.textContent = metas.length === 1 ? `${metas[0].title} workout` : 'Multi-district workout';
   }
   renderEmptyState();
   document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -1103,7 +1207,15 @@ async function init() {
   try {
     state.manifest = await fetchJson(manifestUrl);
     renderDistrictControls();
-    els.districtSelect.addEventListener('change', () => selectDistrict(els.districtSelect.value));
+    document.addEventListener('click', (event) => {
+      if (!els.districtSelect.contains(event.target)) {
+        els.districtSelect.classList.remove('open');
+        const trigger = els.districtSelect.querySelector('.multi-select-trigger');
+        if (trigger) {
+          trigger.setAttribute('aria-expanded', 'false');
+        }
+      }
+    });
     els.generateButton.addEventListener('click', generateWorkout);
     els.clearButton.addEventListener('click', clearWorkout);
     els.askForm.addEventListener('submit', handleSmartSearch);
@@ -1111,8 +1223,8 @@ async function init() {
     els.copyCodeButton.addEventListener('click', copyWorkoutCode);
     els.loadCodeButton.addEventListener('click', loadWorkoutCode);
 
-    const initialDistrict = getInitialDistrictId(state.manifest);
-    await selectDistrict(initialDistrict);
+    const initialDistricts = getInitialDistrictIds(state.manifest);
+    await selectDistricts(initialDistricts);
   } catch (error) {
     showError('The exercise archive could not be loaded. Publish this folder on a static host or preview it through a local server.');
     console.error(error);

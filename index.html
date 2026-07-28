@@ -578,6 +578,7 @@
       border-bottom: 0.5px solid var(--hairline);
       background: transparent;
       color: inherit;
+      cursor: default;
       text-align: left;
       transition: background 300ms ease, color 300ms ease;
     }
@@ -1187,28 +1188,29 @@
               <h3>Build by district</h3>
               <p>One lightweight app, four body districts, same Split APA workflow with a cleaner and faster experience.</p>
             </div>
-            <div class="panel-actions single">
+            <div class="panel-actions">
+              <button class="button" type="button" data-generator-url="generator/">Open generator</button>
               <button class="button" type="button" data-scroll-target="why">Why Split APA</button>
             </div>
           </div>
 
-          <div class="generator-map" aria-label="Body district generator links">
-            <a class="map-item" href="generator/?district=neck">
-              <div class="small-label">01 / Generator</div>
+          <div class="generator-map" aria-label="Body district overview">
+            <article class="map-item">
+              <div class="small-label">01 / District</div>
               <div class="map-title">Neck</div>
-            </a>
-            <a class="map-item" href="generator/?district=upper-limb">
-              <div class="small-label">02 / Generator</div>
+            </article>
+            <article class="map-item">
+              <div class="small-label">02 / District</div>
               <div class="map-title">Upper limb</div>
-            </a>
-            <a class="map-item" href="generator/?district=trunk">
-              <div class="small-label">03 / Generator</div>
+            </article>
+            <article class="map-item">
+              <div class="small-label">03 / District</div>
               <div class="map-title">Trunk</div>
-            </a>
-            <a class="map-item" href="generator/?district=lower-limb">
-              <div class="small-label">04 / Generator</div>
+            </article>
+            <article class="map-item">
+              <div class="small-label">04 / District</div>
               <div class="map-title">Lower limb</div>
-            </a>
+            </article>
           </div>
         </div>
       </div>
