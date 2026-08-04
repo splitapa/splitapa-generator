@@ -1,944 +1,1584 @@
 {
-    "distretto":  "Upper Limb",
-    "sezioni":  [
-                    {
-                        "nome":  "Shoulder - Mobility and Control",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Hands-on-Shoulders Elbow Circles",
-                                             "image":  "",
-                                             "description":  "This movement improves shoulder mobility and helps reduce stiffness when raising the arms, dressing, or washing the upper body.",
-                                             "howToDo":  "Sit upright or stand. Place your right hand on your right shoulder and your left hand on your left shoulder. Slowly draw small circles with your elbows, moving them forward, upward, backward, and down. Make 5 circles forward and then 5 circles backward.",
-                                             "whatToDo":  "Move slowly and keep your neck relaxed.",
-                                             "whatNotToDo":  "Do not make large circles if they cause shoulder pain.",
-                                             "id":  "upper-limb-038",
-                                             "sezione":  "Shoulder - Mobility and Control",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Hands-on-Shoulders Elbow Circles",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "circumduction",
-                                                                  "mobility"
-                                                              ],
-                                             "difficulty":  4
-                                         }
-                                     ],
-                        "id":  "shoulder-mobility-control"
-                    },
-                    {
-                        "nome":  "Shoulder - Anterior Region",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Bring the Hands Behind the Neck",
-                                             "image":  "",
-                                             "description":  "This exercise helps stretch and open the front part of the shoulder. It reproduces the movement used to comb your hair, wash your hair, or put on a shirt over your head.",
-                                             "howToDo":  "Sit upright on a chair or stand. Lift your arms out to the sides and bend your elbows, bringing the palms of your hands to gently touch the back of your head, the nape of your neck. From this position, push your elbows backward as far as is comfortable, feeling your chest open. Hold this position for 5 seconds, then relax your arms by your sides.",
-                                             "whatToDo":  "Keep your neck relaxed and always look straight ahead.",
-                                             "whatNotToDo":  "Do not push your head forward with your hands and do not round your back.",
-                                             "id":  "upper-limb-001",
-                                             "sezione":  "Shoulder - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Bring the Hands Behind the Neck",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "abduction",
-                                                                  "external-rotation"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Press the Palms Together",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the anterior muscles of the shoulder and chest. It is very useful for maintaining the strength needed to hold an object close to your body, such as a shopping bag or a tray.",
-                                             "howToDo":  "Sit upright. Bring the palms of your hands together in front of your chest, keeping your elbows raised at the same height as your hands, as in a prayer position. Gently push one hand against the other, as if you were trying to squeeze something between your palms. Maintain a steady push for 5 seconds, then relax.",
-                                             "whatToDo":  "Continue breathing normally throughout the push.",
-                                             "whatNotToDo":  "Do not raise your shoulders toward your ears and do not clench your teeth.",
-                                             "id":  "upper-limb-002",
-                                             "sezione":  "Shoulder - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Press the Palms Together",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "horizontal-adduction",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  5
-                                         },
-                                         {
-                                             "nome":  "Raise the Arms Forward",
-                                             "image":  "",
-                                             "description":  "This movement strengthens the front part of the shoulder. It simulates the action of placing a plate on a shelf or passing an object to someone in front of you.",
-                                             "howToDo":  "You can sit or stand. Keep your arms by your sides with your palms facing your thighs. Slowly lift your straight arms forward in front of you until they reach eye level. If you want, you can hold two small water bottles, either empty or half full. Hold your arms up for 3 seconds, then slowly lower them back down.",
-                                             "whatToDo":  "Perform the movement very slowly, both when lifting and lowering your arms.",
-                                             "whatNotToDo":  "Do not swing your torso backward to help lift your arms.",
-                                             "id":  "upper-limb-003",
-                                             "sezione":  "Shoulder - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Raise the Arms Forward",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "flexion"
-                                                              ],
-                                             "difficulty":  4
-                                         },
-                                         {
-                                             "nome":  "Finger Walk on the Wall",
-                                             "image":  "",
-                                             "description":  "This exercise combines stretching with strengthening of the front part of the shoulder, helping you recover upward arm movement without putting too much strain on your back.",
-                                             "howToDo":  "Stand facing a wall, about one step away. Place your fingertips on the wall at chest height. Using your fingers as if they were the legs of a spider, make them â€œwalkâ€ up the wall, one small step at a time, as far as you can comfortably reach. Stay at the highest point for 5 seconds, then make your fingers â€œwalkâ€ back down.",
-                                             "whatToDo":  "Take a small step closer to the wall as your hand moves upward, so you do not strain your back.",
-                                             "whatNotToDo":  "Do not lift your heels off the floor and do not force the upward movement if you feel shoulder pain.",
-                                             "id":  "upper-limb-004",
-                                             "sezione":  "Shoulder - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Finger Walk on the Wall",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "flexion"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Seated Shoulder Blade Push Forward",
-                                             "image":  "",
-                                             "description":  "This exercise activates the muscles that help the shoulder blade move forward, which is useful when reaching for an object on a table or pushing something light away.",
-                                             "howToDo":  "Sit upright on a chair with your feet resting on the floor. Stretch both arms forward at chest height, with your hands open and your palms facing each other. Without bending your elbows, gently push your hands forward as if you wanted to reach something a little farther away. You should feel your shoulder blades move slightly apart. Hold for 3 seconds, then return to the starting position.",
-                                             "whatToDo":  "Keep your arms straight and move slowly from the shoulders.",
-                                             "whatNotToDo":  "Do not round your whole back forward and do not lift your shoulders toward your ears.",
-                                             "id":  "upper-limb-039",
-                                             "sezione":  "Shoulder - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Seated Shoulder Blade Push Forward",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "scapular-protraction"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Quadruped Single Arm Reach",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the shoulder and improves trunk stability while the arm moves forward. It is useful for reaching for objects safely.",
-                                             "howToDo":  "Get on all fours on a mat. Keep your hands under your shoulders and your knees under your hips. Slowly lift your right arm forward, keeping it straight, until it reaches the height of your shoulder. Hold for 2 seconds, then place the hand back down. Repeat 5 times, then switch arms.",
-                                             "whatToDo":  "Keep your abdomen slightly engaged to prevent your body from swaying.",
-                                             "whatNotToDo":  "Do not rotate your torso and do not lift the arm higher than shoulder level.",
-                                             "id":  "upper-limb-047",
-                                             "sezione":  "Shoulder - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Quadruped Single Arm Reach",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "flexion",
-                                                                  "stabilization"
-                                                              ],
-                                             "difficulty":  5
-                                         }
-                                     ],
-                        "id":  "shoulder-anterior-region"
-                    },
-                    {
-                        "nome":  "Shoulder - Lateral Region",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Raise the Arms to the Side",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the side part of the shoulder. It reproduces the movement used to put on the sleeves of a coat or jacket, or to open your arms out to take measurements.",
-                                             "howToDo":  "Sit upright on a chair or stand. Keep your arms relaxed by your sides, with your palms facing inward. Slowly lift your arms out to the sides until they reach shoulder height, as if you had wings. Hold the position for 3 seconds, then lower your arms very slowly.",
-                                             "whatToDo":  "Keep your palms facing the floor as you lift your arms.",
-                                             "whatNotToDo":  "Do not raise your hands above shoulder height and do not make quick, sudden movements.",
-                                             "id":  "upper-limb-005",
-                                             "sezione":  "Shoulder - Lateral Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Raise the Arms to the Side",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "abduction"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Side Elbow Press Against the Wall",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the side muscles without moving the joint, making it excellent for people with mild pain. It simulates the strength needed to move an object sideways with your body or to make space for yourself.",
-                                             "howToDo":  "Stand sideways next to a wall, about half an armâ€™s length away. Bend your elbow to 90 degrees and place the outer side of your arm and elbow against the wall. Push your elbow sideways against the wall, as if you were trying to knock it down. Maintain a steady push for 5 seconds, then relax and switch sides.",
-                                             "whatToDo":  "Keep your body straight and still; only the shoulder should push.",
-                                             "whatNotToDo":  "Do not lean your torso toward the wall to help yourself and do not clench your teeth.",
-                                             "id":  "upper-limb-006",
-                                             "sezione":  "Shoulder - Lateral Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Side Elbow Press Against the Wall",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "abduction",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Open the Arms as if Cleaning the Table",
-                                             "image":  "",
-                                             "description":  "This exercise combines side shoulder movement with an action you do every day at home, such as cleaning furniture or spreading out a tablecloth.",
-                                             "howToDo":  "Sit upright in front of a table. Place the palms of your hands on the table in front of you, with your elbows slightly bent. Without lifting your hands from the surface, slide both hands outward at the same time, opening them as far as possible. Then, still sliding, bring them back to the centre. Repeat this movement 5 times.",
-                                             "whatToDo":  "You can place two soft cloths under your hands to help them slide more easily.",
-                                             "whatNotToDo":  "Do not lift your hands off the table and do not bend your back forward.",
-                                             "id":  "upper-limb-007",
-                                             "sezione":  "Shoulder - Lateral Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Open the Arms as if Cleaning the Table",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "abduction",
-                                                                  "adduction"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Sideways Finger Walk on the Wall",
-                                             "image":  "",
-                                             "description":  "This exercise helps improve the side opening of the arms and mobility, which is essential for reaching an object placed beside you without having to turn your whole body.",
-                                             "howToDo":  "Stand sideways next to a wall, with your right side facing the wall. Place the fingertips of your right hand on the wall at shoulder height. Using your fingers, make them â€œwalkâ€ up the wall, moving your arm out to the side as far as you can comfortably reach. Stay there for 5 seconds, then slowly come back down and repeat with your left side facing the wall.",
-                                             "whatToDo":  "Keep your body fully turned sideways, without rotating your chest toward the wall.",
-                                             "whatNotToDo":  "Do not force the movement if you feel a sharp pain or strong pain in your shoulder.",
-                                             "id":  "upper-limb-008",
-                                             "sezione":  "Shoulder - Lateral Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Sideways Finger Walk on the Wall",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "abduction"
-                                                              ],
-                                             "difficulty":  2
-                                         }
-                                     ],
-                        "id":  "shoulder-lateral-region"
-                    },
-                    {
-                        "nome":  "Shoulder - Posterior Region",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Push the Elbows Backward",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the back part of the shoulder and the back. It reproduces the movement used to put the second arm into the sleeve of a coat or to tie an apron behind your waist.",
-                                             "howToDo":  "Sit upright on a chair, away from the backrest. Raise your elbows to chest height and bend your arms, keeping your hands close to your chest. From this position, gently push your elbows backward, as if you were giving a light elbow push to a wall behind you. Count to 5, then return forward.",
-                                             "whatToDo":  "Bring the two flat bones in your upper back, the shoulder blades, closer together as you push backward.",
-                                             "whatNotToDo":  "Do not raise your shoulders toward your ears and do not tilt your head forward.",
-                                             "id":  "upper-limb-009",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Push the Elbows Backward",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "scapular-retraction"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Backward Elbow Press Against the Backrest",
-                                             "image":  "",
-                                             "description":  "This exercise safely strengthens the posterior muscles using the chair, helping improve posture when sitting at a table or in an armchair.",
-                                             "howToDo":  "Sit upright and rest your back against the backrest of the chair. Keep your arms by your sides and bend your elbows to 90 degrees, keeping them close to your body. Push your elbows firmly backward against the backrest of the chair. Maintain this steady push for 5 seconds, then relax.",
-                                             "whatToDo":  "Continue breathing normally and keep your feet firmly planted on the floor.",
-                                             "whatNotToDo":  "Do not lift your back away from the chair and do not make sudden movements.",
-                                             "id":  "upper-limb-010",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Backward Elbow Press Against the Backrest",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Bring the Hands Behind the Back",
-                                             "image":  "",
-                                             "description":  "This movement stretches the front part and activates the muscles at the back, simulating the action of putting a belt through your trousers, washing your lower back, or scratching your back.",
-                                             "howToDo":  "You can sit or stand. Bring your arms behind your back at waist level. Try to hold your left wrist with your right hand, or vice versa. If you cannot do this, simply place the backs of your hands on your lower back. From this position, gently push your shoulders backward. Hold this position for 5 seconds.",
-                                             "whatToDo":  "Keep your chest open and look straight ahead.",
-                                             "whatNotToDo":  "Do not bend your neck forward and do not force the movement if you feel shoulder pain.",
-                                             "id":  "upper-limb-011",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Bring the Hands Behind the Back",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "internal-rotation"
-                                                              ],
-                                             "difficulty":  5
-                                         },
-                                         {
-                                             "nome":  "Open the Straight Arms Backward",
-                                             "image":  "",
-                                             "description":  "This exercise helps give elasticity and strength to the entire posterior chain of the shoulder, which is essential for preventing a forward-rounded posture when walking.",
-                                             "howToDo":  "Sit upright on the chair. Bring your straight arms forward at chest height, with your palms facing each other. From this position, open your arms out to the sides and bring them as far back as comfortably possible, as if you were trying to give someone a very big hug. Hold the maximum opening position for 3 seconds, then return forward.",
-                                             "whatToDo":  "Perform the movement very slowly, controlling the return.",
-                                             "whatNotToDo":  "Do not arch your lower back and do not hold your breath.",
-                                             "id":  "upper-limb-012",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Open the Straight Arms Backward",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "horizontal-abduction",
-                                                                  "extension"
-                                                              ],
-                                             "difficulty":  4
-                                         },
-                                         {
-                                             "nome":  "Shoulder External Rotation with Elbows Close",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the small stabilizing muscles of the shoulder, which help keep the arm steady during daily activities such as dressing or reaching for objects.",
-                                             "howToDo":  "Sit upright on a chair. Bend both elbows to 90 degrees and keep them close to your sides. Keep your palms facing upward. Slowly move your hands outward, opening your forearms to the sides while keeping your elbows attached to your body. Hold for 2 seconds, then return to the starting position. Repeat 5 times.",
-                                             "whatToDo":  "Keep your elbows close to your sides throughout the movement.",
-                                             "whatNotToDo":  "Do not lift your shoulders and do not rotate your torso to help the movement.",
-                                             "id":  "upper-limb-037",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Shoulder External Rotation with Elbows Close",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "external-rotation"
-                                                              ],
-                                             "difficulty":  5
-                                         },
-                                         {
-                                             "nome":  "Seated Shoulder Blade Squeeze Downward",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the muscles that keep the shoulders low and stable, helping reduce tension in the neck and upper back.",
-                                             "howToDo":  "Sit upright on a chair with your arms relaxed by your sides. Imagine that you want to slide your shoulder blades down toward your back pockets. Gently pull your shoulders downward and slightly backward, without moving your head. Hold the position for 5 seconds, then relax completely.",
-                                             "whatToDo":  "Keep your neck long and your gaze straight ahead.",
-                                             "whatNotToDo":  "Do not push your chest too far forward and do not hold your breath.",
-                                             "id":  "upper-limb-040",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Seated Shoulder Blade Squeeze Downward",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "scapular-depression",
-                                                                  "scapular-retraction"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Towel Pull Apart",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the back part of the shoulders and upper back, helping improve posture and arm control.",
-                                             "howToDo":  "Sit upright or stand. Hold a small towel with both hands in front of your chest, keeping your elbows slightly bent. Pull the towel outward with both hands, as if you were trying to stretch it apart. Keep the pull steady for 5 seconds, then relax.",
-                                             "whatToDo":  "Keep your wrists straight and your shoulders relaxed.",
-                                             "whatNotToDo":  "Do not pull so hard that your neck becomes tense.",
-                                             "id":  "upper-limb-041",
-                                             "sezione":  "Shoulder - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Towel Pull Apart",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "horizontal-abduction",
-                                                                  "scapular-retraction"
-                                                              ],
-                                             "difficulty":  5
-                                         }
-                                     ],
-                        "id":  "shoulder-posterior-region"
-                    },
-                    {
-                        "nome":  "Arm - Anterior Region",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Touch the Opposite Shoulder",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the muscles at the front of the arm and improves mobility. It reproduces the movement used to wash yourself in the shower or to put on a scarf.",
-                                             "howToDo":  "Sit upright on a chair. Keep your arms relaxed by your sides. Slowly lift your right hand and bring it to rest on your left shoulder, bending your elbow in front of your chest. Hold still for 3 seconds, then slowly lower your arm back down. Repeat the same movement with your left hand on your right shoulder.",
-                                             "whatToDo":  "Perform the movement with calm breathing.",
-                                             "whatNotToDo":  "Do not force the movement if you feel a sharp pain in your shoulder.",
-                                             "id":  "upper-limb-013",
-                                             "sezione":  "Arm - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Touch the Opposite Shoulder",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "flexion"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Lift the Hands from the Table Toward the Chest",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the front part of the arm from a comfortable and safe position, making it excellent for starting gymnastics.",
-                                             "howToDo":  "Sit upright at a table and place your forearms and open hands on the table, with your palms facing upward. From this position, bend your elbows and lift your hands off the table, bringing them toward your chest. Your elbows must remain resting on the table. Count to 3, then place your hands back on the table.",
-                                             "whatToDo":  "Keep your fingers relaxed and open.",
-                                             "whatNotToDo":  "Do not lift your elbows off the table while raising your hands.",
-                                             "id":  "upper-limb-014",
-                                             "sezione":  "Arm - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Lift the Hands from the Table Toward the Chest",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "flexion"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Squeeze a Pillow Between the Hands and Chest",
-                                             "image":  "",
-                                             "description":  "This movement uses a soft household object to strengthen the arm muscles used to hug grandchildren or hold cherished objects close.",
-                                             "howToDo":  "Sit upright on the chair. Take a small, soft cushion and hold it in front of your chest, squeezing it between the palms of your hands. Bend your arms forward and press the cushion against your chest, tightening the muscles at the front of your arms. Hold the pressure for 5 seconds, then relax your grip.",
-                                             "whatToDo":  "Keep your back well supported against the backrest of the chair.",
-                                             "whatNotToDo":  "Do not clench your teeth and continue breathing normally.",
-                                             "id":  "upper-limb-015",
-                                             "sezione":  "Arm - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Squeeze a Pillow Between the Hands and Chest",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "flexion",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "The Waiter Plate Exercise",
-                                             "image":  "",
-                                             "description":  "This exercise helps build strength and endurance in the front part of the arm, which is useful for clearing the table or moving objects without dropping them.",
-                                             "howToDo":  "You can sit or stand. Bend your right elbow to 90 degrees, keeping it close to your side, with your hand open and facing upward, as if you were a waiter holding a plate. Stay still in this position for 5 seconds, keeping the arm muscle active. Repeat with your left arm.",
-                                             "whatToDo":  "Keep the palm of your hand flat and facing the ceiling.",
-                                             "whatNotToDo":  "Do not move your elbow away from your side and do not lift your shoulder.",
-                                             "id":  "upper-limb-016",
-                                             "sezione":  "Arm - Anterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "The Waiter Plate Exercise",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "flexion",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  4
-                                         }
-                                     ],
-                        "id":  "arm-anterior-region"
-                    },
-                    {
-                        "nome":  "Arm - Posterior Region",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Press the Hands Down on the Table",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the muscles at the back of the arm using a safe surface. It helps provide stability when leaning on a piece of furniture.",
-                                             "howToDo":  "Sit upright in front of a table. Place the palms of your hands on the table, keeping your elbows bent and close to your body. Push your hands firmly downward against the table, as if you were trying to lift yourself from the chair using only your arms. Maintain a steady push for 5 seconds, then relax.",
-                                             "whatToDo":  "Feel the muscles at the back of your arms tighten during the push.",
-                                             "whatNotToDo":  "Do not let your neck sink between your shoulders and continue breathing.",
-                                             "id":  "upper-limb-017",
-                                             "sezione":  "Arm - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Press the Hands Down on the Table",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Extend the Arm Forward",
-                                             "image":  "",
-                                             "description":  "This movement trains the back part of the arm in the action of reaching out for an object or cleaning a vertical surface.",
-                                             "howToDo":  "Sit upright or stand. Bring your right hand close to your right shoulder with your elbow bent. From this position, fully extend your arm forward at chest height, as if you were giving a slow push or cleaning a window. Tighten the muscle at the back of your arm for 2 seconds, then slowly return. Repeat 5 times, then switch arms.",
-                                             "whatToDo":  "Perform the movement very slowly, both when extending the arm and when returning.",
-                                             "whatNotToDo":  "Do not swing your torso forward to help the arm movement.",
-                                             "id":  "upper-limb-018",
-                                             "sezione":  "Arm - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Extend the Arm Forward",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "extension"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Push the Arms Back Against the Wall",
-                                             "image":  "",
-                                             "description":  "This isometric exercise safely activates the back part of the arm while keeping the back fully protected.",
-                                             "howToDo":  "Stand with your back against a flat wall. Keep your arms by your sides, with your elbows close to your body. Firmly push the back of your arms against the wall. Maintain this steady push for 5 seconds, then relax the pressure.",
-                                             "whatToDo":  "Keep your feet slightly away from the wall to stay more stable.",
-                                             "whatNotToDo":  "Do not push with your head or back; the force should come only from your arms.",
-                                             "id":  "upper-limb-019",
-                                             "sezione":  "Arm - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Push the Arms Back Against the Wall",
-                                             "movementDistrict":  "shoulder",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Extend the Arms Upward with a Pillow",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the muscles at the back of the arm. It simulates the movement used to put on a hat, pass a towel behind your head after a shower, or place a light object on a shelf.",
-                                             "howToDo":  "Sit upright on a chair with a backrest. Hold a light cushion with both hands. Bring your hands above your head, bending your elbows backward, so the cushion lightly touches the back of your neck. From this position, push your arms upward until they are fully extended toward the ceiling. Count to 2 at the highest point, then slowly bend your elbows again behind your head.",
-                                             "whatToDo":  "Keep your elbows as close to your ears as possible, rather than wide apart.",
-                                             "whatNotToDo":  "Do not push your head forward and do not arch your back.",
-                                             "id":  "upper-limb-020",
-                                             "sezione":  "Arm - Posterior Region",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Extend the Arms Upward with a Pillow",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "extension"
-                                                              ],
-                                             "difficulty":  1
-                                         }
-                                     ],
-                        "id":  "arm-posterior-region"
-                    },
-                    {
-                        "nome":  "Elbow",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Show the Palm and Back of the Hand",
-                                             "image":  "",
-                                             "description":  "This exercise trains rotation of the elbow and forearm. It reproduces the movement used to turn a key, use a screwdriver, or turn food in a pan.",
-                                             "howToDo":  "Sit upright on a chair. Bend your elbows to 90 degrees and keep them close to your sides, with your hands extended forward, as if you were holding a tray. Rotate your hands so that your palms face the floor. Then rotate them in the opposite direction so that your palms face the ceiling. Repeat this change 10 times in a row, calmly.",
-                                             "whatToDo":  "Keep your elbows firmly close to your sides; only the forearm should rotate.",
-                                             "whatNotToDo":  "Do not move your arms away from your body and do not move your shoulders.",
-                                             "id":  "upper-limb-021",
-                                             "sezione":  "Elbow",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Show the Palm and Back of the Hand",
-                                             "movementDistrict":  "forearm",
-                                             "movementTags":  [
-                                                                  "pronation",
-                                                                  "supination"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Press the Elbow Against the Other Hand",
-                                             "image":  "",
-                                             "description":  "This isometric exercise strengthens the muscles that stabilize the elbow, which is useful for providing stability when leaning on furniture or using a walking stick.",
-                                             "howToDo":  "Sit upright. Bend your right arm in front of your chest at 90 degrees. Place the palm of your left hand under your right elbow. Push your right elbow downward and, at the same time, use your left hand like a wall to push upward and stop the movement. Hold the push for 5 seconds, then switch arms.",
-                                             "whatToDo":  "Continue breathing normally during the push.",
-                                             "whatNotToDo":  "Do not let your neck sink between your shoulders and do not push so hard that you feel pain.",
-                                             "id":  "upper-limb-022",
-                                             "sezione":  "Elbow",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Press the Elbow Against the Other Hand",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  5
-                                         },
-                                         {
-                                             "nome":  "Clench the Fists and Extend the Arms Downward",
-                                             "image":  "",
-                                             "description":  "This movement trains full and controlled elbow extension, which is useful for safely stretching the arms when putting on trousers or a skirt.",
-                                             "howToDo":  "Sit upright on the chair. Start with your elbows bent and your hands close to your armpits, gently making fists. From this position, slowly extend your arms downward, pushing your hands toward the floor as if you were trying to touch the chair legs. Straighten your elbows well, open your hands at the lowest point, count to 2, then slowly return to the starting position.",
-                                             "whatToDo":  "Keep your shoulders relaxed and away from your ears.",
-                                             "whatNotToDo":  "Do not make jerky or very fast movements, to avoid jolting the joint.",
-                                             "id":  "upper-limb-023",
-                                             "sezione":  "Elbow",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Clench the Fists and Extend the Arms Downward",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "extension"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "The Balance Exercise with Hands on the Table",
-                                             "image":  "",
-                                             "description":  "This exercise uses the table to strengthen the elbow muscles alternately, improving stability and coordination of the arms.",
-                                             "howToDo":  "Sit in front of a table and place the palms of both hands on the surface, keeping your elbows bent. Push downward with your right hand, slightly straightening the elbow, as if you were trying to lower one side of a scale, while the left arm relaxes. Then do the opposite: push with the left hand and relax the right. Alternate this slow movement 5 times on each side.",
-                                             "whatToDo":  "Keep your feet firmly on the floor to help with balance.",
-                                             "whatNotToDo":  "Do not lean your torso to the right or left; the push should come only from the elbows.",
-                                             "id":  "upper-limb-024",
-                                             "sezione":  "Elbow",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "The Balance Exercise with Hands on the Table",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "extension",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  4
-                                         },
-                                         {
-                                             "nome":  "Seated Elbow Press into the Table",
-                                             "image":  "",
-                                             "description":  "This isometric exercise strengthens the muscles around the elbow and helps improve stability when leaning on a table or armrest.",
-                                             "howToDo":  "Sit upright in front of a table. Bend your right elbow and place the outer side of your forearm on the table. Gently press your elbow and forearm downward against the table without moving the arm. Hold the pressure for 5 seconds, then relax. Repeat with the left arm.",
-                                             "whatToDo":  "Keep your shoulder relaxed while pressing down.",
-                                             "whatNotToDo":  "Do not lean your whole body onto the arm; the pressure should come from the elbow and forearm.",
-                                             "id":  "upper-limb-042",
-                                             "sezione":  "Elbow",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Seated Elbow Press into the Table",
-                                             "movementDistrict":  "elbow",
-                                             "movementTags":  [
-                                                                  "stabilization",
-                                                                  "isometric"
-                                                              ],
-                                             "difficulty":  3
-                                         }
-                                     ],
-                        "id":  "elbow"
-                    },
-                    {
-                        "nome":  "Forearm",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Wring Out a Dry Towel",
-                                             "image":  "",
-                                             "description":  "This exercise greatly strengthens all the muscles of the forearm and hands, simulating the action of wringing out a cleaning cloth or a sponge.",
-                                             "howToDo":  "Sit upright on a chair. Take a small face towel, roll it up, and hold it with both hands in front of your chest. Turn your right hand forward and your left hand backward, as if you were strongly wringing out the towel. Hold the maximum squeeze for 4 seconds, then change direction, with the right hand turning backward and the left hand forward.",
-                                             "whatToDo":  "Squeeze firmly and make slow, controlled movements.",
-                                             "whatNotToDo":  "Do not raise your shoulders toward your ears and do not hold your breath.",
-                                             "id":  "upper-limb-025",
-                                             "sezione":  "Forearm",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Wring Out a Dry Towel",
-                                             "movementDistrict":  "forearm",
-                                             "movementTags":  [
-                                                                  "pronation",
-                                                                  "supination",
-                                                                  "grip"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Open and Close the Fingers",
-                                             "image":  "",
-                                             "description":  "This movement trains the endurance of the forearm muscles, which is useful for preventing your arms from getting tired when writing, cooking, or doing small manual tasks.",
-                                             "howToDo":  "Sit comfortably. Bring your hands forward to chest height with your elbows bent. Open your hands, spreading all your fingers as wide as possible. Immediately after, close your hands into fists and squeeze firmly. Alternate opening and closing your hands continuously 10 times in a row.",
-                                             "whatToDo":  "Feel the forearm muscles moving and tightening under the skin.",
-                                             "whatNotToDo":  "Do not make movements that are too quick or jerky; focus on making a strong, tight fist.",
-                                             "id":  "upper-limb-026",
-                                             "sezione":  "Forearm",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Open and Close the Fingers",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "finger-flexion",
-                                                                  "finger-extension"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Raise the Wrist Up and Down with Support",
-                                             "image":  "",
-                                             "description":  "This exercise safely strengthens the upper and lower parts of the forearm while protecting the wrist joint.",
-                                             "howToDo":  "Sit at a table. Rest your right forearm on the table, leaving your hand over the edge, with your palm facing the floor. Lift your hand upward, pointing your fingers toward the ceiling, without lifting your arm from the table. Hold the position for 2 seconds, then let your hand drop downward. Repeat 5 times, then switch arms.",
-                                             "whatToDo":  "If you want to make the exercise more challenging, you can hold a small empty water bottle in your hand.",
-                                             "whatNotToDo":  "Do not lift your elbow or forearm off the table; only your wrist should move.",
-                                             "id":  "upper-limb-027",
-                                             "sezione":  "Forearm",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Raise the Wrist Up and Down with Support",
-                                             "movementDistrict":  "wrist",
-                                             "movementTags":  [
-                                                                  "flexion",
-                                                                  "extension"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Wrap an Imaginary Thread",
-                                             "image":  "",
-                                             "description":  "This movement improves forearm coordination and agility, simulating the action of rolling up a thread, a rope, or a television cable.",
-                                             "howToDo":  "Sit upright. Bring your fists in front of your chest. Start rotating your hands one over the other, as if you were winding wool into a ball. Rotate your hands forward for 5 seconds, then stop and rotate them backward for another 5 seconds.",
-                                             "whatToDo":  "Keep your elbows close to your body to avoid tiring your shoulders.",
-                                             "whatNotToDo":  "Do not move your neck or head while rotating your hands.",
-                                             "id":  "upper-limb-028",
-                                             "sezione":  "Forearm",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Wrap an Imaginary Thread",
-                                             "movementDistrict":  "forearm",
-                                             "movementTags":  [
-                                                                  "pronation",
-                                                                  "supination",
-                                                                  "circumduction"
-                                                              ],
-                                             "difficulty":  5
-                                         },
-                                         {
-                                             "nome":  "Seated Palm Turn with Light Object",
-                                             "image":  "",
-                                             "description":  "This exercise trains forearm rotation and grip control, useful for turning a door handle, using cutlery, or opening a small container.",
-                                             "howToDo":  "Sit upright on a chair. Hold a light object, such as a small empty bottle, in your right hand. Keep your elbow bent to 90 degrees and close to your side. Slowly turn your palm upward, then slowly turn it downward. Repeat 5 times, then switch hands.",
-                                             "whatToDo":  "Keep your elbow close to your body throughout the movement.",
-                                             "whatNotToDo":  "Do not move your shoulder or twist your torso to help the movement.",
-                                             "id":  "upper-limb-043",
-                                             "sezione":  "Forearm",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Seated Palm Turn with Light Object",
-                                             "movementDistrict":  "forearm",
-                                             "movementTags":  [
-                                                                  "pronation",
-                                                                  "supination"
-                                                              ],
-                                             "difficulty":  3
-                                         }
-                                     ],
-                        "id":  "forearm"
-                    },
-                    {
-                        "nome":  "Wrist",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Push the Palm Back with the Other Hand",
-                                             "image":  "",
-                                             "description":  "This exercise helps stretch the muscles and tendons of the wrist, improving the ability to bend the hand back when leaning on a chair or table.",
-                                             "howToDo":  "Sit upright on a chair. Stretch your right arm forward at chest height, with the palm of your hand facing forward and your fingers pointing toward the ceiling, as if you were saying â€œstop.â€ With your left hand, gently hold the fingers of your right hand and slowly pull them toward your body. Stop when you feel a gentle stretch under the wrist. Count to 5, then switch arms.",
-                                             "whatToDo":  "Keep your arm straight, but without straining your shoulder.",
-                                             "whatNotToDo":  "Do not pull your fingers too forcefully and stop immediately if you feel pain.",
-                                             "id":  "upper-limb-029",
-                                             "sezione":  "Wrist",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Push the Palm Back with the Other Hand",
-                                             "movementDistrict":  "wrist",
-                                             "movementTags":  [
-                                                                  "extension"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Press the Backs of the Hands Together",
-                                             "image":  "",
-                                             "description":  "This movement provides the opposite stretch, releasing tension in the upper part of the wrist and hand.",
-                                             "howToDo":  "Sit upright. This time, bring your hands together in front of your chest, placing the back of your right hand against the back of your left hand, with your fingers pointing downward. Gently press your hands against each other for 5 seconds, feeling a stretch around the wrist area.",
-                                             "whatToDo":  "Keep your shoulders relaxed and away from your ears.",
-                                             "whatNotToDo":  "Do not make sudden movements and stop immediately if you feel pain.",
-                                             "id":  "upper-limb-030",
-                                             "sezione":  "Wrist",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Press the Backs of the Hands Together",
-                                             "movementDistrict":  "wrist",
-                                             "movementTags":  [
-                                                                  "flexion"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Turn the Wrist Sideways",
-                                             "image":  "",
-                                             "description":  "This exercise trains the side movements of the wrist, which are essential for using a spoon properly, turning a ladle while cooking, or pouring water.",
-                                             "howToDo":  "Sit at a table and rest your right forearm on the surface, keeping your hand flat with your palm facing down. Without lifting your arm from the table, move your hand to the right and then to the left, sliding it across the table as if you were waving to someone from far away. Repeat this movement 5 times, then switch arms.",
-                                             "whatToDo":  "Move only your hand; your arm should remain completely still on the table.",
-                                             "whatNotToDo":  "Do not lift your fingers or palm off the table during the movement.",
-                                             "id":  "upper-limb-031",
-                                             "sezione":  "Wrist",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Turn the Wrist Sideways",
-                                             "movementDistrict":  "wrist",
-                                             "movementTags":  [
-                                                                  "radial-deviation",
-                                                                  "ulnar-deviation"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Make Circles in the Air with the Hands",
-                                             "image":  "",
-                                             "description":  "This movement helps lubricate the wrist joint, reducing the stiffness that older adults often feel in the morning when they first wake up.",
-                                             "howToDo":  "Sit comfortably. Bring your hands forward with your elbows bent and close to your sides. Close your hands into very light fists. Start rotating your wrists, drawing circles in the air with your hands. Make 5 circles clockwise, toward the right, and then 5 circles counterclockwise, toward the left.",
-                                             "whatToDo":  "Rotate your hands very slowly, trying to make each circle as large as possible.",
-                                             "whatNotToDo":  "Do not move your arms or elbows; the movement should come only from your wrists.",
-                                             "id":  "upper-limb-032",
-                                             "sezione":  "Wrist",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Make Circles in the Air with the Hands",
-                                             "movementDistrict":  "wrist",
-                                             "movementTags":  [
-                                                                  "circumduction"
-                                                              ],
-                                             "difficulty":  3
-                                         }
-                                     ],
-                        "id":  "wrist"
-                    },
-                    {
-                        "nome":  "Hand",
-                        "esercizi":  [
-                                         {
-                                             "nome":  "Touch the Fingertips with the Thumb",
-                                             "image":  "",
-                                             "description":  "This exercise trains finger precision and agility, which are essential for picking up small objects from a table, such as pills, coins, or needles.",
-                                             "howToDo":  "Sit comfortably with your hands resting on your thighs. Lift your right hand with your palm open. Bring your thumb to touch the tip of your index finger, then the tip of your middle finger, ring finger, and finally your little finger. Once you reach the little finger, go back in the opposite direction. Repeat 3 times with each hand.",
-                                             "whatToDo":  "Gently press one fingertip against the other when they touch.",
-                                             "whatNotToDo":  "Do not rush; the important thing is to touch the fingertips accurately and precisely.",
-                                             "id":  "upper-limb-033",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Touch the Fingertips with the Thumb",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "opposition"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Finger Walk on the Table",
-                                             "image":  "",
-                                             "description":  "This movement strengthens and stretches the finger muscles, imitating the action of typing on a phone keyboard or on a remote control.",
-                                             "howToDo":  "Sit upright in front of a table. Place your right hand open on the table, keeping the palm lifted so that only the fingertips touch the surface, as if your hand were a spider. Using only your fingertips, make your hand â€œwalkâ€ forward along the table and then back again. Repeat 5 times with each hand.",
-                                             "whatToDo":  "Keep your wrist still and relaxed; move only your fingers.",
-                                             "whatNotToDo":  "Do not press the palm of your hand against the table while moving.",
-                                             "id":  "upper-limb-034",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Finger Walk on the Table",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "finger-flexion",
-                                                                  "finger-extension"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Spread the Fingers Against an Elastic Band",
-                                             "image":  "",
-                                             "description":  "This exercise helps strengthen the muscles that open the hand, which is very useful for counteracting the tendency of older adultsâ€™ fingers to remain bent or stiff.",
-                                             "howToDo":  "Sit comfortably. Bring the fingertips of your right hand together. Place a regular kitchen elastic band around the joined fingers, just below the fingernails. From this position, spread your fingers outward, pushing against the resistance of the elastic band. Hold the open position for 3 seconds, then slowly close your fingers again. Repeat 5 times on each side.",
-                                             "whatToDo":  "Perform the movement very slowly, both when opening and closing your fingers.",
-                                             "whatNotToDo":  "Do not use an elastic band that is too tight, as it may hurt or cut the skin.",
-                                             "id":  "upper-limb-035",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Spread the Fingers Against an Elastic Band",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "finger-abduction"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Pick Up and Crumple a Sheet of Paper",
-                                             "image":  "",
-                                             "description":  "This exercise greatly strengthens the whole hand and trains the action of grasping and holding objects without letting them slip away.",
-                                             "howToDo":  "Sit at a table. Place an old sheet of newspaper or a sheet of kitchen paper flat on the table in front of you. Place your open right hand on top of it. Using only the fingers of that hand, start pulling the paper toward the centre of your palm until you turn the sheet into a tight ball. Do the same with your left hand.",
-                                             "whatToDo":  "Squeeze the ball firmly at the end, using the full strength of your hand.",
-                                             "whatNotToDo":  "Do not help yourself with the other hand; one hand must do all the work on its own.",
-                                             "id":  "upper-limb-036",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Pick Up and Crumple a Sheet of Paper",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "finger-flexion",
-                                                                  "grip"
-                                                              ],
-                                             "difficulty":  3
-                                         },
-                                         {
-                                             "nome":  "Table Finger Lifts",
-                                             "image":  "",
-                                             "description":  "This exercise improves finger control and strengthens the small muscles of the hand, useful for typing, buttoning clothes, and handling small objects.",
-                                             "howToDo":  "Sit at a table and place your right hand flat on the surface, with your palm and fingers resting down. Keeping the palm still, slowly lift only your index finger, then lower it. Continue with the middle finger, ring finger, and little finger. Repeat 3 times, then switch hands.",
-                                             "whatToDo":  "Move one finger at a time and keep the rest of the hand relaxed.",
-                                             "whatNotToDo":  "Do not lift the whole hand from the table.",
-                                             "id":  "upper-limb-044",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Table Finger Lifts",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "finger-extension"
-                                                              ],
-                                             "difficulty":  1
-                                         },
-                                         {
-                                             "nome":  "Finger Spread on the Table",
-                                             "image":  "",
-                                             "description":  "This exercise strengthens the muscles that open the fingers and helps maintain hand mobility during daily tasks such as grasping a glass or opening the hand to lean on a surface.",
-                                             "howToDo":  "Sit at a table and place your right hand flat on the surface. Keeping your palm down, slowly spread your fingers apart as much as possible, then slowly bring them back together. Repeat 5 times, then switch hands.",
-                                             "whatToDo":  "Keep the movement slow and controlled.",
-                                             "whatNotToDo":  "Do not force the fingers apart if you feel pain.",
-                                             "id":  "upper-limb-045",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Finger Spread on the Table",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "finger-abduction",
-                                                                  "finger-adduction"
-                                                              ],
-                                             "difficulty":  2
-                                         },
-                                         {
-                                             "nome":  "Thumb Slide Across the Palm",
-                                             "image":  "",
-                                             "description":  "This exercise improves thumb mobility, which is essential for grasping objects, opening containers, and holding cutlery.",
-                                             "howToDo":  "Sit comfortably with your hands resting on your thighs. Open your right hand with the palm facing upward. Slowly slide your thumb across the palm toward the base of the little finger, then return to the open-hand position. Repeat 5 times, then switch hands.",
-                                             "whatToDo":  "Move the thumb slowly and try to reach across the palm without forcing.",
-                                             "whatNotToDo":  "Do not bend the wrist to help the thumb reach farther.",
-                                             "id":  "upper-limb-046",
-                                             "sezione":  "Hand",
-                                             "distretto":  "Upper Limb",
-                                             "thumbnail":  "",
-                                             "imageAlt":  "Thumb Slide Across the Palm",
-                                             "movementDistrict":  "hand",
-                                             "movementTags":  [
-                                                                  "opposition",
-                                                                  "thumb-adduction"
-                                                              ],
-                                             "difficulty":  2
-                                         }
-                                     ],
-                        "id":  "hand"
-                    }
-                ],
-    "id":  "upper-limb"
+  "distretto": "Upper Limb",
+  "sezioni": [
+    {
+      "nome": "Shoulder - Mobility and Control",
+      "esercizi": [
+        {
+          "nome": "Hands-on-Shoulders Elbow Circles",
+          "image": "",
+          "description": "This movement improves shoulder mobility and helps reduce stiffness when raising the arms, dressing, or washing the upper body.",
+          "howToDo": "Sit upright or stand. Place your right hand on your right shoulder and your left hand on your left shoulder. Slowly draw small circles with your elbows, moving them forward, upward, backward, and down. Make 5 circles forward and then 5 circles backward.",
+          "whatToDo": "Move slowly and keep your neck relaxed.",
+          "whatNotToDo": "Do not make large circles if they cause shoulder pain.",
+          "id": "upper-limb-038",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Hands-on-Shoulders Elbow Circles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wall Slide with Scapular Control",
+          "image": "",
+          "description": "Wall Slide with Scapular Control supports shoulder - mobility and control work with emphasis on flexion, scapular protraction, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand facing a wall with the forearms resting on it. Keep the shoulder blades gently active, slide the arms upward slowly, then return with control.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-054",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Slide with Scapular Control",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-protraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Shoulder Circumductions",
+          "image": "",
+          "description": "Shoulder Circumductions supports shoulder - mobility and control work with emphasis on circumduction, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand tall with the arms relaxed. Draw slow circles with the shoulders, first forward and then backward, using a comfortable range.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-056",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder Circumductions",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Wall Shoulder Stretch",
+          "image": "",
+          "description": "Wall Shoulder Stretch supports shoulder - mobility and control work with emphasis on flexion, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand facing a wall and place both hands on it. Step the feet back and let the chest move gently toward the floor while the arms stay long.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-060",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Shoulder Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Band Chest Opener",
+          "image": "",
+          "description": "Band Chest Opener supports shoulder - mobility and control work with emphasis on horizontal abduction, scapular retraction. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Hold a light band with both hands in front of the chest. Open the arms outward until the chest widens, then return slowly.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-066",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Band Chest Opener",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Shoulder Pass-Through with Stick",
+          "image": "",
+          "description": "Shoulder Pass-Through with Stick supports shoulder - mobility and control work with emphasis on flexion, extension, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Hold a stick with a wide grip in front of the body. Lift it overhead and, if comfortable, continue behind the body before returning along the same path.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-077",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder Pass-Through with Stick",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wall Angels",
+          "image": "",
+          "description": "Wall Angels supports shoulder - mobility and control work with emphasis on abduction, external rotation, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand with the back close to a wall. Bend the elbows and slide the arms upward and downward like making a snow angel.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-081",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Angels",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-mobility-control"
+    },
+    {
+      "nome": "Shoulder - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Bring the Hands Behind the Neck",
+          "image": "",
+          "description": "This exercise helps stretch and open the front part of the shoulder. It reproduces the movement used to comb your hair, wash your hair, or put on a shirt over your head.",
+          "howToDo": "Sit upright on a chair or stand. Lift your arms out to the sides and bend your elbows, bringing the palms of your hands to gently touch the back of your head, the nape of your neck. From this position, push your elbows backward as far as is comfortable, feeling your chest open. Hold this position for 5 seconds, then relax your arms by your sides.",
+          "whatToDo": "Keep your neck relaxed and always look straight ahead.",
+          "whatNotToDo": "Do not push your head forward with your hands and do not round your back.",
+          "id": "upper-limb-001",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Bring the Hands Behind the Neck",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Press the Palms Together",
+          "image": "",
+          "description": "This exercise strengthens the anterior muscles of the shoulder and chest. It is very useful for maintaining the strength needed to hold an object close to your body, such as a shopping bag or a tray.",
+          "howToDo": "Sit upright. Bring the palms of your hands together in front of your chest, keeping your elbows raised at the same height as your hands, as in a prayer position. Gently push one hand against the other, as if you were trying to squeeze something between your palms. Maintain a steady push for 5 seconds, then relax.",
+          "whatToDo": "Continue breathing normally throughout the push.",
+          "whatNotToDo": "Do not raise your shoulders toward your ears and do not clench your teeth.",
+          "id": "upper-limb-002",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Press the Palms Together",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Raise the Arms Forward",
+          "image": "",
+          "description": "This movement strengthens the front part of the shoulder. It simulates the action of placing a plate on a shelf or passing an object to someone in front of you.",
+          "howToDo": "You can sit or stand. Keep your arms by your sides with your palms facing your thighs. Slowly lift your straight arms forward in front of you until they reach eye level. If you want, you can hold two small water bottles, either empty or half full. Hold your arms up for 3 seconds, then slowly lower them back down.",
+          "whatToDo": "Perform the movement very slowly, both when lifting and lowering your arms.",
+          "whatNotToDo": "Do not swing your torso backward to help lift your arms.",
+          "id": "upper-limb-003",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Raise the Arms Forward",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Finger Walk on the Wall",
+          "image": "",
+          "description": "This exercise combines stretching with strengthening of the front part of the shoulder, helping you recover upward arm movement without putting too much strain on your back.",
+          "howToDo": "Stand facing a wall, about one step away. Place your fingertips on the wall at chest height. Using your fingers as if they were the legs of a spider, make them â€œwalkâ€ up the wall, one small step at a time, as far as you can comfortably reach. Stay at the highest point for 5 seconds, then make your fingers â€œwalkâ€ back down.",
+          "whatToDo": "Take a small step closer to the wall as your hand moves upward, so you do not strain your back.",
+          "whatNotToDo": "Do not lift your heels off the floor and do not force the upward movement if you feel shoulder pain.",
+          "id": "upper-limb-004",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Finger Walk on the Wall",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Seated Shoulder Blade Push Forward",
+          "image": "",
+          "description": "This exercise activates the muscles that help the shoulder blade move forward, which is useful when reaching for an object on a table or pushing something light away.",
+          "howToDo": "Sit upright on a chair with your feet resting on the floor. Stretch both arms forward at chest height, with your hands open and your palms facing each other. Without bending your elbows, gently push your hands forward as if you wanted to reach something a little farther away. You should feel your shoulder blades move slightly apart. Hold for 3 seconds, then return to the starting position.",
+          "whatToDo": "Keep your arms straight and move slowly from the shoulders.",
+          "whatNotToDo": "Do not round your whole back forward and do not lift your shoulders toward your ears.",
+          "id": "upper-limb-039",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Seated Shoulder Blade Push Forward",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Quadruped Single Arm Reach",
+          "image": "",
+          "description": "This exercise strengthens the shoulder and improves trunk stability while the arm moves forward. It is useful for reaching for objects safely.",
+          "howToDo": "Get on all fours on a mat. Keep your hands under your shoulders and your knees under your hips. Slowly lift your right arm forward, keeping it straight, until it reaches the height of your shoulder. Hold for 2 seconds, then place the hand back down. Repeat 5 times, then switch arms.",
+          "whatToDo": "Keep your abdomen slightly engaged to prevent your body from swaying.",
+          "whatNotToDo": "Do not rotate your torso and do not lift the arm higher than shoulder level.",
+          "id": "upper-limb-047",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Quadruped Single Arm Reach",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Push-Up",
+          "image": "",
+          "description": "Push-Up supports shoulder - anterior region work with emphasis on push, horizontal adduction, stabilization. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Place the hands on the floor or on an elevated surface. Keep the body long, bend the elbows to lower the chest, then push back to the starting position.",
+          "whatToDo": "Keep the body aligned and control the movement from start to finish.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-057",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Push-Up",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "push",
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Chest Pulse",
+          "image": "",
+          "description": "Chest Pulse supports shoulder - anterior region work with emphasis on horizontal abduction, extension, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand or sit tall with the arms open to the sides. Gently pulse the arms backward in a small controlled range while the chest opens.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-058",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Chest Pulse",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Doorway Chest Stretch",
+          "image": "",
+          "description": "Doorway Chest Stretch supports shoulder - anterior region work with emphasis on horizontal abduction, external rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Place the forearm or hand on a doorway at shoulder height. Step one foot forward and gently rotate the body away until the chest stretches.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-061",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Doorway Chest Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Standing Biceps Stretch",
+          "image": "",
+          "description": "Standing Biceps Stretch supports shoulder - anterior region work with emphasis on extension. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand tall and reach one arm slightly behind the body with the elbow straight. Turn the palm gently away or place the hand on a support behind you.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-067",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Biceps Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wall Chest and Biceps Stretch",
+          "image": "",
+          "description": "Wall Chest and Biceps Stretch supports shoulder - anterior region work with emphasis on extension, external rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand beside a wall and place one hand or forearm behind you on it. Slowly turn the body away until the chest and front of the arm stretch.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-070",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Chest and Biceps Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Floor Biceps Stretch",
+          "image": "",
+          "description": "Floor Biceps Stretch supports shoulder - anterior region work with emphasis on extension. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Sit on the floor with the hands behind you and fingers pointing away or outward. Slowly move the hips forward until the front of the arms stretches.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-076",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Floor Biceps Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "shoulder-anterior-region"
+    },
+    {
+      "nome": "Shoulder - Lateral Region",
+      "esercizi": [
+        {
+          "nome": "Raise the Arms to the Side",
+          "image": "",
+          "description": "This exercise strengthens the side part of the shoulder. It reproduces the movement used to put on the sleeves of a coat or jacket, or to open your arms out to take measurements.",
+          "howToDo": "Sit upright on a chair or stand. Keep your arms relaxed by your sides, with your palms facing inward. Slowly lift your arms out to the sides until they reach shoulder height, as if you had wings. Hold the position for 3 seconds, then lower your arms very slowly.",
+          "whatToDo": "Keep your palms facing the floor as you lift your arms.",
+          "whatNotToDo": "Do not raise your hands above shoulder height and do not make quick, sudden movements.",
+          "id": "upper-limb-005",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Raise the Arms to the Side",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Side Elbow Press Against the Wall",
+          "image": "",
+          "description": "This exercise strengthens the side muscles without moving the joint, making it excellent for people with mild pain. It simulates the strength needed to move an object sideways with your body or to make space for yourself.",
+          "howToDo": "Stand sideways next to a wall, about half an armâ€™s length away. Bend your elbow to 90 degrees and place the outer side of your arm and elbow against the wall. Push your elbow sideways against the wall, as if you were trying to knock it down. Maintain a steady push for 5 seconds, then relax and switch sides.",
+          "whatToDo": "Keep your body straight and still; only the shoulder should push.",
+          "whatNotToDo": "Do not lean your torso toward the wall to help yourself and do not clench your teeth.",
+          "id": "upper-limb-006",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Side Elbow Press Against the Wall",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Open the Arms as if Cleaning the Table",
+          "image": "",
+          "description": "This exercise combines side shoulder movement with an action you do every day at home, such as cleaning furniture or spreading out a tablecloth.",
+          "howToDo": "Sit upright in front of a table. Place the palms of your hands on the table in front of you, with your elbows slightly bent. Without lifting your hands from the surface, slide both hands outward at the same time, opening them as far as possible. Then, still sliding, bring them back to the centre. Repeat this movement 5 times.",
+          "whatToDo": "You can place two soft cloths under your hands to help them slide more easily.",
+          "whatNotToDo": "Do not lift your hands off the table and do not bend your back forward.",
+          "id": "upper-limb-007",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Open the Arms as if Cleaning the Table",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sideways Finger Walk on the Wall",
+          "image": "",
+          "description": "This exercise helps improve the side opening of the arms and mobility, which is essential for reaching an object placed beside you without having to turn your whole body.",
+          "howToDo": "Stand sideways next to a wall, with your right side facing the wall. Place the fingertips of your right hand on the wall at shoulder height. Using your fingers, make them â€œwalkâ€ up the wall, moving your arm out to the side as far as you can comfortably reach. Stay there for 5 seconds, then slowly come back down and repeat with your left side facing the wall.",
+          "whatToDo": "Keep your body fully turned sideways, without rotating your chest toward the wall.",
+          "whatNotToDo": "Do not force the movement if you feel a sharp pain or strong pain in your shoulder.",
+          "id": "upper-limb-008",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Sideways Finger Walk on the Wall",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Low Dips",
+          "image": "",
+          "description": "Low Dips supports shoulder - lateral region work with emphasis on extension, stabilization. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Support the hands on a stable surface beside or behind the body. Bend the elbows slightly to lower a short distance, then press back up.",
+          "whatToDo": "Keep the body aligned and control the movement from start to finish.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-059",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Low Dips",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Low Dip Hold",
+          "image": "",
+          "description": "Low Dip Hold supports shoulder - lateral region work with emphasis on extension, isometric, stabilization. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Support the hands on a stable surface and lower only a small amount into a dip position. Hold the position while breathing, then return with control.",
+          "whatToDo": "Hold a steady effort, keep breathing, and stay inside a comfortable range.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-063",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Low Dip Hold",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Elbow Internal Pull",
+          "image": "",
+          "description": "Elbow Internal Pull supports shoulder - lateral region work with emphasis on adduction, internal rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Guide one elbow inward or slightly across the body until a controlled stretch is felt around the shoulder.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-080",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Elbow Internal Pull",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "adduction",
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-lateral-region"
+    },
+    {
+      "nome": "Shoulder - Posterior Region",
+      "esercizi": [
+        {
+          "nome": "Push the Elbows Backward",
+          "image": "",
+          "description": "This exercise strengthens the back part of the shoulder and the back. It reproduces the movement used to put the second arm into the sleeve of a coat or to tie an apron behind your waist.",
+          "howToDo": "Sit upright on a chair, away from the backrest. Raise your elbows to chest height and bend your arms, keeping your hands close to your chest. From this position, gently push your elbows backward, as if you were giving a light elbow push to a wall behind you. Count to 5, then return forward.",
+          "whatToDo": "Bring the two flat bones in your upper back, the shoulder blades, closer together as you push backward.",
+          "whatNotToDo": "Do not raise your shoulders toward your ears and do not tilt your head forward.",
+          "id": "upper-limb-009",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Push the Elbows Backward",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Backward Elbow Press Against the Backrest",
+          "image": "",
+          "description": "This exercise safely strengthens the posterior muscles using the chair, helping improve posture when sitting at a table or in an armchair.",
+          "howToDo": "Sit upright and rest your back against the backrest of the chair. Keep your arms by your sides and bend your elbows to 90 degrees, keeping them close to your body. Push your elbows firmly backward against the backrest of the chair. Maintain this steady push for 5 seconds, then relax.",
+          "whatToDo": "Continue breathing normally and keep your feet firmly planted on the floor.",
+          "whatNotToDo": "Do not lift your back away from the chair and do not make sudden movements.",
+          "id": "upper-limb-010",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Backward Elbow Press Against the Backrest",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Bring the Hands Behind the Back",
+          "image": "",
+          "description": "This movement stretches the front part and activates the muscles at the back, simulating the action of putting a belt through your trousers, washing your lower back, or scratching your back.",
+          "howToDo": "You can sit or stand. Bring your arms behind your back at waist level. Try to hold your left wrist with your right hand, or vice versa. If you cannot do this, simply place the backs of your hands on your lower back. From this position, gently push your shoulders backward. Hold this position for 5 seconds.",
+          "whatToDo": "Keep your chest open and look straight ahead.",
+          "whatNotToDo": "Do not bend your neck forward and do not force the movement if you feel shoulder pain.",
+          "id": "upper-limb-011",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Bring the Hands Behind the Back",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "internal-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Open the Straight Arms Backward",
+          "image": "",
+          "description": "This exercise helps give elasticity and strength to the entire posterior chain of the shoulder, which is essential for preventing a forward-rounded posture when walking.",
+          "howToDo": "Sit upright on the chair. Bring your straight arms forward at chest height, with your palms facing each other. From this position, open your arms out to the sides and bring them as far back as comfortably possible, as if you were trying to give someone a very big hug. Hold the maximum opening position for 3 seconds, then return forward.",
+          "whatToDo": "Perform the movement very slowly, controlling the return.",
+          "whatNotToDo": "Do not arch your lower back and do not hold your breath.",
+          "id": "upper-limb-012",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Open the Straight Arms Backward",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Shoulder External Rotation with Elbows Close",
+          "image": "",
+          "description": "This exercise strengthens the small stabilizing muscles of the shoulder, which help keep the arm steady during daily activities such as dressing or reaching for objects.",
+          "howToDo": "Sit upright on a chair. Bend both elbows to 90 degrees and keep them close to your sides. Keep your palms facing upward. Slowly move your hands outward, opening your forearms to the sides while keeping your elbows attached to your body. Hold for 2 seconds, then return to the starting position. Repeat 5 times.",
+          "whatToDo": "Keep your elbows close to your sides throughout the movement.",
+          "whatNotToDo": "Do not lift your shoulders and do not rotate your torso to help the movement.",
+          "id": "upper-limb-037",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder External Rotation with Elbows Close",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Seated Shoulder Blade Squeeze Downward",
+          "image": "",
+          "description": "This exercise strengthens the muscles that keep the shoulders low and stable, helping reduce tension in the neck and upper back.",
+          "howToDo": "Sit upright on a chair with your arms relaxed by your sides. Imagine that you want to slide your shoulder blades down toward your back pockets. Gently pull your shoulders downward and slightly backward, without moving your head. Hold the position for 5 seconds, then relax completely.",
+          "whatToDo": "Keep your neck long and your gaze straight ahead.",
+          "whatNotToDo": "Do not push your chest too far forward and do not hold your breath.",
+          "id": "upper-limb-040",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Seated Shoulder Blade Squeeze Downward",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-depression",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Towel Pull Apart",
+          "image": "",
+          "description": "This exercise strengthens the back part of the shoulders and upper back, helping improve posture and arm control.",
+          "howToDo": "Sit upright or stand. Hold a small towel with both hands in front of your chest, keeping your elbows slightly bent. Pull the towel outward with both hands, as if you were trying to stretch it apart. Keep the pull steady for 5 seconds, then relax.",
+          "whatToDo": "Keep your wrists straight and your shoulders relaxed.",
+          "whatNotToDo": "Do not pull so hard that your neck becomes tense.",
+          "id": "upper-limb-041",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Towel Pull Apart",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Side-Lying Shoulder External Rotation",
+          "image": "",
+          "description": "Side-Lying Shoulder External Rotation supports shoulder - posterior region work with emphasis on external rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Lie on one side with the top elbow bent to 90 degrees and held close to the body. Rotate the hand toward the ceiling, then lower slowly.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-055",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Side-Lying Shoulder External Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Lat Pulse",
+          "image": "",
+          "description": "Lat Pulse supports shoulder - posterior region work with emphasis on flexion, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Reach the arms forward or overhead while holding a stable support. Gently pulse the chest downward or backward in a small range.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-062",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Lat Pulse",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pole Internal Rotation Stretch",
+          "image": "",
+          "description": "Pole Internal Rotation Stretch supports shoulder - posterior region work with emphasis on internal rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Use a stick or pole to gently guide the shoulder into internal rotation. Move only until a mild stretch is felt, then hold.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-064",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Pole Internal Rotation Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pole External Rotation Stretch",
+          "image": "",
+          "description": "Pole External Rotation Stretch supports shoulder - posterior region work with emphasis on external rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Keep the elbow close to the side and bent to 90 degrees. Use a stick to gently guide the forearm outward, then hold a mild stretch.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-065",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Pole External Rotation Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Shoulder Lat Stretch",
+          "image": "",
+          "description": "Shoulder Lat Stretch supports shoulder - posterior region work with emphasis on flexion, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Hold a stable support with the hands and sit the hips back until the sides of the shoulders and back lengthen. Hold with relaxed breathing.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-068",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder Lat Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sleeper Stretch",
+          "image": "",
+          "description": "Sleeper Stretch supports shoulder - posterior region work with emphasis on internal rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Lie on the side with the shoulder and elbow bent to 90 degrees. Use the opposite hand to gently guide the forearm toward the floor.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-069",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Sleeper Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Posterior Deltoid Stretch",
+          "image": "",
+          "description": "Posterior Deltoid Stretch supports shoulder - posterior region work with emphasis on horizontal adduction. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Bring one arm across the chest at shoulder height. Use the other arm to gently draw it closer until the back of the shoulder stretches.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-071",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Posterior Deltoid Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Active Internal Rotation",
+          "image": "",
+          "description": "Active Internal Rotation supports shoulder - posterior region work with emphasis on internal rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Sit or stand tall with the elbow bent to 90 degrees. Rotate the forearm inward through a comfortable range, pause briefly, then return.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-072",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Active Internal Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Active External Rotation",
+          "image": "",
+          "description": "Active External Rotation supports shoulder - posterior region work with emphasis on external rotation. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Sit or stand tall with the elbow bent to 90 degrees and close to the body. Rotate the forearm outward, pause briefly, then return.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not twist aggressively or use momentum to force the range.",
+          "id": "upper-limb-073",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Active External Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flappy Bird",
+          "image": "",
+          "description": "Flappy Bird supports shoulder - posterior region work with emphasis on horizontal abduction, scapular retraction. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Stand tall with the arms slightly out to the sides. Move the arms backward and forward in a small controlled range while the shoulder blades stay active.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-074",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Flappy Bird",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wall Triceps Stretch",
+          "image": "",
+          "description": "Wall Triceps Stretch supports shoulder - posterior region work with emphasis on flexion. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Place one elbow high on a wall with the hand reaching down behind the head or upper back. Move the chest gently closer to the wall.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-075",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Triceps Stretch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wall Lat Hold",
+          "image": "",
+          "description": "Wall Lat Hold supports shoulder - posterior region work with emphasis on flexion, isometric. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Place the hands high on a wall and step back until the arms are long. Let the chest move gently downward while the ribs stay controlled.",
+          "whatToDo": "Hold a steady effort, keep breathing, and stay inside a comfortable range.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-078",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Lat Hold",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Jumper Delt Pull",
+          "image": "",
+          "description": "Jumper Delt Pull supports shoulder - posterior region work with emphasis on horizontal adduction. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Bring one arm across the chest and use the opposite hand to guide it closer until the back of the shoulder stretches.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-079",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Jumper Delt Pull",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-posterior-region"
+    },
+    {
+      "nome": "Arm - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Touch the Opposite Shoulder",
+          "image": "",
+          "description": "This exercise strengthens the muscles at the front of the arm and improves mobility. It reproduces the movement used to wash yourself in the shower or to put on a scarf.",
+          "howToDo": "Sit upright on a chair. Keep your arms relaxed by your sides. Slowly lift your right hand and bring it to rest on your left shoulder, bending your elbow in front of your chest. Hold still for 3 seconds, then slowly lower your arm back down. Repeat the same movement with your left hand on your right shoulder.",
+          "whatToDo": "Perform the movement with calm breathing.",
+          "whatNotToDo": "Do not force the movement if you feel a sharp pain in your shoulder.",
+          "id": "upper-limb-013",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Touch the Opposite Shoulder",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Lift the Hands from the Table Toward the Chest",
+          "image": "",
+          "description": "This exercise strengthens the front part of the arm from a comfortable and safe position, making it excellent for starting gymnastics.",
+          "howToDo": "Sit upright at a table and place your forearms and open hands on the table, with your palms facing upward. From this position, bend your elbows and lift your hands off the table, bringing them toward your chest. Your elbows must remain resting on the table. Count to 3, then place your hands back on the table.",
+          "whatToDo": "Keep your fingers relaxed and open.",
+          "whatNotToDo": "Do not lift your elbows off the table while raising your hands.",
+          "id": "upper-limb-014",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Lift the Hands from the Table Toward the Chest",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Squeeze a Pillow Between the Hands and Chest",
+          "image": "",
+          "description": "This movement uses a soft household object to strengthen the arm muscles used to hug grandchildren or hold cherished objects close.",
+          "howToDo": "Sit upright on the chair. Take a small, soft cushion and hold it in front of your chest, squeezing it between the palms of your hands. Bend your arms forward and press the cushion against your chest, tightening the muscles at the front of your arms. Hold the pressure for 5 seconds, then relax your grip.",
+          "whatToDo": "Keep your back well supported against the backrest of the chair.",
+          "whatNotToDo": "Do not clench your teeth and continue breathing normally.",
+          "id": "upper-limb-015",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Squeeze a Pillow Between the Hands and Chest",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "The Waiter Plate Exercise",
+          "image": "",
+          "description": "This exercise helps build strength and endurance in the front part of the arm, which is useful for clearing the table or moving objects without dropping them.",
+          "howToDo": "You can sit or stand. Bend your right elbow to 90 degrees, keeping it close to your side, with your hand open and facing upward, as if you were a waiter holding a plate. Stay still in this position for 5 seconds, keeping the arm muscle active. Repeat with your left arm.",
+          "whatToDo": "Keep the palm of your hand flat and facing the ceiling.",
+          "whatNotToDo": "Do not move your elbow away from your side and do not lift your shoulder.",
+          "id": "upper-limb-016",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "The Waiter Plate Exercise",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "arm-anterior-region"
+    },
+    {
+      "nome": "Arm - Posterior Region",
+      "esercizi": [
+        {
+          "nome": "Press the Hands Down on the Table",
+          "image": "",
+          "description": "This exercise strengthens the muscles at the back of the arm using a safe surface. It helps provide stability when leaning on a piece of furniture.",
+          "howToDo": "Sit upright in front of a table. Place the palms of your hands on the table, keeping your elbows bent and close to your body. Push your hands firmly downward against the table, as if you were trying to lift yourself from the chair using only your arms. Maintain a steady push for 5 seconds, then relax.",
+          "whatToDo": "Feel the muscles at the back of your arms tighten during the push.",
+          "whatNotToDo": "Do not let your neck sink between your shoulders and continue breathing.",
+          "id": "upper-limb-017",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Press the Hands Down on the Table",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extend the Arm Forward",
+          "image": "",
+          "description": "This movement trains the back part of the arm in the action of reaching out for an object or cleaning a vertical surface.",
+          "howToDo": "Sit upright or stand. Bring your right hand close to your right shoulder with your elbow bent. From this position, fully extend your arm forward at chest height, as if you were giving a slow push or cleaning a window. Tighten the muscle at the back of your arm for 2 seconds, then slowly return. Repeat 5 times, then switch arms.",
+          "whatToDo": "Perform the movement very slowly, both when extending the arm and when returning.",
+          "whatNotToDo": "Do not swing your torso forward to help the arm movement.",
+          "id": "upper-limb-018",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Extend the Arm Forward",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Push the Arms Back Against the Wall",
+          "image": "",
+          "description": "This isometric exercise safely activates the back part of the arm while keeping the back fully protected.",
+          "howToDo": "Stand with your back against a flat wall. Keep your arms by your sides, with your elbows close to your body. Firmly push the back of your arms against the wall. Maintain this steady push for 5 seconds, then relax the pressure.",
+          "whatToDo": "Keep your feet slightly away from the wall to stay more stable.",
+          "whatNotToDo": "Do not push with your head or back; the force should come only from your arms.",
+          "id": "upper-limb-019",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Push the Arms Back Against the Wall",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extend the Arms Upward with a Pillow",
+          "image": "",
+          "description": "This exercise strengthens the muscles at the back of the arm. It simulates the movement used to put on a hat, pass a towel behind your head after a shower, or place a light object on a shelf.",
+          "howToDo": "Sit upright on a chair with a backrest. Hold a light cushion with both hands. Bring your hands above your head, bending your elbows backward, so the cushion lightly touches the back of your neck. From this position, push your arms upward until they are fully extended toward the ceiling. Count to 2 at the highest point, then slowly bend your elbows again behind your head.",
+          "whatToDo": "Keep your elbows as close to your ears as possible, rather than wide apart.",
+          "whatNotToDo": "Do not push your head forward and do not arch your back.",
+          "id": "upper-limb-020",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Extend the Arms Upward with a Pillow",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "arm-posterior-region"
+    },
+    {
+      "nome": "Elbow",
+      "esercizi": [
+        {
+          "nome": "Show the Palm and Back of the Hand",
+          "image": "",
+          "description": "This exercise trains rotation of the elbow and forearm. It reproduces the movement used to turn a key, use a screwdriver, or turn food in a pan.",
+          "howToDo": "Sit upright on a chair. Bend your elbows to 90 degrees and keep them close to your sides, with your hands extended forward, as if you were holding a tray. Rotate your hands so that your palms face the floor. Then rotate them in the opposite direction so that your palms face the ceiling. Repeat this change 10 times in a row, calmly.",
+          "whatToDo": "Keep your elbows firmly close to your sides; only the forearm should rotate.",
+          "whatNotToDo": "Do not move your arms away from your body and do not move your shoulders.",
+          "id": "upper-limb-021",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Show the Palm and Back of the Hand",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Press the Elbow Against the Other Hand",
+          "image": "",
+          "description": "This isometric exercise strengthens the muscles that stabilize the elbow, which is useful for providing stability when leaning on furniture or using a walking stick.",
+          "howToDo": "Sit upright. Bend your right arm in front of your chest at 90 degrees. Place the palm of your left hand under your right elbow. Push your right elbow downward and, at the same time, use your left hand like a wall to push upward and stop the movement. Hold the push for 5 seconds, then switch arms.",
+          "whatToDo": "Continue breathing normally during the push.",
+          "whatNotToDo": "Do not let your neck sink between your shoulders and do not push so hard that you feel pain.",
+          "id": "upper-limb-022",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Press the Elbow Against the Other Hand",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Clench the Fists and Extend the Arms Downward",
+          "image": "",
+          "description": "This movement trains full and controlled elbow extension, which is useful for safely stretching the arms when putting on trousers or a skirt.",
+          "howToDo": "Sit upright on the chair. Start with your elbows bent and your hands close to your armpits, gently making fists. From this position, slowly extend your arms downward, pushing your hands toward the floor as if you were trying to touch the chair legs. Straighten your elbows well, open your hands at the lowest point, count to 2, then slowly return to the starting position.",
+          "whatToDo": "Keep your shoulders relaxed and away from your ears.",
+          "whatNotToDo": "Do not make jerky or very fast movements, to avoid jolting the joint.",
+          "id": "upper-limb-023",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Clench the Fists and Extend the Arms Downward",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "The Balance Exercise with Hands on the Table",
+          "image": "",
+          "description": "This exercise uses the table to strengthen the elbow muscles alternately, improving stability and coordination of the arms.",
+          "howToDo": "Sit in front of a table and place the palms of both hands on the surface, keeping your elbows bent. Push downward with your right hand, slightly straightening the elbow, as if you were trying to lower one side of a scale, while the left arm relaxes. Then do the opposite: push with the left hand and relax the right. Alternate this slow movement 5 times on each side.",
+          "whatToDo": "Keep your feet firmly on the floor to help with balance.",
+          "whatNotToDo": "Do not lean your torso to the right or left; the push should come only from the elbows.",
+          "id": "upper-limb-024",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "The Balance Exercise with Hands on the Table",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Seated Elbow Press into the Table",
+          "image": "",
+          "description": "This isometric exercise strengthens the muscles around the elbow and helps improve stability when leaning on a table or armrest.",
+          "howToDo": "Sit upright in front of a table. Bend your right elbow and place the outer side of your forearm on the table. Gently press your elbow and forearm downward against the table without moving the arm. Hold the pressure for 5 seconds, then relax. Repeat with the left arm.",
+          "whatToDo": "Keep your shoulder relaxed while pressing down.",
+          "whatNotToDo": "Do not lean your whole body onto the arm; the pressure should come from the elbow and forearm.",
+          "id": "upper-limb-042",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Seated Elbow Press into the Table",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Elbow Flexion and Extension",
+          "image": "",
+          "description": "Elbow Flexion and Extension supports elbow work with emphasis on flexion, extension. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Keep the arm relaxed by the side. Bend the elbow to bring the hand toward the shoulder, then slowly return to the starting position through a comfortable range.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-052",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Elbow Flexion and Extension",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "elbow"
+    },
+    {
+      "nome": "Forearm",
+      "esercizi": [
+        {
+          "nome": "Wring Out a Dry Towel",
+          "image": "",
+          "description": "This exercise greatly strengthens all the muscles of the forearm and hands, simulating the action of wringing out a cleaning cloth or a sponge.",
+          "howToDo": "Sit upright on a chair. Take a small face towel, roll it up, and hold it with both hands in front of your chest. Turn your right hand forward and your left hand backward, as if you were strongly wringing out the towel. Hold the maximum squeeze for 4 seconds, then change direction, with the right hand turning backward and the left hand forward.",
+          "whatToDo": "Squeeze firmly and make slow, controlled movements.",
+          "whatNotToDo": "Do not raise your shoulders toward your ears and do not hold your breath.",
+          "id": "upper-limb-025",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wring Out a Dry Towel",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Open and Close the Fingers",
+          "image": "",
+          "description": "This movement trains the endurance of the forearm muscles, which is useful for preventing your arms from getting tired when writing, cooking, or doing small manual tasks.",
+          "howToDo": "Sit comfortably. Bring your hands forward to chest height with your elbows bent. Open your hands, spreading all your fingers as wide as possible. Immediately after, close your hands into fists and squeeze firmly. Alternate opening and closing your hands continuously 10 times in a row.",
+          "whatToDo": "Feel the forearm muscles moving and tightening under the skin.",
+          "whatNotToDo": "Do not make movements that are too quick or jerky; focus on making a strong, tight fist.",
+          "id": "upper-limb-026",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Open and Close the Fingers",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Raise the Wrist Up and Down with Support",
+          "image": "",
+          "description": "This exercise safely strengthens the upper and lower parts of the forearm while protecting the wrist joint.",
+          "howToDo": "Sit at a table. Rest your right forearm on the table, leaving your hand over the edge, with your palm facing the floor. Lift your hand upward, pointing your fingers toward the ceiling, without lifting your arm from the table. Hold the position for 2 seconds, then let your hand drop downward. Repeat 5 times, then switch arms.",
+          "whatToDo": "If you want to make the exercise more challenging, you can hold a small empty water bottle in your hand.",
+          "whatNotToDo": "Do not lift your elbow or forearm off the table; only your wrist should move.",
+          "id": "upper-limb-027",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Raise the Wrist Up and Down with Support",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wrap an Imaginary Thread",
+          "image": "",
+          "description": "This movement improves forearm coordination and agility, simulating the action of rolling up a thread, a rope, or a television cable.",
+          "howToDo": "Sit upright. Bring your fists in front of your chest. Start rotating your hands one over the other, as if you were winding wool into a ball. Rotate your hands forward for 5 seconds, then stop and rotate them backward for another 5 seconds.",
+          "whatToDo": "Keep your elbows close to your body to avoid tiring your shoulders.",
+          "whatNotToDo": "Do not move your neck or head while rotating your hands.",
+          "id": "upper-limb-028",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wrap an Imaginary Thread",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "circumduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Seated Palm Turn with Light Object",
+          "image": "",
+          "description": "This exercise trains forearm rotation and grip control, useful for turning a door handle, using cutlery, or opening a small container.",
+          "howToDo": "Sit upright on a chair. Hold a light object, such as a small empty bottle, in your right hand. Keep your elbow bent to 90 degrees and close to your side. Slowly turn your palm upward, then slowly turn it downward. Repeat 5 times, then switch hands.",
+          "whatToDo": "Keep your elbow close to your body throughout the movement.",
+          "whatNotToDo": "Do not move your shoulder or twist your torso to help the movement.",
+          "id": "upper-limb-043",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Seated Palm Turn with Light Object",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Forearm Pronation-Supination",
+          "image": "",
+          "description": "Forearm Pronation-Supination supports forearm work with emphasis on pronation, supination. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Keep the elbow close to the body and the forearm supported. Start with the thumb pointing up, rotate the palm up, return to centre, then rotate the palm down.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-053",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Forearm Pronation-Supination",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "forearm"
+    },
+    {
+      "nome": "Wrist",
+      "esercizi": [
+        {
+          "nome": "Push the Palm Back with the Other Hand",
+          "image": "",
+          "description": "This exercise helps stretch the muscles and tendons of the wrist, improving the ability to bend the hand back when leaning on a chair or table.",
+          "howToDo": "Sit upright on a chair. Stretch your right arm forward at chest height, with the palm of your hand facing forward and your fingers pointing toward the ceiling, as if you were saying â€œstop.â€ With your left hand, gently hold the fingers of your right hand and slowly pull them toward your body. Stop when you feel a gentle stretch under the wrist. Count to 5, then switch arms.",
+          "whatToDo": "Keep your arm straight, but without straining your shoulder.",
+          "whatNotToDo": "Do not pull your fingers too forcefully and stop immediately if you feel pain.",
+          "id": "upper-limb-029",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Push the Palm Back with the Other Hand",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Press the Backs of the Hands Together",
+          "image": "",
+          "description": "This movement provides the opposite stretch, releasing tension in the upper part of the wrist and hand.",
+          "howToDo": "Sit upright. This time, bring your hands together in front of your chest, placing the back of your right hand against the back of your left hand, with your fingers pointing downward. Gently press your hands against each other for 5 seconds, feeling a stretch around the wrist area.",
+          "whatToDo": "Keep your shoulders relaxed and away from your ears.",
+          "whatNotToDo": "Do not make sudden movements and stop immediately if you feel pain.",
+          "id": "upper-limb-030",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Press the Backs of the Hands Together",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Turn the Wrist Sideways",
+          "image": "",
+          "description": "This exercise trains the side movements of the wrist, which are essential for using a spoon properly, turning a ladle while cooking, or pouring water.",
+          "howToDo": "Sit at a table and rest your right forearm on the surface, keeping your hand flat with your palm facing down. Without lifting your arm from the table, move your hand to the right and then to the left, sliding it across the table as if you were waving to someone from far away. Repeat this movement 5 times, then switch arms.",
+          "whatToDo": "Move only your hand; your arm should remain completely still on the table.",
+          "whatNotToDo": "Do not lift your fingers or palm off the table during the movement.",
+          "id": "upper-limb-031",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Turn the Wrist Sideways",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Make Circles in the Air with the Hands",
+          "image": "",
+          "description": "This movement helps lubricate the wrist joint, reducing the stiffness that older adults often feel in the morning when they first wake up.",
+          "howToDo": "Sit comfortably. Bring your hands forward with your elbows bent and close to your sides. Close your hands into very light fists. Start rotating your wrists, drawing circles in the air with your hands. Make 5 circles clockwise, toward the right, and then 5 circles counterclockwise, toward the left.",
+          "whatToDo": "Rotate your hands very slowly, trying to make each circle as large as possible.",
+          "whatNotToDo": "Do not move your arms or elbows; the movement should come only from your wrists.",
+          "id": "upper-limb-032",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Make Circles in the Air with the Hands",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "circumduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wrist Extensor Stretch",
+          "image": "",
+          "description": "Wrist Extensor Stretch supports wrist work with emphasis on flexion, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Extend one arm forward with the palm facing down. Bend the wrist so the fingers point toward the floor, then gently guide the hand with the other hand until a mild stretch is felt on the top of the forearm. Hold for about 15 seconds.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not bounce, rush, or push through sharp pain.",
+          "id": "upper-limb-048",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wrist Extensor Stretch",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Wrist Flexor Stretch",
+          "image": "",
+          "description": "Wrist Flexor Stretch supports wrist work with emphasis on extension, mobility. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Extend one arm forward with the palm facing down. Let the hand move toward the floor, then use the other hand to gently guide the wrist into extension until the opposite side of the forearm stretches. Hold for about 15 seconds.",
+          "whatToDo": "Move slowly, keep the range comfortable, and coordinate the movement with relaxed breathing.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-049",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wrist Flexor Stretch",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Wrist Extension Hold",
+          "image": "",
+          "description": "Wrist Extension Hold supports wrist work with emphasis on extension, isometric. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Sit with the forearm supported on a table and the wrist beyond the edge. Make a light fist, bring the hand in line with the forearm, hold for a few seconds, then relax.",
+          "whatToDo": "Hold a steady effort, keep breathing, and stay inside a comfortable range.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-050",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wrist Extension Hold",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wrist Extension Strengthening",
+          "image": "",
+          "description": "Wrist Extension Strengthening supports wrist work with emphasis on extension. It is designed for controlled mobility, strength, or stretch work inside an adapted plan.",
+          "howToDo": "Rest the forearm on a table with the wrist beyond the edge. Help the hand lift with the other hand, then let the involved wrist control a slow lowering phase. Add a very light weight only when tolerated.",
+          "whatToDo": "Use smooth control, keep breathing, and progress gradually.",
+          "whatNotToDo": "Do not force the end range, arch suddenly, or continue through sharp pain.",
+          "id": "upper-limb-051",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wrist Extension Strengthening",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "wrist"
+    },
+    {
+      "nome": "Hand",
+      "esercizi": [
+        {
+          "nome": "Touch the Fingertips with the Thumb",
+          "image": "",
+          "description": "This exercise trains finger precision and agility, which are essential for picking up small objects from a table, such as pills, coins, or needles.",
+          "howToDo": "Sit comfortably with your hands resting on your thighs. Lift your right hand with your palm open. Bring your thumb to touch the tip of your index finger, then the tip of your middle finger, ring finger, and finally your little finger. Once you reach the little finger, go back in the opposite direction. Repeat 3 times with each hand.",
+          "whatToDo": "Gently press one fingertip against the other when they touch.",
+          "whatNotToDo": "Do not rush; the important thing is to touch the fingertips accurately and precisely.",
+          "id": "upper-limb-033",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Touch the Fingertips with the Thumb",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Finger Walk on the Table",
+          "image": "",
+          "description": "This movement strengthens and stretches the finger muscles, imitating the action of typing on a phone keyboard or on a remote control.",
+          "howToDo": "Sit upright in front of a table. Place your right hand open on the table, keeping the palm lifted so that only the fingertips touch the surface, as if your hand were a spider. Using only your fingertips, make your hand â€œwalkâ€ forward along the table and then back again. Repeat 5 times with each hand.",
+          "whatToDo": "Keep your wrist still and relaxed; move only your fingers.",
+          "whatNotToDo": "Do not press the palm of your hand against the table while moving.",
+          "id": "upper-limb-034",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Finger Walk on the Table",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Spread the Fingers Against an Elastic Band",
+          "image": "",
+          "description": "This exercise helps strengthen the muscles that open the hand, which is very useful for counteracting the tendency of older adultsâ€™ fingers to remain bent or stiff.",
+          "howToDo": "Sit comfortably. Bring the fingertips of your right hand together. Place a regular kitchen elastic band around the joined fingers, just below the fingernails. From this position, spread your fingers outward, pushing against the resistance of the elastic band. Hold the open position for 3 seconds, then slowly close your fingers again. Repeat 5 times on each side.",
+          "whatToDo": "Perform the movement very slowly, both when opening and closing your fingers.",
+          "whatNotToDo": "Do not use an elastic band that is too tight, as it may hurt or cut the skin.",
+          "id": "upper-limb-035",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Spread the Fingers Against an Elastic Band",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Pick Up and Crumple a Sheet of Paper",
+          "image": "",
+          "description": "This exercise greatly strengthens the whole hand and trains the action of grasping and holding objects without letting them slip away.",
+          "howToDo": "Sit at a table. Place an old sheet of newspaper or a sheet of kitchen paper flat on the table in front of you. Place your open right hand on top of it. Using only the fingers of that hand, start pulling the paper toward the centre of your palm until you turn the sheet into a tight ball. Do the same with your left hand.",
+          "whatToDo": "Squeeze the ball firmly at the end, using the full strength of your hand.",
+          "whatNotToDo": "Do not help yourself with the other hand; one hand must do all the work on its own.",
+          "id": "upper-limb-036",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Pick Up and Crumple a Sheet of Paper",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Table Finger Lifts",
+          "image": "",
+          "description": "This exercise improves finger control and strengthens the small muscles of the hand, useful for typing, buttoning clothes, and handling small objects.",
+          "howToDo": "Sit at a table and place your right hand flat on the surface, with your palm and fingers resting down. Keeping the palm still, slowly lift only your index finger, then lower it. Continue with the middle finger, ring finger, and little finger. Repeat 3 times, then switch hands.",
+          "whatToDo": "Move one finger at a time and keep the rest of the hand relaxed.",
+          "whatNotToDo": "Do not lift the whole hand from the table.",
+          "id": "upper-limb-044",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Table Finger Lifts",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Finger Spread on the Table",
+          "image": "",
+          "description": "This exercise strengthens the muscles that open the fingers and helps maintain hand mobility during daily tasks such as grasping a glass or opening the hand to lean on a surface.",
+          "howToDo": "Sit at a table and place your right hand flat on the surface. Keeping your palm down, slowly spread your fingers apart as much as possible, then slowly bring them back together. Repeat 5 times, then switch hands.",
+          "whatToDo": "Keep the movement slow and controlled.",
+          "whatNotToDo": "Do not force the fingers apart if you feel pain.",
+          "id": "upper-limb-045",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Finger Spread on the Table",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction",
+            "finger-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Thumb Slide Across the Palm",
+          "image": "",
+          "description": "This exercise improves thumb mobility, which is essential for grasping objects, opening containers, and holding cutlery.",
+          "howToDo": "Sit comfortably with your hands resting on your thighs. Open your right hand with the palm facing upward. Slowly slide your thumb across the palm toward the base of the little finger, then return to the open-hand position. Repeat 5 times, then switch hands.",
+          "whatToDo": "Move the thumb slowly and try to reach across the palm without forcing.",
+          "whatNotToDo": "Do not bend the wrist to help the thumb reach farther.",
+          "id": "upper-limb-046",
+          "sezione": "Hand",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Thumb Slide Across the Palm",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition",
+            "thumb-adduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "hand"
+    }
+  ],
+  "id": "upper-limb"
 }

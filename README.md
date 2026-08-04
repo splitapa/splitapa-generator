@@ -40,7 +40,7 @@ https://splitapa.github.io/splitapa-generator/generator/?district=lower-limb
 ## Stato app
 
 ```text
-Total exercises: 148
+Total exercises: 245
 Visible media paths: 0
 Movement metadata: English only
 Difficulty metadata: 1-5 stars
