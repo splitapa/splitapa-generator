@@ -63,17 +63,17 @@
           "difficulty": 1
         },
         {
-          "nome": "Standing Wall-Assisted Shoulder Flexion Stretch",
+          "nome": "Standing Wall Slide for Active-Assisted Shoulder Flexion",
           "image": "",
-          "description": "This mobility exercise provides a controlled stretch to the shoulder complex, with emphasis on flexion.",
-          "howToDo": "Stand facing a wall and place both hands on it. Step the feet back and let the chest move gently toward the floor while the arms stay long.",
-          "whatToDo": "Maintain stable alignment and progress gradually to a mild, tolerable stretch while breathing normally.",
-          "whatNotToDo": "Do not bounce, force end range, or continue if sharp or progressively increasing pain occurs.",
+          "description": "This active-assisted mobility exercise develops controlled shoulder flexion while the wall supports the weight of the upper limbs.",
+          "howToDo": "Stand facing a wall with both hands resting on it at shoulder width. Keeping the trunk upright, slide the hands upward until the available comfortable flexion range is reached, then return slowly to the starting position.",
+          "whatToDo": "Keep the ribs controlled, allow the scapulae to rotate upward naturally, and use light hand contact with the wall throughout the movement.",
+          "whatNotToDo": "Do not arch the lower back, elevate the shoulders excessively, or force the arms beyond a comfortable range.",
           "id": "upper-limb-060",
           "sezione": "Shoulder - Mobility and Motor Control",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Standing Wall-Assisted Shoulder Flexion Stretch",
+          "imageAlt": "Standing Wall Slide for Active-Assisted Shoulder Flexion",
           "movementDistrict": "shoulder",
           "movementTags": [
             "flexion",
@@ -500,21 +500,20 @@
           "difficulty": 4
         },
         {
-          "nome": "Standing Shoulder Extension Pulses with Arms Abducted",
+          "nome": "Standing Shoulder Horizontal Abduction Pulses",
           "image": "",
-          "description": "This active mobility exercise is intended to improve controlled horizontal abduction and extension of the shoulder complex.",
-          "howToDo": "Stand or sit tall with the arms open to the sides. Gently pulse the arms backward in a small controlled range while the chest opens.",
-          "whatToDo": "Maintain neutral alignment and perform each phase slowly through the available comfortable range while breathing normally.",
-          "whatNotToDo": "Do not use momentum, force end range, or continue if the exercise produces sharp or progressively increasing pain.",
+          "description": "This dynamic mobility exercise develops small-range glenohumeral horizontal abduction with the upper limbs held at shoulder height.",
+          "howToDo": "Stand upright with both shoulders abducted to approximately 90 degrees and the elbows comfortably extended. Move both upper arms a short distance posteriorly, then return them to the frontal plane in a slow, repeated pulse.",
+          "whatToDo": "Initiate the movement at the shoulder joints, keep the trunk stationary, and use a small symmetrical range.",
+          "whatNotToDo": "Do not thrust the chest forward, extend the lumbar spine, shrug the shoulders, or use rapid momentum.",
           "id": "upper-limb-058",
           "sezione": "Shoulder - Anterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Standing Shoulder Extension Pulses with Arms Abducted",
+          "imageAlt": "Standing Shoulder Horizontal Abduction Pulses",
           "movementDistrict": "shoulder",
           "movementTags": [
             "horizontal-abduction",
-            "extension",
             "mobility"
           ],
           "difficulty": 2
@@ -771,21 +770,21 @@
           "difficulty": 4
         },
         {
-          "nome": "Cross-Body Shoulder Adduction Stretch",
+          "nome": "Standing Active Cross-Body Shoulder Reach",
           "image": "",
-          "description": "This mobility exercise provides a controlled stretch to the shoulder complex, with emphasis on adduction and internal rotation.",
-          "howToDo": "Stand or sit upright. Bring one arm across the anterior chest with the elbow slightly flexed. Use the opposite forearm to guide the elbow medially until a mild stretch is felt over the lateral and posterior shoulder.",
-          "whatToDo": "Maintain stable alignment and progress gradually to a mild, tolerable stretch while breathing normally.",
-          "whatNotToDo": "Do not bounce, force end range, or continue if sharp or progressively increasing pain occurs.",
+          "description": "This active mobility exercise develops controlled shoulder horizontal adduction without assistance from the opposite upper limb.",
+          "howToDo": "Stand upright and elevate one arm forward to shoulder height with the elbow extended or slightly flexed. Move the arm across the chest under muscular control, then return to the starting position without assistance from the opposite arm.",
+          "whatToDo": "Keep the trunk facing forward and perform the outward and return phases through the available comfortable range at the same controlled speed.",
+          "whatNotToDo": "Do not rotate the trunk, pull the arm with the opposite hand, shrug the shoulder, or use momentum.",
           "id": "upper-limb-080",
           "sezione": "Shoulder - Lateral Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Cross-Body Shoulder Adduction Stretch",
+          "imageAlt": "Standing Active Cross-Body Shoulder Reach",
           "movementDistrict": "shoulder",
           "movementTags": [
-            "adduction",
-            "internal-rotation"
+            "horizontal-adduction",
+            "mobility"
           ],
           "difficulty": 3
         },
@@ -912,17 +911,17 @@
           "difficulty": 4
         },
         {
-          "nome": "Shoulder External Rotation with Elbows Adducted",
+          "nome": "Seated Bilateral Shoulder External Rotation",
           "image": "",
-          "description": "This exercise is intended to improve active range of motion and movement control of the shoulder complex during external rotation.",
+          "description": "This bilateral active exercise develops symmetrical shoulder external-rotation control with both elbows maintained beside the trunk.",
           "howToDo": "Sit upright on a chair. Bend both elbows to 90 degrees and keep them close to your sides. Keep your palms facing upward. Slowly move your hands outward, opening your forearms to the sides while keeping your elbows attached to your body. Hold for 2 seconds, then return to the starting position. Repeat 5 times.",
-          "whatToDo": "Maintain neutral alignment and perform each phase slowly through the available comfortable range while breathing normally.",
-          "whatNotToDo": "Do not use momentum, force end range, or continue if the exercise produces sharp or progressively increasing pain.",
+          "whatToDo": "Move both forearms symmetrically, keep the elbows lightly in contact with the trunk, and maintain neutral wrist alignment.",
+          "whatNotToDo": "Do not separate the elbows from the trunk, retract the shoulders forcefully, rotate the torso, or force the available range.",
           "id": "upper-limb-037",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Shoulder External Rotation with Elbows Adducted",
+          "imageAlt": "Seated Bilateral Shoulder External Rotation",
           "movementDistrict": "shoulder",
           "movementTags": [
             "external-rotation"
@@ -1078,20 +1077,21 @@
           "difficulty": 3
         },
         {
-          "nome": "Cross-Body Posterior Shoulder Stretch",
+          "nome": "Standing Cross-Body Posterior Shoulder Stretch",
           "image": "",
-          "description": "This mobility exercise provides a controlled stretch to the shoulder complex, with emphasis on horizontal adduction.",
-          "howToDo": "Bring one arm across the chest at shoulder height. Use the other arm to gently draw it closer until the back of the shoulder stretches.",
-          "whatToDo": "Maintain stable alignment and progress gradually to a mild, tolerable stretch while breathing normally.",
-          "whatNotToDo": "Do not bounce, force end range, or continue if sharp or progressively increasing pain occurs.",
+          "description": "This upright self-assisted stretch uses shoulder horizontal adduction to lengthen the posterior shoulder tissues.",
+          "howToDo": "Stand upright and bring one arm across the chest at shoulder height. Place the opposite forearm above the elbow and gently draw the arm closer to the trunk until a mild posterior shoulder stretch is perceived. Hold, then change sides.",
+          "whatToDo": "Keep the tested shoulder below ear level, maintain the trunk facing forward, and use only gentle assistance from the opposite arm.",
+          "whatNotToDo": "Do not rotate the trunk, pull directly on the elbow joint, elevate the shoulder, or force the stretch.",
           "id": "upper-limb-071",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Cross-Body Posterior Shoulder Stretch",
+          "imageAlt": "Standing Cross-Body Posterior Shoulder Stretch",
           "movementDistrict": "shoulder",
           "movementTags": [
-            "horizontal-adduction"
+            "horizontal-adduction",
+            "stretch"
           ],
           "difficulty": 2
         },
@@ -1114,39 +1114,40 @@
           "difficulty": 2
         },
         {
-          "nome": "Active Shoulder External Rotation",
+          "nome": "Isometric Shoulder External Rotation Against Wall",
           "image": "",
-          "description": "This exercise is intended to improve active range of motion and movement control of the shoulder complex during external rotation.",
-          "howToDo": "Sit or stand tall with the elbow bent to 90 degrees and close to the body. Rotate the forearm outward, pause briefly, then return.",
-          "whatToDo": "Maintain neutral alignment and perform each phase slowly through the available comfortable range while breathing normally.",
-          "whatNotToDo": "Do not use momentum, force end range, or continue if the exercise produces sharp or progressively increasing pain.",
+          "description": "This isometric exercise activates the shoulder external rotators without producing visible glenohumeral movement.",
+          "howToDo": "Stand side-on to a wall with the working elbow flexed to 90 degrees and held beside the trunk. Place the back of the hand against the wall and press outward with steady submaximal force without allowing the arm to move. Hold for 5 seconds, relax, and repeat on the opposite side.",
+          "whatToDo": "Keep the elbow fixed beside the trunk, the wrist neutral, and the shoulder relaxed while maintaining normal breathing.",
+          "whatNotToDo": "Do not rotate the trunk, abduct the elbow, extend the wrist, hold the breath, or apply maximal force.",
           "id": "upper-limb-073",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Active Shoulder External Rotation",
+          "imageAlt": "Isometric Shoulder External Rotation Against Wall",
           "movementDistrict": "shoulder",
           "movementTags": [
-            "external-rotation"
+            "external-rotation",
+            "isometric"
           ],
           "difficulty": 2
         },
         {
-          "nome": "Standing Scapular Retraction Pulses with Arms Abducted",
+          "nome": "Standing Isolated Scapular Retraction",
           "image": "",
-          "description": "This exercise is intended to improve active range of motion and movement control of the shoulder complex during horizontal abduction and scapular retraction.",
-          "howToDo": "Stand tall with the arms slightly out to the sides. Move the arms backward and forward in a small controlled range while the shoulder blades stay active.",
-          "whatToDo": "Maintain neutral alignment and perform each phase slowly through the available comfortable range while breathing normally.",
-          "whatNotToDo": "Do not use momentum, force end range, or continue if the exercise produces sharp or progressively increasing pain.",
+          "description": "This selective-control exercise emphasizes scapulothoracic retraction while minimizing movement at the glenohumeral joints.",
+          "howToDo": "Stand upright with the arms relaxed beside the trunk and the elbows softly flexed. Without moving the upper arms backward, draw both scapulae gently toward the spine, pause briefly, then release them to neutral.",
+          "whatToDo": "Keep the neck relaxed, the ribs aligned over the pelvis, and the upper arms stationary while the scapulae move symmetrically.",
+          "whatNotToDo": "Do not shrug the shoulders, extend the arms behind the trunk, arch the lower back, or squeeze the scapulae forcefully.",
           "id": "upper-limb-074",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Standing Scapular Retraction Pulses with Arms Abducted",
+          "imageAlt": "Standing Isolated Scapular Retraction",
           "movementDistrict": "shoulder",
           "movementTags": [
-            "horizontal-abduction",
-            "scapular-retraction"
+            "scapular-retraction",
+            "selective-control"
           ],
           "difficulty": 3
         },
@@ -1169,39 +1170,41 @@
           "difficulty": 3
         },
         {
-          "nome": "Wall-Supported Latissimus Dorsi Stretch",
+          "nome": "Sustained Wall-Supported Latissimus Dorsi Stretch",
           "image": "",
-          "description": "This mobility exercise provides a controlled stretch to the shoulder complex, with emphasis on flexion.",
-          "howToDo": "Place the hands high on a wall and step back until the arms are long. Let the chest move gently downward while the ribs stay controlled.",
-          "whatToDo": "Maintain neutral joint alignment, apply a steady submaximal contraction, and continue breathing throughout the hold.",
-          "whatNotToDo": "Do not hold the breath, apply maximal force, or continue if sharp or progressively increasing pain occurs.",
+          "description": "This sustained stretch combines shoulder flexion and a supported hip hinge to lengthen the latissimus dorsi and adjacent posterolateral trunk tissues.",
+          "howToDo": "Place both hands high on a wall, step backward, and hinge the hips posteriorly while keeping the arms extended. Lower the chest gradually between the arms until a mild stretch is felt along the posterolateral shoulders and trunk. Hold for 20 seconds while breathing normally.",
+          "whatToDo": "Maintain gentle abdominal control, keep the ribs aligned, and distribute the stretch evenly between both sides.",
+          "whatNotToDo": "Do not force the chest downward, flare the ribs, hyperextend the lumbar spine, or continue if symptoms radiate into an upper limb.",
           "id": "upper-limb-078",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Wall-Supported Latissimus Dorsi Stretch",
+          "imageAlt": "Sustained Wall-Supported Latissimus Dorsi Stretch",
           "movementDistrict": "shoulder",
           "movementTags": [
             "flexion",
-            "isometric"
+            "stretch"
           ],
           "difficulty": 3
         },
         {
-          "nome": "Scapula-Stabilized Cross-Body Shoulder Stretch",
+          "nome": "Supine Scapula-Stabilized Cross-Body Shoulder Stretch",
           "image": "",
-          "description": "This mobility exercise provides a controlled stretch to the shoulder complex, with emphasis on horizontal adduction.",
-          "howToDo": "Bring one arm across the chest at shoulder height. Stabilize the scapula in a neutral position and use the opposite forearm to guide the arm closer to the trunk. Hold a mild posterior shoulder stretch.",
-          "whatToDo": "Maintain stable alignment and progress gradually to a mild, tolerable stretch while breathing normally.",
-          "whatNotToDo": "Do not bounce, force end range, or continue if sharp or progressively increasing pain occurs.",
+          "description": "This supine self-assisted stretch uses the supporting surface to limit scapular protraction and focus horizontal adduction at the glenohumeral joint.",
+          "howToDo": "Lie supine with one shoulder flexed to 90 degrees and the elbow comfortably bent. Keep the scapula in contact with the supporting surface and use the opposite hand above the elbow to guide the arm across the chest until a mild posterior shoulder stretch is perceived.",
+          "whatToDo": "Maintain the scapula against the surface, keep the shoulder relaxed, and apply gentle assistance through the upper arm.",
+          "whatNotToDo": "Do not lift the scapula from the surface, press directly on the elbow joint, force the arm across the chest, or provoke anterior shoulder pain.",
           "id": "upper-limb-079",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
           "thumbnail": "",
-          "imageAlt": "Scapula-Stabilized Cross-Body Shoulder Stretch",
+          "imageAlt": "Supine Scapula-Stabilized Cross-Body Shoulder Stretch",
           "movementDistrict": "shoulder",
           "movementTags": [
-            "horizontal-adduction"
+            "horizontal-adduction",
+            "stretch",
+            "stabilization"
           ],
           "difficulty": 3
         },
@@ -1226,10 +1229,10 @@
         {
           "nome": "Standing Single-Arm External Rotation",
           "image": "",
-          "description": "This exercise is intended to improve active range of motion and movement control of the shoulder complex during external rotation.",
+          "description": "This unilateral standing exercise develops active shoulder external-rotation control while the opposite upper limb remains relaxed.",
           "howToDo": "Stand tall with one elbow bent to 90 degrees and held close to the side. Begin with the forearm pointing forward, then rotate the hand outward and slightly backward while the elbow remains fixed. Return slowly.",
-          "whatToDo": "Maintain neutral alignment and perform each phase slowly through the available comfortable range while breathing normally.",
-          "whatNotToDo": "Do not use momentum, force end range, or continue if the exercise produces sharp or progressively increasing pain.",
+          "whatToDo": "Keep the working elbow fixed beside the trunk, maintain a neutral wrist, and complete the outward and return phases at the same controlled speed.",
+          "whatNotToDo": "Do not rotate the torso, separate the elbow from the trunk, extend the wrist, or use momentum to increase the range.",
           "id": "upper-limb-086",
           "sezione": "Shoulder - Posterior Region",
           "distretto": "Upper Limb",
