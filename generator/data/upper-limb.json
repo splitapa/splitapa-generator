@@ -139,6 +139,230 @@
             "mobility"
           ],
           "difficulty": 3
+        },
+        {
+          "nome": "Standing Shoulder Shrug",
+          "image": "",
+          "description": "This controlled shrug trains scapular elevation and improves awareness of the shoulder blades during overhead and carrying tasks.",
+          "howToDo": "Stand tall with the arms relaxed by your sides. Begin with the shoulders low and the chest comfortably open. Slowly lift both shoulders toward the ears, pause briefly, then lower them with control.",
+          "whatToDo": "Keep the head upright, breathe normally, and make the upward and downward phases equally slow.",
+          "whatNotToDo": "Do not thrust the head forward, bend the elbows, or circle the shoulders during the lift.",
+          "id": "upper-limb-082",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Shoulder Shrug",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-elevation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Overhead Ceiling Reach",
+          "image": "",
+          "description": "This overhead reach trains upward scapular movement and control at the end of shoulder flexion.",
+          "howToDo": "Stand tall and extend one arm overhead as if the palm were pressing gently against the ceiling. Keep the elbow straight and reach upward by allowing the shoulder blade to rise and rotate, then return slowly.",
+          "whatToDo": "Keep the ribs controlled, the neck relaxed, and reach only through a comfortable overhead range.",
+          "whatNotToDo": "Do not arch the lower back, lean sideways, or force the shoulder toward the ear.",
+          "id": "upper-limb-084",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Overhead Ceiling Reach",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-elevation",
+            "upward-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Elbow Ball Circles on the Wall",
+          "image": "",
+          "description": "This closed-chain exercise develops shoulder stability and controlled circular movement with light pressure against a wall.",
+          "howToDo": "Stand facing a wall and place a soft ball between the wall and one elbow. Apply gentle pressure to hold the ball in place, then guide the elbow through small clockwise circles and small counterclockwise circles.",
+          "whatToDo": "Keep the shoulder low, the chest steady, and begin with very small circles.",
+          "whatNotToDo": "Do not press the ball aggressively, shrug the shoulder, or let the trunk rotate.",
+          "id": "upper-limb-093",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Elbow Ball Circles on the Wall",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Elbow Ball Square on the Wall",
+          "image": "",
+          "description": "This wall-ball drill trains multidirectional shoulder control through a clear four-point path.",
+          "howToDo": "Stand facing a wall with a soft ball held between the wall and one elbow. Maintain light pressure and move the elbow up, right, down, and left to draw a small square. Reverse the direction after completing several controlled repetitions.",
+          "whatToDo": "Pause briefly at each corner and keep the shoulder blade controlled against the rib cage.",
+          "whatNotToDo": "Do not make the square so large that the shoulder shrugs or the body has to lean.",
+          "id": "upper-limb-094",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Elbow Ball Square on the Wall",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "horizontal-abduction",
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Hands-on-Shoulders Elbow Flow",
+          "image": "",
+          "description": "This coordinated sequence combines shoulder extension, abduction, external rotation, and overhead flexion.",
+          "howToDo": "Stand tall and place each hand on the shoulder of the same side. Lead with the elbows: move them down and slightly back, open them to the sides into a 90-degree externally rotated position, then guide them upward as if reaching toward the ceiling. Return along the same path.",
+          "whatToDo": "Keep the chest open, the shoulder blades controlled, and perform each phase slowly.",
+          "whatNotToDo": "Do not arch the lower back, force the elbows behind the body, or rush between positions.",
+          "id": "upper-limb-095",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Hands-on-Shoulders Elbow Flow",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "abduction",
+            "external-rotation",
+            "flexion",
+            "coordination"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Hands-on-Shoulders External-Rotation Circles",
+          "image": "",
+          "description": "This progression adds small circular control while the shoulders remain abducted and externally rotated.",
+          "howToDo": "Stand tall with each hand touching the shoulder on the same side. Open the elbows to the sides and hold them near shoulder height. Keeping the chest open and the shoulder blades gently drawn together, draw small circles with the elbows in both directions.",
+          "whatToDo": "Use small even circles and keep the neck relaxed throughout the set.",
+          "whatNotToDo": "Do not let the elbows drift forward, shrug the shoulders, or enlarge the circles beyond control.",
+          "id": "upper-limb-096",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Hands-on-Shoulders External-Rotation Circles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "external-rotation",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Alternating Overhead Arm Circles",
+          "image": "",
+          "description": "This coordination drill combines opposite-direction shoulder circumduction on the two sides.",
+          "howToDo": "Stand tall with both arms extended overhead. Begin circling one arm forward and downward while the other circles backward and downward. Continue the alternating pattern slowly, then reverse directions.",
+          "whatToDo": "Start with a small range, keep the elbows soft, and maintain a steady rhythm.",
+          "whatNotToDo": "Do not move quickly, twist the trunk, or continue if the opposite directions cannot be controlled.",
+          "id": "upper-limb-100",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Alternating Overhead Arm Circles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "coordination",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Progressive Arm Circles",
+          "image": "",
+          "description": "This graded shoulder drill progresses from small circles to full circumduction and then returns to the starting range.",
+          "howToDo": "Stand tall with both arms open to the sides at shoulder height. Begin with small circles and gradually increase their diameter until each arm completes a comfortable full circle. Then reduce the diameter step by step until the arms are again held out to the sides. Repeat in the opposite direction.",
+          "whatToDo": "Increase and decrease the circle size gradually while keeping a smooth rhythm.",
+          "whatNotToDo": "Do not jump suddenly to a large circle, arch the back, or continue through shoulder pain.",
+          "id": "upper-limb-103",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Progressive Arm Circles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "motor-control"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Seated Stick Lower Behind the Head",
+          "image": "",
+          "description": "This seated drill combines overhead shoulder mobility with controlled elbow flexion behind the head.",
+          "howToDo": "Sit away from the backrest with the spine tall. Hold a stick or towel with a comfortable wide grip and raise it above the head. Bend the elbows to lower it gently behind the head, then extend the elbows to return it overhead.",
+          "whatToDo": "Keep the head neutral, the ribs controlled, and use a grip wide enough for a comfortable path.",
+          "whatNotToDo": "Do not push the head forward, force the stick downward, or arch the lower back.",
+          "id": "upper-limb-104",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Seated Stick Lower Behind the Head",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "elbow-flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wall Goalpost Overhead Press",
+          "image": "",
+          "description": "This wall-supported goalpost press trains overhead mobility while encouraging postural and scapular control.",
+          "howToDo": "Stand with the back against a wall. Place the arms in a goalpost shape with the upper arms out to the sides and the elbows bent to 90 degrees. Keeping the backs of the hands close to the wall, slide and extend the arms upward, then return to the goalpost position.",
+          "whatToDo": "Keep the head, upper back, and pelvis comfortably aligned and move only through the range that can be controlled.",
+          "whatNotToDo": "Do not flare the ribs, force the hands against the wall, or let the movement cause sharp pain.",
+          "id": "upper-limb-105",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Goalpost Overhead Press",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Supported Shoulder Pendulum Circles",
+          "image": "",
+          "description": "This gravity-assisted movement gently mobilizes the shoulder with minimal active lifting.",
+          "howToDo": "Stand beside a stable bench or chair in a staggered stance. Hinge forward from the hips with a neutral back and support the body with the opposite hand. Let the working arm hang freely toward the floor, then create small clockwise and counterclockwise circles by gently shifting the body.",
+          "whatToDo": "Keep the working arm relaxed and let gravity guide a small, easy circle.",
+          "whatNotToDo": "Do not actively swing from the shoulder, make large fast circles, or use an unstable support.",
+          "id": "upper-limb-107",
+          "sezione": "Shoulder - Mobility and Control",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supported Shoulder Pendulum Circles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "gravity-assisted"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "shoulder-mobility-control"
@@ -370,6 +594,64 @@
             "extension"
           ],
           "difficulty": 4
+        },
+        {
+          "nome": "Standing Invisible-Wall Reach",
+          "image": "",
+          "description": "This exercise develops scapular protraction and controlled forward reach without bending the elbow.",
+          "howToDo": "Stand tall and extend one arm forward at shoulder height, as if the palm were resting against an invisible wall. Without leaning the trunk, push the shoulder blade forward so the hand and arm travel a little farther, then return to neutral.",
+          "whatToDo": "Keep the arm straight, the neck long, and let the movement come from the shoulder blade sliding around the rib cage.",
+          "whatNotToDo": "Do not round the whole back, shrug the shoulder, or rotate the trunk to gain distance.",
+          "id": "upper-limb-083",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Invisible-Wall Reach",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction",
+            "horizontal-flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Supine Goalpost Forearm Clap",
+          "image": "",
+          "description": "This supine exercise trains horizontal shoulder adduction while maintaining a 90-degree elbow angle.",
+          "howToDo": "Lie on your back with the knees bent. Open the upper arms to the sides and bend the elbows to form a goalpost. Keeping the elbows bent, bring the inner forearms toward each other in front of the chest, then reopen with control.",
+          "whatToDo": "Keep the chest comfortably open and the shoulder blades gently controlled against the floor.",
+          "whatNotToDo": "Do not lift the shoulders, force the forearms together, or arch the lower back.",
+          "id": "upper-limb-108",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Goalpost Forearm Clap",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Supine Straight-Arm Ceiling Clap",
+          "image": "",
+          "description": "This supine movement trains horizontal shoulder adduction and abduction with the elbows extended.",
+          "howToDo": "Lie on your back with the knees bent and open both straight arms to the sides. Sweep the arms upward until the palms meet or nearly meet above the chest, pointing toward the ceiling, then lower them back to the sides.",
+          "whatToDo": "Keep the elbows softly extended and the shoulder blades controlled as the arms open and close.",
+          "whatNotToDo": "Do not slam the hands together, shrug the shoulders, or force the arms to the floor.",
+          "id": "upper-limb-109",
+          "sezione": "Shoulder - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Straight-Arm Ceiling Clap",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "shoulder-anterior-region"
@@ -506,6 +788,46 @@
           "movementTags": [
             "adduction",
             "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Lateral Arm Small Circles",
+          "image": "",
+          "description": "This exercise builds endurance and circular control with the arms held at shoulder height.",
+          "howToDo": "Stand tall and open both straight arms to the sides at 90 degrees. Draw small forward circles for several repetitions, then draw the same number of backward circles.",
+          "whatToDo": "Keep the circles small, the shoulder blades controlled, and the neck relaxed.",
+          "whatNotToDo": "Do not let the arms drop, shrug the shoulders, or use fast uncontrolled circles.",
+          "id": "upper-limb-101",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Lateral Arm Small Circles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Standing Lateral Wing Pulses",
+          "image": "",
+          "description": "This lateral wing movement trains shoulder abduction and adduction control while limiting forward drift.",
+          "howToDo": "Stand tall with both arms open to the sides. Move the arms gently up and down like wings, keeping the movement in the lateral plane and using only a small range.",
+          "whatToDo": "Keep the chest open, the elbows softly extended, and the movement symmetrical.",
+          "whatNotToDo": "Do not bring the arms far forward, shrug the shoulders, or use large forceful pulses.",
+          "id": "upper-limb-102",
+          "sezione": "Shoulder - Lateral Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Lateral Wing Pulses",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "stabilization"
           ],
           "difficulty": 3
         }
@@ -884,6 +1206,98 @@
             "horizontal-adduction"
           ],
           "difficulty": 3
+        },
+        {
+          "nome": "Standing Straight-Arm Shoulder Extension",
+          "image": "",
+          "description": "This movement trains shoulder extension while reinforcing an upright, open posture.",
+          "howToDo": "Stand tall with one arm straight alongside the body, the shoulder low, and the chest comfortably open. Move the straight arm backward through a small controlled range, pause, then return beside the body.",
+          "whatToDo": "Keep the elbow straight and the shoulder blade gently set back and down.",
+          "whatNotToDo": "Do not lean forward, arch the lower back, or swing the arm with momentum.",
+          "id": "upper-limb-085",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Straight-Arm Shoulder Extension",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Standing Single-Arm External Rotation",
+          "image": "",
+          "description": "This posture-focused variation trains external rotation of one shoulder with the elbow fixed beside the trunk.",
+          "howToDo": "Stand tall with one elbow bent to 90 degrees and held close to the side. Begin with the forearm pointing forward, then rotate the hand outward and slightly backward while the elbow remains fixed. Return slowly.",
+          "whatToDo": "Keep the chest open, the shoulder low, and rotate only as far as the elbow can stay against the body.",
+          "whatNotToDo": "Do not move the elbow away from the side, twist the trunk, or force the hand backward.",
+          "id": "upper-limb-086",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Single-Arm External Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wall Goalpost Internal Rotation",
+          "image": "",
+          "description": "This wall-supported drill trains internal shoulder rotation while the elbow remains fixed at shoulder height.",
+          "howToDo": "Stand with the back against a wall and place the arms in a goalpost position. Keep each elbow in contact with the wall. Rotate the forearms downward so the palms move toward the floor, then return slowly to the upright goalpost position.",
+          "whatToDo": "Use a small controlled range and keep the chest open without forcing the lower back flat.",
+          "whatNotToDo": "Do not let the elbows leave the wall, push into pain, or compensate by rounding the shoulders.",
+          "id": "upper-limb-106",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Wall Goalpost Internal Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Supine Goalpost Internal Rotation",
+          "image": "",
+          "description": "This floor-supported variation trains internal shoulder rotation with the elbows held in a stable goalpost position.",
+          "howToDo": "Lie on your back with the upper arms open to the sides and the elbows bent to 90 degrees. Keep the elbows in the same place and rotate the forearms so the palms move toward the floor near the hips. Return slowly to the starting position.",
+          "whatToDo": "Keep the chest comfortably open and use only the range that does not pull the shoulder forward.",
+          "whatNotToDo": "Do not lift the elbows, force the hands to the floor, or arch the lower back.",
+          "id": "upper-limb-111",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Goalpost Internal Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Supine Elbow-Supported External Rotation",
+          "image": "",
+          "description": "This supine variation trains shoulder external rotation with the upper arm close to the trunk and fully supported.",
+          "howToDo": "Lie on your back with one elbow close to the side and bent to 90 degrees, so the knuckles point toward the ceiling. Keep the elbow fixed and rotate the forearm outward, bringing the back of the hand toward the floor beside you. Return slowly and repeat on the other side.",
+          "whatToDo": "Keep the shoulder low and allow the floor to support the trunk and upper arm.",
+          "whatNotToDo": "Do not let the elbow slide away from the body, force the hand to touch the floor, or twist the trunk.",
+          "id": "upper-limb-112",
+          "sezione": "Shoulder - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Elbow-Supported External Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "shoulder-posterior-region"
@@ -964,6 +1378,46 @@
             "isometric"
           ],
           "difficulty": 4
+        },
+        {
+          "nome": "Shoulder Touch to Forward Reach",
+          "image": "",
+          "description": "This coordinated pattern links elbow flexion with a controlled forward arm extension.",
+          "howToDo": "Stand tall with both arms straight by your sides. Bring each hand to the shoulder on the same side, then extend both arms forward at shoulder height. Bend the elbows to return the hands to the shoulders, then lower the arms.",
+          "whatToDo": "Keep the wrists neutral, the shoulders low, and the forward reach level.",
+          "whatNotToDo": "Do not lean backward, thrust the arms, or let the shoulders rise toward the ears.",
+          "id": "upper-limb-098",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder Touch to Forward Reach",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "shoulder-flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Shoulder Touch to Overhead Reach",
+          "image": "",
+          "description": "This arm sequence combines elbow flexion and extension with an overhead shoulder reach.",
+          "howToDo": "Stand tall with the arms by your sides. Bring each hand to the shoulder on the same side, then extend both arms overhead. Bend the elbows to return the hands to the shoulders, then lower the arms to the sides.",
+          "whatToDo": "Keep the ribs controlled and reach overhead only as far as the shoulders remain comfortable.",
+          "whatNotToDo": "Do not arch the lower back, push the head forward, or force the elbows straight.",
+          "id": "upper-limb-099",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder Touch to Overhead Reach",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "shoulder-flexion"
+          ],
+          "difficulty": 3
         }
       ],
       "id": "arm-anterior-region"
@@ -1044,6 +1498,26 @@
             "extension"
           ],
           "difficulty": 1
+        },
+        {
+          "nome": "Supine Goalpost-to-T Elbow Extension",
+          "image": "",
+          "description": "This exercise isolates elbow extension while the upper arms remain supported in a shoulder-height position.",
+          "howToDo": "Lie on your back with the upper arms open to the sides and the elbows bent to 90 degrees in a goalpost shape. Keep the upper arms still and straighten the elbows until the arms form a T, then bend the elbows to return.",
+          "whatToDo": "Move only at the elbows and keep the shoulders relaxed against the floor.",
+          "whatNotToDo": "Do not lift the upper arms, lock the elbows forcefully, or let the wrists collapse.",
+          "id": "upper-limb-110",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Goalpost-to-T Elbow Extension",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "arm-posterior-region"
@@ -1157,6 +1631,25 @@
           "distretto": "Upper Limb",
           "thumbnail": "",
           "imageAlt": "Elbow Flexion and Extension",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Shoulder Touch to Downward Reach",
+          "image": "",
+          "description": "This simple arm pattern combines elbow flexion and extension with a downward reach.",
+          "howToDo": "Stand tall with both arms straight by your sides. Bend the elbows to bring each hand to the shoulder on the same side, then straighten the arms downward as if reaching toward the floor. Return to the starting position and repeat.",
+          "whatToDo": "Keep the upper arms close to the body and fully control both directions.",
+          "whatNotToDo": "Do not shrug the shoulders, swing the arms, or lock the elbows forcefully.",
+          "id": "upper-limb-097",
+          "sezione": "Elbow",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Shoulder Touch to Downward Reach",
           "movementDistrict": "elbow",
           "movementTags": [
             "flexion",
@@ -1279,6 +1772,25 @@
           "distretto": "Upper Limb",
           "thumbnail": "",
           "imageAlt": "Forearm Pronation-Supination",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Self-Guided Forearm Pronation and Supination",
+          "image": "",
+          "description": "This tactile variation improves forearm rotation and helps the user feel the movement around a stable elbow.",
+          "howToDo": "Sit or stand with the left elbow bent. Place the right palm lightly against the outside of the left elbow to keep it stable. Turn the left forearm into pronation, bringing the palm down, then into supination as the forearm reaches gently forward. Repeat on the other side.",
+          "whatToDo": "Use the opposite hand only as a light guide and keep the rotating elbow relaxed and stable.",
+          "whatNotToDo": "Do not push hard on the elbow, twist the shoulder, or force either end position.",
+          "id": "upper-limb-087",
+          "sezione": "Forearm",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Self-Guided Forearm Pronation and Supination",
           "movementDistrict": "forearm",
           "movementTags": [
             "pronation",
@@ -1439,6 +1951,101 @@
             "extension"
           ],
           "difficulty": 3
+        },
+        {
+          "nome": "Pronated Wrist Flexion",
+          "image": "",
+          "description": "This isolated movement trains wrist flexion with the forearm held in pronation.",
+          "howToDo": "Sit with the forearm supported and the palm facing down, allowing the hand to extend beyond the edge of the table. Bend the wrist so the fingers travel downward, then return to neutral with control.",
+          "whatToDo": "Keep the forearm still, the fingers relaxed, and use a comfortable range.",
+          "whatNotToDo": "Do not grip tightly, lift the elbow, or force the wrist at the bottom of the movement.",
+          "id": "upper-limb-088",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Pronated Wrist Flexion",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Pronated Wrist Extension",
+          "image": "",
+          "description": "This isolated movement trains wrist extension with the forearm held in pronation.",
+          "howToDo": "Sit with the forearm supported and the palm facing down, allowing the hand to extend beyond the edge of the table. Lift the back of the hand upward, then return to neutral with control.",
+          "whatToDo": "Keep the forearm in contact with the support and move only at the wrist.",
+          "whatNotToDo": "Do not clench the fist, lift the elbow, or use a fast bouncing motion.",
+          "id": "upper-limb-089",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Pronated Wrist Extension",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Supinated Wrist Flexion",
+          "image": "",
+          "description": "This variation trains wrist flexion with the palm facing upward.",
+          "howToDo": "Sit with the forearm supported and the palm facing up, allowing the hand to extend beyond the edge of the table. Curl the palm toward the forearm, then return slowly to neutral.",
+          "whatToDo": "Keep the forearm relaxed and supported while the wrist moves through a smooth range.",
+          "whatNotToDo": "Do not lift the forearm, squeeze the fingers hard, or force the wrist into pain.",
+          "id": "upper-limb-090",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supinated Wrist Flexion",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Supinated Wrist Extension",
+          "image": "",
+          "description": "This variation trains wrist extension with the palm facing upward and the forearm supported.",
+          "howToDo": "Sit with the forearm supported and the palm facing up, allowing the hand to extend beyond the edge of the table. Lower the back of the hand gently toward the floor, then return to neutral with control.",
+          "whatToDo": "Use a small comfortable range and keep the elbow and forearm still.",
+          "whatNotToDo": "Do not let the forearm roll, force the end range, or move with momentum.",
+          "id": "upper-limb-091",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Supinated Wrist Extension",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Neutral-Grip Wrist Deviation",
+          "image": "",
+          "description": "This free-space variation trains radial and ulnar deviation while the hand stays straight and the forearm remains neutral.",
+          "howToDo": "Hold the forearm in front of you with the thumb pointing upward. Keep the wrist neutral and the fingers straight and together. Move the hand so the little-finger side lowers, then reverse the movement so the thumb side rises.",
+          "whatToDo": "Keep the forearm still and make the motion only at the wrist.",
+          "whatNotToDo": "Do not rotate the forearm, bend the fingers, or turn the movement into wrist flexion and extension.",
+          "id": "upper-limb-092",
+          "sezione": "Wrist",
+          "distretto": "Upper Limb",
+          "thumbnail": "",
+          "imageAlt": "Neutral-Grip Wrist Deviation",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "wrist"

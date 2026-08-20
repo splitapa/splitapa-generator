@@ -117,6 +117,26 @@
             "isometric"
           ],
           "difficulty": 3
+        },
+        {
+          "nome": "Supine Self-Hug Rib Expansion",
+          "image": "",
+          "description": "This breathing-based stretch encourages upper rib expansion while the arms create a gentle self-hug across the chest.",
+          "howToDo": "Lie on your back and wrap the arms across the chest in a comfortable self-hug. Inhale slowly and deeply, directing the breath into the upper chest and sides of the rib cage so the ribs gently expand against the arms. Exhale and relax.",
+          "whatToDo": "Keep the jaw and shoulders relaxed and use a deep but comfortable breath.",
+          "whatNotToDo": "Do not squeeze the arms tightly, hold the breath, or force the chest to expand painfully.",
+          "id": "trunk-063",
+          "sezione": "Chest",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Supine Self-Hug Rib Expansion",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion",
+            "stretch"
+          ],
+          "difficulty": 1
         }
       ],
       "id": "chest"
@@ -294,6 +314,25 @@
             "isometric"
           ],
           "difficulty": 4
+        },
+        {
+          "nome": "Supine Diaphragmatic Breathing",
+          "image": "",
+          "description": "This exercise develops diaphragmatic breathing by directing the inhale toward the abdomen instead of lifting the upper chest.",
+          "howToDo": "Lie on your back with the knees bent and place one hand on the upper chest and one on the abdomen. Inhale slowly through the nose and let the abdomen rise like a balloon while the upper chest stays relatively quiet. Exhale slowly and let the abdomen fall.",
+          "whatToDo": "Use a calm rhythm and let the abdominal hand move more than the chest hand.",
+          "whatNotToDo": "Do not force a very large breath, lift the shoulders, or hold the breath between phases.",
+          "id": "trunk-064",
+          "sezione": "Abdomen",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Supine Diaphragmatic Breathing",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "breathing",
+            "diaphragmatic-expansion"
+          ],
+          "difficulty": 1
         }
       ],
       "id": "abdomen"
@@ -439,6 +478,126 @@
             "isometric"
           ],
           "difficulty": 4
+        },
+        {
+          "nome": "Supine Anterior-Posterior Pelvic Tilt",
+          "image": "",
+          "description": "This floor-supported exercise improves awareness and mobility of anterior and posterior pelvic tilt.",
+          "howToDo": "Lie on your back with the knees bent and the feet flat. Gently tilt the pelvis backward to reduce the space under the lower back, then tilt it forward to restore a small natural arch. Continue rocking slowly between the two positions.",
+          "whatToDo": "Keep the movement small, breathe normally, and let the pelvis initiate the motion.",
+          "whatNotToDo": "Do not push hard through the feet, lift the hips, or force the lower back into a large arch.",
+          "id": "trunk-065",
+          "sezione": "Pelvis - Mobility and Stability",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Supine Anterior-Posterior Pelvic Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Standing Anterior-Posterior Pelvic Tilt",
+          "image": "",
+          "description": "This standing variation trains pelvic tilt control in an upright position.",
+          "howToDo": "Stand with the feet about hip-width apart and the knees softly bent. Tilt the pelvis backward by gently tucking the tailbone, then tilt it forward to return to a small natural lower-back curve. Alternate slowly.",
+          "whatToDo": "Keep the shoulders over the hips, breathe normally, and make the movement precise rather than large.",
+          "whatNotToDo": "Do not lock the knees, squeeze excessively, or turn the movement into a whole-body lean.",
+          "id": "trunk-066",
+          "sezione": "Pelvis - Mobility and Stability",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Standing Anterior-Posterior Pelvic Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Standing Pelvic Forward-Backward Translation",
+          "image": "",
+          "description": "This movement trains controlled forward and backward translation of the pelvis while the trunk stays upright.",
+          "howToDo": "Stand tall with the feet hip-width apart and the hands on the hips. Keeping the chest steady, glide the pelvis forward, return to centre, then glide it backward and return again.",
+          "whatToDo": "Keep both feet grounded and make each shift slow and level.",
+          "whatNotToDo": "Do not bend deeply at the waist, exaggerate the lower-back arch, or move with a sudden thrust.",
+          "id": "trunk-067",
+          "sezione": "Pelvis - Mobility and Stability",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Standing Pelvic Forward-Backward Translation",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-shift",
+            "posterior-shift",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Standing Pelvic Lateral Translation",
+          "image": "",
+          "description": "This exercise develops side-to-side pelvic control without requiring the feet to move.",
+          "howToDo": "Stand tall with the feet hip-width apart and the hands on the hips. Glide the pelvis to the right, return to centre, then glide it to the left while keeping both feet in contact with the floor.",
+          "whatToDo": "Keep the shoulders level and move the pelvis as one unit.",
+          "whatNotToDo": "Do not lift a foot, collapse the trunk sideways, or rotate the pelvis.",
+          "id": "trunk-068",
+          "sezione": "Pelvis - Mobility and Stability",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Standing Pelvic Lateral Translation",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Standing Pelvic Square Pattern",
+          "image": "",
+          "description": "This coordination drill combines four pelvic translations into a precise square path.",
+          "howToDo": "Stand tall with the feet hip-width apart and the hands on the hips. Move the pelvis forward, then right, then backward, then left to draw a square. Return to centre and repeat in the opposite direction.",
+          "whatToDo": "Pause briefly at each corner and keep the chest facing forward.",
+          "whatNotToDo": "Do not turn the movement into a circle, lift the heels, or let the shoulders follow the pelvis.",
+          "id": "trunk-069",
+          "sezione": "Pelvis - Mobility and Stability",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Standing Pelvic Square Pattern",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-shift",
+            "lateral-shift",
+            "posterior-shift",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Standing Pelvic Circles with Fixed Chest",
+          "image": "",
+          "description": "This standing variation mobilizes the pelvis through a continuous circle while the upper body remains quiet.",
+          "howToDo": "Stand tall with the feet slightly apart and the hands on the hips. Glide the pelvis forward, to one side, backward, and to the other side to complete a slow circle. Repeat in both directions.",
+          "whatToDo": "Keep the knees soft, the feet grounded, and the circle smooth and comfortable.",
+          "whatNotToDo": "Do not move the shoulders in a large circle, lock the knees, or force the lower back.",
+          "id": "trunk-070",
+          "sezione": "Pelvis - Mobility and Stability",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Standing Pelvic Circles with Fixed Chest",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "pelvis-mobility-stability"
@@ -1014,6 +1173,46 @@
             "mobility"
           ],
           "difficulty": 4
+        },
+        {
+          "nome": "Standing Overhead Spine Extension",
+          "image": "",
+          "description": "This standing exercise combines an overhead reach with gentle spinal extension.",
+          "howToDo": "Stand tall and extend both arms overhead. Keeping the pelvis controlled, lift the chest and move the hands slightly backward to create a gentle extension through the upper and middle spine, then return to neutral.",
+          "whatToDo": "Lengthen upward before moving backward and keep the movement small and smooth.",
+          "whatNotToDo": "Do not collapse into the lower back, hold the breath, or throw the head backward.",
+          "id": "trunk-071",
+          "sezione": "Back - Mobility and Functional Control",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Standing Overhead Spine Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "shoulder-flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Chest-Led Standing Forward Fold",
+          "image": "",
+          "description": "This controlled forward fold trains spinal and hip flexion with a deliberate chest-first descent.",
+          "howToDo": "Stand with the knees softly bent. Begin the descent by guiding the chest forward and down, then allow the head and arms to follow toward the floor. Stop at a comfortable depth and return slowly to standing.",
+          "whatToDo": "Move in stages, keep breathing, and distribute the bend through the hips and spine.",
+          "whatNotToDo": "Do not dive with the head first, lock the knees, bounce at the bottom, or force the hands to the floor.",
+          "id": "trunk-072",
+          "sezione": "Back - Mobility and Functional Control",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Chest-Led Standing Forward Fold",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "hip-flexion",
+            "mobility"
+          ],
+          "difficulty": 3
         }
       ],
       "id": "back-mobility-functional-control"
@@ -1092,6 +1291,46 @@
           "movementDistrict": "spine",
           "movementTags": [
             "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Prone Long-Lever Superman",
+          "image": "",
+          "description": "This prone exercise strengthens spinal extension and posterior-chain control with the arms reaching forward.",
+          "howToDo": "Lie face down with the legs long and the arms extended in front. Gently brace the abdomen, then lift the chest, arms, and legs a small distance from the floor. Pause briefly and lower with control.",
+          "whatToDo": "Keep the gaze toward the floor, reach long through the fingers and toes, and use a small lift.",
+          "whatNotToDo": "Do not throw the head back, hold the breath, or lift so high that the lower back feels compressed.",
+          "id": "trunk-073",
+          "sezione": "Back - Posterior Region",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Prone Long-Lever Superman",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization",
+            "shoulder-flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Prone T-Position Wing Pulses",
+          "image": "",
+          "description": "This prone exercise trains postural extension and scapular retraction with the arms open in a T position.",
+          "howToDo": "Lie face down with the arms extended to the sides at shoulder height. Keep the thumbs pointing upward or the palms facing down, gently lift the chest and arms a small distance, then make short controlled up-and-down wing pulses before lowering.",
+          "whatToDo": "Keep the neck long and draw the shoulder blades gently toward each other.",
+          "whatNotToDo": "Do not shrug the shoulders, swing the arms, or use a large lower-back arch.",
+          "id": "trunk-074",
+          "sezione": "Back - Posterior Region",
+          "distretto": "Trunk",
+          "thumbnail": "",
+          "imageAlt": "Prone T-Position Wing Pulses",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "postural-extension",
+            "scapular-retraction",
+            "horizontal-abduction"
           ],
           "difficulty": 3
         }

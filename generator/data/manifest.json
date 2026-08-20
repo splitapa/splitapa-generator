@@ -1,1 +1,37 @@
-{"version":1,"districts":[{"id":"neck","title":"Neck","label":"Neck","file":"data/neck.json","sections":3,"exercises":12},{"id":"upper-limb","title":"Upper Limb","label":"Upper Limb","file":"data/upper-limb.json","sections":10,"exercises":81},{"id":"trunk","title":"Trunk","label":"Trunk","file":"data/trunk.json","sections":7,"exercises":62},{"id":"lower-limb","title":"Lower Limb","label":"Lower Limb","file":"data/lower-limb.json","sections":11,"exercises":90}]}
+{
+  "version": 1,
+  "districts": [
+    {
+      "id": "neck",
+      "title": "Neck",
+      "label": "Neck",
+      "file": "data/neck.json",
+      "sections": 3,
+      "exercises": 12
+    },
+    {
+      "id": "upper-limb",
+      "title": "Upper Limb",
+      "label": "Upper Limb",
+      "file": "data/upper-limb.json",
+      "sections": 10,
+      "exercises": 112
+    },
+    {
+      "id": "trunk",
+      "title": "Trunk",
+      "label": "Trunk",
+      "file": "data/trunk.json",
+      "sections": 7,
+      "exercises": 74
+    },
+    {
+      "id": "lower-limb",
+      "title": "Lower Limb",
+      "label": "Lower Limb",
+      "file": "data/lower-limb.json",
+      "sections": 11,
+      "exercises": 102
+    }
+  ]
+}

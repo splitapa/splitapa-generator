@@ -176,6 +176,108 @@
             "isometric"
           ],
           "difficulty": 4
+        },
+        {
+          "nome": "Standing Hip Gate Open",
+          "image": "",
+          "description": "This dynamic hip opener combines flexion, abduction, and external rotation while challenging single-leg balance.",
+          "howToDo": "Stand tall and hold a stable support if needed. Lift one knee in front, guide it outward and backward as if opening a gate, then place the foot down. Repeat on the other side.",
+          "whatToDo": "Keep the standing leg stable, the pelvis level, and use a smooth circular path.",
+          "whatNotToDo": "Do not twist the trunk, drop the standing hip, or force the raised knee outward.",
+          "id": "lower-limb-093",
+          "sezione": "Pelvis - Mobility and Balance",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Hip Gate Open",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Standing Hip Gate Close",
+          "image": "",
+          "description": "This reverse hip-gate movement combines abduction, flexion, and inward return while training balance and coordination.",
+          "howToDo": "Stand tall and hold a stable support if needed. Lift one knee out to the side, guide it forward in a circular path, then lower the foot. Repeat on the other side.",
+          "whatToDo": "Keep the pelvis level and make the circle controlled from the hip.",
+          "whatNotToDo": "Do not swing the leg, rotate the whole body, or let the standing knee collapse inward.",
+          "id": "lower-limb-094",
+          "sezione": "Pelvis - Mobility and Balance",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Hip Gate Close",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "internal-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Standing Horizontal Knee Circles",
+          "image": "",
+          "description": "This balance drill uses the raised knee to guide controlled hip circumduction parallel to the floor.",
+          "howToDo": "Stand tall on one leg and hold a stable support if needed. Lift the opposite knee to a comfortable height and draw small horizontal circles with it, first in one direction and then the other. Repeat on the opposite side.",
+          "whatToDo": "Keep the standing leg active, the pelvis level, and the circles small.",
+          "whatNotToDo": "Do not rotate the trunk, hold the breath, or enlarge the circle beyond balance control.",
+          "id": "lower-limb-095",
+          "sezione": "Pelvis - Mobility and Balance",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Horizontal Knee Circles",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Standing Bent-Knee Hip Rotation",
+          "image": "",
+          "description": "This standing drill isolates internal and external hip rotation while the knee remains bent and balance is maintained on the opposite leg.",
+          "howToDo": "Stand tall and hold a stable support if needed. Bend one knee so the heel rises behind you and the knee stays near the other thigh. From this position, move the foot gently inward and outward to rotate the hip internally and externally. Repeat on the other side.",
+          "whatToDo": "Keep both knees close, the pelvis facing forward, and the movement small and controlled.",
+          "whatNotToDo": "Do not twist the trunk, swing the lower leg quickly, or rotate into knee discomfort.",
+          "id": "lower-limb-100",
+          "sezione": "Pelvis - Mobility and Balance",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Standing Bent-Knee Hip Rotation",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Supine Straight-Leg Hip Rotation",
+          "image": "",
+          "description": "This supine windshield-wiper movement trains internal and external rotation with the legs extended.",
+          "howToDo": "Lie on your back with both legs straight and slightly apart. Keep the ankles dorsiflexed, then roll the legs inward and outward from the hips so the feet move like windshield wipers.",
+          "whatToDo": "Keep the knees straight, the pelvis still, and let the rotation begin at the hips.",
+          "whatNotToDo": "Do not force the feet toward the floor, twist the pelvis, or move only at the ankles.",
+          "id": "lower-limb-102",
+          "sezione": "Pelvis - Mobility and Balance",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Straight-Leg Hip Rotation",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "pelvis-mobility-balance"
@@ -412,6 +514,47 @@
             "mobility"
           ],
           "difficulty": 3
+        },
+        {
+          "nome": "Supine Butterfly Hip Opening",
+          "image": "",
+          "description": "This floor-supported movement mobilizes hip abduction and external rotation with the spine fully supported.",
+          "howToDo": "Lie on your back with the knees bent and the feet close together. Keeping the soles together or very close, slowly let both knees open outward like the pages of a book, then bring them back to centre.",
+          "whatToDo": "Keep the pelvis level, move symmetrically, and use a comfortable range.",
+          "whatNotToDo": "Do not push the knees down with the hands, lift the feet, or force the groin stretch.",
+          "id": "lower-limb-101",
+          "sezione": "Pelvis - Lateral Region",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Butterfly Hip Opening",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Supine Straight-Leg Snow Angel",
+          "image": "",
+          "description": "This floor-supported exercise trains hip abduction and adduction with both knees extended.",
+          "howToDo": "Lie on your back with both legs straight and the ankles dorsiflexed. Slide the legs apart along the floor like making the lower half of a snow angel, then bring them back toward the centre with control.",
+          "whatToDo": "Keep the kneecaps facing upward, the pelvis level, and the heels lightly in contact with the floor.",
+          "whatNotToDo": "Do not lift the legs, turn the toes outward, or force the legs farther apart than comfortable.",
+          "id": "lower-limb-104",
+          "sezione": "Pelvis - Lateral Region",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Straight-Leg Snow Angel",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "pelvis-lateral-region"
@@ -795,6 +938,25 @@
             "extension"
           ],
           "difficulty": 5
+        },
+        {
+          "nome": "Supine Long-Range Straight-Leg Raise",
+          "image": "",
+          "description": "This long-lever exercise trains active hip flexion through a larger range while the knee remains straight.",
+          "howToDo": "Lie on your back with both legs straight and slightly apart. Tighten one thigh, keep the knee extended, and lift that leg upward through a comfortable range. Pause briefly, lower slowly, and repeat on the other side.",
+          "whatToDo": "Keep the pelvis level, the opposite leg long, and the movement smooth.",
+          "whatNotToDo": "Do not bend the lifting knee, arch the lower back, or raise the leg beyond control.",
+          "id": "lower-limb-103",
+          "sezione": "Thigh - Anterior Region",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Supine Long-Range Straight-Leg Raise",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 3
         }
       ],
       "id": "thigh-anterior-region"
@@ -1121,6 +1283,26 @@
             "flexion"
           ],
           "difficulty": 2
+        },
+        {
+          "nome": "Seated One-Leg Hamstring Reach",
+          "image": "",
+          "description": "This seated exercise combines spinal and hip flexion to mobilize the posterior thigh of one extended leg.",
+          "howToDo": "Sit near the front of a chair with the back away from the backrest. Keep one knee bent to 90 degrees with the foot flat. Extend the opposite leg with the heel on the floor and the toes pointing upward. Hinge the chest forward toward the knees, then return upright and switch sides.",
+          "whatToDo": "Keep the extended knee softly straight, the spine long, and move from the hips first.",
+          "whatNotToDo": "Do not bounce, round abruptly, pull on the toes, or force the stretch behind the knee.",
+          "id": "lower-limb-099",
+          "sezione": "Thigh - Posterior Region",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Seated One-Leg Hamstring Reach",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "knee-extension",
+            "mobility"
+          ],
+          "difficulty": 2
         }
       ],
       "id": "thigh-posterior-region"
@@ -1278,6 +1460,71 @@
             "flexion",
             "isometric",
             "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Single-Leg Three-Direction Toe Tap",
+          "image": "",
+          "description": "This exercise trains balance and directional control by tapping the free foot in front, to the side, and behind.",
+          "howToDo": "Stand steadily on one leg with a stable support nearby. With the toes of the free foot, tap the floor in front, return to centre, tap to the side, return, then tap behind and return. Switch legs after completing the sequence.",
+          "whatToDo": "Keep most of the body weight over the standing leg and make each tap light.",
+          "whatNotToDo": "Do not transfer full weight onto the tapping foot, rush the sequence, or let the standing knee collapse inward.",
+          "id": "lower-limb-096",
+          "sezione": "Hip and Knee - Functional Mobility",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Single-Leg Three-Direction Toe Tap",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Single-Leg Three-Direction Floor Slide",
+          "image": "",
+          "description": "This balance variation keeps the free foot in contact with the floor while it slides in three directions.",
+          "howToDo": "Stand steadily on one leg with a stable support nearby. Keep the other foot lightly touching the floor and slide it forward, back to centre, to the side, back to centre, and behind before returning. Repeat on the opposite leg.",
+          "whatToDo": "Use very light contact with the sliding foot and keep the supporting hip and knee aligned.",
+          "whatNotToDo": "Do not place body weight on the sliding foot, twist the pelvis, or let the standing knee move inward.",
+          "id": "lower-limb-097",
+          "sezione": "Hip and Knee - Functional Mobility",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Single-Leg Three-Direction Floor Slide",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Single-Leg Three-Direction Step-Over",
+          "image": "",
+          "description": "This progression trains balance and foot clearance by stepping over an imaginary obstacle in three directions.",
+          "howToDo": "Stand steadily on one leg and use a stable support if needed. Lift the free foot clearly from the floor as if clearing a low obstacle, place it lightly in front, return, then repeat to the side and behind. Switch supporting legs.",
+          "whatToDo": "Lift the foot deliberately, land softly, and keep the standing knee aligned over the foot.",
+          "whatNotToDo": "Do not drag the toes, use a high obstacle, or continue without support if balance is uncertain.",
+          "id": "lower-limb-098",
+          "sezione": "Hip and Knee - Functional Mobility",
+          "distretto": "Lower Limb",
+          "thumbnail": "",
+          "imageAlt": "Single-Leg Three-Direction Step-Over",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "obstacle-clearance"
           ],
           "difficulty": 4
         }
