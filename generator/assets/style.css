@@ -143,6 +143,12 @@ button {
   min-height: 54px;
 }
 
+.access-home-button {
+  width: 100%;
+  min-height: 54px;
+  margin-top: 12px;
+}
+
 .access-error {
   min-height: 18px;
   margin-top: 18px;
