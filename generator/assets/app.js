@@ -1111,6 +1111,7 @@ function createExerciseCard(exercise, index) {
   const checkbox = document.createElement('input');
   checkbox.type = 'checkbox';
   checkbox.className = 'checkbox-done';
+  checkbox.setAttribute('aria-label', `Mark ${exercise.nome} as completed`);
   checkbox.addEventListener('change', () => {
     card.classList.toggle('done', checkbox.checked);
   });

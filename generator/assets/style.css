@@ -9,6 +9,9 @@
   --dim: rgba(255, 255, 255, 0.42);
   --panel: rgba(255, 255, 255, 0.045);
   --ink-hairline: rgba(0, 0, 0, 0.18);
+  --accent-soft: rgba(99, 102, 241, 0.18);
+  --control-border: rgba(255, 255, 255, 0.24);
+  --focus-ring: 0 0 0 3px rgba(99, 102, 241, 0.2);
 }
 
 * {
@@ -66,6 +69,33 @@ input {
 
 button {
   cursor: pointer;
+}
+
+button,
+a,
+select,
+input,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:focus-visible,
+a:focus-visible,
+select:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 0;
+}
+
+button:active:not(:disabled),
+.button:active,
+.image-link:active {
+  transform: translateY(1px);
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--fg);
 }
 
 [hidden] {
@@ -130,17 +160,22 @@ button {
   background: var(--bg);
   color: var(--fg);
   font-size: 16px;
-  transition: border-color 300ms ease, background 300ms ease;
+  transition: border-color 220ms ease, background 220ms ease, box-shadow 220ms ease;
 }
 
-.access-field input:focus {
+.access-field input:hover,
+.access-field input:focus-visible {
   border-color: var(--accent);
   background: rgba(99, 102, 241, 0.12);
+  box-shadow: var(--focus-ring);
 }
 
 .access-button {
   align-self: end;
   min-height: 54px;
+  border-color: var(--fg);
+  background: var(--fg);
+  color: var(--bg);
 }
 
 .access-home-button {
@@ -213,6 +248,7 @@ button {
 .brand {
   gap: 14px;
   border-right: 0.5px solid var(--hairline);
+  transition: background 220ms ease, color 220ms ease;
 }
 
 .brand-mark {
@@ -229,6 +265,19 @@ button {
   font-weight: 900;
   letter-spacing: -0.06em;
   line-height: 1;
+  transition: background 220ms ease, border-color 220ms ease, color 220ms ease;
+}
+
+.brand:hover,
+.brand:focus-visible {
+  background: var(--accent-soft);
+}
+
+.brand:hover .brand-mark,
+.brand:focus-visible .brand-mark {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--fg);
 }
 
 .brand-name {
@@ -262,13 +311,15 @@ button {
   border-radius: 999px;
   background: transparent;
   color: var(--muted);
-  transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
+  transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease;
 }
 
-.logout-button:hover {
+.logout-button:hover,
+.logout-button:focus-visible {
   border-color: var(--accent);
   background: var(--accent);
   color: var(--fg);
+  box-shadow: var(--focus-ring);
 }
 
 .hero {
@@ -344,19 +395,29 @@ h1 {
   color: var(--fg);
   cursor: pointer;
   text-align: center;
-  transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
+  transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
 }
 
 .district-tab {
   cursor: default;
 }
 
-.district-tab:hover,
+.district-tab:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--fg);
+}
+
 .district-tab.active,
-.button:hover {
+.button:hover,
+.button:focus-visible {
   border-color: var(--accent);
   background: var(--accent);
   color: var(--fg);
+}
+
+.button:focus-visible {
+  box-shadow: var(--focus-ring);
 }
 
 .control-panel {
@@ -443,11 +504,11 @@ h1 {
   min-height: 48px;
   margin-top: 12px;
   padding: 0 46px 0 14px;
-  border: 0.5px solid var(--ink-hairline);
+  border: 0.5px solid var(--control-border);
   border-radius: 0;
-  background-color: var(--fg);
-  color: var(--bg);
-  font-size: 15px;
+  background-color: var(--bg);
+  color: var(--fg);
+  font-size: 12px;
 }
 
 .control-field select,
@@ -462,11 +523,14 @@ h1 {
   background-repeat: no-repeat;
   background-size: 5px 5px, 5px 5px;
   cursor: pointer;
-  transition: border-color 300ms ease, background-color 300ms ease, box-shadow 300ms ease;
+  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  transition: border-color 220ms ease, background-color 220ms ease, box-shadow 220ms ease;
 }
 
 .control-field select {
-  color-scheme: light;
+  color-scheme: dark;
 }
 
 .sort-field select,
@@ -482,16 +546,17 @@ h1 {
 .replace-select:focus-visible {
   border-color: var(--accent);
   outline: 0;
-  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.14);
+  background-color: #0b0b0b;
+  box-shadow: var(--focus-ring);
 }
 
 .control-field select:focus-visible {
-  background-color: rgba(99, 102, 241, 0.08);
+  background-color: #0b0b0b;
 }
 
 .control-field select option {
-  background: var(--fg);
-  color: var(--bg);
+  background: var(--bg);
+  color: var(--fg);
 }
 
 .sort-field select option,
@@ -515,14 +580,17 @@ select option:checked {
   width: 100%;
   min-height: 48px;
   padding: 0 46px 0 14px;
-  border: 0.5px solid var(--ink-hairline);
+  border: 0.5px solid var(--control-border);
   border-radius: 0;
-  background: var(--fg);
-  color: var(--bg);
+  background: var(--bg);
+  color: var(--fg);
   cursor: pointer;
-  font-size: 15px;
+  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
   text-align: left;
-  transition: border-color 300ms ease, background 300ms ease, box-shadow 300ms ease, color 300ms ease;
+  transition: border-color 220ms ease, background 220ms ease, box-shadow 220ms ease, color 220ms ease;
 }
 
 .multi-select-trigger::after {
@@ -535,7 +603,7 @@ select option:checked {
   border-right: 1.5px solid var(--accent);
   border-bottom: 1.5px solid var(--accent);
   transform: translateY(-70%) rotate(45deg);
-  transition: transform 300ms ease;
+  transition: transform 220ms ease;
 }
 
 .multi-select-trigger:hover,
@@ -543,8 +611,8 @@ select option:checked {
 .multi-select.open .multi-select-trigger {
   border-color: var(--accent);
   outline: 0;
-  background: rgba(99, 102, 241, 0.08);
-  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.14);
+  background: #0b0b0b;
+  box-shadow: var(--focus-ring);
 }
 
 .multi-select.open .multi-select-trigger::after {
@@ -566,7 +634,7 @@ select option:checked {
   opacity: 0;
   pointer-events: none;
   transform: translateY(-6px);
-  transition: opacity 200ms ease, transform 200ms ease, visibility 200ms ease;
+  transition: opacity 220ms ease, transform 220ms ease, visibility 220ms ease;
 }
 
 .multi-select.open .multi-select-menu {
@@ -607,10 +675,12 @@ select option:checked {
   background: var(--bg);
   color: var(--fg);
   cursor: pointer;
-  font-size: 14px;
-  font-weight: 400;
+  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
   text-align: left;
-  transition: background 300ms ease, color 300ms ease;
+  transition: background 220ms ease, box-shadow 220ms ease, color 220ms ease;
 }
 
 .multi-select-option:last-child {
@@ -636,13 +706,13 @@ select option:checked {
 }
 
 .multi-select-option:hover {
-  background: rgba(99, 102, 241, 0.2);
+  background: var(--accent-soft);
   color: var(--fg);
 }
 
 .multi-select-option:focus-visible {
   outline: 0;
-  background: rgba(99, 102, 241, 0.2);
+  background: var(--accent-soft);
   box-shadow: inset 3px 0 0 var(--accent);
 }
 
@@ -678,18 +748,24 @@ select option:checked {
   width: 100%;
   min-height: 48px;
   padding: 0 14px;
-  border: 0.5px solid var(--ink-hairline);
+  border: 0.5px solid var(--control-border);
   border-radius: 0;
   outline: 0;
-  background: var(--fg);
-  color: var(--bg);
+  background: var(--bg);
+  color: var(--fg);
   font-size: 15px;
-  transition: border-color 300ms ease, background 300ms ease;
+  transition: border-color 220ms ease, background 220ms ease, box-shadow 220ms ease;
 }
 
-.ask-field input:focus {
+.ask-field input::placeholder {
+  color: var(--dim);
+}
+
+.ask-field input:hover,
+.ask-field input:focus-visible {
   border-color: var(--accent);
-  background: rgba(99, 102, 241, 0.1);
+  background: #0b0b0b;
+  box-shadow: var(--focus-ring);
 }
 
 .ask-button {
@@ -699,12 +775,14 @@ select option:checked {
   border-bottom: 0.5px solid var(--ink-hairline);
   background: var(--bg);
   color: var(--fg);
-  transition: background 300ms ease, color 300ms ease;
+  transition: background 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
 }
 
-.ask-button:hover {
+.ask-button:hover,
+.ask-button:focus-visible {
   background: var(--accent);
   color: var(--fg);
+  box-shadow: inset 0 0 0 0.5px var(--accent), var(--focus-ring);
 }
 
 .ask-hint {
@@ -720,7 +798,24 @@ select option:checked {
   border-top: 0.5px solid var(--ink-hairline);
   border-right: 0.5px solid var(--ink-hairline);
   border-radius: 0;
+  border-color: var(--ink-hairline);
+  background: var(--bg);
+  color: var(--fg);
+}
+
+.panel-actions .button:last-child {
+  background: var(--fg);
   color: var(--bg);
+}
+
+.panel-actions .button:hover,
+.panel-actions .button:focus-visible,
+.panel-actions .button:last-child:hover,
+.panel-actions .button:last-child:focus-visible {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: var(--fg);
+  box-shadow: inset 0 0 0 0.5px var(--accent);
 }
 
 .panel-actions .button:last-child {
@@ -751,20 +846,26 @@ select option:checked {
   min-height: 74px;
   resize: vertical;
   padding: 12px;
-  border: 0.5px solid var(--ink-hairline);
+  border: 0.5px solid var(--control-border);
   border-radius: 0;
   outline: 0;
-  background: var(--fg);
-  color: var(--bg);
+  background: var(--bg);
+  color: var(--fg);
   font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
   font-size: 11px;
   line-height: 1.4;
-  transition: border-color 300ms ease, background 300ms ease;
+  transition: border-color 220ms ease, background 220ms ease, box-shadow 220ms ease;
 }
 
-.code-field textarea:focus {
+.code-field textarea::placeholder {
+  color: var(--dim);
+}
+
+.code-field textarea:hover,
+.code-field textarea:focus-visible {
   border-color: var(--accent);
-  background: rgba(99, 102, 241, 0.1);
+  background: #0b0b0b;
+  box-shadow: var(--focus-ring);
 }
 
 .code-actions {
@@ -781,16 +882,18 @@ select option:checked {
   border-bottom: 0.5px solid var(--ink-hairline);
   background: var(--bg);
   color: var(--fg);
-  transition: background 300ms ease, color 300ms ease, opacity 300ms ease;
+  transition: background 220ms ease, box-shadow 220ms ease, color 220ms ease, opacity 220ms ease, transform 120ms ease;
 }
 
 .code-button:last-child {
   border-right: 0;
 }
 
-.code-button:hover:not(:disabled) {
+.code-button:hover:not(:disabled),
+.code-button:focus-visible:not(:disabled) {
   background: var(--accent);
   color: var(--fg);
+  box-shadow: inset 0 0 0 0.5px var(--accent);
 }
 
 .code-button:disabled {
@@ -891,6 +994,12 @@ select option:checked {
   border: 0.5px solid var(--hairline);
   background: var(--panel);
   color: var(--fg);
+  transition: background 220ms ease, border-color 220ms ease, opacity 220ms ease;
+}
+
+.exercise-card:hover {
+  border-color: rgba(99, 102, 241, 0.72);
+  background: rgba(99, 102, 241, 0.07);
 }
 
 .exercise-card.done {
@@ -912,11 +1021,44 @@ select option:checked {
 }
 
 .checkbox-done {
+  display: grid;
   width: 20px;
   height: 20px;
   margin: 0;
-  accent-color: var(--accent);
+  place-items: center;
+  border: 0.5px solid var(--fg);
+  border-radius: 0;
+  background: transparent;
   cursor: pointer;
+  transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+}
+
+.checkbox-done::after {
+  content: "";
+  width: 5px;
+  height: 9px;
+  border-right: 1.5px solid var(--fg);
+  border-bottom: 1.5px solid var(--fg);
+  opacity: 0;
+  transform: translateY(-1px) rotate(45deg) scale(0.6);
+  transition: opacity 220ms ease, transform 220ms ease;
+}
+
+.checkbox-done:hover,
+.checkbox-done:focus-visible {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  box-shadow: var(--focus-ring);
+}
+
+.checkbox-done:checked {
+  border-color: var(--accent);
+  background: var(--accent);
+}
+
+.checkbox-done:checked::after {
+  opacity: 1;
+  transform: translateY(-1px) rotate(45deg) scale(1);
 }
 
 .exercise-name {
@@ -990,16 +1132,21 @@ select option:checked {
   font-weight: 500;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
+  transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
 }
 
 .exercise-change-button:hover,
 .exercise-remove-button:hover,
 .exercise-confirm-button:hover,
-.exercise-cancel-button:hover {
+.exercise-cancel-button:hover,
+.exercise-change-button:focus-visible,
+.exercise-remove-button:focus-visible,
+.exercise-confirm-button:focus-visible,
+.exercise-cancel-button:focus-visible {
   border-color: var(--accent);
   background: var(--accent);
   color: var(--fg);
+  box-shadow: var(--focus-ring);
 }
 
 .exercise-card-actions {
@@ -1040,12 +1187,14 @@ select option:checked {
   background: var(--fg);
   color: var(--bg);
   text-align: center;
-  transition: background 300ms ease, color 300ms ease;
+  transition: background 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
 }
 
-.image-link:hover {
+.image-link:hover,
+.image-link:focus-visible {
   background: var(--accent);
   color: var(--fg);
+  box-shadow: var(--focus-ring);
 }
 
 .exercise-copy-block {
@@ -1234,5 +1383,18 @@ select option:checked {
 
   .access-button {
     align-self: stretch;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    transition-delay: 0ms !important;
   }
 }
