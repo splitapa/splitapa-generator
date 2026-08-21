@@ -203,6 +203,9 @@
     }
 
     .nav button {
+      display: inline-flex;
+      gap: 9px;
+      align-items: center;
       min-height: 34px;
       padding: 0 12px;
       border: 0.5px solid var(--hairline);
@@ -212,6 +215,17 @@
       line-height: 1.25;
       text-align: left;
       transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
+    }
+
+    .nav button::before {
+      content: "";
+      width: 6px;
+      height: 6px;
+      flex: 0 0 auto;
+      border: 0.5px solid currentColor;
+      border-radius: 999px;
+      background: transparent;
+      transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, transform 220ms ease;
     }
 
     .brand:hover,
@@ -234,10 +248,25 @@
       box-shadow: var(--focus-ring);
     }
 
+    .nav button:hover::before,
+    .nav button:focus-visible::before {
+      border-color: var(--accent);
+      background: var(--accent);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.16);
+      transform: scale(1.12);
+    }
+
     .nav button.active {
       border-color: var(--accent);
       background: var(--accent);
       color: var(--fg);
+      box-shadow: inset 0 0 0 0.5px rgba(255, 255, 255, 0.16);
+    }
+
+    .nav button.active::before {
+      border-color: var(--fg);
+      background: var(--fg);
+      box-shadow: none;
     }
 
     .hero {
@@ -309,11 +338,12 @@
 
     .button {
       display: inline-flex;
+      gap: 14px;
       align-items: center;
       justify-content: center;
       max-width: 100%;
-      min-height: 44px;
-      padding: 0 18px;
+      min-height: 48px;
+      padding: 0 20px;
       border: 0.5px solid var(--fg);
       border-radius: 999px;
       background: transparent;
@@ -322,6 +352,27 @@
       text-align: center;
       white-space: normal;
       transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
+    }
+
+    .hero-actions [data-scroll-target]::after,
+    .panel-actions [data-scroll-target]::after,
+    .cta [data-scroll-target]::after {
+      content: "->";
+      flex: 0 0 auto;
+      font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
+      font-size: 12px;
+      letter-spacing: 0;
+      line-height: 1;
+      transition: transform 220ms ease;
+    }
+
+    .hero-actions [data-scroll-target]:hover::after,
+    .hero-actions [data-scroll-target]:focus-visible::after,
+    .panel-actions [data-scroll-target]:hover::after,
+    .panel-actions [data-scroll-target]:focus-visible::after,
+    .cta [data-scroll-target]:hover::after,
+    .cta [data-scroll-target]:focus-visible::after {
+      transform: translateX(3px);
     }
 
     .button.primary {
@@ -602,9 +653,11 @@
     .panel-actions button,
     .panel-actions .button {
       min-height: 74px;
+      padding: 0 24px;
       border: 0;
       border-right: 0.5px solid rgba(0, 0, 0, 0.18);
       border-top: 0.5px solid rgba(0, 0, 0, 0.18);
+      border-radius: 0;
       background: var(--bg);
       color: var(--fg);
       transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
@@ -878,7 +931,7 @@
     .principle:hover,
     .phase:hover {
       background: var(--accent-soft);
-      box-shadow: inset 3px 0 0 var(--accent);
+      box-shadow: inset 0 -2px 0 var(--accent);
     }
 
     .principle-code {
@@ -889,6 +942,13 @@
       border: 0.5px solid var(--hairline);
       color: var(--accent);
       letter-spacing: 0;
+      transition: background 220ms ease, border-color 220ms ease, color 220ms ease;
+    }
+
+    .principle:hover .principle-code {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: var(--fg);
     }
 
     .principle-title {
@@ -946,6 +1006,12 @@
       background: var(--fg);
       color: var(--bg);
       letter-spacing: 0;
+      transition: background 220ms ease, color 220ms ease;
+    }
+
+    .phase:hover .phase-number {
+      background: var(--accent);
+      color: var(--fg);
     }
 
     .phase-title {
