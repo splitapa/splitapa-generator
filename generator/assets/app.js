@@ -473,6 +473,7 @@ function renderDistrictControls() {
   const trigger = document.createElement('button');
   trigger.type = 'button';
   trigger.className = 'multi-select-trigger';
+  trigger.setAttribute('aria-haspopup', 'listbox');
   trigger.setAttribute('aria-expanded', 'false');
   trigger.textContent = 'Select districts';
   trigger.addEventListener('click', (event) => {
@@ -484,6 +485,9 @@ function renderDistrictControls() {
 
   const menu = document.createElement('div');
   menu.className = 'multi-select-menu';
+  menu.setAttribute('role', 'listbox');
+  menu.setAttribute('aria-label', 'Body districts');
+  menu.setAttribute('aria-multiselectable', 'true');
 
   state.manifest.districts.forEach((district) => {
     const tab = document.createElement('span');
@@ -496,6 +500,7 @@ function renderDistrictControls() {
     const option = document.createElement('button');
     option.type = 'button';
     option.className = 'multi-select-option';
+    option.setAttribute('role', 'option');
     option.dataset.district = district.id;
     option.textContent = district.title;
     option.addEventListener('click', async (event) => {
@@ -550,7 +555,7 @@ function renderSelectedDistrict() {
 
   document.querySelectorAll('.multi-select-option').forEach((option) => {
     option.classList.toggle('active', selectedIds.includes(option.dataset.district));
-    option.setAttribute('aria-pressed', String(selectedIds.includes(option.dataset.district)));
+    option.setAttribute('aria-selected', String(selectedIds.includes(option.dataset.district)));
   });
 
   document.querySelectorAll('.district-tab').forEach((tab) => {
@@ -855,7 +860,7 @@ async function generateWorkout() {
     return;
   }
 
-  const quantity = Number(els.quantitySelect.value) || 2;
+  const quantityValue = els.quantitySelect.value;
   const metas = getSelectedDistrictMetas();
   state.generatedExercises = [];
   state.sortMode = 'default';
@@ -868,7 +873,9 @@ async function generateWorkout() {
   archives.forEach(({ districtId, database }) => {
     asDistrictList(database).forEach((district) => {
       (district.sezioni || []).forEach((section) => {
-        const selected = chooseRandom(section.esercizi || [], quantity);
+        const exercises = section.esercizi || [];
+        const quantity = quantityValue === 'all' ? exercises.length : Number(quantityValue) || 2;
+        const selected = chooseRandom(exercises, quantity);
         selected.forEach((exercise) => {
           state.generatedExercises.push(attachWorkoutOrder({
             ...exercise,
@@ -1217,6 +1224,15 @@ async function init() {
         if (trigger) {
           trigger.setAttribute('aria-expanded', 'false');
         }
+      }
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape' || !els.districtSelect.classList.contains('open')) return;
+      els.districtSelect.classList.remove('open');
+      const trigger = els.districtSelect.querySelector('.multi-select-trigger');
+      if (trigger) {
+        trigger.setAttribute('aria-expanded', 'false');
+        trigger.focus();
       }
     });
     els.generateButton.addEventListener('click', generateWorkout);
