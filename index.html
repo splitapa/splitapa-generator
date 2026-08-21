@@ -15,6 +15,8 @@
       --muted: rgba(255, 255, 255, 0.64);
       --dim: rgba(255, 255, 255, 0.42);
       --panel: rgba(255, 255, 255, 0.045);
+      --accent-soft: rgba(99, 102, 241, 0.18);
+      --focus-ring: 0 0 0 3px rgba(99, 102, 241, 0.2);
     }
 
     * {
@@ -67,6 +69,26 @@
       cursor: pointer;
     }
 
+    button,
+    a {
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    button:focus-visible,
+    a:focus-visible {
+      outline: 0;
+    }
+
+    button:active,
+    .button:active {
+      transform: translateY(1px);
+    }
+
+    ::selection {
+      background: var(--accent);
+      color: var(--fg);
+    }
+
     .page {
       width: min(100%, 1840px);
       max-width: 100%;
@@ -104,6 +126,11 @@
       grid-template-columns: minmax(0, 320px) minmax(0, 1fr);
       min-height: 74px;
       border-bottom: 0.5px solid var(--hairline);
+      background: var(--bg);
+    }
+
+    section {
+      scroll-margin-top: 74px;
     }
 
     .masthead,
@@ -140,6 +167,7 @@
       background: transparent;
       color: inherit;
       text-align: left;
+      transition: background 220ms ease, color 220ms ease;
     }
 
     .brand-mark {
@@ -155,6 +183,7 @@
       font-weight: 900;
       letter-spacing: -0.06em;
       line-height: 1;
+      transition: background 220ms ease, border-color 220ms ease, color 220ms ease;
     }
 
     .brand-name {
@@ -174,17 +203,41 @@
     }
 
     .nav button {
-      padding: 0;
-      border: 0;
+      min-height: 34px;
+      padding: 0 12px;
+      border: 0.5px solid var(--hairline);
+      border-radius: 999px;
       background: transparent;
       color: var(--muted);
       line-height: 1.25;
       text-align: left;
-      transition: color 300ms ease;
+      transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
     }
 
-    .nav button:hover {
-      color: var(--accent);
+    .brand:hover,
+    .brand:focus-visible {
+      background: var(--accent-soft);
+    }
+
+    .brand:hover .brand-mark,
+    .brand:focus-visible .brand-mark {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: var(--fg);
+    }
+
+    .nav button:hover,
+    .nav button:focus-visible {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      color: var(--fg);
+      box-shadow: var(--focus-ring);
+    }
+
+    .nav button.active {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: var(--fg);
     }
 
     .hero {
@@ -268,7 +321,7 @@
       line-height: 1.2;
       text-align: center;
       white-space: normal;
-      transition: background 300ms ease, border-color 300ms ease, color 300ms ease;
+      transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
     }
 
     .button.primary {
@@ -277,10 +330,13 @@
     }
 
     .button:hover,
-    .button.primary:hover {
+    .button.primary:hover,
+    .button:focus-visible,
+    .button.primary:focus-visible {
       border-color: var(--accent);
       background: var(--accent);
       color: var(--fg);
+      box-shadow: var(--focus-ring);
     }
 
     .hero-visual {
@@ -371,6 +427,7 @@
       padding: 18px;
       border-right: 0.5px solid var(--hairline);
       border-bottom: 0.5px solid var(--hairline);
+      transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
     }
 
     .hero-value-card:nth-child(2n) {
@@ -379,6 +436,11 @@
 
     .hero-value-card:nth-last-child(-n + 2) {
       border-bottom: 0;
+    }
+
+    .hero-value-card:hover {
+      background: var(--accent-soft);
+      box-shadow: inset 3px 0 0 var(--accent);
     }
 
     .hero-value-title {
@@ -543,9 +605,15 @@
       border: 0;
       border-right: 0.5px solid rgba(0, 0, 0, 0.18);
       border-top: 0.5px solid rgba(0, 0, 0, 0.18);
-      background: transparent;
+      background: var(--bg);
+      color: var(--fg);
+      transition: background 220ms ease, border-color 220ms ease, box-shadow 220ms ease, color 220ms ease, transform 120ms ease;
+    }
+
+    .panel-actions button:last-child,
+    .panel-actions .button:last-child {
+      background: var(--fg);
       color: var(--bg);
-      transition: background 300ms ease, color 300ms ease;
     }
 
     .panel-actions button:last-child,
@@ -559,9 +627,16 @@
     }
 
     .panel-actions button:hover,
-    .panel-actions .button:hover {
+    .panel-actions .button:hover,
+    .panel-actions button:focus-visible,
+    .panel-actions .button:focus-visible,
+    .panel-actions button:last-child:hover,
+    .panel-actions .button:last-child:hover,
+    .panel-actions button:last-child:focus-visible,
+    .panel-actions .button:last-child:focus-visible {
       background: var(--accent);
       color: var(--fg);
+      box-shadow: inset 0 0 0 0.5px var(--accent);
     }
 
     .generator-map {
@@ -580,7 +655,7 @@
       color: inherit;
       cursor: default;
       text-align: left;
-      transition: background 300ms ease, color 300ms ease;
+      transition: background 220ms ease, box-shadow 220ms ease, color 220ms ease;
     }
 
     .map-item:nth-child(2n) {
@@ -592,8 +667,9 @@
     }
 
     .map-item:hover {
-      background: var(--accent);
+      background: var(--accent-soft);
       color: var(--fg);
+      box-shadow: inset 3px 0 0 var(--accent);
     }
 
     .map-title {
@@ -655,7 +731,7 @@
       padding: 22px;
       border-right: 0.5px solid var(--hairline);
       border-bottom: 0.5px solid var(--hairline);
-      transition: background 300ms ease, color 300ms ease;
+      transition: background 220ms ease, box-shadow 220ms ease, color 220ms ease;
     }
 
     .solution-card {
@@ -666,8 +742,9 @@
     .value-card:hover,
     .solution-card:hover,
     .audience-card:hover {
-      background: var(--fg);
-      color: var(--bg);
+      background: var(--accent-soft);
+      color: var(--fg);
+      box-shadow: inset 3px 0 0 var(--accent);
     }
 
     .value-card:hover p,
@@ -676,7 +753,7 @@
     .value-card:hover .small-label,
     .solution-card:hover .small-label,
     .audience-card:hover .small-label {
-      color: rgba(0, 0, 0, 0.64);
+      color: var(--muted);
     }
 
     .value-title,
@@ -705,7 +782,7 @@
       color: var(--muted);
       font-size: 15px;
       line-height: 1.42;
-      transition: color 300ms ease;
+      transition: color 220ms ease;
     }
 
     .problem-line {
@@ -791,10 +868,17 @@
       gap: 16px;
       padding: 18px 0;
       border-bottom: 0.5px solid var(--hairline);
+      transition: background 220ms ease, box-shadow 220ms ease;
     }
 
     .principle:last-child {
       border-bottom: 0;
+    }
+
+    .principle:hover,
+    .phase:hover {
+      background: var(--accent-soft);
+      box-shadow: inset 3px 0 0 var(--accent);
     }
 
     .principle-code {
@@ -846,6 +930,7 @@
       gap: 16px;
       padding: 18px 0;
       border-bottom: 0.5px solid var(--hairline);
+      transition: background 220ms ease, box-shadow 220ms ease;
     }
 
     .phase:last-child {
@@ -888,10 +973,20 @@
       color: var(--accent);
     }
 
-    .cta .button:hover {
+    .cta .button:hover,
+    .cta .button:focus-visible {
       border-color: var(--bg);
       background: var(--bg);
       color: var(--fg);
+      box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.22);
+    }
+
+    @media (min-width: 981px) {
+      .masthead {
+        position: sticky;
+        z-index: 50;
+        top: 0;
+      }
     }
 
     @media (max-width: 1180px) {
@@ -1016,6 +1111,19 @@
         width: 100%;
       }
     }
+
+    @media (prefers-reduced-motion: reduce) {
+      html {
+        scroll-behavior: auto;
+      }
+
+      *,
+      *::before,
+      *::after {
+        transition-duration: 0.01ms !important;
+        transition-delay: 0ms !important;
+      }
+    }
   </style>
 </head>
 <body>
@@ -1026,7 +1134,7 @@
         <span class="brand-name">Split APA</span>
       </button>
       <nav class="nav" aria-label="Main navigation">
-        <button type="button" data-scroll-target="home">Home Page</button>
+        <button class="active" type="button" data-scroll-target="home" aria-current="page">Home Page</button>
         <button type="button" data-scroll-target="why">Why Split APA</button>
         <button type="button" data-scroll-target="build">Build Your Plan</button>
         <button type="button" data-scroll-target="method">Split APA Method</button>
@@ -1314,6 +1422,20 @@
 
   <script>
     (function() {
+      var navButtons = Array.prototype.slice.call(document.querySelectorAll(".nav [data-scroll-target]"));
+
+      function setActiveNav(id) {
+        navButtons.forEach(function(button) {
+          var isActive = button.getAttribute("data-scroll-target") === id;
+          button.classList.toggle("active", isActive);
+          if (isActive) {
+            button.setAttribute("aria-current", "page");
+          } else {
+            button.removeAttribute("aria-current");
+          }
+        });
+      }
+
       function scrollToSection(id) {
         var target = document.getElementById(id);
         if (!target) return;
@@ -1323,7 +1445,9 @@
       document.querySelectorAll("[data-scroll-target]").forEach(function(button) {
         button.addEventListener("click", function(event) {
           event.preventDefault();
-          scrollToSection(button.getAttribute("data-scroll-target"));
+          var targetId = button.getAttribute("data-scroll-target");
+          if (button.closest(".nav")) setActiveNav(targetId);
+          scrollToSection(targetId);
         });
       });
 
@@ -1333,6 +1457,22 @@
           window.location.href = button.getAttribute("data-generator-url");
         });
       });
+
+      if ("IntersectionObserver" in window) {
+        var observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) setActiveNav(entry.target.id);
+          });
+        }, {
+          rootMargin: "-30% 0px -60% 0px",
+          threshold: 0
+        });
+
+        navButtons.forEach(function(button) {
+          var section = document.getElementById(button.getAttribute("data-scroll-target"));
+          if (section) observer.observe(section);
+        });
+      }
     })();
   </script>
 

@@ -4,27 +4,47 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Split APA Generator</title>
-  <link rel="stylesheet" href="assets/style.css?v=20260821b">
+  <link rel="stylesheet" href="assets/style.css?v=20260821e">
 </head>
 <body>
   <section class="access-screen" id="accessScreen" aria-labelledby="accessTitle">
-    <div class="access-card">
-      <div class="eyebrow">Private beta / Split APA</div>
-      <h1 id="accessTitle">Access required</h1>
-      <p>Enter the beta password to load the exercise archive and build your plan.</p>
+    <div class="access-layout">
+      <div class="access-intro">
+        <a class="access-brand" href="../" aria-label="Split APA home">
+          <span class="brand-mark">SA</span>
+          <span class="brand-name">Split APA</span>
+        </a>
 
-      <form class="access-form" id="accessForm">
-        <label class="access-field">
-          <span class="small-label">Password</span>
-          <input id="accessPassword" type="password" autocomplete="current-password" aria-label="Access password">
-        </label>
-        <button class="button access-button" type="submit">Unlock generator</button>
-      </form>
+        <div class="access-intro-copy">
+          <div class="eyebrow">Protected preview / Private beta</div>
+          <h1>Program access.</h1>
+          <p>Exercise archive and adapted workout generator.</p>
+        </div>
 
-      <a class="button access-home-button" href="../">Back to Split APA home</a>
+        <div class="access-progress small-label" aria-label="Access steps">
+          <span>01 / Authenticate</span>
+          <span>02 / Build your plan</span>
+        </div>
+      </div>
 
-      <div class="access-error small-label" id="accessError" role="alert" aria-live="polite"></div>
-      <div class="access-note small-label">Beta access / protected preview</div>
+      <div class="access-card">
+        <div class="eyebrow">Access / 01</div>
+        <h2 id="accessTitle">Unlock generator.</h2>
+        <p>Enter the beta password to load the exercise archive and build your plan.</p>
+
+        <form class="access-form" id="accessForm">
+          <label class="access-field">
+            <span class="small-label">Password</span>
+            <input id="accessPassword" type="password" autocomplete="current-password" aria-label="Access password">
+          </label>
+          <button class="button access-button" type="submit">Unlock generator</button>
+        </form>
+
+        <a class="button access-home-button" href="../">Back to Split APA home</a>
+
+        <div class="access-error small-label" id="accessError" role="alert" aria-live="polite"></div>
+        <div class="access-note small-label">Beta access / protected preview</div>
+      </div>
     </div>
   </section>
 
