@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Split APA Generator</title>
-  <link rel="stylesheet" href="assets/style.css?v=20260828a">
+  <link rel="stylesheet" href="assets/style.css?v=20260828b">
 </head>
 <body>
   <section class="access-screen" id="accessScreen" aria-labelledby="accessTitle">
@@ -90,19 +90,12 @@
           <div class="control-grid">
             <div class="control-field">
               <span class="small-label">Districts</span>
-              <div class="multi-select" id="districtSelect" aria-label="Select body districts"></div>
+              <div class="flow-select flow-select--multi" id="districtSelect" aria-label="Select body districts"></div>
             </div>
-            <label class="control-field">
+            <div class="control-field">
               <span class="small-label">Per section</span>
-              <select id="quantitySelect" aria-label="Exercises per section">
-                <option value="1">1 exercise</option>
-                <option value="2" selected>2 exercises</option>
-                <option value="3">3 exercises</option>
-                <option value="4">4 exercises</option>
-                <option value="5">5 exercises</option>
-                <option value="all">All exercises</option>
-              </select>
-            </label>
+              <div class="flow-select" id="quantitySelect" aria-label="Exercises per section"></div>
+            </div>
           </div>
 
           <form class="ask-panel" id="askForm">
@@ -165,6 +158,6 @@
     <div class="noscript">JavaScript is required to load the exercise archive.</div>
   </noscript>
 
-  <script type="module" src="assets/app.js?v=20260828a"></script>
+  <script type="module" src="assets/app.js?v=20260828b"></script>
 </body>
 </html>

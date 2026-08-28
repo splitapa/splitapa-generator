@@ -47,6 +47,14 @@ const els = {
 let appInitialized = false;
 const workoutCodePrefix = 'SAPA1-';
 const sortModes = new Set(['default', 'easy-hard', 'hard-easy']);
+const quantityOptions = [
+  { value: '1', label: '1 exercise' },
+  { value: '2', label: '2 exercises' },
+  { value: '3', label: '3 exercises' },
+  { value: '4', label: '4 exercises' },
+  { value: '5', label: '5 exercises' },
+  { value: 'all', label: 'All exercises' }
+];
 const smartHeaders = [...document.querySelectorAll('[data-smart-header]')];
 let lastScrollY = window.scrollY;
 let headerTicking = false;
@@ -504,25 +512,116 @@ function updateUrl(ids) {
   }
 }
 
+function closeFlowSelect(root, focusTrigger = false) {
+  if (!root) return;
+  root.classList.remove('open');
+  const trigger = root.querySelector('.flow-select-trigger');
+  if (trigger) {
+    trigger.setAttribute('aria-expanded', 'false');
+    if (focusTrigger) trigger.focus();
+  }
+}
+
+function closeOtherFlowSelects(currentRoot) {
+  document.querySelectorAll('.flow-select.open').forEach((root) => {
+    if (root !== currentRoot) closeFlowSelect(root);
+  });
+}
+
+function setupFlowSelectTrigger(root, trigger) {
+  trigger.addEventListener('click', (event) => {
+    event.preventDefault();
+    const shouldOpen = !root.classList.contains('open');
+    closeOtherFlowSelects(root);
+    root.classList.toggle('open', shouldOpen);
+    trigger.setAttribute('aria-expanded', String(shouldOpen));
+  });
+}
+
+function renderSingleFlowSelect(root, {
+  options,
+  initialValue = '',
+  placeholder = 'Select option',
+  ariaLabel = 'Options',
+  onChange = () => {}
+}) {
+  root.innerHTML = '';
+  root.dataset.value = '';
+
+  const trigger = document.createElement('button');
+  trigger.type = 'button';
+  trigger.className = 'flow-select-trigger';
+  trigger.setAttribute('aria-haspopup', 'listbox');
+  trigger.setAttribute('aria-expanded', 'false');
+  trigger.textContent = placeholder;
+  setupFlowSelectTrigger(root, trigger);
+
+  const menu = document.createElement('div');
+  menu.className = 'flow-select-menu';
+  menu.setAttribute('role', 'listbox');
+  menu.setAttribute('aria-label', ariaLabel);
+
+  const optionButtons = [];
+  const setValue = (value, closeMenu = true, notify = true) => {
+    const normalizedValue = String(value ?? '');
+    const selectedOption = options.find((option) => String(option.value) === normalizedValue) || null;
+    root.dataset.value = selectedOption ? normalizedValue : '';
+    trigger.textContent = selectedOption ? selectedOption.label : placeholder;
+
+    optionButtons.forEach(({ button, option }) => {
+      const active = selectedOption && String(option.value) === normalizedValue;
+      button.classList.toggle('active', Boolean(active));
+      button.setAttribute('aria-selected', String(Boolean(active)));
+    });
+
+    if (closeMenu) closeFlowSelect(root);
+    if (notify) onChange(selectedOption);
+  };
+
+  options.forEach((option) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'flow-select-option';
+    button.dataset.value = String(option.value);
+    button.setAttribute('role', 'option');
+    button.setAttribute('aria-selected', 'false');
+    button.textContent = option.label;
+    button.addEventListener('click', (event) => {
+      event.preventDefault();
+      setValue(option.value);
+    });
+    optionButtons.push({ button, option });
+    menu.appendChild(button);
+  });
+
+  root.append(trigger, menu);
+  setValue(initialValue, false, false);
+  return { setValue };
+}
+
+function renderQuantityControl() {
+  renderSingleFlowSelect(els.quantitySelect, {
+    options: quantityOptions,
+    initialValue: '2',
+    placeholder: 'Select quantity',
+    ariaLabel: 'Exercises per section'
+  });
+}
+
 function renderDistrictControls() {
   els.districtTabs.innerHTML = '';
   els.districtSelect.innerHTML = '';
 
   const trigger = document.createElement('button');
   trigger.type = 'button';
-  trigger.className = 'multi-select-trigger';
+  trigger.className = 'flow-select-trigger';
   trigger.setAttribute('aria-haspopup', 'listbox');
   trigger.setAttribute('aria-expanded', 'false');
   trigger.textContent = 'Select districts';
-  trigger.addEventListener('click', (event) => {
-    event.preventDefault();
-    event.stopPropagation();
-    els.districtSelect.classList.toggle('open');
-    trigger.setAttribute('aria-expanded', String(els.districtSelect.classList.contains('open')));
-  });
+  setupFlowSelectTrigger(els.districtSelect, trigger);
 
   const menu = document.createElement('div');
-  menu.className = 'multi-select-menu';
+  menu.className = 'flow-select-menu';
   menu.setAttribute('role', 'listbox');
   menu.setAttribute('aria-label', 'Body districts');
   menu.setAttribute('aria-multiselectable', 'true');
@@ -537,13 +636,12 @@ function renderDistrictControls() {
 
     const option = document.createElement('button');
     option.type = 'button';
-    option.className = 'multi-select-option';
+    option.className = 'flow-select-option';
     option.setAttribute('role', 'option');
     option.dataset.district = district.id;
     option.textContent = district.title;
     option.addEventListener('click', async (event) => {
       event.preventDefault();
-      event.stopPropagation();
       await toggleDistrictSelection(district.id);
     });
     menu.appendChild(option);
@@ -560,7 +658,7 @@ async function toggleDistrictSelection(id) {
 
   await selectDistricts(nextIds.length ? nextIds : currentIds);
   els.districtSelect.classList.add('open');
-  const trigger = els.districtSelect.querySelector('.multi-select-trigger');
+  const trigger = els.districtSelect.querySelector('.flow-select-trigger');
   if (trigger) {
     trigger.setAttribute('aria-expanded', 'true');
   }
@@ -586,12 +684,12 @@ function renderSelectedDistrict() {
   els.outputTitle.textContent = workoutTitle;
 
   const selectedIds = getSelectedDistrictIds();
-  const trigger = els.districtSelect.querySelector('.multi-select-trigger');
+  const trigger = els.districtSelect.querySelector('.flow-select-trigger');
   if (trigger) {
     trigger.textContent = selectedLabel;
   }
 
-  document.querySelectorAll('.multi-select-option').forEach((option) => {
+  els.districtSelect.querySelectorAll('.flow-select-option').forEach((option) => {
     option.classList.toggle('active', selectedIds.includes(option.dataset.district));
     option.setAttribute('aria-selected', String(selectedIds.includes(option.dataset.district)));
   });
@@ -898,7 +996,7 @@ async function generateWorkout() {
     return;
   }
 
-  const quantityValue = els.quantitySelect.value;
+  const quantityValue = els.quantitySelect.dataset.value || '2';
   const metas = getSelectedDistrictMetas();
   state.generatedExercises = [];
   state.sortMode = 'default';
@@ -1095,23 +1193,17 @@ function createReplaceArea(currentExercise, index) {
   label.className = 'replace-label';
   label.textContent = 'Choose another exercise from the same district';
 
-  const select = document.createElement('select');
-  select.className = 'replace-select';
+  const select = document.createElement('div');
+  select.className = 'flow-select replace-select';
+  select.setAttribute('aria-label', 'Replacement exercise');
 
-  const placeholder = document.createElement('option');
-  placeholder.value = '';
-  placeholder.disabled = true;
-  placeholder.selected = true;
-  placeholder.textContent = 'Select exercise';
-  select.appendChild(placeholder);
-
-  allExercises.forEach((exercise, exerciseIndex) => {
-    if (exercise.id === currentExercise.id) return;
-    const option = document.createElement('option');
-    option.value = String(exerciseIndex);
-    option.textContent = createReplaceOptionLabel(exercise);
-    select.appendChild(option);
-  });
+  const replacementOptions = allExercises
+    .map((exercise, exerciseIndex) => ({
+      value: String(exerciseIndex),
+      label: createReplaceOptionLabel(exercise),
+      exercise
+    }))
+    .filter((option) => option.exercise.id !== currentExercise.id);
 
   const actions = document.createElement('div');
   actions.className = 'replace-actions';
@@ -1120,8 +1212,10 @@ function createReplaceArea(currentExercise, index) {
   confirm.type = 'button';
   confirm.className = 'exercise-confirm-button';
   confirm.textContent = 'Confirm';
+  confirm.disabled = true;
   confirm.addEventListener('click', () => {
-    const next = allExercises[Number(select.value)];
+    if (!select.dataset.value) return;
+    const next = allExercises[Number(select.dataset.value)];
     replaceExercise(index, next);
   });
 
@@ -1130,8 +1224,17 @@ function createReplaceArea(currentExercise, index) {
   cancel.className = 'exercise-cancel-button';
   cancel.textContent = 'Cancel';
   cancel.addEventListener('click', () => {
+    selection.setValue('', true, false);
     area.classList.remove('active');
-    select.value = '';
+  });
+
+  const selection = renderSingleFlowSelect(select, {
+    options: replacementOptions,
+    placeholder: 'Select exercise',
+    ariaLabel: 'Replacement exercises',
+    onChange: (option) => {
+      confirm.disabled = !option;
+    }
   });
 
   actions.append(confirm, cancel);
@@ -1189,7 +1292,11 @@ function createExerciseCard(exercise, index) {
 
   const replaceArea = createReplaceArea(exercise, index);
   change.addEventListener('click', () => {
-    replaceArea.classList.toggle('active');
+    const active = !replaceArea.classList.contains('active');
+    replaceArea.classList.toggle('active', active);
+    if (!active) {
+      closeFlowSelect(replaceArea.querySelector('.flow-select'));
+    }
   });
 
   const actions = document.createElement('div');
@@ -1256,23 +1363,20 @@ async function init() {
   try {
     state.manifest = await fetchJson(manifestUrl);
     renderDistrictControls();
+    renderQuantityControl();
     document.addEventListener('click', (event) => {
-      if (!els.districtSelect.contains(event.target)) {
-        els.districtSelect.classList.remove('open');
-        const trigger = els.districtSelect.querySelector('.multi-select-trigger');
-        if (trigger) {
-          trigger.setAttribute('aria-expanded', 'false');
-        }
-      }
+      document.querySelectorAll('.flow-select.open').forEach((root) => {
+        if (!root.contains(event.target)) closeFlowSelect(root);
+      });
     });
     document.addEventListener('keydown', (event) => {
-      if (event.key !== 'Escape' || !els.districtSelect.classList.contains('open')) return;
-      els.districtSelect.classList.remove('open');
-      const trigger = els.districtSelect.querySelector('.multi-select-trigger');
-      if (trigger) {
-        trigger.setAttribute('aria-expanded', 'false');
-        trigger.focus();
-      }
+      if (event.key !== 'Escape') return;
+      const openMenus = [...document.querySelectorAll('.flow-select.open')];
+      if (!openMenus.length) return;
+      event.preventDefault();
+      openMenus.forEach((root, menuIndex) => {
+        closeFlowSelect(root, menuIndex === openMenus.length - 1);
+      });
     });
     els.generateButton.addEventListener('click', generateWorkout);
     els.clearButton.addEventListener('click', clearWorkout);
