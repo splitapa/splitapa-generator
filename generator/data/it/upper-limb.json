@@ -1,0 +1,2190 @@
+{
+  "distretto": "Arto superiore",
+  "sezioni": [
+    {
+      "nome": "Spalla - Mobilità e controllo motorio",
+      "esercizi": [
+        {
+          "nome": "Circonduzione della spalla con le mani sulle spalle",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del complesso della spalla.",
+          "howToDo": "Metti la mano destra sulla spalla destra e la mano sinistra sulla spalla sinistra. Disegna lentamente piccoli cerchi con i gomiti, spostandoli in avanti, verso l'alto, all'indietro e verso il basso. Fai 5 cerchi in avanti e poi 5 cerchi all'indietro.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-038",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione della spalla con le mani sulle spalle",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wall scivolamento con controllo scapolare",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata e la protrazione scapolare del complesso spalla.",
+          "howToDo": "Stare di fronte a una parete con gli avambracci appoggiati su di essa. Mantenere le scapole delicatamente attive, far scivolare le braccia verso l'alto lentamente, quindi tornare con il controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-054",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Wall scivolamento con controllo scapolare",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-protraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Spalla Girdle circonduzione in piedi",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del complesso della spalla.",
+          "howToDo": "Stare in alto con le braccia rilassate. Disegnare cerchi lenti con le spalle, prima in avanti e poi all'indietro, utilizzando una ampiezza di movimento confortevole.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-056",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Spalla Girdle circonduzione in piedi",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Scivolamento da parete in piedi per la flessione della spalla in attiva-Assisted",
+          "image": "",
+          "description": "Questo esercizio di mobilità attivo-assisteta sviluppa la flessione controllata delle spalle mentre la parete sostiene il peso degli arti superiori.",
+          "howToDo": "Stare di fronte ad una parete con entrambe le mani appoggiate su di essa alla larghezza delle spalle. Mantenere il tronco in posizione verticale, far scorrere le mani verso l'alto fino a raggiungere la comoda gamma di flessione disponibile, quindi tornare lentamente alla posizione di partenza.",
+          "whatToDo": "Mantieni le costole controllate, fai ruotare le scapola in modo naturale verso l'alto, e utilizza un leggero contatto con la parete durante tutto il movimento.",
+          "whatNotToDo": "Non inarcare la parte inferiore della schiena, elevare eccessivamente le spalle, o forzare le braccia al di là di una gamma confortevole.",
+          "id": "upper-limb-060",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Scivolamento da parete in piedi per la flessione della spalla in attiva-Assisted",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Resistenza Spalla abduzione orizzontale con Banda",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del complesso della spalla durante il abduzione orizzontale e la ritrazione scapolare.",
+          "howToDo": "Tenere una fascia leggera con entrambe le mani davanti al petto. Aprire le braccia verso l'esterno fino a quando il torace si allarga, quindi tornare lentamente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-066",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Resistenza Spalla abduzione orizzontale con Banda",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Passo di Flessione Spalla-Attraverso con bastone",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata e l'estensione del complesso delle spalle.",
+          "howToDo": "Tenere un bastone con una larga presa davanti al corpo. Sollevarlo in testa e, se comodo, continuare dietro il corpo prima di tornare lungo lo stesso percorso.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-077",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Passo di Flessione Spalla-Attraverso con bastone",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito alla parete spalla abduzione scivolamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare il abduzione controllato e la rotazione esterna del complesso delle spalle.",
+          "howToDo": "Stare con la schiena sostenuta contro una parete e i gomiti fletteti a 90 gradi. Far scivolare le braccia verso l'alto e verso il basso mantenendo un comodo contatto tra gli arti superiori e la parete.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-081",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito alla parete spalla abduzione scivolamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Elevazione scapolare in piedi",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante l'elevazione scapolare.",
+          "howToDo": "Iniziare con le spalle basse e il petto comodamente aperto. Lentamente sollevare entrambe le spalle verso le orecchie, fermarsi brevemente, quindi abbassarle con il controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-082",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Elevazione scapolare in piedi",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-elevation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Innalzamento scapolare a singolo braccio",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso spalla durante la flessione, elevazione scapolare, e scapolare rotazione verso l'alto.",
+          "howToDo": "Stare in posizione verticale con un braccio esteso in testa. Mantenere il gomito dritto e le costole controllate, alzare e ruotare verso l'alto la scapola per aumentare la portata. Ritornare lentamente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-084",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Innalzamento scapolare a singolo braccio",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-elevation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wall Ball spalla circonduzione al gomito",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare il controllo motorio e la stabilità del complesso spalla durante la circonduzione.",
+          "howToDo": "Mettere una palla morbida tra la parete e un gomito. Applicare una leggera pressione per tenere la palla in posizione, quindi guidare il gomito attraverso piccoli cerchi in senso orario e piccoli cerchi in senso antiorario.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-093",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Wall Ball spalla circonduzione al gomito",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Controllo multidirezionale della spalla della sfera della parete",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità del complesso spalla durante la flessione, estensione, abduzione orizzontale, e adduzione orizzontale.",
+          "howToDo": "In piedi di fronte a un muro con una pallina morbida tenuta tra la parete e un gomito. Mantenere la pressione della luce e spostare il gomito su, destra, giù, e a sinistra per disegnare un piccolo quadrato. Invertire la direzione dopo aver completato diverse ripetizioni controllate.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-094",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Controllo multidirezionale della spalla della sfera della parete",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "horizontal-abduction",
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sequenza Circonduzione Spalla con Gomiti flesso",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso della spalla durante l'estensione, il abduzione, la rotazione esterna e la flessione.",
+          "howToDo": "Stare in piedi e posizionare ogni mano sulla spalla ipsilaterale. Spostare i gomiti verso il basso e posteriore, poi lateralmente in abduzione spalla e rotazione esterna, e infine verso l'alto in flessione. Ritornare attraverso la stessa sequenza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-095",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Sequenza Circonduzione Spalla con Gomiti flesso",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "abduction",
+            "external-rotation",
+            "flexion",
+            "coordination"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduzione della spalla in abduzione e rotazione esterna",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante la circonduzione, la rotazione esterna e la ritrazione scapolare.",
+          "howToDo": "Stare alti con ogni mano toccando la spalla sullo stesso lato. Aprire i gomiti ai lati e tenerli vicino all'altezza della spalla. Mantenere il petto aperto e le scapole delicatamente disegnate insieme, disegnare piccoli cerchi con i gomiti in entrambe le direzioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-096",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione della spalla in abduzione e rotazione esterna",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "external-rotation",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduzione Alternativa Spalla",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del complesso della spalla.",
+          "howToDo": "Iniziare a girare un braccio in avanti e in basso mentre l'altro gira all'indietro e verso il basso. Continuare il modello alternato lentamente, quindi in senso contrario.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-100",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione Alternativa Spalla",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "coordination",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Progressive-Diametro spalla circonduzione",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare il controllo motorio e la stabilità del complesso spalla durante la circonduzione.",
+          "howToDo": "Stare in alto con entrambi i bracci aperti ai lati all'altezza della spalla. Iniziare con piccoli cerchi e aumentare gradualmente il loro diametro fino a quando ogni braccio Completare un comodo cerchio completo. Quindi ridurre il diametro passo passo fino a quando le braccia sono di nuovo tenuti ai lati. Ripetere nella direzione opposta.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-103",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Progressive-Diametro spalla circonduzione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione seduta Overhead bastone Abbassamento Dietro la testa",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e il controllo del complesso delle spalle durante la flessione, il abduzione e la rotazione esterna.",
+          "howToDo": "Siediti lontano dallo schienale con la colonna vertebrale alta. Mantenere un bastone o un asciugamano con una comoda presa larga e sollevalo sopra la testa. Piegare i gomiti per abbassarlo delicatamente dietro la testa, quindi estendere i gomiti per restituirlo in alto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-104",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta Overhead bastone Abbassamento Dietro la testa",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wall-assistito a candeliere Overhead Press",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento del complesso spalla durante la flessione, il abduzione, la rotazione esterna, e scapolare rotazione verso l'alto.",
+          "howToDo": "Mettere le braccia in una forma di golpost con le braccia superiori verso i lati e i gomiti piegati a 90 gradi. Tenere la parte posteriore delle mani vicino alla parete, scivolare e estendere le braccia verso l'alto, quindi tornare alla posizione golpost.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-105",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Wall-assistito a candeliere Overhead Press",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduzione pendolare della spalla assistita",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del complesso della spalla.",
+          "howToDo": "Stare accanto a una panca stabile o sedia in posizione sfalsata. Cercare in avanti dai fianchi con una schiena neutra e sostenere il corpo con la mano opposta. Lasciare il braccio di lavoro appendere liberamente verso il pavimento, quindi creare piccoli cerchi in senso orario e antiorario spostando delicatamente il corpo.",
+          "whatToDo": "Mantenere l'arto superiore coinvolto rilassarsi e utilizzare un piccolo movimento di gravità assistita generato da un leggero spostamento del peso corporeo.",
+          "whatNotToDo": "Non sollevare attivamente il braccio o creare ampi cerchi rapidi dalla spalla.",
+          "id": "upper-limb-107",
+          "sezione": "Spalla - Mobilità e controllo motorio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione pendolare della spalla assistita",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "gravity-assisted"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-mobility-control"
+    },
+    {
+      "nome": "Spalla - Regione anteriore",
+      "esercizi": [
+        {
+          "nome": "Abduzione della spalla e rotazione esterna con le mani dietro la testa",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante il abduzione e la rotazione esterna.",
+          "howToDo": "Siediti in piedi su una sedia o su un piedino. Solleva le braccia verso i lati e piega i gomiti, portando i palmi delle mani per toccare delicatamente la parte posteriore della testa, la nuca del collo. Da questa posizione, spingete i gomiti all'indietro attraverso la ampiezza di movimento confortevole disponibile, sentendo il petto aperto. Mantenere questa posizione per 5 secondi, poi rilassate le braccia per i lati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-001",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Abduzione della spalla e rotazione esterna con le mani dietro la testa",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Stampa Pettorale Isometrica",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del complesso della spalla, con enfasi sulla adduzione orizzontale.",
+          "howToDo": "Siediti in posizione verticale con le palme di fronte allo sterno e i gomiti di livello con le mani. Premere le palme insieme utilizzando forza submassimale costante. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-002",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Stampa Pettorale Isometrica",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flessione della spalla In posizione seduta o in piedi",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante la flessione.",
+          "howToDo": "Siediti in posizione verticale o in piedi con entrambe le braccia lungo il tronco e le palme che si affacciano medialmente. Flessi entrambe le spalle per elevare le braccia anteriormente a circa il livello dell'occhio. Tenere per 3 secondi, quindi abbassare lentamente. Un oggetto leggero può essere aggiunto solo se appropriato per la difficoltà selezionata.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-003",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione della spalla In posizione seduta o in piedi",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Assistito alla parete spalla flessione",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante la flessione.",
+          "howToDo": "Stare in piedi di fronte a una parete con la punta delle dita posizionata all'altezza pettorale. Avanzare le dita verso l'alto in piccoli passaggi alternati per elevare il braccio attraverso la ampiezza di movimento confortevole disponibile. Tenere brevemente, quindi tornare utilizzando la stessa sequenza controllata.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-004",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito alla parete spalla flessione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Protrazione scapolare In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso spalla durante la protrazione scapolare.",
+          "howToDo": "Siediti in posizione verticale con entrambe le braccia estese in avanti all'altezza delle spalle e i palmi rivolti l'uno verso l'altro. Mantenendo i gomiti dritti, protrai le scapolae in modo che le mani si spostino leggermente più in avanti. Mantenere premuto per 3 secondi, quindi torna a posizione neutra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-039",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Protrazione scapolare In posizione seduta",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In quadrupedia spalla flessione Singola Arm",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare il controllo motorio e la stabilità del complesso spalla durante la flessione.",
+          "howToDo": "Assumere una posizione in quadrupedia su una superficie imbottita. Tenere le mani sotto le spalle e le ginocchia sotto i fianchi. Sollevare lentamente il braccio destro in avanti, mantenendolo dritto, fino a raggiungere l'altezza della spalla. Tenere premuto per 2 secondi, quindi mettere la mano indietro. Ripetere 5 volte, quindi cambiare le braccia.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-047",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia spalla flessione Singola Arm",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Closed-Chain Push-Up",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare il controllo motorio e la stabilità del complesso spalla durante l'adduzione orizzontale.",
+          "howToDo": "Posizionare le mani sul pavimento o su una superficie elevata. Tenere il corpo lungo, piegare i gomiti per abbassare il torace, quindi spingere indietro alla posizione di partenza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-057",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Closed-Chain Push-Up",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Pulsanti di abduzione orizzontale della spalla in piedi",
+          "image": "",
+          "description": "Questo esercizio dinamico di mobilità sviluppa un abduzione orizzontale glenoumerale di piccolo raggio con gli arti superiori tenuti all'altezza delle spalle.",
+          "howToDo": "Stare in piedi con entrambe le spalle rapite a circa 90 gradi e i gomiti comodamente estesi. Spostare entrambe le braccia a breve distanza posteriore, quindi riportarle al piano frontale in un impulso lento e ripetuto.",
+          "whatToDo": "Iniziare il movimento alle articolazioni delle spalle, mantenere il tronco fermo, e utilizzare una piccola gamma simmetrica.",
+          "whatNotToDo": "Non spingere il torace in avanti, estendere la colonna vertebrale lombare, scrollare le spalle, o utilizzare slancio rapido.",
+          "id": "upper-limb-058",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pulsanti di abduzione orizzontale della spalla in piedi",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Porta Pettorale allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato al complesso spalla, con enfasi sul abduzione orizzontale e rotazione esterna.",
+          "howToDo": "Posizionare l'avambraccio o la mano su una porta all'altezza della spalla. Fate un passo in avanti e ruotate delicatamente il corpo fino a che il torace si allunga.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-061",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Porta Pettorale allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Bicipiti in piedi e Spalla anteriore allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato al complesso spalla, con particolare attenzione all'estensione.",
+          "howToDo": "Stare in alto e raggiungere un braccio leggermente dietro il corpo con il gomito dritto. Girare il palmo delicatamente via o mettere la mano su un supporto dietro di voi.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-067",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Bicipiti in piedi e Spalla anteriore allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Parete-assisted Pettorale e Biceps allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato al complesso spalla, con particolare attenzione all'estensione e rotazione esterna.",
+          "howToDo": "Stare accanto a una parete e posizionare una mano o un avambraccio dietro di voi su di esso. Lentamente girare il corpo di distanza fino al petto e la parte anteriore del braccio allungare.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-070",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Parete-assisted Pettorale e Biceps allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione seduta pavimento-assistito Biceps allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato al complesso spalla, con particolare attenzione all'estensione.",
+          "howToDo": "Sedetevi sul pavimento con le mani dietro di voi e le dita rivolte verso l'esterno o verso l'esterno. Lentamente spostare i fianchi in avanti fino a quando la parte anteriore delle braccia si allunga.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-076",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta pavimento-assistito Biceps allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Protrazione scapolare in piedi con braccio esteso",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso spalla durante la protrazione scapolare e adduzione orizzontale.",
+          "howToDo": "Stare in piedi ed estendere un braccio in avanti all'altezza della spalla. Mantenere il gomito dritto e il tronco fermo, protrarre la scapola in modo che la mano avanza leggermente. Ritornare alla posizione scapolare neutra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-083",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Protrazione scapolare in piedi con braccio esteso",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction",
+            "horizontal-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione supina a candeliere spalla adduzione orizzontale",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante l'adduzione orizzontale, il abduzione orizzontale e la ritrazione scapolare.",
+          "howToDo": "Sdraiati supino con le ginocchia piegate. Aprire le braccia ai lati e piegare i gomiti per formare un portiere. Tenere i gomiti piegati, portare gli avambracci interni l'uno verso l'altro davanti al petto, quindi riaprire con il controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-108",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina a candeliere spalla adduzione orizzontale",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione supina a braccio teso Spalla adduzione orizzontale",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento del complesso spalla durante l'adduzione orizzontale e il abduzione orizzontale.",
+          "howToDo": "Sdraiati supino con le ginocchia piegate e apri entrambe le braccia dritte ai lati. Spazza le braccia verso l'alto fino a quando le palme si incontrano o quasi si incontrano al di sopra del petto, puntando verso il soffitto, poi abbassale indietro ai lati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-109",
+          "sezione": "Spalla - Regione anteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina a braccio teso Spalla adduzione orizzontale",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-anterior-region"
+    },
+    {
+      "nome": "Spalla - Regione laterale",
+      "esercizi": [
+        {
+          "nome": "In posizione seduta o in piedi spalla abduzione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso spalla durante il abduzione.",
+          "howToDo": "Siediti in posizione verticale o in piedi con le braccia accanto al tronco e le palme che si affacciano a livello medio. Sollevare entrambe le braccia lateralmente all'altezza della spalla, fermarsi per 3 secondi, quindi abbassarle lentamente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-005",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta o in piedi spalla abduzione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sottrazione isometrica della spalla contro il muro",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del complesso della spalla, con enfasi sul abduzione.",
+          "howToDo": "Mettere l'aspetto laterale del gomito contro la parete ed applicare una leggera pressione verso l'esterno senza permettere il movimento delle articolazioni. Tenere premuto per 5 secondi, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-006",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Sottrazione isometrica della spalla contro il muro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Tavolo-assistito spalla abduzione e Adduzione",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante il abduzione e l'adduzione.",
+          "howToDo": "Siediti in piedi davanti a un tavolo. Metti i palmi delle mani sul tavolo davanti a te, con i gomiti leggermente piegati. Senza alzare le mani dalla superficie, fai scivolare entrambe le mani verso l'esterno allo stesso tempo, aprendole il più lontano possibile. Poi, ancora scivolando, riportale al centro. Ripetere questo movimento 5 volte.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-007",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Tavolo-assistito spalla abduzione e Adduzione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Assistito alla parete spalla abduzione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso spalla durante il abduzione.",
+          "howToDo": "Metti la punta delle dita della mano destra sulla parete all'altezza della spalla. Usando le dita, fai \"camminare\" la parete, spostando il braccio verso il lato fino a dove puoi raggiungere comodamente. Posizionarsi lì per 5 secondi, poi torna lentamente giù e Ripetere con il lato sinistro rivolto verso il muro.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-008",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito alla parete spalla abduzione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dip tricipiti parziali supportati",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare il controllo motorio e la stabilità del complesso spalla durante l'estensione.",
+          "howToDo": "Sostenere le mani su una superficie stabile accanto o dietro il corpo. Piegare i gomiti leggermente per abbassare una breve distanza, quindi premere indietro.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-059",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Dip tricipiti parziali supportati",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Supporto isometrico parziale Dip mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del complesso della spalla, con enfasi sull'estensione.",
+          "howToDo": "Sostenere le mani su una superficie stabile e abbassare solo una piccola quantità in una posizione di immersione. Mantenere la posizione durante la respirazione, quindi tornare con il controllo.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-063",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Supporto isometrico parziale Dip mantenimento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In piedi attiva incrociato spalla estensione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva sviluppa adduzione orizzontale controllata della spalla senza assistenza dall'arto superiore opposto.",
+          "howToDo": "Stare in piedi ed alzare un braccio in avanti all'altezza della spalla con il gomito esteso o leggermente flesso. Spostare il braccio attraverso il petto sotto controllo muscolare, quindi tornare alla posizione di partenza senza assistenza dal braccio opposto.",
+          "whatToDo": "Mantenere il tronco rivolto in avanti ed eseguire le fasi verso l'esterno e ritorno attraverso la gamma disponibile comoda alla stessa velocità controllata.",
+          "whatNotToDo": "Non ruotare il tronco, tirare il braccio con la mano opposta, scrollare la spalla, o utilizzare slancio.",
+          "id": "upper-limb-080",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi attiva incrociato spalla estensione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Small-Diametro spalla circonduzione in piedi",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del complesso della spalla, con enfasi sulla circonduzione e sul abduzione.",
+          "howToDo": "Stare in alto e aprire entrambe le braccia dritte ai lati a 90 gradi. Disegnare piccoli cerchi in avanti per diverse ripetizioni, poi disegnare lo stesso numero di cerchi all'indietro.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-101",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Small-Diametro spalla circonduzione in piedi",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Spalla abduzione e Pulsaggi di Adduzione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità del complesso spalla durante il abduzione e l'adduzione.",
+          "howToDo": "Stare in alto con entrambe le braccia aperte ai lati. Spostare le braccia delicatamente su e giù come ali, mantenendo il movimento nel piano laterale e utilizzando solo una piccola gamma.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-102",
+          "sezione": "Spalla - Regione laterale",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Spalla abduzione e Pulsaggi di Adduzione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-lateral-region"
+    },
+    {
+      "nome": "Spalla - Regione posteriore",
+      "esercizi": [
+        {
+          "nome": "Estensione della spalla In posizione seduta con gomito flessibile",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del complesso della spalla durante l'estensione e la ritrazione scapolare.",
+          "howToDo": "Siediti in posizione verticale lontano dallo schienale con i gomiti fletteti ed elevati all'altezza del petto. Spostare entrambi i gomiti all'indietro attraverso un piccolo range controllato. Tenere premuto per 5 secondi, quindi tornare alla posizione di partenza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-009",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione della spalla In posizione seduta con gomito flessibile",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Estensione della spalla isometrica contro lo schienale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del complesso della spalla, con enfasi sull'estensione.",
+          "howToDo": "Siediti in posizione verticale con la schiena sostenuta ed entrambi i gomiti fletteti a 90 gradi accanto al tronco. Premere i gomiti posteriori nello schienale utilizzando forza submaximal costante. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-010",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione della spalla isometrica contro lo schienale",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estensione della spalla e la rotazione interna dietro il retro",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante l'estensione e la rotazione interna.",
+          "howToDo": "Siediti in piedi o in piedi. Spostare entrambi gli arti superiori dietro il tronco a livello della vita e tenere un polso con la mano opposta quando disponibile. In alternativa, posizionare le superfici dorsali delle mani contro la regione lombare. Allungare delicatamente e ruotare internamente le spalle, quindi tenere premuto per 5 secondi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-011",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione della spalla e la rotazione interna dietro il retro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "internal-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Spalla In posizione seduta abduzione orizzontale",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del complesso della spalla durante il abduzione e l'estensione orizzontali.",
+          "howToDo": "Siediti in posizione verticale con entrambe le braccia estese in avanti all'altezza delle spalle e i palmi rivolti l'uno verso l'altro. Sposta le braccia orizzontalmente verso l'esterno e leggermente posteriore attraverso la comoda gamma disponibile. Mantenere premuto per 3 secondi, quindi torna.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-012",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Spalla In posizione seduta abduzione orizzontale",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotazione esterna bilaterale della spalla In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio attivo bilaterale sviluppa un controllo simmetrico della rotazione esterna della spalla con entrambi i gomiti mantenuti accanto al tronco.",
+          "howToDo": "Siediti in posizione verticale su una sedia. Piegate entrambi i gomiti a 90 gradi e teneteli vicini ai vostri lati. Tenete i palmi rivolti verso l'alto. Lentamente spostate le mani verso l'esterno, aprendo i vostri avambracci ai lati mantenendo i gomiti attaccati al vostro corpo. Tenere per 2 secondi, quindi tornare alla posizione di partenza. Ripetere 5 volte.",
+          "whatToDo": "Spostare entrambi gli avambracci simmetricamente, mantenere i gomiti leggermente a contatto con il tronco, e mantenere l'allineamento del polso posizione neutra.",
+          "whatNotToDo": "Non separare i gomiti dal tronco, ritrarre le spalle con forza, ruotare il tronco o forzare la gamma disponibile.",
+          "id": "upper-limb-037",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione esterna bilaterale della spalla In posizione seduta",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Depressione scapolare In posizione seduta e Retrazione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso spalla durante la depressione scapolare e la ritrazione scapolare.",
+          "howToDo": "Siediti in posizione verticale con le braccia rilassate lungo il tronco. Deprimere delicatamente e ritrarre le scapolae senza muovere la testa o prolungare la colonna vertebrale lombare. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-040",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Depressione scapolare In posizione seduta e Retrazione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-depression",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sottrazione orizzontale della spalla isometrica con asciugamano",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del complesso della spalla durante il abduzione orizzontale e la ritrazione scapolare.",
+          "howToDo": "Siediti in piedi o in piedi e Mantenere un asciugamano tra entrambe le mani all'altezza del petto con i gomiti leggermente fletteti. Applicare la tensione verso l'esterno sull'asciugamano senza cambiare la posizione del braccio. Mantenere premuto per 5 secondi, poi rilassati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-041",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Sottrazione orizzontale della spalla isometrica con asciugamano",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Rotazione esterna della spalla In decubito laterale",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del complesso della spalla durante la rotazione esterna.",
+          "howToDo": "Sdraiarsi su un lato con il gomito superiore piegato a 90 gradi e tenuto vicino al corpo. Ruotare la mano verso il soffitto, poi abbassare lentamente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-055",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione esterna della spalla In decubito laterale",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pulsanti di mobilitazione della flessione della spalla assistita",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata del complesso delle spalle.",
+          "howToDo": "In piedi di fronte ad un supporto stabile e mettere entrambe le mani su di esso a circa altezza della spalla. Passo indietro e cerniera ai fianchi fino a quando le braccia sono estese. Spostare il torace delicatamente verso il basso attraverso una piccola gamma, quindi tornare.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-062",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pulsanti di mobilitazione della flessione della spalla assistita",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito con bastone Spalla rotazione interna allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al complesso spalla, con enfasi sulla rotazione interna.",
+          "howToDo": "Tenere un tassello dietro il tronco con una mano sopra e l'altra sotto. Usare la mano superiore per guidare il braccio inferiore gradualmente nella rotazione interna della spalla. Fermarsi in un lieve tratto e mantenere la posizione.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-064",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito con bastone Spalla rotazione interna allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito con bastone Spalla rotazione esterna allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al complesso delle spalle, con enfasi sulla rotazione esterna.",
+          "howToDo": "Tenere il gomito vicino al lato e piegato a 90 gradi. Utilizzare un bastone per guidare delicatamente l'avambraccio verso l'esterno, quindi tenere un lieve tratto.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-065",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito con bastone Spalla rotazione esterna allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito in piedi Latissimus Dorsi allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al complesso delle spalle, con enfasi sulla flessione.",
+          "howToDo": "Tenere un supporto stabile con le mani e sedersi i fianchi indietro fino ai lati delle spalle e la schiena allungare. Tenere con respirazione rilassata.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-068",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito in piedi Latissimus Dorsi allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Lato-Lying Spalla rotazione interna allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al complesso spalla, con enfasi sulla rotazione interna.",
+          "howToDo": "Sdraiati sul lato con la spalla e il gomito piegati a 90 gradi. Usa la mano opposta per guidare delicatamente l'avambraccio verso il pavimento.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-069",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Lato-Lying Spalla rotazione interna allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi incrociato Poster spalla allungamento",
+          "image": "",
+          "description": "Questo allungamento eretto auto-assistente utilizza adduzione orizzontale della spalla per allungare i tessuti posteriori della spalla.",
+          "howToDo": "Stare in piedi e portare un braccio attraverso il petto all'altezza della spalla. Posizionare l'avambraccio opposto sopra il gomito e disegnare delicatamente il braccio più vicino al tronco fino a quando si percepisce un lieve tratto posteriore della spalla. Tenere, quindi cambiare i lati.",
+          "whatToDo": "Tenere la spalla testata sotto il livello dell'orecchio, mantenere il tronco rivolto in avanti, e utilizzare solo l'assistenza delicata dal braccio opposto.",
+          "whatNotToDo": "Non ruotare il tronco, tirare direttamente sull'articolazione del gomito, elevare la spalla o forzare il tratto.",
+          "id": "upper-limb-071",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi incrociato Poster spalla allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotazione interna della spalla attiva",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del complesso della spalla durante la rotazione interna.",
+          "howToDo": "Siediti o stai alto con il gomito piegato a 90 gradi. Ruota l'avambraccio verso l'interno attraverso una gamma confortevole, fermati brevemente, poi ritorna.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-072",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione interna della spalla attiva",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotazione esterna della spalla isometrica contro il muro",
+          "image": "",
+          "description": "Questo esercizio isometrico attiva i rotatori esterni della spalla senza produrre movimenti glenoumerali visibili.",
+          "howToDo": "Mettere la parte posteriore della mano contro la parete e premere verso l'esterno con forza submaximal costante senza permettere al braccio di muoversi. Tenere per 5 secondi, rilassarsi, e ripetere sul lato opposto.",
+          "whatToDo": "Tenere il gomito fisso accanto al tronco, il polso posizione neutra, e la spalla rilassata mantenendo la respirazione normale.",
+          "whatNotToDo": "Non ruotare il tronco, rapire il gomito, estendere il polso, trattenere il respiro o applicare la massima forza.",
+          "id": "upper-limb-073",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione esterna della spalla isometrica contro il muro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In piedi Isolato Ritrazione scapolare",
+          "image": "",
+          "description": "Questo esercizio di controllo selettivo enfatizza la ritrazione scapulotoracica minimizzando il movimento alle articolazioni glenoumerali.",
+          "howToDo": "Stare in posizione verticale con le braccia rilassate accanto al tronco e i gomiti delicatamente fletteti. Senza muovere le braccia superiori all'indietro, disegnare entrambe le scapola delicatamente verso la colonna vertebrale, fermarsi brevemente, quindi rilasciarle a neutre.",
+          "whatToDo": "Tenere il collo rilassato, le costole allineate sul bacino, e le braccia superiori stazionare mentre le scapola si muovono simmetricamente.",
+          "whatNotToDo": "Non scuotere le spalle, estendere le braccia dietro il tronco, inarcare la parte inferiore della schiena, o spremere le scapola con forza.",
+          "id": "upper-limb-074",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi Isolato Ritrazione scapolare",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-retraction",
+            "selective-control"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito alla parete Triceps allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al complesso delle spalle, con enfasi sulla flessione.",
+          "howToDo": "Posizionare un gomito in alto su una parete con la mano che si estende verso il basso dietro la testa o la parte superiore della schiena. Spostare il petto delicatamente più vicino alla parete.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-075",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito alla parete Triceps allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sostenuto Wall-assistito Latissimus Dorsi allungamento",
+          "image": "",
+          "description": "Questo tratto sostenuto combina la flessione della spalla e una cerniera dell'anca sostenuta per allungare la latissimus dorsi e i tessuti del tronco posterolaterale adiacenti.",
+          "howToDo": "Mettere entrambe le mani in alto su una parete, fare un passo indietro, e cerniera i fianchi posteriore, mantenendo le braccia estese. Abbassare il petto gradualmente tra le braccia fino a quando un lieve tratto è sentito lungo le spalle posterolaterali e tronco. Tenere per 20 secondi durante la respirazione normalmente.",
+          "whatToDo": "Mantenere un delicato controllo addominale, mantenere le costole allineate, e distribuire il tratto uniformemente tra i due lati.",
+          "whatNotToDo": "Non forzare il torace verso il basso, riaccendere le costole, iperestendere la colonna vertebrale lombare, o continuare se i sintomi si irradiano in un arto superiore.",
+          "id": "upper-limb-078",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Sostenuto Wall-assistito Latissimus Dorsi allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stretch"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina scapola-Stabilized incrociato Spalla allungamento",
+          "image": "",
+          "description": "Questo tratto auto-assistente supino utilizza la superficie di supporto per limitare la protrazione scapolare e mettere a fuoco l'adduzione orizzontale all'articolazione glenoumerale.",
+          "howToDo": "Sdraiarsi in posizione supina con una spalla flessata a 90 gradi e il gomito piegato comodamente. Tenere la scapola a contatto con la superficie di sostegno e utilizzare la mano opposta sopra il gomito per guidare il braccio attraverso il petto fino a quando non si percepisce un leggero tratto posteriore della spalla.",
+          "whatToDo": "Mantenere la scapola contro la superficie, mantenere la spalla rilassata e applicare un'assistenza delicata attraverso la parte superiore del braccio.",
+          "whatNotToDo": "Non sollevare la scapola dalla superficie, premere direttamente sull'articolazione del gomito, forzare il braccio attraverso il petto, o provocare dolore alla spalla anteriore.",
+          "id": "upper-limb-079",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina scapola-Stabilized incrociato Spalla allungamento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi Dritto-Arm Spalla Estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del complesso spalla durante l'estensione.",
+          "howToDo": "Stare alti con un braccio dritto lungo il corpo, la spalla bassa, e il petto comodamente aperto. Spostare il braccio dritto all'indietro attraverso una piccola gamma controllata, pausa, quindi tornare accanto al corpo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-085",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi Dritto-Arm Spalla Estensione",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotazione esterna in piedi su un unico braccio",
+          "image": "",
+          "description": "Questo esercizio unilaterale in piedi sviluppa un controllo attivo della rotazione esterna della spalla mentre l'arto superiore opposto rimane rilassato.",
+          "howToDo": "Stare alto con un gomito piegato a 90 gradi e tenuto vicino al lato. Iniziare con l'avambraccio puntando in avanti, quindi ruotare la mano verso l'esterno e leggermente all'indietro mentre il gomito rimane fisso. Ritornare lentamente.",
+          "whatToDo": "Mantenere il gomito di lavoro fisso accanto al tronco, mantenere un polso posizione neutra, e completare le fasi verso l'esterno e ritorno alla stessa velocità controllata.",
+          "whatNotToDo": "Non ruotare il busto, separare il gomito dal tronco, estendere il polso, o utilizzare slancio per aumentare la gamma.",
+          "id": "upper-limb-086",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione esterna in piedi su un unico braccio",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotazione interna del a candeliere del muro",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità del complesso della spalla durante la rotazione interna.",
+          "howToDo": "Stare con la parte posteriore contro una parete e posizionare le braccia in una posizione di golpost. Tenere ogni gomito a contatto con la parete. Ruotare gli avambracci verso il basso in modo che le palme si muovono verso il pavimento, quindi tornare lentamente alla posizione di golpost verticale.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-106",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione interna del a candeliere del muro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione supina a candeliere rotazione interna",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità del complesso della spalla durante la rotazione interna.",
+          "howToDo": "Sdraiato supino con le braccia superiori aperte ai lati e i gomiti piegati a 90 gradi. Tenere i gomiti nello stesso posto e ruotare gli avambracci in modo che le palme si muovono verso il pavimento vicino ai fianchi. Ritornare lentamente alla posizione di partenza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-111",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina a candeliere rotazione interna",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina Gomito-assistito Rotazione esterna",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del complesso della spalla durante la rotazione esterna.",
+          "howToDo": "Sdraiarsi in posizione supina con un gomito vicino al lato e piegato a 90 gradi, in modo che le nocche puntano verso il soffitto. Tenere il gomito fisso e ruotare l'avambraccio verso l'esterno, portando la parte posteriore della mano verso il pavimento accanto a voi. Ritornare lentamente e ripetere sull'altro lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-112",
+          "sezione": "Spalla - Regione posteriore",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Gomito-assistito Rotazione esterna",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-posterior-region"
+    },
+    {
+      "nome": "Arm - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Alternando la flessione gomito a spalla opposta",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante la flessione.",
+          "howToDo": "Siediti in piedi su una sedia. Mantenere le braccia rilassate ai lati. Solleva lentamente la mano destra e portala a riposare sulla spalla sinistra, piegando il gomito davanti al petto. Stai fermo per 3 secondi, poi abbassa lentamente il braccio verso il basso. Ripetere lo stesso movimento con la mano sinistra sulla spalla destra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-013",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Alternando la flessione gomito a spalla opposta",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flessione del gomito In posizione seduta dal supporto tabella",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante la flessione.",
+          "howToDo": "Siediti in posizione verticale a un tavolo con entrambi gli avambracci sostenuti e i palmi rivolti verso l'alto. Flessi i gomiti per sollevare le mani verso il petto mantenendo il contatto dell'avambraccio con il tavolo. Mantenere premuto per 3 secondi, poi abbassa le mani.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-014",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione del gomito In posizione seduta dal supporto tabella",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flessione isometrica del gomito con resistenza al cuscino",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare del gomito, con enfasi sulla flessione.",
+          "howToDo": "Siediti in piedi sulla sedia. Prendi un piccolo e morbido cuscino e tienilo davanti al petto, strizzandolo tra i palmi delle mani. Pieghi le braccia in avanti e premi il cuscino contro il petto, stringendo i muscoli davanti alle braccia. Mantenere la pressione per 5 secondi, poi rilassa la presa.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-015",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione isometrica del gomito con resistenza al cuscino",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flessione isometrica del gomito a 90 gradi",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare del gomito, con enfasi sulla flessione.",
+          "howToDo": "Siediti in piedi o in piedi. Flessi un gomito a 90 gradi, tienilo adiacente al tronco, e posiziona l'avambraccio in supinazione. Mantenere la posizione con una contrazione isometrica submaximale per 5 secondi, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-016",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione isometrica del gomito a 90 gradi",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Gilbow flessione per inoltrare l'estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante la flessione e l'estensione.",
+          "howToDo": "Stare in alto con entrambe le braccia dritte per i fianchi. Portare ciascuna mano alla spalla sullo stesso lato, quindi estendere entrambe le braccia in avanti all'altezza della spalla. Piegare i gomiti per restituire le mani alle spalle, quindi abbassare le braccia.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-098",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Gilbow flessione per inoltrare l'estensione",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Gilbow flessione a copertura estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante la flessione e l'estensione.",
+          "howToDo": "Stare in alto con le braccia ai lati. Portare ogni mano alla spalla sullo stesso lato, quindi estendere entrambe le braccia in alto. Piegare i gomiti per riportare le mani alle spalle, quindi abbassare le braccia ai lati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-099",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Gilbow flessione a copertura estensione",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "arm-anterior-region"
+    },
+    {
+      "nome": "Arm - Posterior Region",
+      "esercizi": [
+        {
+          "nome": "Estensione del gomito isometrico al tavolo",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del gomito, con enfasi sull'estensione.",
+          "howToDo": "Siediti in posizione verticale a un tavolo con i palmi sostenuti e i gomiti fletteti vicino al tronco. Premere entrambi i palmi verso il basso nel tavolo senza sollevare il bacino. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-017",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del gomito isometrico al tavolo",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione del gomito avanti",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante l'estensione.",
+          "howToDo": "Iniziare con un gomito flesso e la mano vicino alla spalla ipsilaterale. Estendere il gomito per spostare la mano in avanti all'altezza della spalla. Tenere per 2 secondi, tornare lentamente, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-018",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del gomito avanti",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione della spalla isometrica contro il muro",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del complesso della spalla, con enfasi sull'estensione.",
+          "howToDo": "Stare con la schiena sostenuta contro una parete ed entrambe le braccia lungo il tronco. Premere l'aspetto posteriore delle braccia nella parete utilizzando forza submassimale costante. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-019",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione della spalla isometrica contro il muro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione del gomito con cuscino",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante l'estensione.",
+          "howToDo": "Siediti in piedi su una sedia con uno schienale. Mantenere un cuscino leggero con entrambe le mani. Porta le mani sopra la testa, piegando i gomiti all'indietro, in modo che il cuscino tocchi leggermente la parte posteriore del collo. Da questa posizione, spingere le braccia verso l'alto fino a quando sono completamente estese verso il soffitto. Tenere per 2 secondi nel punto più alto, poi piegare lentamente i gomiti di nuovo dietro la testa.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-020",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del gomito con cuscino",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione supina estensione gomito in abduzione della spalla",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare il controllo motorio e la stabilità del gomito durante l'estensione e la flessione.",
+          "howToDo": "Sdraiati supino con le braccia superiori aperte ai lati e i gomiti piegati a 90 gradi in una forma golpost. Tenere le braccia superiori ancora e raddrizzare i gomiti fino a quando le braccia formano una T, poi piegare i gomiti per tornare.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-110",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina estensione gomito in abduzione della spalla",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "arm-posterior-region"
+    },
+    {
+      "nome": "Gomito",
+      "esercizi": [
+        {
+          "nome": "Pronazione e Supinazione dell'Avambraccio Seduto",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento dell'avambraccio e delle articolazioni radioulnari durante la pronazione e la supinazione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i gomiti fletteti a 90 gradi e tenuto adiacente al tronco. Ruota gli avambracci in pronazione fino a quando le palme si affacciano verso il basso, poi in supinazione fino a quando le palme si affacciano verso l'alto. Alternare lentamente per 10 ripetizioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-021",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pronazione e Supinazione dell'Avambraccio Seduto",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estensione del gomito isometrica con resistenza manuale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del gomito, con enfasi sull'estensione.",
+          "howToDo": "Siediti in posizione verticale con un gomito flesso a 90 gradi. Posiziona il palmo opposto sotto il gomito. Premere il gomito verso il basso mentre la mano di supporto fornisce la stessa resistenza verso l'alto in modo che non si verifichi alcun movimento. Tenere premuto per 5 secondi, quindi cambiare i lati.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-022",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del gomito isometrica con resistenza manuale",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Estensione gomito In posizione seduta con apertura a mano",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante l'estensione.",
+          "howToDo": "Siediti in posizione verticale con i gomiti fletteti e le mani chiuse liberamente vicino alla regione ascellare. Allungare entrambi i gomiti verso il pavimento. Aprire le mani alla fine della gamma, tenere premuto per 2 secondi, quindi tornare lentamente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-023",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione gomito In posizione seduta con apertura a mano",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Alternando estensione del gomito isometrico al tavolo",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del gomito, con enfasi sull'estensione.",
+          "howToDo": "Siediti in piedi a un tavolo con entrambi i palmi sostenuti e i gomiti fletteti. Premere una mano verso il basso allungando leggermente il gomito e mantenendo il braccio opposto rilassato. Ritornare ai lati neutri e alternati per 5 ripetizioni.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-024",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Alternando estensione del gomito isometrico al tavolo",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estensione del gomito isometrico In posizione seduta al tavolo",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del gomito, con enfasi sulla stabilizzazione statica.",
+          "howToDo": "Siediti in posizione verticale davanti a un tavolo. Pieghi il gomito destro e metta sul tavolo il lato esterno dell'avambraccio. Prema delicatamente il gomito e l'avambraccio verso il basso contro il tavolo senza muovere il braccio. Mantenere la pressione per 5 secondi, poi rilassati. Ripetere con il braccio sinistro.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-042",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del gomito isometrico In posizione seduta al tavolo",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flessione ed estensione attiva del gomito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante la flessione e l'estensione.",
+          "howToDo": "Tenere il braccio rilassato a lato. Piegare il gomito per portare la mano verso la spalla, poi lentamente tornare alla posizione di partenza attraverso una gamma confortevole.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-052",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione ed estensione attiva del gomito",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Gilbow flessione a Downward estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del gomito durante la flessione e l'estensione.",
+          "howToDo": "Stare in piedi con entrambe le braccia lungo il tronco. Flessi i gomiti per portare ogni mano verso la spalla ipsilaterale, quindi estendere i gomiti completamente verso il pavimento. Tornare alla posizione di partenza e ripetere.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-097",
+          "sezione": "Gomito",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Gilbow flessione a Downward estensione",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "elbow"
+    },
+    {
+      "nome": "Avambraccio",
+      "esercizi": [
+        {
+          "nome": "Asciugamano Wringing per rotazione avambraccio",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento dell'avambraccio e delle articolazioni radioulnari durante la pronazione e la supinazione.",
+          "howToDo": "Siediti in posizione verticale e Mantenere un asciugamano arrotolato con entrambe le mani davanti al tronco. Ruota un avambraccio in pronazione e l'altro in supinazione per tendere l'asciugamano. Mantenere premuto per 4 secondi, poi inverti le direzioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-025",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Asciugamano Wringing per rotazione avambraccio",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flessione ed estensione attiva Finger",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della mano e delle dita durante la flessione delle dita e l'estensione delle dita.",
+          "howToDo": "Siediti in posizione verticale con entrambi i gomiti fletteti e le mani posizionate davanti al tronco. Estendi e rapi tutte le dita, poi flette le dita per formare un pugno rilassato. Alterna le due posizioni lentamente per 10 ripetizioni.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-026",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione ed estensione attiva Finger",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flessione e l'estensione del polso assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del polso durante la flessione e l'estensione.",
+          "howToDo": "Siediti a un tavolo. Riposa l'avambraccio destro sul tavolo, lasciando la mano sul bordo, con il palmo rivolto verso il pavimento. Solleva la mano verso l'alto, puntando le dita verso il soffitto, senza sollevare il braccio dal tavolo. Mantenere la posizione per 2 secondi, poi lascia cadere la mano verso il basso. Ripetere 5 volte, poi scambia le braccia.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-027",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione e l'estensione del polso assistito",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Circonduzione bilaterale degli avambracci",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento dell'avambraccio e delle articolazioni radioulnari durante la pronazione, la supinazione e la circonduzione.",
+          "howToDo": "Siediti in posizione verticale con entrambe le mani chiuse liberamente davanti al petto. Spostare gli avambracci e i polsi attraverso cerchi coordinati alternati per 5 secondi, quindi invertire la direzione.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-028",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione bilaterale degli avambracci",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "circumduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Pronazione dell'avambraccio e supinazione con resistenza alla luce",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento dell'avambraccio e delle articolazioni radioulnari durante la pronazione e la supinazione.",
+          "howToDo": "Siediti in posizione verticale su una sedia. Mantenere un oggetto leggero, come una piccola bottiglia vuota, nella mano destra. Mantenere il gomito piegato a 90 gradi e vicino al fianco. Gira lentamente il palmo verso l'alto, poi lentamente gira verso il basso. Ripetere 5 volte, poi passa la mano.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-043",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pronazione dell'avambraccio e supinazione con resistenza alla luce",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pronazione e Supinazione Attiva dell'Avambraccio",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento dell'avambraccio e delle articolazioni radioulnari durante la pronazione e la supinazione.",
+          "howToDo": "Tenere il gomito vicino al corpo e l'avambraccio sostenuto. Iniziare con il pollice rivolto verso l'alto, ruotare il palmo verso l'alto, tornare al centro, quindi ruotare il palmo verso il basso.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-053",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pronazione e Supinazione Attiva dell'Avambraccio",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Manualmente stabilizzato pronazione e supinazione dell'avambraccio",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento dell'avambraccio e delle articolazioni radioulnari durante la pronazione e la supinazione.",
+          "howToDo": "Sedersi o stare con il gomito sinistro piegato. Posizionare il palmo destro leggermente contro l'esterno del gomito sinistro per tenerlo stabile. Girare l'avambraccio sinistro in pronazione, portando il palmo verso il basso, poi in supinazione come l'avambraccio raggiunge delicatamente in avanti. Ripetere sull'altro lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-087",
+          "sezione": "Avambraccio",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Manualmente stabilizzato pronazione e supinazione dell'avambraccio",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "forearm"
+    },
+    {
+      "nome": "Polso",
+      "esercizi": [
+        {
+          "nome": "Estensione del polso assistito allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al polso, con enfasi sull'estensione.",
+          "howToDo": "Siediti in posizione verticale ed allunga un braccio in avanti con il gomito dritto, il palmo rivolto in avanti e le dita rivolte verso l'alto. Usa la mano opposta per applicare una leggera pressione alle dita fino a quando non si avverte un leggero tratto lungo il polso volare. Mantenere premuto per 5 secondi, quindi cambia i lati.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-029",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del polso assistito allungamento",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Assisted polso flessione allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un stretching controllato al polso, con enfasi sulla flessione.",
+          "howToDo": "Siediti in posizione verticale. Questa volta, unisci le mani davanti al petto, posizionando la parte posteriore della mano destra sulla parte posteriore della mano sinistra, con le dita rivolte verso il basso. Premere delicatamente le mani l'una contro l'altra per 5 secondi, sentendo un tratto intorno all'area del polso.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-030",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Assisted polso flessione allungamento",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Radial attivo e deviazione Ulnar",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento del polso durante la deviazione radiale e la deviazione ulnare.",
+          "howToDo": "Siediti a un tavolo con un avambraccio sostenuto e il palmo rivolto verso il basso. Mantenere l'avambraccio fermo, spostare la mano verso il lato radiale e poi verso il lato ulnare. Ripetere lentamente, poi cambiare i lati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-031",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Radial attivo e deviazione Ulnar",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circonduzione del polso attivo",
+          "image": "",
+          "description": "Questo esercizio è inteso a migliorare la ampiezza articolare attiva e controllo del movimento del polso durante la circonduzione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i gomiti fletteti e tenuti accanto al tronco. Formare pugni rilassati e spostare entrambi i polsi attraverso circonduzione controllata in senso orario per 5 ripetizioni, quindi ripetere in senso antiorario.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-032",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione del polso attivo",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "circumduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Allungamento del polso muscolare elasticizzato",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un stretching controllato al polso, con enfasi sulla flessione.",
+          "howToDo": "Estendere un braccio in avanti con il palmo rivolto verso il basso. Piegare il polso in modo che le dita puntino verso il pavimento, quindi guidare delicatamente la mano con l'altra mano fino a quando un leggero tratto è sentito sulla parte superiore dell'avambraccio. Tenere per circa 15 secondi.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-048",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Allungamento del polso muscolare elasticizzato",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Polso Flexor Muscle allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al polso, con enfasi sull'estensione.",
+          "howToDo": "Estendere un braccio in avanti con il palmo rivolto verso il basso. Lasciare la mano muoversi verso il pavimento, quindi utilizzare l'altra mano per guidare delicatamente il polso in estensione fino al lato opposto dell'avambraccio si estende. Tenere per circa 15 secondi.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-049",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Polso Flexor Muscle allungamento",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Estensione isometrica del polso",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del polso, con enfasi sull'estensione.",
+          "howToDo": "Siediti con l'avambraccio sorretto su un tavolo e il polso oltre il bordo. Fai un pugno leggero, metti la mano in linea con l'avambraccio, Mantenere per qualche secondo, poi rilassati.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-050",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione isometrica del polso",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estensione del polso resistente",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del polso durante l'estensione.",
+          "howToDo": "Sostenga un avambraccio su un tavolo con il polso oltre il bordo e il palmo rivolto verso il basso. Estendere il polso con l'assistenza dalla mano opposta, quindi rimuovere l'assistenza e abbassare lentamente la mano. Aggiungere solo la minima resistenza esterna quando il movimento è ben controllato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-051",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del polso resistente",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pronated polso flessione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento del polso durante la flessione e la pronazione.",
+          "howToDo": "Siediti con l'avambraccio sostenuto e il palmo rivolto verso il basso, permettendo alla mano di allungarsi oltre il bordo del tavolo. Piegare il polso in modo che le dita viaggino verso il basso, quindi tornare a posizione neutra con controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-088",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pronated polso flessione",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Pronated polso estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del polso durante l'estensione e la pronazione.",
+          "howToDo": "Siediti con l'avambraccio sostenuto e il palmo rivolto verso il basso, permettendo alla mano di estendersi oltre il bordo del tavolo. Sollevare la parte posteriore della mano verso l'alto, quindi tornare a posizione neutra con il controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-089",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Pronated polso estensione",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Supinato polso flessione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del polso durante la flessione e la supinazione.",
+          "howToDo": "Si sieda con l'avambraccio sostenuto e il palmo rivolto verso l'alto, permettendo alla mano di estendersi oltre il bordo del tavolo. Ricurrire il palmo verso l'avambraccio, quindi ritornare lentamente a posizione neutra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-090",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Supinato polso flessione",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Estensione del polso supinato",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del polso durante l'estensione e la supinazione.",
+          "howToDo": "Siediti con l'avambraccio sostenuto e il palmo rivolto verso l'alto, permettendo alla mano di allungarsi oltre il bordo del tavolo. Abbassare delicatamente la parte posteriore della mano verso il pavimento, quindi tornare a posizione neutra con controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-091",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del polso supinato",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Radial attivo e deviazione Ulnar con avambraccio posizione neutra",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento del polso durante la deviazione radiale e la deviazione ulnare.",
+          "howToDo": "Tenere l'avambraccio davanti a voi con il pollice rivolto verso l'alto. Mantenere il polso posizione neutra e le dita dritte e insieme. Spostare la mano in modo che il lato piccolo-dita si abbassa, quindi invertire il movimento in modo che il lato pollice si alza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-092",
+          "sezione": "Polso",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Radial attivo e deviazione Ulnar con avambraccio posizione neutra",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "wrist"
+    },
+    {
+      "nome": "Hand",
+      "esercizi": [
+        {
+          "nome": "Opposizione Thumb-to-Finger",
+          "image": "",
+          "description": "Questo esercizio è volto a migliorare la ampiezza articolare attiva e controllo del movimento della mano e delle dita durante l'opposizione.",
+          "howToDo": "Siediti comodamente con le mani appoggiate sulle cosce. Solleva la mano destra con il palmo aperto. Porta il pollice per toccare la punta del dito indice, poi la punta del dito medio, anulare e infine il dito piccolo. Una volta raggiunto il dito piccolo, tornare indietro nella direzione opposta. Ripetere 3 volte con ogni mano.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-033",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Opposizione Thumb-to-Finger",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Tabletop Finger flessione e estensione Walk",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della mano e delle dita durante la flessione delle dita e l'estensione delle dita.",
+          "howToDo": "Siediti in posizione verticale a un tavolo. Posiziona la punta delle dita di una mano sulla superficie con il palmo sopraelevato. Flessibilità sequenziale e allungare le dita per far avanzare la mano in avanti, quindi invertire la sequenza per tornare. Ripetere con la mano opposta.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-034",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Tabletop Finger flessione e estensione Walk",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Resistente abduzione di Dita con Banda Elastica",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della mano e delle dita durante il abduzione delle dita.",
+          "howToDo": "Siediti in posizione verticale con i piedi appoggiati. Riunisci la punta delle dita della mano destra. Metti una normale fascia elastica della cucina intorno alle dita unite, appena sotto le unghie. Da questa posizione, allarga le dita verso l'esterno, spingendo contro la resistenza della banda elastica. Mantenere la posizione aperta per 3 secondi, poi richiudi lentamente le dita. Ripetere 5 volte su ogni lato.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-035",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Resistente abduzione di Dita con Banda Elastica",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Crogiolo carta per impugnatura a mano",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della mano e delle dita durante la flessione delle dita.",
+          "howToDo": "Mettete un vecchio foglio di giornale o un foglio di carta da cucina piatto sul tavolo davanti a voi. Posizionate la vostra mano destra aperta sopra di esso. Usando solo le dita di quella mano, iniziare a tirare la carta verso il centro del palmo fino a trasformare il foglio in una palla stretta. ripetere con la mano sinistra.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-036",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Crogiolo carta per impugnatura a mano",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione del dito isolato sul tavolo",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della mano e delle dita durante l'estensione del dito.",
+          "howToDo": "Sedetevi a un tavolo e mettete la vostra mano destra piatta sulla superficie, con il palmo e le dita che riposano. Tenendo il palmo fermo, alzate lentamente solo il dito indice, poi abbassatelo. Continuate con il dito medio, il dito anulare e il dito piccolo. Ripetete 3 volte, poi passate la mano.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-044",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del dito isolato sul tavolo",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Dita attive abduzione e adduzione sul tavolo",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della mano e delle dita durante il abduzione delle dita e la adduzione delle dita.",
+          "howToDo": "Sedetevi a un tavolo e mettete la mano destra piatta sulla superficie. Tenete giù il palmo, spargete lentamente le dita il più possibile, poi riavvicinateli lentamente. Ripetete 5 volte, poi cambiate la mano.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-045",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Dita attive abduzione e adduzione sul tavolo",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction",
+            "finger-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Opposizione pollice attraverso il palmo",
+          "image": "",
+          "description": "Questo esercizio è inteso a migliorare la ampiezza articolare attiva e controllo del movimento della mano e delle dita durante l'opposizione e l'adduzione del pollice.",
+          "howToDo": "Siediti comodamente con le mani appoggiate sulle cosce. Apri la mano destra con il palmo rivolto verso l'alto. Lentamente fai scivolare il pollice sul palmo verso la base del mignolo, poi torna alla posizione a mano aperta. Ripetere 5 volte, quindi passare la mano.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "upper-limb-046",
+          "sezione": "Hand",
+          "distretto": "Arto superiore",
+          "thumbnail": "",
+          "imageAlt": "Opposizione pollice attraverso il palmo",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition",
+            "thumb-adduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "hand"
+    }
+  ],
+  "id": "upper-limb"
+}

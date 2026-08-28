@@ -1,0 +1,2190 @@
+{
+  "distretto": "Miembro superior",
+  "sezioni": [
+    {
+      "nome": "Hombro - Movilidad y control motor",
+      "esercizi": [
+        {
+          "nome": "Circuncisión del hombro con las manos en los hombros",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada del complejo del hombro.",
+          "howToDo": "Coloque su mano derecha sobre su hombro derecho y su mano izquierda sobre su hombro izquierdo. Dibuje lentamente pequeños círculos con sus codos, moviéndose hacia adelante, hacia arriba, hacia atrás y hacia abajo. Haga 5 círculos hacia adelante y luego 5 círculos hacia atrás.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-038",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circuncisión del hombro con las manos en los hombros",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Diapositiva de pared con control escapular",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la flexión controlada y la protracción escapular del complejo del hombro.",
+          "howToDo": "Póngase de pie frente a una pared con los antebrazos apoyados sobre ella. Mantenga los omóplatos suavemente activos, deslice los brazos hacia arriba lentamente y luego vuelva con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-054",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Diapositiva de pared con control escapular",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-protraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circunducción de la circunducción de hombro de pie",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada del complejo del hombro.",
+          "howToDo": "Párate alto con los brazos relajados. Dibuja círculos lentos con los hombros, primero hacia adelante y luego hacia atrás, utilizando un rango cómodo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-056",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción de la circunducción de hombro de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Diapositiva de pared de pie para la flexión activa del hombro asistido",
+          "image": "",
+          "description": "Este ejercicio de movilidad asistida activa desarrolla una flexión controlada del hombro, mientras que la pared soporta el peso de las extremidades superiores.",
+          "howToDo": "Póngase de pie frente a una pared con ambas manos apoyadas sobre ella a la anchura del hombro. Manteniendo el tronco en posición vertical, deslice las manos hacia arriba hasta que se alcance el rango de flexión cómodo disponible, y luego vuelva lentamente a la posición inicial.",
+          "whatToDo": "Mantenga las costillas controladas, permita que las escápulas giren hacia arriba de forma natural, y utilice un ligero contacto con la mano con la pared durante todo el movimiento.",
+          "whatNotToDo": "No arquear la parte inferior de la espalda, elevar los hombros excesivamente, o forzar los brazos más allá de un rango cómodo.",
+          "id": "upper-limb-060",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Diapositiva de pared de pie para la flexión activa del hombro asistido",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Hombro Resistente abducción Horizontal con Banda",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante el abducción horizontal y la retracción escapular.",
+          "howToDo": "Sostenga una banda ligera con ambas manos delante del pecho. Abra los brazos hacia afuera hasta que el pecho se ensanche y luego regrese lentamente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-066",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Hombro Resistente abducción Horizontal con Banda",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Paso de la flexibilidad del hombro con bastón",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la flexión controlada y la extensión del complejo del hombro.",
+          "howToDo": "Sostenga un palo con un agarre ancho delante del cuerpo. Levántelo por encima y, si es cómodo, continúe detrás del cuerpo antes de regresar por el mismo camino.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-077",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Paso de la flexibilidad del hombro con bastón",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Diapositiva de abducción de hombro asistido por la pared",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa tiene por objeto mejorar el abducción controlado y la rotación externa del complejo del hombro.",
+          "howToDo": "Párese con la espalda apoyada contra una pared y los codos se flexionaron hasta 90 grados. Deslice los brazos hacia arriba y hacia abajo manteniendo un contacto cómodo entre las extremidades superiores y la pared.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-081",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Diapositiva de abducción de hombro asistido por la pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Elevación escapular de pie",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control del movimiento del complejo del hombro durante la elevación escapular.",
+          "howToDo": "Párate alto con los brazos relajados por tus lados. Comienza con los hombros bajos y el pecho cómodamente abierto. Lentamente levanta ambos hombros hacia las orejas, detente brevemente, luego bájalos con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-082",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Elevación escapular de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-elevation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Elevación escapularia de un solo brazo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y control del movimiento del complejo del hombro durante la flexión, elevación escapularia y rotación escapularia hacia arriba.",
+          "howToDo": "Párese erguido con un brazo extendido por encima. Mantener el codo recto y las costillas controladas, elevar y girar ascendentemente la escápula para aumentar el alcance. Volver lentamente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-084",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Elevación escapularia de un solo brazo",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-elevation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Circuncisión de hombro de bola de pared en el codo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la circunducción.",
+          "howToDo": "Póngase de pie frente a la pared y coloque una bola suave entre la pared y un codo. Aplique una suave presión para sostener la bola en su lugar, luego guíe el codo a través de pequeños círculos en el sentido de las agujas del reloj y pequeños círculos en el sentido contrario a las agujas del reloj.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-093",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circuncisión de hombro de bola de pared en el codo",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Control multidireccional del hombro de la bola de pared",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la flexión, extensión, abducción horizontal y adducción horizontal.",
+          "howToDo": "Párese frente a una pared con una bola suave sujeta entre la pared y un codo. Mantenga la presión ligera y mueva el codo hacia arriba, derecha, abajo e izquierda para dibujar un pequeño cuadrado. Revierta la dirección después de completar varias repeticiones controladas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-094",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Control multidireccional del hombro de la bola de pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "horizontal-abduction",
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Secuencia de circunducción del hombro con codos flexibles",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante la extensión, abducción, rotación externa y flexión.",
+          "howToDo": "Póngase de pie y coloque cada mano en el hombro ipsilateral. Mueva los codos hacia abajo y hacia atrás, luego lateralmente en el abducción del hombro y la rotación externa, y finalmente hacia arriba en la flexión. Volver a través de la misma secuencia.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-095",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Secuencia de circunducción del hombro con codos flexibles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "abduction",
+            "external-rotation",
+            "flexion",
+            "coordination"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circuncisión del hombro en abducción y rotación externa",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y control del movimiento del complejo del hombro durante la circunducción, rotación externa y retracción escapular.",
+          "howToDo": "Párese alto con cada mano tocando el hombro en el mismo lado. Abra los codos a los lados y sostenerlos cerca de la altura del hombro. Mantener el pecho abierto y los omóplatos suavemente dibujados juntos, dibujar pequeños círculos con los codos en ambas direcciones.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-096",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circuncisión del hombro en abducción y rotación externa",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "external-rotation",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circunducción alterna del hombro",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada del complejo del hombro.",
+          "howToDo": "Párese alto con ambos brazos extendidos por encima. Comience a rodear un brazo hacia adelante y hacia abajo mientras que los otros círculos hacia atrás y hacia abajo. Continúe el patrón de alternancia lentamente, a continuación, direcciones reversas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-100",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción alterna del hombro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "coordination",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circunducción del hombro del diámetro progresivo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la circunducción.",
+          "howToDo": "Párese alto con ambos brazos abiertos a los lados a la altura de los hombros. Comience con pequeños círculos y aumente gradualmente su diámetro hasta que cada brazo complete un círculo completo cómodo. Luego reduzca el diámetro paso a paso hasta que los brazos se mantengan de nuevo a los lados. Repita en la dirección opuesta.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-103",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción del hombro del diámetro progresivo",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Bastón sentado sobre la cabeza bajando detrás de la cabeza",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante la flexión, abducción y rotación externa.",
+          "howToDo": "Siéntese lejos del respaldo con la columna alta. Sostenga un palo o una toalla con un agarre ancho cómodo y levantándolo por encima de la cabeza. Dobla los codos para bajarlo suavemente detrás de la cabeza, luego extender los codos para devolverlo por encima.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-104",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Bastón sentado sobre la cabeza bajando detrás de la cabeza",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Prensa frontal de postes de portería con soporte de pared",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante la flexión, abducción, rotación externa y rotación ascendente escapular.",
+          "howToDo": "Póngase de pie con la espalda contra una pared. Coloque los brazos en forma de poste de portero con los brazos superiores hacia los lados y los codos doblados a 90 grados. Mantenga las palmas de las manos cerca de la pared, deslice y extienda los brazos hacia arriba, luego vuelva a la posición del poste de portero.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-105",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Prensa frontal de postes de portería con soporte de pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circunducción del péndulo del hombro soportado",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada del complejo del hombro.",
+          "howToDo": "Póngase de pie junto a un banco o silla estable en una posición escalonada. Incorpórese hacia delante desde las caderas con una espalda neutra y sostenga el cuerpo con la mano opuesta. Deje que el brazo de trabajo cuelgue libremente hacia el suelo, luego cree pequeños círculos en sentido de las agujas del reloj y en sentido contrario cambiando suavemente el cuerpo.",
+          "whatToDo": "Mantenga la extremidad superior implicada relajada y utilice un pequeño movimiento asistido por la gravedad generado por un suave cambio de peso corporal.",
+          "whatNotToDo": "No levante activamente el brazo ni cree círculos grandes y rápidos desde el hombro.",
+          "id": "upper-limb-107",
+          "sezione": "Hombro - Movilidad y control motor",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción del péndulo del hombro soportado",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "gravity-assisted"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-mobility-control"
+    },
+    {
+      "nome": "Hombro - Región anterior",
+      "esercizi": [
+        {
+          "nome": "Abducción de hombro y rotación externa con las manos detrás de la cabeza",
+          "image": "",
+          "description": "Este ejercicio tiene por objeto mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante el abducción y la rotación externa.",
+          "howToDo": "Siéntese erguido en una silla o de pie. Levante los brazos hacia los lados y doble los codos, trayendo las palmas de las manos para tocar suavemente la parte posterior de la cabeza, la nuca del cuello. Desde esta posición, empuje los codos hacia atrás a través del rango cómodo disponible, sintiendo el pecho abierto. Mantenga esta posición durante 5 segundos, luego relaje los brazos por los lados.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-001",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de hombro y rotación externa con las manos detrás de la cabeza",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Prensa pectoral isométrica",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del complejo del hombro, con énfasis en la adducción horizontal.",
+          "howToDo": "Sentarse erguido con las palmas juntas delante del esternón y los codos a la altura de las manos. Presionar las palmas juntas utilizando una fuerza submáxima constante. Sostener durante 5 segundos, luego relajarse.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-002",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Prensa pectoral isométrica",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexión de los Hombros Sentados o De pie",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante la flexión.",
+          "howToDo": "Siéntese erguido o de pie con ambos brazos al lado del tronco y las palmas mirando medialmente. Flexione ambos hombros para elevar los brazos anteriormente a aproximadamente el nivel de los ojos. Sostenga durante 3 segundos, luego baje lentamente. Un objeto ligero sólo se puede añadir cuando sea apropiado para la dificultad seleccionada.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-003",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de los Hombros Sentados o De pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexión de hombro asistido por pared",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante la flexión.",
+          "howToDo": "Póngase de pie frente a una pared con los dedos colocados a la altura del pecho. Avance los dedos hacia arriba en pequeños pasos alternativos para elevar el brazo a través del rango cómodo disponible. Sostenga brevemente, luego vuelva utilizando la misma secuencia controlada.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-004",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de hombro asistido por pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Protracción escapular Sentado",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control del movimiento del complejo del hombro durante la protracción escapular.",
+          "howToDo": "Sentarse erguido con ambos brazos extendidos hacia adelante a la altura de los hombros y las palmas mirando hacia el otro. Mantener los codos rectos, postrar las escápulas para que las manos se muevan un poco más hacia adelante. Sostenga durante 3 segundos, luego vuelva a la posición neutra.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-039",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Protracción escapular Sentado",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión cuádruple del hombro de un solo brazo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la flexión.",
+          "howToDo": "Asumir una posición cuádruple sobre una superficie acolchada. Mantenga las manos bajo los hombros y las rodillas bajo las caderas. Lentamente levante el brazo derecho hacia adelante, manteniéndolo recto, hasta que alcance la altura de su hombro. Sostenga durante 2 segundos, luego coloque la mano hacia abajo. Repita 5 veces, luego cambie los brazos.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-047",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión cuádruple del hombro de un solo brazo",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Empujón de cadena cerrada",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la adducción horizontal.",
+          "howToDo": "Coloque las manos en el suelo o en una superficie elevada. Mantenga el cuerpo largo, doble los codos para bajar el pecho, y luego empuje hacia atrás a la posición inicial.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-057",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Empujón de cadena cerrada",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Legumbres de abducción Horizontal Hombro de pie",
+          "image": "",
+          "description": "Este ejercicio dinámico de movilidad desarrolla una abducción horizontal glenohumeral de pequeño alcance con las extremidades superiores sostenidas a la altura de los hombros.",
+          "howToDo": "Póngase de pie con ambos hombros secuestrados a aproximadamente 90 grados y los codos cómodamente extendidos. Mueva ambos brazos superiores a una corta distancia posterior, a continuación, devolverlos al plano frontal en un pulso lento y repetido.",
+          "whatToDo": "Iniciar el movimiento en las articulaciones del hombro, mantener el tronco estacionario, y utilizar un pequeño rango simétrico.",
+          "whatNotToDo": "No empuje el pecho hacia adelante, extienda la columna lumbar, encoja de hombros de hombros o utilice un impulso rápido.",
+          "id": "upper-limb-058",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Legumbres de abducción Horizontal Hombro de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estiramiento pectoral de puerta",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en el abducción horizontal y la rotación externa.",
+          "howToDo": "Coloque el antebrazo o la mano en una puerta a la altura de los hombros.Pase un pie hacia adelante y gire suavemente el cuerpo hasta que el pecho se estira.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-061",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento pectoral de puerta",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Bíceps de pie y estiramiento del hombro anterior",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la extensión.",
+          "howToDo": "Párese alto y alcance un brazo ligeramente detrás del cuerpo con el codo recto. Gire la palma suavemente lejos o coloque la mano sobre un soporte detrás de usted.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-067",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Bíceps de pie y estiramiento del hombro anterior",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estiramiento pectoral y bíceps asistido por pared",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la extensión y la rotación externa.",
+          "howToDo": "Párate junto a una pared y coloca una mano o antebrazo detrás de ella. Lentamente aleja el cuerpo hasta que el pecho y la parte delantera del brazo se estiran.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-070",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento pectoral y bíceps asistido por pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de los bíceps apoyados por el piso sentado",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la extensión.",
+          "howToDo": "Siéntese en el suelo con las manos detrás de usted y los dedos apuntando hacia fuera o hacia fuera. Lentamente mueva las caderas hacia adelante hasta que la parte delantera de los brazos se estira.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-076",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de los bíceps apoyados por el piso sentado",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Protracción escapular de pie con el brazo extendido",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante la protracción escapular y la adducción horizontal.",
+          "howToDo": "Póngase de pie y extienda un brazo hacia adelante a la altura del hombro. Manteniendo el codo recto y el tronco estacionario, prosista la escápula para que la mano avance ligeramente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-083",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Protracción escapular de pie con el brazo extendido",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction",
+            "horizontal-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Adducción horizontal del hombro del poste de meta en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento del complejo del hombro durante la aducción horizontal, el abducción horizontal y la retracción escapular.",
+          "howToDo": "Túmbese en decúbito supino con las rodillas dobladas. Abra los brazos superiores hacia los lados y doble los codos para formar un poste de portería. Mantenga los codos doblados, lleve los antebrazos internos hacia el otro frente al pecho, y luego vuelva a abrir con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-108",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Adducción horizontal del hombro del poste de meta en decúbito supino",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Adducción horizontal del hombro de brazo recto de en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante la aducción horizontal y el abducción horizontal.",
+          "howToDo": "Túmbese en decúbito supino con las rodillas dobladas y abra ambos brazos rectos a los lados. Barre los brazos hacia arriba hasta que las palmas se encuentren o casi se encuentren por encima del pecho, apuntando hacia el techo, y luego bájelos hacia los lados.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-109",
+          "sezione": "Hombro - Región anterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Adducción horizontal del hombro de brazo recto de en decúbito supino",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-anterior-region"
+    },
+    {
+      "nome": "Hombro - Región lateral",
+      "esercizi": [
+        {
+          "nome": "Abducción de hombro sentado o de pie",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante el abducción.",
+          "howToDo": "Siéntese erguido o de pie con los brazos al lado del tronco y las palmas mirando medialmente. Eleve ambos brazos lateralmente a la altura del hombro, deténgase durante 3 segundos y luego bájelos lentamente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-005",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de hombro sentado o de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abducción de hombro isométrico contra la pared",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del complejo del hombro, con énfasis en el abducción.",
+          "howToDo": "Póngase de lado sobre una pared con el codo flexionado a 90 grados. Coloque el aspecto lateral del codo contra la pared y aplique una presión exterior suave sin permitir el movimiento de las articulaciones. Sostenga durante 5 segundos, luego repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-006",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de hombro isométrico contra la pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abducción y la adducción de hombro apoyados en la mesa",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante el abducción y la aducción.",
+          "howToDo": "Siéntese erguido delante de una mesa. Coloque las palmas de las manos sobre la mesa delante de usted, con los codos ligeramente doblados. Sin levantar las manos de la superficie, deslice ambas manos hacia fuera al mismo tiempo, abriéndolas lo más lejos posible. Luego, todavía deslizándose, llévelos de vuelta al centro. Repita este movimiento 5 veces.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-007",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción y la adducción de hombro apoyados en la mesa",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Abducción de hombro asistido por la pared",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante el abducción.",
+          "howToDo": "Párate de lado junto a una pared, con el lado derecho mirando hacia la pared. Coloca los dedos de la mano derecha en la pared a la altura de los hombros. Usando los dedos, haz que \"caminen\" por la pared, moviendo el brazo hacia el lado hasta donde puedas alcanzar cómodamente. Quédate allí durante 5 segundos, luego baja lentamente y repite con el lado izquierdo mirando hacia la pared.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-008",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de hombro asistido por la pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Triceps parciales compatibles",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la extensión.",
+          "howToDo": "Sostenga las manos sobre una superficie estable al lado o detrás del cuerpo. Doble ligeramente los codos para bajar una distancia corta y luego presione de nuevo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-059",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Triceps parciales compatibles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Retención parcial isométrica soportada",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del complejo del hombro, con énfasis en la extensión.",
+          "howToDo": "Sostenga las manos en una superficie estable y baje sólo una pequeña cantidad en una posición de inmersión. Mantenga la posición mientras respira, luego vuelva con control.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-063",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Retención parcial isométrica soportada",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Alcance de hombro cruzado activo de pie",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa desarrolla una aducción horizontal controlada del hombro sin ayuda de la extremidad superior opuesta.",
+          "howToDo": "Póngase de pie y eleve un brazo hacia adelante a la altura del hombro con el codo extendido o ligeramente flexionado. Mueva el brazo a través del pecho bajo control muscular, luego vuelva a la posición inicial sin ayuda del brazo opuesto.",
+          "whatToDo": "Mantenga el tronco mirando hacia adelante y realice las fases de salida y retorno a través del rango cómodo disponible a la misma velocidad controlada.",
+          "whatNotToDo": "No gire el tronco, tire del brazo con la mano opuesta, encoja de hombros o utilice el impulso.",
+          "id": "upper-limb-080",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Alcance de hombro cruzado activo de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circunducción de hombro de pequeño diámetro de pie",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del complejo del hombro, con énfasis en la circunducción y el abducción.",
+          "howToDo": "Párese alto y abra ambos brazos rectos a los lados a 90 grados. Dibuje pequeños círculos hacia adelante para varias repeticiones, luego dibuje el mismo número de círculos hacia atrás.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-101",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción de hombro de pequeño diámetro de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abducción de Hombros Permanentes y Pulsos de Adducción",
+          "image": "",
+          "description": "Este ejercicio tiene por objeto mejorar el control motor y la estabilidad del complejo del hombro durante el abducción y la aducción.",
+          "howToDo": "Párese alto con ambos brazos abiertos a los lados. Mueva los brazos suavemente hacia arriba y hacia abajo como alas, manteniendo el movimiento en el plano lateral y utilizando sólo un pequeño rango.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-102",
+          "sezione": "Hombro - Región lateral",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de Hombros Permanentes y Pulsos de Adducción",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-lateral-region"
+    },
+    {
+      "nome": "Hombro - Región posterior",
+      "esercizi": [
+        {
+          "nome": "Extensión de hombro sentado con codos flexibles",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento del complejo del hombro durante la extensión y la retracción escapular.",
+          "howToDo": "Siéntese erguido lejos del respaldo con los codos flexionados y elevados a la altura del pecho. Mueva ambos codos hacia atrás a través de un pequeño rango controlado. Mantenga durante 5 segundos, luego vuelva a la posición inicial.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-009",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de hombro sentado con codos flexibles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extensión isométrica del hombro contra el respaldo",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del complejo del hombro, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido con la espalda apoyada y ambos codos flexionados a 90 grados al lado del tronco. Presione los codos hacia atrás en el respaldo utilizando una fuerza submáxima constante. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-010",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica del hombro contra el respaldo",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extensión de hombro y rotación interna detrás de la espalda",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante la extensión y rotación interna.",
+          "howToDo": "Siéntese en posición vertical o de pie. Mueva ambas extremidades superiores detrás del tronco a nivel de la cintura y sostenga una muñeca con la mano opuesta cuando esté disponible. Alternativamente, coloque las superficies dorsales de las manos contra la región lumbar. Extienda suavemente y gire internamente los hombros, luego mantenga durante 5 segundos.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-011",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de hombro y rotación interna detrás de la espalda",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "internal-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Hombro Sentado abducción horizontal",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante el abducción horizontal y la extensión.",
+          "howToDo": "Sentarse erguido con ambos brazos extendidos hacia adelante a la altura de los hombros y las palmas mirando uno hacia el otro. Mueva los brazos horizontalmente hacia fuera y ligeramente hacia atrás a través del rango cómodo disponible. Sostenga durante 3 segundos, luego vuelva.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-012",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Hombro Sentado abducción horizontal",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotación Externa Bilateral de Hombro Sentado",
+          "image": "",
+          "description": "Este ejercicio activo bilateral desarrolla un control simétrico de la rotación externa del hombro con ambos codos mantenidos junto al tronco.",
+          "howToDo": "Sientate erguido en una silla. Dobla ambos codos a 90 grados y mantenlos cerca de tus lados. Mantén tus palmas mirando hacia arriba. Lentamente mueve tus manos hacia afuera, abriendo tus antebrazos hacia los lados mientras mantienes los codos unidos a tu cuerpo. Sostén durante 2 segundos, luego vuelve a la posición de inicio. Repite 5 veces.",
+          "whatToDo": "Mover ambos antebrazos simétricamente, mantener los codos ligeramente en contacto con el tronco, y mantener la alineación neutra de la muñeca.",
+          "whatNotToDo": "No separar los codos del tronco, retraer los hombros con fuerza, girar el torso o forzar el rango disponible.",
+          "id": "upper-limb-037",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación Externa Bilateral de Hombro Sentado",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Depresión Escapular Sentado y Retracción",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control del movimiento del complejo del hombro durante la depresión escapularia y la retracción escapularia.",
+          "howToDo": "Sentarse erguido con los brazos relajados al lado del tronco. Suavemente deprimir y retraer la escápula sin mover la cabeza o extender la columna lumbar. Sostenga durante 5 segundos, luego relajarse.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-040",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Depresión Escapular Sentado y Retracción",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-depression",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Hombro Isométrico abducción Horizontal con Toalla",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del complejo del hombro durante el abducción horizontal y la retracción escapular.",
+          "howToDo": "Siéntese en posición vertical o de pie y sostenga una toalla entre ambas manos a la altura del pecho con los codos ligeramente flexionados. Aplique tensión hacia el exterior sobre la toalla sin cambiar la posición del brazo. Sostenga durante 5 segundos y luego relájese.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-041",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Hombro Isométrico abducción Horizontal con Toalla",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Rotación externa del hombro de la mentira lateral",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante la rotación externa.",
+          "howToDo": "Recuéstese en un lado con el codo superior doblado a 90 grados y mantenido cerca del cuerpo. Gire la mano hacia el techo, luego baje lentamente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-055",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación externa del hombro de la mentira lateral",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pulsos de movilización de la flexibilidad de hombro soportados",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la flexión controlada del complejo del hombro.",
+          "howToDo": "Póngase de pie frente a un soporte estable y coloque las dos manos sobre él aproximadamente a la altura de los hombros. Paso atrás y bisagra en las caderas hasta que los brazos se extiendan. Mover el tórax suavemente hacia abajo a través de un pequeño rango, luego volver.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-062",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Pulsos de movilización de la flexibilidad de hombro soportados",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento interno de rotación de hombro asistido por bastón",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la rotación interna.",
+          "howToDo": "Sostenga un talón detrás del tronco con una mano arriba y la otra abajo. Utilice la mano superior para guiar gradualmente el brazo inferior hacia la rotación interna del hombro. Deténgase en un estiramiento suave y mantenga la posición.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-064",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento interno de rotación de hombro asistido por bastón",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento externo de rotación de hombro asistido por bastón",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la rotación externa.",
+          "howToDo": "Mantenga el codo cerca del lado y doblado a 90 grados. Utilice un palo para guiar suavemente el antebrazo hacia fuera, luego mantenga un estiramiento suave.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-065",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento externo de rotación de hombro asistido por bastón",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Soporte de pie Latissimus Dorsi estiramiento",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la flexión.",
+          "howToDo": "Sostenga un soporte estable con las manos y siente las caderas hacia atrás hasta que los lados de los hombros y la espalda se alarguen. Sostenga la respiración relajada.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-068",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Soporte de pie Latissimus Dorsi estiramiento",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estiramiento de rotación interna del hombro lateral de la mentira",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la rotación interna.",
+          "howToDo": "Acuéstate al lado con el hombro y el codo doblados hasta 90 grados. Usa la mano opuesta para guiar suavemente el antebrazo hacia el suelo.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-069",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de rotación interna del hombro lateral de la mentira",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento del hombro posterior del cuerpo cruzado de pie",
+          "image": "",
+          "description": "Este estiramiento erguido autoayudado utiliza la aducción horizontal del hombro para alargar los tejidos posteriores del hombro.",
+          "howToDo": "Póngase de pie y lleve un brazo a través del pecho a la altura del hombro. Coloque el antebrazo opuesto por encima del codo y acerque suavemente el brazo al tronco hasta que se perciba un leve estiramiento posterior del hombro. Sostenga, luego cambie de lado.",
+          "whatToDo": "Mantenga el hombro probado por debajo del nivel de la oreja, mantenga el tronco mirando hacia adelante, y use sólo asistencia suave desde el brazo opuesto.",
+          "whatNotToDo": "No girar el tronco, tirar directamente sobre la articulación del codo, elevar el hombro o forzar el estiramiento.",
+          "id": "upper-limb-071",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento del hombro posterior del cuerpo cruzado de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotación interna activa del hombro",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento del complejo del hombro durante la rotación interna.",
+          "howToDo": "Siéntese o párese alto con el codo doblado a 90 grados. Gire el antebrazo hacia adentro a través de un rango cómodo, haga una breve pausa y luego regrese.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-072",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación interna activa del hombro",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotación externa isométrica del hombro contra la pared",
+          "image": "",
+          "description": "Este ejercicio isométrico activa los rotadores externos del hombro sin producir un movimiento glenohumeral visible.",
+          "howToDo": "Póngase de lado sobre una pared con el codo de trabajo flexionado hasta 90 grados y sostenido junto al tronco. Coloque la parte posterior de la mano contra la pared y presione hacia fuera con una fuerza submáxima constante sin permitir que el brazo se mueva. Sostenga durante 5 segundos, relájese y repita en el lado opuesto.",
+          "whatToDo": "Mantenga el codo fijo junto al tronco, la muñeca neutra y el hombro relajado mientras mantiene la respiración normal.",
+          "whatNotToDo": "No girar el tronco, secuestrar el codo, extender la muñeca, contener la respiración, o aplicar la fuerza máxima.",
+          "id": "upper-limb-073",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación externa isométrica del hombro contra la pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Retracción Escapular Aislada De pie",
+          "image": "",
+          "description": "Este ejercicio de control selectivo enfatiza la retracción escapulotorácica y minimiza el movimiento en las articulaciones glenohumeral.",
+          "howToDo": "Póngase de pie con los brazos relajados al lado del tronco y los codos suavemente flexionados. Sin mover la parte superior de los brazos hacia atrás, dibuje ambos escápulas suavemente hacia la columna vertebral, haga una pausa breve, luego líbralos para que sean neutros.",
+          "whatToDo": "Mantenga el cuello relajado, las costillas alineadas sobre la pelvis y la parte superior de los brazos estacionarios mientras el escápula se mueve simétricamente.",
+          "whatNotToDo": "No se encojan de hombros, extiendan los brazos detrás del tronco, arqueen la parte inferior de la espalda, o aprieten la escápula con fuerza.",
+          "id": "upper-limb-074",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Retracción Escapular Aislada De pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-retraction",
+            "selective-control"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de triceps asistidos por la pared",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado al complejo del hombro, con énfasis en la flexión.",
+          "howToDo": "Coloca un codo alto en una pared con la mano hacia abajo detrás de la cabeza o parte superior de la espalda. Mueve el pecho suavemente más cerca de la pared.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-075",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de triceps asistidos por la pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento Latissimus Dorsi sostenido con soporte de pared",
+          "image": "",
+          "description": "Este estiramiento sostenido combina la flexión del hombro y una bisagra de cadera para alargar el latissimus dorsi y los tejidos del tronco posterolateral adyacentes.",
+          "howToDo": "Coloque ambas manos en alto sobre una pared, dé un paso hacia atrás y bisagra las caderas hacia atrás mientras mantiene los brazos extendidos. Baje gradualmente el pecho entre los brazos hasta que se sienta un leve estiramiento a lo largo de los hombros posterolaterales y el tronco. Sostenga durante 20 segundos mientras respira normalmente.",
+          "whatToDo": "Mantenga un control abdominal suave, mantenga las costillas alineadas y distribuya el estiramiento uniformemente entre ambos lados.",
+          "whatNotToDo": "No forzar el pecho hacia abajo, reabrir las costillas, hiperextender la columna lumbar, o continuar si los síntomas irradian a un miembro superior.",
+          "id": "upper-limb-078",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento Latissimus Dorsi sostenido con soporte de pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stretch"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento del hombro del cuerpo cruzado con escápulas supinas",
+          "image": "",
+          "description": "Este estiramiento autoasistido en decúbito supino utiliza la superficie de soporte para limitar la protracción escapular y enfocar la aducción horizontal en la articulación glenohumeral.",
+          "howToDo": "Recuéstese en decúbito supino con un hombro flexionado a 90 grados y el codo cómodamente doblado. Mantenga la escápula en contacto con la superficie de soporte y utilice la mano opuesta sobre el codo para guiar el brazo a través del pecho hasta que se perciba un leve estiramiento posterior del hombro.",
+          "whatToDo": "Mantenga la escápula contra la superficie, mantenga el hombro relajado y aplique asistencia suave a través de la parte superior del brazo.",
+          "whatNotToDo": "No levante la escápula de la superficie, presione directamente sobre la articulación del codo, presione el brazo a través del pecho o provoque dolor en el hombro anterior.",
+          "id": "upper-limb-079",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento del hombro del cuerpo cruzado con escápulas supinas",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión de hombro de brazo recto de pie",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante la extensión.",
+          "howToDo": "Párate alto con un brazo derecho al lado del cuerpo, el hombro bajo y el pecho cómodamente abierto. Mueve el brazo recto hacia atrás a través de un pequeño rango controlado, pausa y luego regresa al lado del cuerpo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-085",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de hombro de brazo recto de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotación externa de un solo brazo de pie",
+          "image": "",
+          "description": "Este ejercicio unilateral de pie desarrolla el control activo de la rotación externa del hombro mientras que la extremidad superior opuesta permanece relajada.",
+          "howToDo": "Párese alto con un codo doblado a 90 grados y mantenido cerca del lado. Comience con el antebrazo apuntando hacia adelante, luego gire la mano hacia fuera y ligeramente hacia atrás mientras el codo permanece fijo.",
+          "whatToDo": "Mantenga el codo de trabajo fijo junto al tronco, mantenga una muñeca neutra y complete las fases de salida y retorno a la misma velocidad controlada.",
+          "whatNotToDo": "No girar el torso, separar el codo del tronco, extender la muñeca o utilizar el impulso para aumentar el rango.",
+          "id": "upper-limb-086",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación externa de un solo brazo de pie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotación interna de pared en posición de portería",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la rotación interna.",
+          "howToDo": "Párese con la espalda contra una pared y coloque los brazos en una posición de portero. Mantenga cada codo en contacto con la pared. Gire los antebrazos hacia abajo para que las palmas se muevan hacia el suelo, luego regrese lentamente a la posición de portero vertical.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-106",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación interna de pared en posición de portería",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotación Interna en decúbito supino en posición de portería",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del complejo del hombro durante la rotación interna.",
+          "howToDo": "Recuéstese en decúbito supino con los brazos superiores abiertos a los lados y los codos doblados a 90 grados. Mantenga los codos en el mismo lugar y gire los antebrazos para que las palmas se muevan hacia el suelo cerca de las caderas. Volver lentamente a la posición de partida.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-111",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación Interna en decúbito supino en posición de portería",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotación externa con apoyo de codo de en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del complejo del hombro durante la rotación externa.",
+          "howToDo": "Recuéstese en decúbito supino con un codo cerca del lado y doblado a 90 grados, por lo que los nudillos apuntan hacia el techo. Mantenga el codo fijo y gire el antebrazo hacia fuera, trayendo la parte posterior de la mano hacia el suelo junto a usted. Regrese lentamente y repita en el otro lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-112",
+          "sezione": "Hombro - Región posterior",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Rotación externa con apoyo de codo de en decúbito supino",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-posterior-region"
+    },
+    {
+      "nome": "Arm - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Flexión alterna de codo a hombro opuesto",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la flexión.",
+          "howToDo": "Siéntese erguido en una silla. Mantenga los brazos relajados a los lados. Lentamente levante la mano derecha y llévelo a descansar en el hombro izquierdo, doblando el codo delante del pecho. Manténgase quieto durante 3 segundos, luego baje lentamente el brazo hacia abajo. Repita el mismo movimiento con la mano izquierda en el hombro derecho.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-013",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión alterna de codo a hombro opuesto",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión de Codo Sentado desde el Soporte de mesa",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la flexión.",
+          "howToDo": "Siéntese erguido en una mesa con ambos antebrazos apoyados y las palmas mirando hacia arriba. Flexione los codos para levantar las manos hacia el pecho mientras mantiene el contacto del antebrazo con la mesa. Sostenga durante 3 segundos, luego baje las manos.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-014",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de Codo Sentado desde el Soporte de mesa",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexión isométrica del codo con resistencia al cojín",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del codo, con énfasis en la flexión.",
+          "howToDo": "Siéntese erguido en la silla. Tome un pequeño y suave cojín y sostengalo delante de su pecho, apretándolo entre las palmas de las manos. Dobla los brazos hacia adelante y presione el cojín contra el pecho, apretando los músculos en la parte delantera de sus brazos. Sostenga la presión durante 5 segundos, luego relaje su agarre.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-015",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión isométrica del codo con resistencia al cojín",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión isométrica del codo a 90 grados",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del codo, con énfasis en la flexión.",
+          "howToDo": "Sentaos en posición vertical o de pie. Flexiona un codo hasta 90 grados, mantenlo adyacente al tronco y coloca el antebrazo en supinación. Mantened la posición con una contracción isométrica submáxima durante 5 segundos, luego repetid en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-016",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión isométrica del codo a 90 grados",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexión del codo para adelantar la extensión",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la flexión y la extensión.",
+          "howToDo": "Párese alto con ambos brazos rectos a sus lados. Lleve cada mano al hombro del mismo lado, luego extienda ambos brazos hacia adelante a la altura de los hombros. Doble los codos para devolver las manos a los hombros, luego baje los brazos.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-098",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión del codo para adelantar la extensión",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión del codo a la extensión superior",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la flexión y la extensión.",
+          "howToDo": "Párese alto con los brazos a sus lados. Lleve cada mano al hombro del mismo lado, luego extienda ambos brazos por encima. Doble los codos para devolver las manos a los hombros, luego baje los brazos a los lados.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-099",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión del codo a la extensión superior",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "arm-anterior-region"
+    },
+    {
+      "nome": "Arm - Posterior Region",
+      "esercizi": [
+        {
+          "nome": "Extensión isométrica del codo en la mesa",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del codo, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido en una mesa con las palmas apoyadas y los codos flexionados cerca del tronco. Presione ambas palmas hacia abajo en la mesa sin levantar la pelvis. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-017",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica del codo en la mesa",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión delantera del codo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la extensión.",
+          "howToDo": "Siéntese en posición vertical o de pie. Comience con un codo flexionado y la mano cerca del hombro ipsilateral. Extienda el codo para mover la mano hacia adelante a la altura del hombro. Sostenga durante 2 segundos, vuelva lentamente y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-018",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión delantera del codo",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión isométrica del hombro contra la pared",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del complejo del hombro, con énfasis en la extensión.",
+          "howToDo": "Póngase de pie con la espalda apoyada contra una pared y ambos brazos junto al tronco. Presione el aspecto posterior de los brazos hacia la pared utilizando una fuerza submáxima constante. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-019",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica del hombro contra la pared",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión del codo superior con cojín",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la extensión.",
+          "howToDo": "Siéntese erguido en una silla con respaldo. Sostenga un cojín ligero con ambas manos. Lleve las manos por encima de la cabeza, doblando los codos hacia atrás, para que el cojín toque ligeramente la parte posterior de su cuello. Desde esta posición, empuje los brazos hacia arriba hasta que estén completamente extendidos hacia el techo. Sostenga durante 2 segundos en el punto más alto, luego doble lentamente los codos de nuevo detrás de la cabeza.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-020",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión del codo superior con cojín",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extensión de codo de en decúbito supino en abducción de hombro",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad del codo durante la extensión y flexión.",
+          "howToDo": "Lie en decúbito supino con los brazos superiores abiertos a los lados y los codos doblados a 90 grados en forma de portero. Mantenga los brazos superiores quietos y enderece los codos hasta que los brazos formen una T, luego doble los codos para volver.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-110",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de codo de en decúbito supino en abducción de hombro",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "arm-posterior-region"
+    },
+    {
+      "nome": "Codo",
+      "esercizi": [
+        {
+          "nome": "Pronación y Supinación del antebrazo sentado",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de las articulaciones del antebrazo y radioulnar durante la pronación y supinación.",
+          "howToDo": "Sentaos erguidos con ambos codos flexionados a 90 grados y mantenidos adyacentes al tronco. Girad los antebrazos en pronación hasta que las palmas se pongan boca abajo, luego en supinación hasta que las palmas se pongan boca arriba. Alternad lentamente para 10 repeticiones.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-021",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Pronación y Supinación del antebrazo sentado",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extensión isométrica del codo con resistencia manual",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del codo, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido con un codo flexionado a 90 grados. Coloque la palma opuesta debajo del codo. Presione el codo hacia abajo mientras la mano de apoyo proporciona igual resistencia hacia arriba para que no se produzca ningún movimiento. Sostenga durante 5 segundos y luego cambie de lado.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-022",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica del codo con resistencia manual",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Extensión de codo sentado con la apertura de la mano",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la extensión.",
+          "howToDo": "Siéntese erguido con los codos flexionados y las manos cerradas flojamente cerca de la región axilar. Extienda ambos codos hacia el suelo. Abra las manos al final de la gama, sostenga durante 2 segundos y luego vuelva lentamente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-023",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de codo sentado con la apertura de la mano",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extensión alterna de codo isométrico en la mesa",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del codo, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido en una mesa con las dos palmas apoyadas y los codos flexionados. Presione una mano hacia abajo mientras extiende el codo ligeramente y mantiene relajado el brazo opuesto. Volver a los lados neutros y alternados para 5 repeticiones.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-024",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión alterna de codo isométrico en la mesa",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extensión isométrica del codo sentado en la mesa",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del codo, con énfasis en la estabilización estática.",
+          "howToDo": "Siéntate erguido delante de una mesa. Dobla el codo derecho y coloca el lado exterior del antebrazo sobre la mesa. Presiona suavemente el codo y el antebrazo hacia abajo contra la mesa sin mover el brazo. Sostén la presión durante 5 segundos y luego relájate. Repite con el brazo izquierdo.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-042",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica del codo sentado en la mesa",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexión y extensión activa del codo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la flexión y la extensión.",
+          "howToDo": "Mantenga el brazo relajado por el lado. Dobla el codo para llevar la mano hacia el hombro, luego regresar lentamente a la posición de partida a través de un rango cómodo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-052",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión y extensión activa del codo",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexión del codo a la extensión hacia abajo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del codo durante la flexión y la extensión.",
+          "howToDo": "Póngase de pie con ambos brazos al lado del tronco. Flexione los codos para llevar cada mano hacia el hombro ipsilateral, luego extender los codos completamente hacia el suelo. Volver a la posición de inicio y repetir.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-097",
+          "sezione": "Codo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión del codo a la extensión hacia abajo",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "elbow"
+    },
+    {
+      "nome": "Antebrazo",
+      "esercizi": [
+        {
+          "nome": "Toallita para la rotación del antebrazo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de las articulaciones del antebrazo y radioulnar durante la pronación y supinación.",
+          "howToDo": "Siéntese erguido y sostenga una toalla enrollada con ambas manos delante del tronco. Gire un antebrazo en pronación y el otro en supinación para tensar la toalla. Sostenga durante 4 segundos, luego revierta las direcciones.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-025",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Toallita para la rotación del antebrazo",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexión y extensión activa de los dedos",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante la flexión y extensión del dedo.",
+          "howToDo": "Sentarse erguido con ambos codos flexionados y las manos colocadas delante del tronco. Extender y secuestrar todos los dedos, luego flexionar los dedos para formar un puño relajado. Alternar las dos posiciones lentamente para 10 repeticiones.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-026",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión y extensión activa de los dedos",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión y extensión de muñecas soportadas",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la flexión y extensión.",
+          "howToDo": "Siéntese en una mesa. Descanse el antebrazo derecho sobre la mesa, dejando la mano sobre el borde, con la palma hacia el suelo. Levante la mano hacia arriba, apuntando los dedos hacia el techo, sin levantar el brazo de la mesa. Mantenga la posición durante 2 segundos, luego deje caer la mano hacia abajo. Repita 5 veces, luego cambie los brazos.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-027",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión y extensión de muñecas soportadas",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Circuncisión bilateral del antebrazo",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de las articulaciones del antebrazo y radioulnar durante la pronación, supinación y circunducción.",
+          "howToDo": "Siéntese erguido con las dos manos cerradas libremente delante del pecho. Mueva los antebrazos y las muñecas a través de círculos coordinados alternando durante 5 segundos, a continuación, invertir la dirección.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-028",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circuncisión bilateral del antebrazo",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "circumduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Pronación del antebrazo y la succión con resistencia a la luz",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de las articulaciones del antebrazo y radioulnar durante la pronación y supinación.",
+          "howToDo": "Siéntese erguido en una silla. Sostenga un objeto ligero, como un pequeño frasco vacío, en su mano derecha. Mantenga el codo doblado a 90 grados y cerca de su lado. Lentamente gire la palma hacia arriba, luego lentamente gire hacia abajo. Repita 5 veces, luego cambie las manos.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-043",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Pronación del antebrazo y la succión con resistencia a la luz",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pronación activa del antebrazo y la succión",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de las articulaciones del antebrazo y radioulnar durante la pronación y supinación.",
+          "howToDo": "Mantenga el codo cerca del cuerpo y el antebrazo apoyado. Comience con el pulgar apuntando hacia arriba, gire la palma hacia arriba, vuelva al centro y luego gire la palma hacia abajo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-053",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Pronación activa del antebrazo y la succión",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Pronación y la supinación del antebrazo estabilizada manualmente",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de las articulaciones del antebrazo y radioulnar durante la pronación y supinación.",
+          "howToDo": "Siéntese o póngase de pie con el codo izquierdo doblado. Coloque la palma derecha ligeramente contra la parte exterior del codo izquierdo para mantenerla estable. Gire el antebrazo izquierdo en pronación, trayendo la palma hacia abajo, luego en supinación mientras el antebrazo alcanza suavemente hacia adelante. Repita en el otro lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-087",
+          "sezione": "Antebrazo",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Pronación y la supinación del antebrazo estabilizada manualmente",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "forearm"
+    },
+    {
+      "nome": "Muñeca",
+      "esercizi": [
+        {
+          "nome": "Estiramiento de extensión de muñeca asistida",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la muñeca, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido y extienda un brazo hacia adelante con el codo recto, la palma hacia delante y los dedos dirigidos hacia arriba. Utilice la mano opuesta para aplicar una presión suave sobre los dedos hasta que se sienta un estiramiento suave a lo largo de la muñeca volar. Sostenga durante 5 segundos, luego cambie de lado.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-029",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de extensión de muñeca asistida",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexión de Muñeca Asistida Estiramiento",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la muñeca, con énfasis en la flexión.",
+          "howToDo": "Esta vez, junta las manos delante del pecho, colocando la parte posterior de la mano derecha contra la parte posterior de la mano izquierda, con los dedos apuntando hacia abajo. Presiona suavemente las manos unas contra otras durante 5 segundos, sintiendo un estiramiento alrededor del área de la muñeca.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-030",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de Muñeca Asistida Estiramiento",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Desviación Radial Activa y Ulnar",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la desviación radial y desviación ulnar.",
+          "howToDo": "Siéntese en una mesa con un antebrazo apoyado y la palma hacia abajo. Manteniendo el antebrazo estacionario, mueva la mano hacia el lado radial y luego hacia el lado ulnar. Repita lentamente, luego cambie de lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-031",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Desviación Radial Activa y Ulnar",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circunducción Activa de Muñecas",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la circunducción.",
+          "howToDo": "Siéntese erguido con ambos codos flexionados y sostenidos junto al tronco. Forme puños relajados y mueva ambas muñecas a través de circunducción controlada en el sentido de las agujas del reloj para 5 repeticiones, luego repita en sentido contrario a las agujas del reloj.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-032",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción Activa de Muñecas",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "circumduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento muscular de la muñeca Extensor",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la muñeca, con énfasis en la flexión.",
+          "howToDo": "Extiende un brazo hacia adelante con la palma hacia abajo. Dobla la muñeca para que los dedos apunten hacia el suelo, luego guía suavemente la mano con la otra mano hasta que se sienta un estiramiento suave en la parte superior del antebrazo. Sostenga durante unos 15 segundos.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-048",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento muscular de la muñeca Extensor",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Estiramiento muscular de flexor de muñeca",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la muñeca, con énfasis en la extensión.",
+          "howToDo": "Extienda un brazo hacia adelante con la palma hacia abajo. Deje que la mano se mueva hacia el suelo, luego utilice la otra mano para guiar suavemente la muñeca hacia la extensión hasta que el lado opuesto del antebrazo se estira. Sostenga durante unos 15 segundos.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-049",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento muscular de flexor de muñeca",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extensión isométrica de la muñeca",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la muñeca, con énfasis en la extensión.",
+          "howToDo": "Siéntese con el antebrazo apoyado en una mesa y la muñeca más allá del borde. Haga un puño ligero, ponga la mano en línea con el antebrazo, sostenga durante unos segundos y luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-050",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica de la muñeca",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extensión de muñeca resistida",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la extensión.",
+          "howToDo": "Sostenga un antebrazo en una mesa con la muñeca más allá del borde y la palma hacia abajo. Extienda la muñeca con la ayuda de la mano opuesta, luego retire la ayuda y baje la mano lentamente. Añada sólo mínima resistencia externa cuando el movimiento está bien controlado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-051",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de muñeca resistida",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexión pronada de la muñeca",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la flexión y pronación.",
+          "howToDo": "Siéntese con el antebrazo apoyado y la palma hacia abajo, lo que permite que la mano se extienda más allá del borde de la mesa. Dobla la muñeca para que los dedos viajen hacia abajo, luego volver a la posición neutra con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-088",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión pronada de la muñeca",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extensión pronada de la muñeca",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la extensión y pronación.",
+          "howToDo": "Siéntese con el antebrazo apoyado y la palma hacia abajo, permitiendo que la mano se extienda más allá del borde de la mesa. Levante la parte posterior de la mano hacia arriba, luego vuelva a la posición neutra con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-089",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión pronada de la muñeca",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexión de la muñeca supinada",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento de la muñeca durante la flexión y la supinación.",
+          "howToDo": "Siéntese con el antebrazo apoyado y la palma hacia arriba, permitiendo que la mano se extienda más allá del borde de la mesa. Curve la palma hacia el antebrazo, luego vuelva lentamente a la posición neutra.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-090",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de la muñeca supinada",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extensión de muñeca supinada",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento de la muñeca durante la extensión y la supinación.",
+          "howToDo": "Siéntese con el antebrazo apoyado y la palma hacia arriba, permitiendo que la mano se extienda más allá del borde de la mesa. Baje la parte posterior de la mano suavemente hacia el suelo, luego vuelva a la posición neutra con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-091",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de muñeca supinada",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Desviación Radial Activa y Ulnar con antebrazo la posición neutra",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la muñeca durante la desviación radial y desviación ulnar.",
+          "howToDo": "Sostenga el antebrazo delante de usted con el pulgar apuntando hacia arriba. Mantenga la muñeca la posición neutra y los dedos rectos y juntos. Mueva la mano para que el lado del dedo pequeño baje, luego revierta el movimiento para que el lado del pulgar se levante.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-092",
+          "sezione": "Muñeca",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Desviación Radial Activa y Ulnar con antebrazo la posición neutra",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "wrist"
+    },
+    {
+      "nome": "Hand",
+      "esercizi": [
+        {
+          "nome": "Oposición de Pulgar a Finger",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante la oposición.",
+          "howToDo": "Siéntese cómodamente con las manos apoyadas en los muslos. Levante la mano derecha con la palma abierta. Lleve el pulgar para tocar la punta del dedo índice, luego la punta del dedo medio, el dedo anular y finalmente el dedo meñique. Una vez que alcance el dedo meñique, vuelva en la dirección opuesta. Repita 3 veces con cada mano.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-033",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Oposición de Pulgar a Finger",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión de los dedos de mesa y la caminata de extensión",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante la flexión y extensión del dedo.",
+          "howToDo": "Siéntese erguido en una mesa. Coloque los dedos de una mano sobre la superficie con la palma elevada. Secuencialmente flexione y extienda los dedos para avanzar la mano hacia adelante, luego invierta la secuencia para volver. Repita con la mano opuesta.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-034",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de los dedos de mesa y la caminata de extensión",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abducción de Dedos Resistente con Banda Elástica",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante el abducción de dedos.",
+          "howToDo": "Siéntese erguido con los pies apoyados. Lleve los dedos de la mano derecha juntos. Coloque una banda elástica regular de la cocina alrededor de los dedos unidos, justo debajo de las uñas. Desde esta posición, extienda los dedos hacia fuera, empujando contra la resistencia de la banda elástica. Mantenga la posición abierta durante 3 segundos, luego cierre lentamente los dedos de nuevo. Repita 5 veces en cada lado.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-035",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de Dedos Resistente con Banda Elástica",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Retorcedor de papel para el agarre de mano",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante la flexión de los dedos.",
+          "howToDo": "Siéntese en una mesa. Coloque una hoja vieja de periódico o una hoja de papel de cocina plana sobre la mesa delante de usted. Coloque su mano derecha abierta sobre ella. Utilizando sólo los dedos de esa mano, empiece a tirar del papel hacia el centro de la palma de la mano hasta que la hoja se convierta en una bola apretada. repita con la mano izquierda.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-036",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Retorcedor de papel para el agarre de mano",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión de dedo aislado en la mesa",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento de la mano y los dedos durante la extensión del dedo.",
+          "howToDo": "Siéntese en una mesa y coloque su mano derecha plana en la superficie, con la palma y los dedos descansando. Mantenga la palma quieta, levante lentamente sólo el dedo índice, luego bájelo. Continúe con el dedo medio, el dedo anular y el dedo meñique. Repita 3 veces, luego cambie de manos.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-044",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de dedo aislado en la mesa",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abducción activo de dedos y adducción en la mesa",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante el abducción de dedos y la adducción de los dedos.",
+          "howToDo": "Siéntese en una mesa y coloque su mano derecha plana en la superficie. Mantener la palma de la mano hacia abajo, lentamente separar los dedos tanto como sea posible, luego lentamente traerlos de nuevo juntos. Repetir 5 veces, luego cambiar de manos.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-045",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Abducción activo de dedos y adducción en la mesa",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction",
+            "finger-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Oposición de pulgares a través de la palma",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la mano y los dedos durante la oposición y la adducción del pulgar.",
+          "howToDo": "Siéntese cómodamente con las manos apoyadas en los muslos. Abra la mano derecha con la palma hacia arriba. Deslice lentamente el pulgar a través de la palma hacia la base del dedo meñique, luego vuelva a la posición de la mano abierta. Repita 5 veces, luego cambie las manos.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "upper-limb-046",
+          "sezione": "Hand",
+          "distretto": "Miembro superior",
+          "thumbnail": "",
+          "imageAlt": "Oposición de pulgares a través de la palma",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition",
+            "thumb-adduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "hand"
+    }
+  ],
+  "id": "upper-limb"
+}

@@ -1,0 +1,1455 @@
+{
+  "distretto": "Tronco",
+  "sezioni": [
+    {
+      "nome": "Chest",
+      "esercizi": [
+        {
+          "nome": "Da seduto Bilateral Forward Press",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della gabbia toracica e della regione pettorale durante l'adduzione orizzontale.",
+          "howToDo": "Iniziare con entrambi i gomiti fletteti e i pugni posizionati accanto al petto. Estendere entrambe le braccia in avanti all'altezza del petto, sostare brevemente, poi flettere i gomiti per tornare.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-001",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Da seduto Bilateral Forward Press",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Spalla In posizione seduta abduzione orizzontale con espansione toracico",
+          "image": "",
+          "description": "Questo esercizio respiratorio è destinato a migliorare la meccanica respiratoria controllata della gabbia toracica e della regione pettorale, con particolare attenzione al abduzione orizzontale.",
+          "howToDo": "Siediti in piedi o in piedi. Estendi le braccia in avanti davanti a te, con i palmi rivolti l'uno verso l'altro. Mentre respiri profondamente attraverso il naso, apri le braccia verso i lati il più lontano possibile, portandole leggermente all'indietro in modo da sentire il tuo petto aprirsi. Tenere l'aria per 2 secondi, poi espirare come si portano le mani in avanti di nuovo.",
+          "whatToDo": "Mantenere rilassati il tratto cervicale e le spalle. Respirare lentamente senza forzare e completare l'espirazione in modo graduale.",
+          "whatNotToDo": "Non forzare l'inspirazione o l'espirazione, non iperventilare e non trattenere il respiro. Interrompere l'esercizio in caso di vertigini o affanno insolito.",
+          "id": "trunk-002",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Spalla In posizione seduta abduzione orizzontale con espansione toracico",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-abduction",
+            "breathing"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wall Push-Up",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della gabbia toracica e della regione pettorale durante l'adduzione orizzontale.",
+          "howToDo": "Mettere i palmi delle mani sulla parete all'altezza del petto, tenendo le braccia dritte. Lentamente piegare i gomiti verso i lati per portare il viso e il petto più vicino alla parete, mantenendo il corpo dritto. Poi spingere attraverso le mani per tornare alla posizione di partenza con le braccia dritte.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-003",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Wall Push-Up",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Spalla In posizione seduta adduzione orizzontale",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della gabbia toracica e della regione pettorale durante l'adduzione orizzontale.",
+          "howToDo": "Siediti in posizione verticale con entrambe le braccia estese lateralmente all'altezza della spalla. Muovi le braccia in avanti in adduzione orizzontale fino a quando i polsi si incrociano davanti allo sterno. Torna lentamente alla posizione di partenza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-004",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Spalla In posizione seduta adduzione orizzontale",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione seduta laterale respiro costile",
+          "image": "",
+          "description": "Questo esercizio respiratorio è destinato a migliorare la meccanica respiratoria controllata della gabbia toracica e della regione pettorale, con particolare attenzione all'espansione laterale costile.",
+          "howToDo": "Sedersi in posizione verticale e posizionare entrambe le mani sulle costole laterali inferiori. Inspirare lentamente attraverso il naso, dirigendo l'espansione nelle mani. Espirare gradualmente e permettere alla gabbia toracica di tornare alla sua posizione di riposo. Ripetere per 5 cicli respiratori.",
+          "whatToDo": "Mantenere rilassati il tratto cervicale e le spalle. Respirare lentamente senza forzare e completare l'espirazione in modo graduale.",
+          "whatNotToDo": "Non forzare l'inspirazione o l'espirazione, non iperventilare e non trattenere il respiro. Interrompere l'esercizio in caso di vertigini o affanno insolito.",
+          "id": "trunk-024",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta laterale respiro costile",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione seduta isometrica Pettorale Pressa con Cuscino",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della gabbia toracica e della regione pettorale, con enfasi sulla adduzione orizzontale.",
+          "howToDo": "Siediti in posizione verticale su una sedia. Mantenere un morbido cuscino davanti al petto tra gli avambracci, tenendo i gomiti piegati. Premere delicatamente gli avambracci verso l'interno per stringere il cuscino. Mantenere la pressione per 5 secondi, poi rilassati.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-025",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta isometrica Pettorale Pressa con Cuscino",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina Auto-Abbraccio Espansione Toracica Respirazione",
+          "image": "",
+          "description": "Questo esercizio respiratorio è destinato a migliorare la meccanica respiratoria controllata della gabbia toracica e della regione pettorale, con particolare attenzione all'espansione della costola toracica.",
+          "howToDo": "Sdraiarsi in posizione supina e avvolgi le braccia sul petto in un confortevole abbraccio. Inspira lentamente e profondamente, dirigendo l'alito verso la parte superiore del petto e i lati della gabbia toracica in modo che le costole si espandano delicatamente contro le braccia. Espirare e rilassarsi.",
+          "whatToDo": "Mantenere rilassati il tratto cervicale e le spalle. Respirare lentamente senza forzare e completare l'espirazione in modo graduale.",
+          "whatNotToDo": "Non forzare l'inspirazione o l'espirazione, non iperventilare e non trattenere il respiro. Interrompere l'esercizio in caso di vertigini o affanno insolito.",
+          "id": "trunk-063",
+          "sezione": "Chest",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Auto-Abbraccio Espansione Toracica Respirazione",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion",
+            "stretch"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "chest"
+    },
+    {
+      "nome": "Addome",
+      "esercizi": [
+        {
+          "nome": "Drawing-In Addominale Seduto",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità della parete addominale e della regione lombo-pelvica durante la stabilizzazione controllata.",
+          "howToDo": "Siediti in posizione verticale lontano dallo schienale con entrambi i piedi sostenuti. Espirare lentamente mentre si disegna la parete addominale inferiore verso l'interno senza muovere la colonna vertebrale o il bacino. Mantenere la contrazione per 4 secondi mentre si continua a respirare, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-005",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Drawing-In Addominale Seduto",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione seduta Alternante anca flessione con Stabilizzazione tronco",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità della parete addominale e della regione lombo-pelvica durante la stabilizzazione controllata.",
+          "howToDo": "Siediti in posizione verticale vicino alla parte anteriore di una sedia con entrambi i piedi sostenuti. Attiva la parete addominale, poi solleva un ginocchio di pochi centimetri senza cambiare tronco o allineamento pelvico. Abbassa i lati lentamente e alternati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-006",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta Alternante anca flessione con Stabilizzazione tronco",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Da seduto tronco Lateral flessione",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della parete addominale e della regione lombo-pelvica durante la flessione laterale.",
+          "howToDo": "Seduto in posizione verticale su una sedia stabile con i piedi posizionati a parte. Scivolare una mano verso il pavimento mentre lateralmente flettendo il tronco. Ritornare a posizione neutra utilizzando l'attivazione addominale controllata, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-007",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Da seduto tronco Lateral flessione",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione seduta isometrica Bracing addominale con Resistenza manuale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della parete addominale e regione lumbopelvic, con enfasi sulla stabilizzazione statica.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti e posiziona i palmi sopra le cosce distali. Durante un'espirazione lenta, effettuare una pressione verso il basso attraverso le mani attivando la parete addominale senza cambiare la posizione del tronco. Tenere premuto per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-008",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta isometrica Bracing addominale con Resistenza manuale",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stampa isometrica del tallone In posizione seduta per la stabilizzazione del tronco",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della parete addominale e regione lumbopelvic, con enfasi sulla stabilizzazione statica.",
+          "howToDo": "Siediti in posizione verticale sulla metà anteriore di una sedia con i piedi poggiati sul pavimento. Metti le mani sulle cosce. Premere delicatamente entrambi i tacchi verso il basso nel pavimento, mentre leggermente stringendo i muscoli addominali. Tenere premuto per 5 secondi, poi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-026",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Stampa isometrica del tallone In posizione seduta per la stabilizzazione del tronco",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Stampa anti-rotazione a mano a ginocchio Contralaterale Seduto",
+          "image": "",
+          "description": "Questo esercizio isometrico contrlaterale sfida il controllo addominale e lombo-pelvico richiedendo al tronco di resistere alla rotazione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti. Sollevare leggermente il ginocchio destro e posizionare il palmo sinistro sulla coscia anteriore distale. Premere la coscia verso l'alto e la mano verso il basso con uguale forza submassima, prevenendo il movimento del tronco e del bacino. Tenere premuto per 5 secondi, quindi ripetere con la mano e il ginocchio opposti.",
+          "whatToDo": "Mantenere una colonna vertebrale neutra, mantenere entrambe le spalle livello, e resistere a qualsiasi tendenza per il tronco o bacino di ruotare durante la respirazione normalmente.",
+          "whatNotToDo": "Non piegare all'indietro, ruotare il tronco, elevare la spalla, trattenere il respiro, o utilizzare la massima forza.",
+          "id": "trunk-027",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Stampa anti-rotazione a mano a ginocchio Contralaterale Seduto",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "anti-rotation",
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione supina Tacco Alternativo Tap",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità della parete addominale e della regione lombo-pelvica durante la stabilizzazione controllata.",
+          "howToDo": "Sdraiati supino su un tappetino con le ginocchia piegate e i piedi appoggiati sul pavimento. Stringi leggermente i muscoli addominali. Solleva il piede destro a pochi centimetri dal pavimento e picchietta delicatamente il tallone in avanti, quindi riportalo alla posizione di partenza. Ripetere 5 volte, poi cambia le gambe.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-034",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Tacco Alternativo Tap",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dynamic Side Plank",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare il controllo motorio e la stabilità della parete addominale e regione lumbopelvic durante la flessione laterale.",
+          "howToDo": "Montare in una tavola laterale dalle ginocchia o piedi. Sollevare i fianchi dal pavimento, abbassare con il controllo, e ripetere.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-046",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Dynamic Side Plank",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "lateral-flexion",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione supina Hollow-Body Isometrico mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della parete addominale e regione lumbopelvic, con enfasi sulla stabilizzazione statica.",
+          "howToDo": "Sdraiarsi sul retro e premere la parte inferiore della schiena delicatamente verso il pavimento. Sollevare le gambe e le braccia solo per quanto è possibile mantenere il controllo.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-056",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Hollow-Body Isometrico mantenimento",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione supina respirazione diaframmatica",
+          "image": "",
+          "description": "Questo esercizio respiratorio è destinato a migliorare la meccanica respiratoria controllata della parete addominale e regione lumbopelvic, con enfasi sulla respirazione diaframmatica e l'espansione addominale.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse. Posiziona una mano sopra la parte superiore del petto e l'altra sopra l'addome. Inspira lentamente attraverso il naso, permettendo alla parete addominale di salire limitando il movimento della parte superiore del petto. Espirate gradualmente e lasciate che l'addome ritorni.",
+          "whatToDo": "Mantenere rilassati il tratto cervicale e le spalle. Respirare lentamente senza forzare e completare l'espirazione in modo graduale.",
+          "whatNotToDo": "Non forzare l'inspirazione o l'espirazione, non iperventilare e non trattenere il respiro. Interrompere l'esercizio in caso di vertigini o affanno insolito.",
+          "id": "trunk-064",
+          "sezione": "Addome",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina respirazione diaframmatica",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "breathing",
+            "diaphragmatic-breathing"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "abdomen"
+    },
+    {
+      "nome": "Trunk - Integrated Stability",
+      "esercizi": [
+        {
+          "nome": "Trasferimento palla In posizione seduta intorno al tronco",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del movimento della colonna vertebrale durante la rotazione.",
+          "howToDo": "Siediti in piedi su una sedia e Mantenere una piccola palla morbida o un cuscino con entrambe le mani. Passa l'oggetto da una mano all'altra intorno alla vita, spostandolo dietro la schiena e poi di nuovo alla parte anteriore. Fai 5 cerchi lenti in una direzione, poi 5 nella direzione opposta.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-022",
+          "sezione": "Trunk - Integrated Stability",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Trasferimento palla In posizione seduta intorno al tronco",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In quadrupedia Contralateral Braccio e estensione gamba",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare il controllo motorio e la stabilità della colonna vertebrale durante l'estensione.",
+          "howToDo": "Assumere una posizione in quadrupedia su una superficie imbottita. Estendere lentamente il braccio destro in avanti e la gamba sinistra all'indietro allo stesso tempo. Tenere la posizione per 2 secondi, quindi tornare alla posizione di partenza. Ripetere con il braccio sinistro e la gamba destra. Alternare lentamente per 5 ripetizioni su ogni lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-033",
+          "sezione": "Trunk - Integrated Stability",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia Contralateral Braccio e estensione gamba",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "stabilization",
+            "extension"
+          ],
+          "difficulty": 5
+        }
+      ],
+      "id": "abdomen-back-integrated-stability"
+    },
+    {
+      "nome": "Bacino - Mobilità e stabilità",
+      "esercizi": [
+        {
+          "nome": "Posto anteriore e posteriore pelvico Tilt",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare l'inclinazione pelvica anteriore controllata e l'inclinazione pelvica posteriore del bacino e della regione lombo-pelvica.",
+          "howToDo": "Sedersi vicino alla parte anteriore di una sedia con entrambi i piedi sostenuti e le mani che poggiano sulle cosce. Spostare il bacino in tilt anteriore con un piccolo aumento di estensione lombare, poi in tilt posteriore con leggera flessione lombare. Alternare lentamente per 10 ripetizioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-010",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Posto anteriore e posteriore pelvico Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione supina Bridge",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del bacino e regione lumbopelvic durante l'estensione.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse, i piedi completamente supportati, e le braccia accanto al tronco. Attivare i muscoli glutei ed estendere i fianchi per elevare il bacino a breve distanza. Tenere per 3 secondi, poi abbassare la colonna vertebrale e bacino gradualmente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-011",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Bridge",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Abduzione dell'anca con resistenza esterna",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del bacino e regione lumbopelvic, con enfasi sul abduzione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti. Posiziona una fascia elastica intorno alle cosce distali o posiziona entrambe le mani contro gli aspetti laterali delle ginocchia. Rapisci i fianchi contro la resistenza esterna senza cambiare la posizione del piede. Mantenere premuto per 5 secondi, poi torna lentamente.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-012",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Abduzione dell'anca con resistenza esterna",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In posizione seduta laterale pelvico spostamento peso",
+          "image": "",
+          "description": "Questo esercizio mette a dura prova il controllo posturale e la stabilità inferiore durante lo spostamento laterale controllato del peso del bacino e della regione lombo-pelvica.",
+          "howToDo": "Siediti su una sedia con i piedi poggiati sul pavimento. Senza sollevare la regione glutea, sposta lentamente il peso verso il lato destro del bacino, poi torna al centro. Ripetere verso il lato sinistro. Alternati lentamente per 10 ripetizioni.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "trunk-028",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta laterale pelvico spostamento peso",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina Bridge Isolam mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del bacino e della regione lumbopelvic, con enfasi sull'estensione.",
+          "howToDo": "Sdraiati sul retro con le ginocchia piegate e i piedi a terra. Premere i piedi e sollevare i fianchi in un ponte, quindi tenere premuto mentre respira.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-062",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Bridge Isolam mantenimento",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione supina anteriore-postero pelvico Tilt",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare l'inclinazione pelvica anteriore controllata e l'inclinazione pelvica posteriore del bacino e della regione lombo-pelvica.",
+          "howToDo": "Sdraiato supino con le ginocchia piegate e i piedi piatti. Inclinare delicatamente il bacino all'indietro per ridurre lo spazio sotto la parte inferiore della schiena, quindi inclinare in avanti per ripristinare un piccolo arco naturale. Continuare a dondolare lentamente tra le due posizioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-065",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina anteriore-postero pelvico Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In piedi anteriore-posteriore pelvico Tilt",
+          "image": "",
+          "description": "Questo esercizio mette a dura prova il controllo posturale e la stabilità dell'ascensore inferiore durante l'inclinazione pelvica anteriore controllata e l'inclinazione pelvica posteriore del bacino e della regione lombo-pelvica.",
+          "howToDo": "Stare con i piedi sulla larghezza dell'anca a parte e le ginocchia leggermente piegate. Inclinare il bacino all'indietro rimboccando delicatamente l'osso di coda, poi inclinare in avanti per tornare ad una piccola curva naturale inferiore-indietro. Alternare lentamente.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "trunk-066",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi anteriore-posteriore pelvico Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In piedi pelvico Forward-Backward Traduzione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la traduzione pelvica anteriore controllata e la traduzione pelvica posteriore del bacino e regione lombo-pelvica.",
+          "howToDo": "Stare alti con i piedi divaricati di larghezza dell'anca e le mani sui fianchi. Mantenere il petto fermo, scivolare il bacino in avanti, tornare al centro, poi scivolare indietro e tornare di nuovo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-067",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi pelvico Forward-Backward Traduzione",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-translation",
+            "posterior-translation",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In piedi Lateral pelvico Traduzione",
+          "image": "",
+          "description": "Questo esercizio mette a dura prova il controllo posturale e la stabilità inferiore durante lo spostamento laterale controllato del peso del bacino e della regione lombo-pelvica.",
+          "howToDo": "Stare alti con i piedi divaricati di larghezza dell'anca e le mani sui fianchi. Scivolare il bacino a destra, tornare al centro, poi scivolare a sinistra mantenendo entrambi i piedi a contatto con il pavimento.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "trunk-068",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi Lateral pelvico Traduzione",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In piedi pelvico Square Pattern",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del bacino e regione lombo-pelvica durante la traduzione pelvica anteriore, spostamento laterale del peso, e traduzione pelvica posteriore.",
+          "howToDo": "Stare alti con i piedi divaricati di larghezza dell'anca e le mani sui fianchi. Spostare il bacino in avanti, poi a destra, poi all'indietro, poi a sinistra per disegnare un quadrato. Ritornare al centro e ripetere nella direzione opposta.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-069",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi pelvico Square Pattern",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-translation",
+            "lateral-shift",
+            "posterior-translation",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi pelvico circonduzione con tronco Stabilizzazione",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la circonduzione controllata del bacino e della regione lombo-pelvica.",
+          "howToDo": "Stare alti con i piedi leggermente divaricati e le mani sui fianchi. Far scivolare il bacino in avanti, da un lato, all'indietro, e dall'altro lato per completare un cerchio lento. Ripetere in entrambe le direzioni.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "trunk-070",
+          "sezione": "Bacino - Mobilità e stabilità",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi pelvico circonduzione con tronco Stabilizzazione",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-stability"
+    },
+    {
+      "nome": "Colonna vertebrale - Mobilità e controllo motorio",
+      "esercizi": [
+        {
+          "nome": "Estensione bilaterale della spalla In posizione seduta con la ritrazione scapolare",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della colonna vertebrale durante la ritrazione scapolare e l'estensione.",
+          "howToDo": "Siediti in posizione verticale lontano dallo schienale con entrambe le braccia sollevate in avanti. Flessi i gomiti e disegnali verso il basso accanto al tronco mentre ritrae le scapola. Mantenere premuto per 3 secondi, quindi allunga le braccia verso l'alto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-013",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Estensione bilaterale della spalla In posizione seduta con la ritrazione scapolare",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "scapular-retraction",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotazione del tronco sedettato",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del movimento della colonna vertebrale durante la rotazione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti e le braccia incrociate sul petto. Mantenere il bacino in posizione neutra e ruotare il torace e testa su un lato attraverso la ampiezza di movimento confortevole disponibile. Tenere per 3 secondi, tornare in posizione neutra, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-016",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Rotazione del tronco sedettato",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sediato Diagonal tronco rotazione estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento della colonna vertebrale durante la rotazione e la flessione laterale.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti e le mani appoggiate sulle cosce. Raggiungi un braccio in diagonale verso l'alto attraverso la linea mediana con rotazione controllata del tronco. Ritorna a posizione neutra e Ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-021",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Sediato Diagonal tronco rotazione estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In piedi assiale allungamento della colonna vertebrale a muro",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con l'accento sull'estensione.",
+          "howToDo": "Stare con la schiena contro una parete. Tenere i piedi leggermente lontano dalla parete e le ginocchia leggermente piegato. Premere delicatamente la parte centrale e superiore della schiena contro la parete, mentre allungando la parte superiore della testa verso il soffitto. Tenere questa posizione per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-023",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi assiale allungamento della colonna vertebrale a muro",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estensione toracico In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con l'accento sull'estensione.",
+          "howToDo": "Siediti sulla metà anteriore di una sedia con le mani appoggiate sulle cosce. Fai scivolare le mani leggermente all'indietro lungo le cosce sollevando il petto e allungando la colonna vertebrale. Mantenere la posizione alta per 5 secondi, poi rilassati.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-029",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Estensione toracico In posizione seduta",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Da seduto tronco flessione ed estensione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità della colonna vertebrale durante la flessione e l'estensione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti e le braccia estese in avanti all'altezza del petto. Flessi il tronco leggermente per raggiungere in avanti, quindi attiva l'estensibile spinale e i muscoli addominali per tornare alla posizione eretta. Ripetere lentamente per 5 ripetizioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-030",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Da seduto tronco flessione ed estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Segmentaria in quadrupedia della colonna vertebrale flessione e l'estensione",
+          "image": "",
+          "description": "Questo esercizio di controllo motore sviluppa flessione sequenziale ed estensione attraverso il bacino, colonna vertebrale lombare, colonna vertebrale toracica, e colonna vertebrale cervicale.",
+          "howToDo": "Assumere una posizione in quadrupedia con le mani sotto le spalle e le ginocchia sotto i fianchi. Iniziare un'inclinazione pelvica posteriore e flettere progressivamente le regioni lombare, toracica e cervicale. Invertire la sequenza dal bacino per tornare attraverso posizione neutra in estensione confortevole. Completare 5 cicli lenti.",
+          "whatToDo": "Spostare una regione spinale dopo l'altra, distribuire il movimento gradualmente, e coordinare la flessione con l'espirazione ed estensione con l'inalazione.",
+          "whatNotToDo": "Non spostare l'intera colonna vertebrale come un blocco rigido, collasso tra le spalle, forza fine intervallo, o continuare se si verifica dolore acuto o irradiante.",
+          "id": "trunk-032",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Segmentaria in quadrupedia della colonna vertebrale flessione e l'estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Rotazione del tronco in piedi con bastone",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del movimento della colonna vertebrale durante la rotazione.",
+          "howToDo": "Stare in piedi con i piedi leggermente divaricati. Tenere un bastone orizzontalmente davanti al petto con entrambe le mani, mantenendo i gomiti piegati. Ruotare lentamente il busto a destra, mantenere il bacino rivolto in avanti. Ritornare al centro, quindi ruotare a sinistra. Ripetere 5 volte su ogni lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-036",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Rotazione del tronco in piedi con bastone",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In piedi segmentaria della colonna vertebrale flessione ed estensione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata e l'estensione della colonna vertebrale.",
+          "howToDo": "Stare alto. Ruotare lentamente la testa, le spalle, e colonna vertebrale verso il basso un segmento alla volta, poi tornare a stare in piedi con lo stesso controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-037",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi segmentaria della colonna vertebrale flessione ed estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Allungamento della colonna vertebrale assiale in piedi",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con l'accento sull'estensione.",
+          "howToDo": "Da una posizione confortevole, raggiungere la corona della testa lontano dal bacino e allungare delicatamente attraverso la colonna vertebrale, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-038",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Allungamento della colonna vertebrale assiale in piedi",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Alternando Diagonal tronco flessione e Rotazione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata e la rotazione della colonna vertebrale.",
+          "howToDo": "Stare con i piedi comodi. Raggiungere una mano in diagonale verso il piede opposto o verso il pavimento, quindi tornare e alternare i lati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-039",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Alternando Diagonal tronco flessione e Rotazione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In piedi pelvico circonduzione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del bacino e della regione lombo-pelvica.",
+          "howToDo": "Stare con le mani sui fianchi. Fare cerchi lenti con il bacino in una direzione, poi ripetere nell'altra direzione.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-040",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi pelvico circonduzione",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Toracico-Biased in quadrupedia flessione e estensione",
+          "image": "",
+          "description": "Questo esercizio di mobilità selettiva sottolinea la flessione e l'estensione della colonna vertebrale toracica mentre la regione lumbopelvic rimane relativamente stabile.",
+          "howToDo": "Supponiamo una posizione in quadrupedia e stabiliamo un bacino posizione neutra. Senza inclinare deliberatamente il bacino, premere il pavimento verso la parte superiore posteriore, quindi lasciare che lo sterno scenda dolcemente tra le spalle per estendere la regione toracica. Ripetere lentamente.",
+          "whatToDo": "Mantenere la parete addominale delicatamente attiva, concentrare il movimento tra le scapole e mantenere anche la pressione attraverso le mani e le ginocchia.",
+          "whatNotToDo": "Non sostituire con grandi inclinazioni pelviche, collassare la colonna vertebrale lombare, piegare i gomiti, o forzare il campo di estremità toracica.",
+          "id": "trunk-041",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Toracico-Biased in quadrupedia flessione e estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility",
+            "selective-control"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotazione attiva del tronco In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e di controllo del movimento della colonna vertebrale durante la rotazione.",
+          "howToDo": "Siediti alto con i piedi a terra. Ruota il tronco da un lato, fermati, torna al centro, poi Ripetere dall'altro lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-042",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Rotazione attiva del tronco In posizione seduta",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Tronco flessione Latissimus Dorsi allungamento assistito",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato alla colonna vertebrale, con enfasi sulla flessione laterale e la flessione.",
+          "howToDo": "Tenere un supporto stabile con le mani. Seduti i fianchi indietro e lasciare che il lato del tronco allungare fino a quando la zona del lat si allunga.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-043",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Tronco flessione Latissimus Dorsi allungamento assistito",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione In posizione seduta a gambe tese tronco flessione mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare della colonna vertebrale, con enfasi sulla flessione.",
+          "howToDo": "Siediti con le gambe estese in avanti. Cerca in avanti dai fianchi e lascia che la colonna vertebrale si pieghi solo attraverso la comoda gamma disponibile.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-044",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione In posizione seduta a gambe tese tronco flessione mantenimento",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Tronco Lateral flessione allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato alla colonna vertebrale, con enfasi sulla flessione laterale.",
+          "howToDo": "Siediti o stai alto. Raggiungere un braccio in alto e piegare delicatamente verso il lato opposto fino a che il lato del tronco si allunga.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-045",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Tronco Lateral flessione allungamento",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In quadrupedia toracico rotazione allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con l'accento sulla rotazione e la flessione.",
+          "howToDo": "Supponiamo una posizione in quadrupedia. Scivolare un braccio sotto il braccio opposto e ruotare la parte superiore posteriore fino a quando la spalla si avvicina al pavimento.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-047",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia toracico rotazione allungamento",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione prona sustained Press-Up per estensione spinale",
+          "image": "",
+          "description": "Questo esercizio prolungato espone la colonna vertebrale ad una posizione di estensione confortevole mantenuta per una breve presa statica.",
+          "howToDo": "Sdraiarsi inclinato con le mani sotto o leggermente davanti alle spalle. Premere attraverso le mani per alzare il torace mantenendo il bacino sostenuto. Fermarsi al comodo range di estensione disponibile, tenere premuto per 5-10 secondi durante la respirazione normalmente, quindi abbassare completamente.",
+          "whatToDo": "Distribuire l'estensione attraverso la colonna vertebrale, tenere le spalle lontano dalle orecchie, e mantenere una posizione statica priva di sintomi.",
+          "whatNotToDo": "Non sollevare il bacino, forzare i gomiti dritti, trattenere il respiro, o continuare se il dolore si irradia o aumenta progressivamente.",
+          "id": "trunk-048",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione prona sustained Press-Up per estensione spinale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito alla parete toracico estensione con braccio scorrevole",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare l'estensione controllata e la ritrazione scapolare della colonna vertebrale.",
+          "howToDo": "Stare con la parte posteriore vicino a una parete. Far scivolare le braccia verso l'alto e verso il basso mantenendo le costole controllate e la parte superiore della schiena attiva.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-049",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Assistito alla parete toracico estensione con braccio scorrevole",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi assistito alla parete Estensione Spinale",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della colonna vertebrale durante l'estensione.",
+          "howToDo": "Lasciare che il petto si muova dolcemente in avanti e verso l'alto mantenendo i fianchi controllati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-050",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi assistito alla parete Estensione Spinale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotazione assistita del tronco",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con enfasi sulla rotazione.",
+          "howToDo": "Siediti alto e ruota il tronco su un lato. Usa le mani leggermente per il supporto e Mantenere la torsione durante la respirazione.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-051",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Rotazione assistita del tronco",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dynamic In posizione prona Press-Up per l'estensione spinale",
+          "image": "",
+          "description": "Questo esercizio di mobilità dinamica utilizza cicli di pressione ripetuti per spostare la colonna vertebrale dentro e fuori da una comoda estensione.",
+          "howToDo": "Sdraiarsi inclinato con le mani vicino alle spalle. Premere attraverso le mani per sollevare il petto attraverso la comoda gamma di estensione disponibile, quindi abbassare completamente la posizione di partenza senza tenere in alto. Ripetere ad un ritmo lento, anche.",
+          "whatToDo": "Mantenere il bacino sostenuto, rilassarsi completamente tra le ripetizioni, e rendere ogni fase verso l'alto e verso il basso liscia e controllata.",
+          "whatNotToDo": "Non fermarsi in una presa sostenuta, usare slancio, forzare i gomiti dritti, o continuare se il dolore si irradia o aumenta progressivamente.",
+          "id": "trunk-052",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Dynamic In posizione prona Press-Up per l'estensione spinale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Mezza ginocchia tronco Lateral flessione allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con enfasi sulla flessione laterale e l'estensione.",
+          "howToDo": "Impostare in un comodo affondo. Raggiungere un braccio in alto e piegare delicatamente lontano dalla gamba posteriore, quindi tornare.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-053",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Mezza ginocchia tronco Lateral flessione allungamento",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotazione toracica dinamica in quadrupedia",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la rotazione controllata della colonna vertebrale.",
+          "howToDo": "Supponiamo una posizione in quadrupedia. Scivolare un braccio sotto il braccio opposto per ruotare, quindi aprire lo stesso braccio verso il soffitto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-054",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Rotazione toracica dinamica in quadrupedia",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In quadrupedia della colonna vertebrale flessione Isometrical mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare della colonna vertebrale, con enfasi sulla flessione.",
+          "howToDo": "Assumere una posizione in quadrupedia. Premere attraverso le mani e spostare la colonna vertebrale in flessione, consentendo alla testa di seguire la curva spinale. Mantenere la posizione durante la respirazione normale.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-057",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia della colonna vertebrale flessione Isometrical mantenimento",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In quadrupedia della colonna vertebrale estensione isometrico mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della colonna vertebrale, con enfasi sull'estensione.",
+          "howToDo": "Supponiamo una posizione in quadrupedia. Lasciate che il petto si muova in avanti e le ossa del sedere si alzino leggermente, creando un leggero arco.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-058",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia della colonna vertebrale estensione isometrico mantenimento",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione seduta segmentaria della colonna vertebrale flessione ed estensione",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della colonna vertebrale durante la flessione e l'estensione.",
+          "howToDo": "Siediti alto con le gambe allungate o le ginocchia piegate. Rotola lentamente la colonna vertebrale all'indietro o in avanti all'interno di una comoda gamma, poi torna.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-059",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta segmentaria della colonna vertebrale flessione ed estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito alla parete Progressive Estensione Spinale",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare l'estensione controllata della colonna vertebrale.",
+          "howToDo": "Stare in piedi con la parte posteriore di fronte ad un muro. Raggiungere le mani sopra il muro, poi lentamente camminare verso il basso solo per quanto il controllo permette.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-060",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Assistito alla parete Progressive Estensione Spinale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Piega in avanti assistito con estensione al ginocchio alternato",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale, con l'accento sulla flessione e l'estensione.",
+          "howToDo": "Piegare in avanti con le mani sostenute. Alternare piegando delicatamente e raddrizzando le ginocchia mantenendo il movimento della colonna vertebrale controllato.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-061",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Piega in avanti assistito con estensione al ginocchio alternato",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In piedi copertura toracico estensione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare l'estensione controllata della colonna vertebrale.",
+          "howToDo": "Stare in alto ed estendere entrambe le braccia in alto. Mantenere il bacino controllato, sollevare il torace e spostare le mani leggermente all'indietro per creare un'estensione delicata attraverso la colonna vertebrale superiore e centrale, quindi tornare a posizione neutra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-071",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi copertura toracico estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi tronco flessione con Petto-Led Discesa",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata della colonna vertebrale.",
+          "howToDo": "In piedi con le ginocchia leggermente piegate. Iniziare la discesa guidando il petto in avanti e in giù, quindi lasciare che la testa e le braccia di seguire verso il pavimento. Fermarsi ad una comoda profondità e tornare lentamente in piedi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-072",
+          "sezione": "Colonna vertebrale - Mobilità e controllo motorio",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In piedi tronco flessione con Petto-Led Discesa",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "back-mobility-functional-control"
+    },
+    {
+      "nome": "Spine - Extensor Region",
+      "esercizi": [
+        {
+          "nome": "In posizione seduta Isometrica toracico estensione contro lo schienale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della colonna vertebrale, con enfasi sull'estensione.",
+          "howToDo": "Siediti con la colonna vertebrale toracica sostenuta contro lo schienale della sedia. Premere delicatamente la parte superiore dello schienale nel supporto allungando la colonna vertebrale in verticale. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "trunk-014",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta Isometrica toracico estensione contro lo schienale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Spalla In posizione seduta abduzione orizzontale con estensione toracico",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della colonna vertebrale durante l'estensione e la ritrazione scapolare.",
+          "howToDo": "Siediti lontano dallo schienale o stare in piedi. Tenere le braccia ai lati. Chiudere le mani in pugni, mantenendo i pollici puntati verso l'alto. Sollevare lentamente le braccia verso i lati fino all'altezza della spalla e portarle leggermente all'indietro, mantenendo sempre i pollici puntati verso il soffitto. Tenere premuto per 3 secondi mentre si sentono i muscoli della schiena lavorare, poi abbassare lentamente le braccia verso il basso.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-015",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Spalla In posizione seduta abduzione orizzontale con estensione toracico",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estensione superiore-tronco Dynamic In posizione prona con supporto per la fronte",
+          "image": "",
+          "description": "Questo esercizio dinamico sviluppa il controllo dell'estensitore toracico a corto raggio con la testa e gli arti superiori supportati come un'unica unità.",
+          "howToDo": "Sdraiato inclinato con le mani impilate sotto la fronte. Tenere la fronte a contatto leggero con le mani e sollevare le mani, la testa e la parte superiore del petto insieme a pochi centimetri dal pavimento. Abbassare immediatamente con il controllo e ripetere per 5 ripetizioni.",
+          "whatToDo": "Mantenere la colonna vertebrale cervicale neutra, enfatizzare il movimento attraverso il tronco superiore, e completare ogni ripetizione senza una presa prolungata.",
+          "whatNotToDo": "Non sollevare il mento, separare la fronte dalle mani, usare slancio o esagerare l'estensione lombare.",
+          "id": "trunk-035",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Estensione superiore-tronco Dynamic In posizione prona con supporto per la fronte",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In posizione prona estensione isometrica del tronco con le braccia accanto al corpo",
+          "image": "",
+          "description": "Questo esercizio isometrico sviluppa la resistenza della catena estensore spinale con le braccia posizionate accanto al tronco.",
+          "howToDo": "Sdraiati inclinato con entrambe le braccia lungo il corpo e i palmi rivolti verso l'interno. Sollevare delicatamente la testa e il petto una piccola distanza mantenendo la colonna vertebrale cervicale neutra. Tenere la posizione per 5 secondi, abbassare completamente, e riposare prima di ripetere.",
+          "whatToDo": "Mantenere il controllo addominale, allungare attraverso la corona della testa, e utilizzare un basso sollevamento sostenuto durante la respirazione normalmente.",
+          "whatNotToDo": "Non dondolare le braccia, sollevare il mento, trattenere il respiro, forzare l'estensione lombare, o sollevare il tronco il più in alto possibile.",
+          "id": "trunk-055",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione prona estensione isometrica del tronco con le braccia accanto al corpo",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione prona a leva lunga tronco estensione",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare il controllo motorio e la stabilità della colonna vertebrale durante l'estensione.",
+          "howToDo": "Sdraiato inclinato con le gambe lunghe e le braccia estese davanti. Stringi delicatamente l'addome, poi sollevare il petto, le braccia e le gambe una piccola distanza dal pavimento. Pausa brevemente e più in basso con controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-073",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione prona a leva lunga tronco estensione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione prona T-Position scapolare pulsanti di ritrazione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento della colonna vertebrale durante l'estensione, la ritrazione scapolare e il abduzione orizzontale.",
+          "howToDo": "Stendere inclinato con le braccia estese ai lati all'altezza della spalla. Tenere i pollici rivolti verso l'alto o i palmi rivolti verso il basso, sollevare delicatamente il petto e le braccia una piccola distanza, quindi fare brevi pulsazioni alari su e giù controllati prima di abbassarsi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la colonna vertebrale a fine corsa e interrompere l'esercizio in presenza di dolore acuto o irradiato.",
+          "id": "trunk-074",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione prona T-Position scapolare pulsanti di ritrazione",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "back-posterior-region"
+    },
+    {
+      "nome": "Pavimento pelvico",
+      "esercizi": [
+        {
+          "nome": "Sediato pelvico Pavimento e Gluteal Contrazione",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare l'attivazione volontaria, il rilassamento e il controllo motorio del pavimento pelvico, con enfasi sulla contrazione controllata e il rilassamento completo.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi supportati. Contrai simultaneamente il pavimento pelvico e i muscoli glutei, disegnando delicatamente il pavimento pelvico verso l'alto. Mantenere premuto per 5 secondi durante la respirazione normale, poi rilassati completamente.",
+          "whatToDo": "Coordinare la contrazione con una respirazione regolare e consentire il completo rilassamento muscolare tra le ripetizioni.",
+          "whatNotToDo": "Non trattenere il respiro, non eseguire una contrazione massimale e non mantenere tensione residua tra le ripetizioni.",
+          "id": "trunk-009",
+          "sezione": "Pavimento pelvico",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Sediato pelvico Pavimento e Gluteal Contrazione",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sediato Sustained pelvico Pavimento Contrazione",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare l'attivazione volontaria, il rilassamento e il controllo motorio del pavimento pelvico, con enfasi sulla contrazione controllata e il rilassamento completo.",
+          "howToDo": "Siediti su una sedia ferma con entrambi i piedi supportati. Contrai ed elevare i muscoli del pavimento pelvico senza attivare eccessivamente la parete addominale. Tenere per 4 secondi durante la respirazione normale, quindi rilasciare gradualmente.",
+          "whatToDo": "Coordinare la contrazione con una respirazione regolare e consentire il completo rilassamento muscolare tra le ripetizioni.",
+          "whatNotToDo": "Non trattenere il respiro, non eseguire una contrazione massimale e non mantenere tensione residua tra le ripetizioni.",
+          "id": "trunk-017",
+          "sezione": "Pavimento pelvico",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Sediato Sustained pelvico Pavimento Contrazione",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "elevation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione seduta anca adduzione con pavimento pelvico Contraction",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare l'attivazione volontaria, rilassamento, e il controllo motorio del pavimento pelvico, con particolare attenzione alla adduzione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi supportati e posiziona una palla morbida o un cuscino ripiegato tra le ginocchia. Durante un'espirazione lenta, adduci i fianchi per comprimere l'oggetto eseguendo una leggera contrazione del pavimento pelvico. Mantenere premuto per 5 secondi, poi rilassati completamente.",
+          "whatToDo": "Coordinare la contrazione con una respirazione regolare e consentire il completo rilassamento muscolare tra le ripetizioni.",
+          "whatNotToDo": "Non trattenere il respiro, non eseguire una contrazione massimale e non mantenere tensione residua tra le ripetizioni.",
+          "id": "trunk-018",
+          "sezione": "Pavimento pelvico",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta anca adduzione con pavimento pelvico Contraction",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "adduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Pavimento pelvico Pre-Contrazione prima di Passaggio seduto-in piedi",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare l'attivazione volontaria, il rilassamento e il controllo motorio del pavimento pelvico, con enfasi sulla contrazione controllata e il rilassamento completo.",
+          "howToDo": "Sedersi vicino alla parte anteriore di una sedia stabile con entrambi i piedi sostenuti. Prima di iniziare il trasferimento, eseguire una leggera contrazione del pavimento pelvico. Mantenere la contrazione mentre inclinare il tronco in avanti e estendere i fianchi e ginocchia a stare in piedi. Rilassarsi completamente una volta in posizione verticale.",
+          "whatToDo": "Coordinare la contrazione con una respirazione regolare e consentire il completo rilassamento muscolare tra le ripetizioni.",
+          "whatNotToDo": "Non trattenere il respiro, non eseguire una contrazione massimale e non mantenere tensione residua tra le ripetizioni.",
+          "id": "trunk-019",
+          "sezione": "Pavimento pelvico",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Pavimento pelvico Pre-Contrazione prima di Passaggio seduto-in piedi",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina anca abduzione e Adduzione con pavimento pelvico Control",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare l'attivazione volontaria, rilassamento, e il controllo motorio del pavimento pelvico, con l'accento sul abduzione.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse e i piedi insieme. Permetti a entrambe le ginocchia di muoversi lateralmente nel abduzione dell'anca, quindi riportarle a neutre coordinando una leggera contrazione pelvica del pavimento.",
+          "whatToDo": "Coordinare la contrazione con una respirazione regolare e consentire il completo rilassamento muscolare tra le ripetizioni.",
+          "whatNotToDo": "Non trattenere il respiro, non eseguire una contrazione massimale e non mantenere tensione residua tra le ripetizioni.",
+          "id": "trunk-020",
+          "sezione": "Pavimento pelvico",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina anca abduzione e Adduzione con pavimento pelvico Control",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sedied Rapid pavimento pelvico Contrazioni",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare l'attivazione volontaria, il rilassamento e il controllo motorio del pavimento pelvico, con enfasi sulla contrazione controllata e il rilassamento completo.",
+          "howToDo": "Siediti su una sedia ferma con entrambi i piedi supportati. Esegui una breve contrazione pelvica del pavimento seguita da un completo rilassamento. Ripetere 5 volte con un breve riposo tra le contrazioni.",
+          "whatToDo": "Coordinare la contrazione con una respirazione regolare e consentire il completo rilassamento muscolare tra le ripetizioni.",
+          "whatNotToDo": "Non trattenere il respiro, non eseguire una contrazione massimale e non mantenere tensione residua tra le ripetizioni.",
+          "id": "trunk-031",
+          "sezione": "Pavimento pelvico",
+          "distretto": "Tronco",
+          "thumbnail": "",
+          "imageAlt": "Sedied Rapid pavimento pelvico Contrazioni",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "relaxation"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "perineum"
+    }
+  ],
+  "id": "trunk"
+}

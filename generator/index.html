@@ -1,128 +1,136 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-i18n-title="access.pageTitle">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Split APA Generator</title>
-  <link rel="stylesheet" href="assets/style.css?v=20260828c">
+  <link rel="stylesheet" href="assets/style.css?v=20260828h">
 </head>
 <body>
   <section class="access-screen" id="accessScreen" aria-labelledby="accessTitle">
     <header class="access-masthead smart-header" data-smart-header>
-      <a class="access-brand" href="../" aria-label="Split APA home">
+      <a class="access-brand" href="../" aria-label="Split APA home" data-i18n-aria="common.homeAria">
         <span class="brand-mark">SA</span>
         <span class="brand-name">Split APA</span>
       </a>
-      <div class="access-masthead-status small-label">Protected access / Private beta</div>
+      <div class="header-language">
+        <span class="small-label" data-i18n="common.language">Language</span>
+        <div data-language-select></div>
+      </div>
+      <div class="access-masthead-status small-label" data-i18n="access.status">Protected access / Private beta</div>
     </header>
 
     <div class="access-layout">
       <div class="access-intro">
         <div class="access-intro-copy">
-          <div class="eyebrow">Protected preview / Private beta</div>
-          <h1>Program access.</h1>
-          <p>Exercise archive and adapted workout generator.</p>
+          <div class="eyebrow" data-i18n="access.eyebrow">Protected preview / Private beta</div>
+          <h1 data-i18n="access.heading">Program access.</h1>
+          <p data-i18n="access.lead">Exercise archive and adapted workout generator.</p>
         </div>
 
-        <div class="access-progress small-label" aria-label="Access steps">
-          <span>01 / Authenticate</span>
-          <span>02 / Build your plan</span>
+        <div class="access-progress small-label" aria-label="Access steps" data-i18n-aria="access.stepsAria">
+          <span data-i18n="access.step1">01 / Authenticate</span>
+          <span data-i18n="access.step2">02 / Build your plan</span>
         </div>
       </div>
 
       <div class="access-card">
-        <div class="eyebrow">Access / 01</div>
-        <h2 id="accessTitle">Unlock generator.</h2>
-        <p>Enter the beta password to load the exercise archive and build your plan.</p>
+        <div class="eyebrow" data-i18n="access.cardEyebrow">Access / 01</div>
+        <h2 id="accessTitle" data-i18n="access.unlockHeading">Unlock generator.</h2>
+        <p data-i18n="access.copy">Enter the beta password to load the exercise archive and build your plan.</p>
 
         <form class="access-form" id="accessForm">
           <label class="access-field">
-            <span class="small-label">Password</span>
-            <input id="accessPassword" type="password" autocomplete="current-password" aria-label="Access password">
+            <span class="small-label" data-i18n="access.password">Password</span>
+            <input id="accessPassword" type="password" autocomplete="current-password" aria-label="Access password" data-i18n-aria="access.passwordAria">
           </label>
-          <button class="button access-button" type="submit">Unlock generator</button>
+          <button class="button access-button" type="submit" data-i18n="access.unlockButton">Unlock generator</button>
         </form>
 
-        <a class="button access-home-button" href="../">Back to Split APA home</a>
+        <a class="button access-home-button" href="../" data-i18n="access.backHome">Back to Split APA home</a>
 
         <div class="access-error small-label" id="accessError" role="alert" aria-live="polite"></div>
-        <div class="access-note small-label">Beta access / protected preview</div>
+        <div class="access-note small-label" data-i18n="access.note">Beta access / protected preview</div>
       </div>
     </div>
   </section>
 
   <main class="page app-shell" id="appShell" hidden>
     <header class="masthead smart-header" data-smart-header>
-      <a class="brand" href="../" aria-label="Split APA home">
+      <a class="brand" href="../" aria-label="Split APA home" data-i18n-aria="common.homeAria">
         <span class="brand-mark">SA</span>
         <span class="brand-name">Split APA</span>
       </a>
+      <div class="header-language">
+        <span class="small-label" data-i18n="common.language">Language</span>
+        <div data-language-select></div>
+      </div>
       <div class="masthead-actions">
-        <div class="status small-label" id="appStatus">Loading archive</div>
-        <button class="logout-button small-label" type="button" id="logoutButton">Log out</button>
+        <div class="status small-label" id="appStatus" data-i18n="generator.status.loadingArchive">Loading archive</div>
+        <button class="logout-button small-label" type="button" id="logoutButton" data-i18n="generator.logout">Log out</button>
       </div>
     </header>
 
     <section class="hero" id="top">
       <div class="hero-main">
-        <div class="eyebrow">Adapted physical activity / Exercise archive</div>
-        <h1>Program Generator</h1>
-        <p class="lead">Create a focused APA workout by body district. Data is loaded externally, keeping the page light and scalable.</p>
-        <div class="district-tabs" id="districtTabs" aria-label="Body district overview"></div>
+        <div class="eyebrow" data-i18n="generator.hero.eyebrow">Adapted physical activity / Exercise archive</div>
+        <h1 data-i18n="generator.hero.heading">Program Generator</h1>
+        <p class="lead" data-i18n="generator.hero.lead">Create a focused APA workout by body district. Data is loaded externally, keeping the page light and scalable.</p>
+        <div class="district-tabs" id="districtTabs" aria-label="Body district overview" data-i18n-aria="generator.districtOverviewAria"></div>
       </div>
 
-      <aside class="control-panel" aria-label="Generator controls">
+      <aside class="control-panel" aria-label="Generator controls" data-i18n-aria="generator.controlsAria">
         <div class="panel-top">
           <div class="field">
-            <div class="field-label">Selected district</div>
+            <div class="field-label" data-i18n="generator.selectedDistrict">Selected district</div>
             <div class="field-value" id="selectedDistrictLabel">--</div>
           </div>
           <div class="field">
-            <div class="field-label">Archive size</div>
+            <div class="field-label" data-i18n="generator.archiveSize">Archive size</div>
             <div class="field-value" id="selectedDistrictMeta">--</div>
           </div>
         </div>
 
         <div class="panel-main">
-          <h2 id="generatorTitle">Build your plan</h2>
-          <p id="generatorCopy">Choose a body district, then generate a complete workout from the available sections.</p>
+          <h2 id="generatorTitle" data-i18n="generator.buildTitle">Build your plan</h2>
+          <p id="generatorCopy" data-i18n="generator.buildCopy">Choose a body district, then generate a complete workout from the available sections.</p>
 
           <div class="control-grid">
             <div class="control-field">
-              <span class="small-label">Districts</span>
-              <div class="flow-select flow-select--multi" id="districtSelect" aria-label="Select body districts"></div>
+              <span class="small-label" data-i18n="generator.districts">Districts</span>
+              <div class="flow-select flow-select--multi" id="districtSelect" aria-label="Select body districts" data-i18n-aria="generator.selectDistrictsAria"></div>
             </div>
             <div class="control-field">
-              <span class="small-label">Per section</span>
-              <div class="flow-select" id="quantitySelect" aria-label="Exercises per section"></div>
+              <span class="small-label" data-i18n="generator.perSection">Per section</span>
+              <div class="flow-select" id="quantitySelect" aria-label="Exercises per section" data-i18n-aria="generator.perSectionAria"></div>
             </div>
           </div>
 
           <form class="ask-panel" id="askForm">
             <label class="ask-field">
-              <span class="small-label">Ask Split APA</span>
-              <input id="askInput" type="search" placeholder="Try shoulder flexion or ankle plantar flexion" aria-label="Ask Split APA">
+              <span class="small-label" data-i18n="generator.ask">Ask Split APA</span>
+              <input id="askInput" type="search" placeholder="Try shoulder flexion or ankle plantar flexion" aria-label="Ask Split APA" data-i18n-placeholder="generator.askPlaceholder" data-i18n-aria="generator.ask">
             </label>
-            <button class="ask-button small-label" type="submit">Find exercises</button>
-            <div class="ask-hint small-label" id="askHint">Local movement search / district + action</div>
+            <button class="ask-button small-label" type="submit" data-i18n="generator.find">Find exercises</button>
+            <div class="ask-hint small-label" id="askHint" data-i18n="generator.askHint">Local movement search / district + action</div>
           </form>
         </div>
 
         <div class="panel-actions">
-          <button class="button" type="button" id="generateButton">Generate workout</button>
-          <button class="button" type="button" id="clearButton">Clear workout</button>
+          <button class="button" type="button" id="generateButton" data-i18n="generator.generate">Generate workout</button>
+          <button class="button" type="button" id="clearButton" data-i18n="generator.clear">Clear workout</button>
         </div>
 
-        <div class="code-panel" aria-label="Workout code tools">
+        <div class="code-panel" aria-label="Workout code tools" data-i18n-aria="generator.codeToolsAria">
           <label class="code-field">
-            <span class="small-label">Workout code</span>
-            <textarea id="workoutCodeInput" rows="3" placeholder="Generate a workout or paste a saved code" aria-label="Workout code"></textarea>
+            <span class="small-label" data-i18n="generator.workoutCode">Workout code</span>
+            <textarea id="workoutCodeInput" rows="3" placeholder="Generate a workout or paste a saved code" aria-label="Workout code" data-i18n-placeholder="generator.codePlaceholder" data-i18n-aria="generator.workoutCode"></textarea>
           </label>
           <div class="code-actions">
-            <button class="code-button small-label" type="button" id="copyCodeButton" disabled>Copy code</button>
-            <button class="code-button small-label" type="button" id="loadCodeButton">Load code</button>
+            <button class="code-button small-label" type="button" id="copyCodeButton" disabled data-i18n="generator.copyCode">Copy code</button>
+            <button class="code-button small-label" type="button" id="loadCodeButton" data-i18n="generator.loadCode">Load code</button>
           </div>
-          <div class="code-hint small-label" id="codeHint">Code updates when the plan changes</div>
+          <div class="code-hint small-label" id="codeHint" data-i18n="generator.codeHint">Code updates when the plan changes</div>
         </div>
       </aside>
     </section>
@@ -130,17 +138,17 @@
     <section class="output" id="workout">
       <div class="output-header">
         <div>
-          <div class="eyebrow">Generated plan</div>
-          <h2 id="outputTitle">Workout preview</h2>
+          <div class="eyebrow" data-i18n="generator.generatedPlan">Generated plan</div>
+          <h2 id="outputTitle" data-i18n="generator.workoutPreview">Workout preview</h2>
         </div>
         <div class="output-side">
-          <div class="small-label" id="outputMeta">No workout generated</div>
+          <div class="small-label" id="outputMeta" data-i18n="generator.noWorkout">No workout generated</div>
           <label class="sort-field">
-            <span class="small-label">Sort difficulty</span>
-            <select id="sortSelect" aria-label="Sort generated exercises by difficulty" disabled>
-              <option value="default">Generated order</option>
-              <option value="easy-hard">Easy to hard</option>
-              <option value="hard-easy">Hard to easy</option>
+            <span class="small-label" data-i18n="generator.sortDifficulty">Sort difficulty</span>
+            <select id="sortSelect" aria-label="Sort generated exercises by difficulty" data-i18n-aria="generator.sortAria" disabled>
+              <option value="default" data-i18n="generator.sort.default">Generated order</option>
+              <option value="easy-hard" data-i18n="generator.sort.easyHard">Easy to hard</option>
+              <option value="hard-easy" data-i18n="generator.sort.hardEasy">Hard to easy</option>
             </select>
           </label>
         </div>
@@ -149,15 +157,16 @@
     </section>
 
     <footer class="footer">
-      <span>Split APA Generator / Static app</span>
-      <span>Data loaded from JSON</span>
+      <span data-i18n="generator.footer.app">Split APA Generator / Static app</span>
+      <span data-i18n="generator.footer.data">Data loaded from JSON</span>
     </footer>
   </main>
 
   <noscript>
-    <div class="noscript">JavaScript is required to load the exercise archive.</div>
+    <div class="noscript" data-i18n="generator.noscript">JavaScript is required to load the exercise archive.</div>
   </noscript>
 
-  <script type="module" src="assets/app.js?v=20260828b"></script>
+  <script src="../assets/i18n.js?v=20260828a"></script>
+  <script type="module" src="assets/app.js?v=20260828c"></script>
 </body>
 </html>

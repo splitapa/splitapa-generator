@@ -6,6 +6,8 @@ Questa cartella contiene il sito unico Split APA pronto per GitHub Pages.
 
 ```text
 index.html
+assets/
+  i18n.js
 generator/
   index.html
   assets/
@@ -17,6 +19,10 @@ generator/
     upper-limb.json
     trunk.json
     lower-limb.json
+    de/
+    es/
+    fr/
+    it/
 .nojekyll
 README.md
 ```
@@ -42,7 +48,10 @@ https://splitapa.github.io/splitapa-generator/generator/?district=lower-limb
 ```text
 Total exercises: 300
 Visible media paths: 0
-Movement metadata: English only
+Languages: Deutsch, English, Espanol, Francais, Italiano
+Localized interface: home, password screen, generator
+Localized archive: 300 exercises in every language
+Movement metadata: canonical English IDs with localized labels
 Clinical language review: standardized across all 300 exercises
 Difficulty metadata: 1-5 stars
 Access: beta password screen

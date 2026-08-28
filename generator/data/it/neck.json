@@ -1,0 +1,246 @@
+{
+  "distretto": "Collo",
+  "sezioni": [
+    {
+      "nome": "Regione anteriore del collo",
+      "esercizi": [
+        {
+          "nome": "In posizione supina Cervical Retraction",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare il controllo motorio e la stabilità della colonna vertebrale cervicale durante la ritrazione scapolare e la flessione.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse e i piedi appoggiati. Mantenere lo sguardo verso il soffitto. Retrarre il mento senza flessione o allungare la colonna vertebrale cervicale. Tenere per 5 secondi, poi rilassarsi.",
+          "whatToDo": "Mantenere il tratto toracico eretto, rilassare le spalle ed eseguire il movimento cervicale lentamente e con precisione.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-001",
+          "sezione": "Regione anteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Cervical Retraction",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "scapular-retraction",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione supina Deep Neck Flexor Attivazione",
+          "image": "",
+          "description": "Questo esercizio è volto a migliorare la ampiezza articolare attiva e controllo del movimento della colonna vertebrale cervicale durante la flessione.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse e i piedi sostenuti. Eseguire una leggera ritrazione cervicale, quindi sollevare la testa di circa 2 a 3 cm mantenendo la posizione retratta. Tenere premuto per 3 a 5 secondi, quindi abbassare la testa lentamente.",
+          "whatToDo": "Mantenere il tratto toracico eretto, rilassare le spalle ed eseguire il movimento cervicale lentamente e con precisione.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-002",
+          "sezione": "Regione anteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Deep Neck Flexor Attivazione",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flessione isometrica cervicale con resistenza manuale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare della colonna vertebrale cervicale, con enfasi sulla flessione.",
+          "howToDo": "Siediti in piedi o in piedi. Posiziona un palmo contro la fronte. Applicare una leggera pressione in avanti con la testa mentre la mano fornisce la stessa resistenza in modo che non si verifichi alcun movimento visibile. Tenere per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-003",
+          "sezione": "Regione anteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Flessione isometrica cervicale con resistenza manuale",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione cervicale In posizione seduta con apertura controllata della mascella",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della colonna vertebrale cervicale durante l'estensione.",
+          "howToDo": "Siediti in posizione verticale su una sedia. Inizia guardando dritto. Inclina lentamente la testa verso l'alto verso il soffitto. Una volta comoda, apri delicatamente la bocca, poi richiudila mantenendo la testa inclinata. Riporta la testa alla posizione di partenza lentamente. Ripetere 5 volte.",
+          "whatToDo": "Mantenere il tratto toracico eretto, rilassare le spalle ed eseguire il movimento cervicale lentamente e con precisione.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-004",
+          "sezione": "Regione anteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Estensione cervicale In posizione seduta con apertura controllata della mascella",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "anterior-neck-region"
+    },
+    {
+      "nome": "Regione laterale del collo",
+      "esercizi": [
+        {
+          "nome": "Flessione laterale cervicale In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale cervicale, con enfasi sulla flessione laterale.",
+          "howToDo": "Siediti in piedi su una sedia con le braccia rilassate dai fianchi. Porta lentamente l'orecchio destro verso la spalla destra, senza sollevare la spalla. Fermati quando senti un leggero tratto sul lato sinistro. Mantenere premuto per 5 secondi, torna al centro, poi Ripetere lo stesso movimento a sinistra.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-005",
+          "sezione": "Regione laterale del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Flessione laterale cervicale In posizione seduta",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flessione laterale cervicale isometrica con resistenza manuale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della colonna vertebrale cervicale, con enfasi sulla flessione laterale.",
+          "howToDo": "Mettere un palmo contro la regione temporale sopra l'orecchio. Applicare una leggera pressione laterale con la testa mentre la mano fornisce la stessa resistenza in modo che non si verifichi alcun movimento visibile. Tenere per 5 secondi, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-006",
+          "sezione": "Regione laterale del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Flessione laterale cervicale isometrica con resistenza manuale",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotazione cervicale In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare la ampiezza articolare attiva e il controllo del movimento della colonna vertebrale cervicale durante la rotazione.",
+          "howToDo": "Siediti in posizione verticale con le spalle rilassate. Ruota lentamente la testa da un lato attraverso la ampiezza di movimento confortevole disponibile. Tenere per 3-5 secondi, tornare a posizione neutra, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere il tratto toracico eretto, rilassare le spalle ed eseguire il movimento cervicale lentamente e con precisione.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-007",
+          "sezione": "Regione laterale del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Rotazione cervicale In posizione seduta",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flessione laterale cervicale assistita allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale cervicale, con enfasi sulla flessione laterale.",
+          "howToDo": "Siediti in piedi su una sedia. Porta l'orecchio destro verso la spalla destra. Metti delicatamente la mano destra sopra la testa, vicino all'orecchio sinistro. Usa solo il peso della mano per guidare il movimento verso il basso, senza tirare con forza. Mantenere premuto per 5 secondi, poi Ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-008",
+          "sezione": "Regione laterale del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Flessione laterale cervicale assistita allungamento",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "lateral-neck-region"
+    },
+    {
+      "nome": "Regione posteriore del collo",
+      "esercizi": [
+        {
+          "nome": "Flessione cervicale In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale cervicale, con enfasi sulla flessione.",
+          "howToDo": "Siediti in posizione eretta con entrambe le mani appoggiate sulle cosce. Flessi lentamente la colonna vertebrale cervicale dirigendo il mento verso lo sterno. Mantenere un lieve tratto cervicale posteriore per 5 secondi, quindi torna a posizione neutra.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-009",
+          "sezione": "Regione posteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Flessione cervicale In posizione seduta",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Estensione cervicale isometrica con resistenza manuale",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della colonna vertebrale cervicale, con enfasi sull'estensione.",
+          "howToDo": "Siediti in posizione verticale e posiziona entrambe le mani contro la regione occipitale. Applicare una leggera pressione posteriore con la testa mentre le mani forniscono una resistenza uguale in modo che non si verifichi alcun movimento visibile. Tenere premuto per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-010",
+          "sezione": "Regione posteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Estensione cervicale isometrica con resistenza manuale",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flessione cervicale assistita allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato alla colonna vertebrale cervicale, con enfasi sulla flessione.",
+          "howToDo": "Siediti in piedi su una sedia. Interlaccia le mani e mettile delicatamente dietro la testa. Lascia che la testa cada in avanti verso il petto, usando solo il peso delle braccia per guidare il movimento verso il basso. Non dovresti tirare con forza. Mantenere premuto per 5 secondi, poi torna lentamente alla posizione di partenza.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-011",
+          "sezione": "Regione posteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Flessione cervicale assistita allungamento",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Ritrazione scapolare In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio è destinato a migliorare il controllo motorio e la stabilità della colonna vertebrale cervicale durante la ritrazione scapolare.",
+          "howToDo": "Siediti in posizione verticale con i gomiti fletteti e le mani vicino alle spalle. Muovi i gomiti in posizione posteriore mentre ritrae delicatamente le scapola. Mantenere premuto per 5 secondi, poi torna a posizione neutra.",
+          "whatToDo": "Mantenere il tratto toracico eretto, rilassare le spalle ed eseguire il movimento cervicale lentamente e con precisione.",
+          "whatNotToDo": "Non forzare il tratto cervicale a fine corsa e non utilizzare lo slancio. Interrompere l'esercizio in caso di vertigini, sintomi irradiati, intorpidimento o dolore acuto.",
+          "id": "neck-012",
+          "sezione": "Regione posteriore del collo",
+          "distretto": "Collo",
+          "thumbnail": "",
+          "imageAlt": "Ritrazione scapolare In posizione seduta",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "stabilization",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "posterior-neck-region"
+    }
+  ],
+  "id": "neck"
+}

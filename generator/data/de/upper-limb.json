@@ -1,0 +1,2190 @@
+{
+  "distretto": "Obere Extremität",
+  "sezioni": [
+    {
+      "nome": "Schulter - Mobilität und motorische Kontrolle",
+      "esercizi": [
+        {
+          "nome": "Schulterumrundung mit Händen auf Schultern",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Zirkumduktion des Schulterkomplexes verbessern.",
+          "howToDo": "Setzen Sie sich aufrecht oder stehen Sie. Legen Sie Ihre rechte Hand auf Ihre rechte Schulter und Ihre linke Hand auf Ihre linke Schulter. Ziehen Sie langsam kleine Kreise mit Ihren Ellbogen, bewegen Sie sie nach vorne, nach oben, rückwärts und nach unten. Machen Sie 5 Kreise nach vorne und dann 5 Kreise nach hinten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-038",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Schulterumrundung mit Händen auf Schultern",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wand Gleitbewegung mit Skapula Control",
+          "image": "",
+          "description": "Mit dieser aktiven Mobilitätsübung soll die kontrollierte Beugung und die skapulöse Protraktion des Schulterkomplexes verbessert werden.",
+          "howToDo": "Stehen Sie mit Blick auf eine Wand mit den Unterarmen ruhen darauf. Halten Sie die Schulterblätter sanft aktiv, schieben Sie die Arme langsam nach oben, dann mit Kontrolle zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-054",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wand Gleitbewegung mit Skapula Control",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-protraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stehende Schulter-Gürtel-Zirkumduktion",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Zirkumduktion des Schulterkomplexes verbessern.",
+          "howToDo": "Stehen Sie hoch mit den Armen entspannt. Ziehen Sie langsame Kreise mit den Schultern, zuerst vorwärts und dann rückwärts, mit einem komfortablen Bereich.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-056",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Schulter-Gürtel-Zirkumduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Im Stand Wand Gleitbewegung für aktiv-unterstützte Schulter Flexion",
+          "image": "",
+          "description": "Diese aktiv unterstützte Mobilitätsübung entwickelt kontrollierte Schulterbeugung, während die Wand das Gewicht der oberen Gliedmaßen unterstützt.",
+          "howToDo": "Stehen Sie mit Blick auf eine Wand mit beiden Händen ruht auf ihm in Schulterbreite. Halten Sie den Stamm aufrecht, schieben Sie die Hände nach oben, bis die verfügbaren bequemen Beugungsbereich erreicht ist, dann langsam in die Ausgangsposition zurück.",
+          "whatToDo": "Halten Sie die Rippen kontrolliert, lassen Sie die Scapulae auf natürliche Weise nach oben drehen, und verwenden Sie leichten Handkontakt mit der Wand während der Bewegung.",
+          "whatNotToDo": "Bogen Sie nicht den unteren Rücken, heben Sie die Schultern übermäßig, oder zwingen Sie die Arme über einen bequemen Bereich hinaus.",
+          "id": "upper-limb-060",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Wand Gleitbewegung für aktiv-unterstützte Schulter Flexion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Resisted Schulter Horizontal Abduktion mit Band",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während horizontaler Abduktion und skapulärer Retraktion verbessern.",
+          "howToDo": "Halten Sie ein leichtes Band mit beiden Händen vor der Brust. Öffnen Sie die Arme nach außen, bis sich die Brust weitet, dann langsam zurückkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-066",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Resisted Schulter Horizontal Abduktion mit Band",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Schulterflexion Pass-Through mit Dübel",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung und Extension des Schulterkomplexes verbessern.",
+          "howToDo": "Halten Sie einen Stock mit einem breiten Griff vor dem Körper. Heben Sie ihn oben und, wenn bequem, weiter hinter dem Körper, bevor Sie auf dem gleichen Weg zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-077",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Schulterflexion Pass-Through mit Dübel",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wandunterstützt Schulter Abduktion Folie",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion und äußere Rotation des Schulterkomplexes verbessern.",
+          "howToDo": "Stehen Sie mit der Rückenstütze gegen eine Wand und die Ellbogen auf 90 Grad gebeugt. Schieben Sie die Arme nach oben und nach unten, während der bequeme Kontakt zwischen den oberen Gliedmaßen und der Wand.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-081",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Schulter Abduktion Folie",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Skapula Elevation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der skapulösen Erhebung verbessert werden.",
+          "howToDo": "Stehen Sie hoch mit den Armen entspannt an den Seiten. Beginnen Sie mit den Schultern tief und die Brust bequem offen. Heben Sie langsam beide Schultern in Richtung der Ohren, Pause kurz, dann senken Sie sie mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-082",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Skapula Elevation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-elevation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Einbeinig-Arm Overhead Skapula Elevation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Beugung, der scapularen Erhöhung und der scapularen Aufwärtsdrehung verbessert werden.",
+          "howToDo": "Stehen Sie aufrecht mit einem Arm über dem Kopf. Halten Sie den Ellbogen gerade und die Rippen kontrolliert, erheben und nach oben drehen Sie die Scapula, um die Reichweite zu erhöhen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-084",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Einbeinig-Arm Overhead Skapula Elevation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-elevation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wand Ball Schulter-Zirkumduktion an der Elbow",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der Zirkumduktion verbessern.",
+          "howToDo": "Stehen Sie mit Blick auf eine Wand und legen Sie eine weiche Kugel zwischen die Wand und einen Ellenbogen. Auf sanften Druck, um die Kugel an Ort und Stelle, dann führen Sie den Ellenbogen durch kleine Kreisen im Uhrzeigersinn und kleine gegen den Uhrzeigersinn Kreise.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-093",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wand Ball Schulter-Zirkumduktion an der Elbow",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wandball Multidirektionale Schultersteuerung",
+          "image": "",
+          "description": "Diese Übung soll die Motorsteuerung und Stabilität des Schulterkomplexes während der Beugung, Extension, Horizontalabduktion und Horizontaladduktion verbessern.",
+          "howToDo": "Stehen Sie mit einer weichen Kugel zwischen der Wand und einem Ellenbogen gegenüber einer Wand. Halten Sie den Lichtdruck aufrecht und bewegen Sie den Ellenbogen nach oben, rechts, unten und links, um ein kleines Quadrat zu zeichnen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-094",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wandball Multidirektionale Schultersteuerung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "horizontal-abduction",
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Schulterumrundung Sequenz mit gebeugt Elbows",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Extension, Abduktion, äußerer Rotation und Beugung verbessert werden.",
+          "howToDo": "Stehen Sie aufrecht und legen Sie jede Hand auf die ipsilaterale Schulter. Bewegen Sie die Ellbogen nach unten und nach hinten, dann seitlich in Schulterabduktion und äußere Rotation, und schließlich nach oben in Beugung. Kehren Sie durch die gleiche Reihenfolge.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-095",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Schulterumrundung Sequenz mit gebeugt Elbows",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "abduction",
+            "external-rotation",
+            "flexion",
+            "coordination"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Schulterumrundung in Abduktion und äußere Rotation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Zirkumduktion, der äußeren Rotation und der skapulären Retraktion verbessert werden.",
+          "howToDo": "Stehen Sie hoch mit jeder Hand berühren die Schulter auf der gleichen Seite. Öffnen Sie die Ellenbogen an den Seiten und halten Sie sie in der Nähe der Schulterhöhe. Halten Sie die Brust offen und die Schulterblätter sanft zusammen gezogen, ziehen Sie kleine Kreise mit den Ellenbogen in beide Richtungen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-096",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Schulterumrundung in Abduktion und äußere Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "external-rotation",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wechselnde Schulter-Zirkumduktion",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Zirkumduktion des Schulterkomplexes verbessern.",
+          "howToDo": "Stehen Sie hoch mit beiden Armen über dem Kopf. Beginnen Sie, einen Arm nach vorn und nach unten zu kreisen, während der andere nach hinten und nach unten kreist.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-100",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wechselnde Schulter-Zirkumduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "coordination",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Progressive-Durchmesser Schulterbeschneidung",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der Zirkumduktion verbessern.",
+          "howToDo": "Stehen Sie hoch mit beiden Armen offen an den Seiten in Schulterhöhe. Beginnen Sie mit kleinen Kreisen und erhöhen Sie nach und nach ihren Durchmesser, bis jeder Arm einen bequemen Kreis schließt. Dann reduzieren Sie den Durchmesser Schritt für Schritt, bis die Arme wieder an die Seiten gehalten werden. Wiederholen Sie in der entgegengesetzten Richtung.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-103",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Progressive-Durchmesser Schulterbeschneidung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende Overhead Dowle Herunterfahren hinter dem Kopf",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Beugung, Abduktion und äußeren Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie weg von der Rückenlehne mit der Wirbelsäule hoch. Halten Sie einen Stock oder Handtuch mit einem bequemen breiten Griff und heben Sie es über den Kopf. Biegen Sie die Ellbogen, um es sanft hinter dem Kopf zu senken, dann verlängern Sie die Ellbogen, um es über Kopf zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-104",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Overhead Dowle Herunterfahren hinter dem Kopf",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wand-unterstützte in Kaktusposition Overhead-Presse",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während Beugung, Abduktion, äußerer Rotation und skapulärer Aufwärtsrotation verbessert werden.",
+          "howToDo": "Stehen Sie mit dem Rücken gegen eine Wand. Legen Sie die Arme in eine Torpfostenform mit den Oberarmen an den Seiten und die Ellenbogen auf 90 Grad gebogen. Halten Sie die Rücken der Hände in der Nähe der Wand, schieben und verlängern Sie die Arme nach oben, dann zurück in die Torpfostenposition.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-105",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wand-unterstützte in Kaktusposition Overhead-Presse",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Unterstützte Schulter Pendel-Zirkumduktion",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Zirkumduktion des Schulterkomplexes verbessern.",
+          "howToDo": "Stehen Sie neben einer stabilen Bank oder Stuhl in einer versetzten Haltung. Hingen Sie vor der Hüfte mit einem neutralen Rücken und unterstützen Sie den Körper mit der gegenüberliegenden Hand. Lassen Sie den arbeitenden Arm frei zum Boden hängen, dann schaffen kleine im Uhrzeigersinn und gegen den Uhrzeigersinn Kreise durch sanftes Verschieben des Körpers.",
+          "whatToDo": "Halten Sie die beteiligte obere Gliedmaße entspannt und verwenden Sie eine kleine, gravitätsunterstützte Bewegung, die durch eine sanfte Körpergewichtsverschiebung erzeugt wird.",
+          "whatNotToDo": "Nicht aktiv den Arm heben oder große, schnelle Kreise aus der Schulter zu schaffen.",
+          "id": "upper-limb-107",
+          "sezione": "Schulter - Mobilität und motorische Kontrolle",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Schulter Pendel-Zirkumduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "gravity-assisted"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-mobility-control"
+    },
+    {
+      "nome": "Schulter - Vordere Region",
+      "esercizi": [
+        {
+          "nome": "Schulterabduktion und externe Rotation mit Händen hinter dem Kopf",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Abduktion und der äußeren Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl oder stehen. Heben Sie Ihre Arme an die Seiten und biegen Sie Ihre Ellbogen, bringen die Handflächen der Hände sanft berühren den Rücken des Kopfes, den Nacken des Nackens. Von dieser Position, drücken Sie Ihre Ellbogen nach hinten durch die verfügbaren bequemen Bereich, Gefühl Ihrer Brust offen. Halten Sie diese Position für 5 Sekunden, und entspannen Sie anschließend Sie Ihre Arme an den Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-001",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Schulterabduktion und externe Rotation mit Händen hinter dem Kopf",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Isometrische Pectoral Press",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Schulterkomplexes zu entwickeln, mit Schwerpunkt auf horizontaler Adduktion.",
+          "howToDo": "Sitzen Sie aufrecht mit den Handflächen zusammen vor dem Brustbein und die Ellenbogen Ebene mit den Händen. Drücken Sie die Handflächen zusammen mit stetigen submaximalen Kraft. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-002",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Pectoral Press",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende oder Stehende Schulter Flexion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Beugung verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen Sie mit beiden Armen neben dem Stamm und den Palmen nach innen. Flex beide Schultern, um die Arme vorn auf etwa Augenhöhe zu heben. Halten Sie die Position 3 Sekunden lang, dann langsam unter. Ein leichtes Objekt kann nur hinzugefügt werden, wenn es für die gewählte Schwierigkeit geeignet ist.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-003",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende oder Stehende Schulter Flexion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wandunterstützt Schulter Flexion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Beugung verbessert werden.",
+          "howToDo": "Mit Blick auf eine Wand mit den Fingerspitzen in Brusthöhe positioniert stehen. Die Finger in kleinen abwechselnden Schritten nach oben schieben, um den Arm durch den zur Verfügung stehenden Komfortbereich zu heben. Kurz halten, dann mit der gleichen kontrollierten Reihenfolge zurückkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-004",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Schulter Flexion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Skapula Protraction",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während der skapulären Protraktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Armen nach vorne auf Schulterhöhe und die Handflächen einander gegenüber. Halten Sie die Ellbogen gerade, ziehen Sie die Schulterblätter, sodass die Hände bewegen sich etwas weiter nach vorne. Halten Sie die Position 3 Sekunden lang, und kehren Sie anschließend in die Neutralstellung zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-039",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Skapula Protraction",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Vierfüßlerstand einbeinig-Arm Schulter Flexion",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der Beugung verbessern.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position auf einer gepolsterten Oberfläche an. Halten Sie Ihre Hände unter den Schultern und die Knie unter den Hüften. Heben Sie langsam den rechten Arm nach vorne, halten Sie ihn gerade, bis er die Höhe Ihrer Schulter erreicht. Halten Sie die Position 2 Sekunden lang, dann legen Sie die Hand wieder nach unten. Wiederholen Sie 5 Mal, dann schalten Sie die Arme.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-047",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand einbeinig-Arm Schulter Flexion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Closed-Chain Push-Up",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der horizontalen Adduktion verbessern.",
+          "howToDo": "Legen Sie die Hände auf den Boden oder auf eine erhöhte Oberfläche. Halten Sie den Körper lang, biegen Sie die Ellenbogen, um die Brust zu senken, dann drücken Sie zurück in die Ausgangsposition.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-057",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Closed-Chain Push-Up",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Stehende Schulter horizontale Abduktion Pulse",
+          "image": "",
+          "description": "Diese dynamische Mobilitätsübung entwickelt eine kleine glenohumerale horizontale Abduktion mit den oberen Gliedmaßen, die in Schulterhöhe gehalten werden.",
+          "howToDo": "Stehen Sie aufrecht mit beiden Schultern auf ca. 90 Grad entführt und die Ellbogen bequem verlängert. Bewegen Sie beide Oberarme einen kurzen Abstand nach hinten, dann zurück zur Frontalebene in einem langsamen, wiederholten Puls.",
+          "whatToDo": "Initiieren Sie die Bewegung an den Schultergelenken, halten Sie den Stamm stationär und verwenden Sie einen kleinen symmetrischen Bereich.",
+          "whatNotToDo": "Nicht die Brust nach vorne schubsen, die Lendenwirbelsäule verlängern, die Schultern zucken oder schnelle Impulse verwenden.",
+          "id": "upper-limb-058",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Schulter horizontale Abduktion Pulse",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Doorway Pectoral Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung des Schulterkomplexes mit Schwerpunkt auf horizontaler Abduktion und äußerer Rotation.",
+          "howToDo": "Legen Sie den Unterarm oder die Hand auf eine Tür in Schulterhöhe. Treten Sie einen Fuß nach vorne und drehen Sie vorsichtig den Körper weg, bis die Brust erstreckt sich.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-061",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Doorway Pectoral Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Stehende Bizeps und vordere Schulter Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zum Schulterkomplex, wobei der Schwerpunkt auf Extension liegt.",
+          "howToDo": "Stehen Sie hoch und erreichen Sie einen Arm leicht hinter dem Körper mit dem Ellenbogen gerade. Drehen Sie die Handfläche sanft weg oder legen Sie die Hand auf eine Stütze hinter Ihnen.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-067",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Bizeps und vordere Schulter Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wandunterstützt Pectoral und Biceps Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zum Schulterkomplex, wobei der Schwerpunkt auf Extension und äußere Rotation liegt.",
+          "howToDo": "Stehen Sie neben einer Wand und legen Sie eine Hand oder Unterarm hinter sich auf sie. Drehen Sie langsam den Körper weg, bis die Brust und die Vorderseite des Arms dehnen.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-070",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Pectoral und Biceps Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Boden-unterstützte Biceps Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zum Schulterkomplex, wobei der Schwerpunkt auf Extension liegt.",
+          "howToDo": "Sitzen Sie auf dem Boden mit den Händen hinter Ihnen und die Finger nach außen oder weg. Bewegen Sie langsam die Hüften nach vorne, bis die Vorderseite der Arme erstreckt sich.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-076",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Boden-unterstützte Biceps Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Stand Skapula Protraction mit verlängertem Arm",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsumfang des Schulterkomplexes während der skapulalen Protraktion und horizontalen Adduktion verbessert werden.",
+          "howToDo": "Stehen Sie aufrecht und verlängern Sie einen Arm nach vorn in Schulterhöhe. Halten Sie den Ellenbogen gerade und den Stamm stationär, ziehen Sie die Schulterhöhle, sodass die Hand leicht vorrückt. Zurück in die neutrale Skapula Position.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-083",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Skapula Protraction mit verlängertem Arm",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction",
+            "horizontal-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In Rückenlage in Kaktusposition Schulter horizontale Adduktion",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Schulterkomplexes während horizontaler Adduktion, horizontaler Abduktion und skapulärer Retraktion verbessern.",
+          "howToDo": "Liegen Sie mit den Knien gebogen. Öffnen Sie die Oberarme an den Seiten und biegen Sie die Ellenbogen zu einem Torpfosten. Halten Sie die Ellenbogen gebogen, bringen Sie die inneren Unterarme zu einander vor der Brust, dann wieder mit Kontrolle öffnen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-108",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage in Kaktusposition Schulter horizontale Adduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In Rückenlage Straight-Arm Schulter horizontale Adduktion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der horizontalen Adduktion und der horizontalen Abduktion verbessert werden.",
+          "howToDo": "Liegen Sie mit den Knien gebogen und öffnen Sie beide gerade Arme an den Seiten. Sweep die Arme nach oben, bis die Handflächen treffen oder fast über der Brust treffen, zeigen auf die Decke, dann senken Sie sie zurück zu den Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-109",
+          "sezione": "Schulter - Vordere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Straight-Arm Schulter horizontale Adduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-anterior-region"
+    },
+    {
+      "nome": "Schulter - Seitliche Region",
+      "esercizi": [
+        {
+          "nome": "Sitzende oder stehende Schulter Abduktion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während der Abduktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen Sie mit den Armen neben dem Kofferraum und den Palmen nach innen. Heben Sie beide Arme seitlich zur Schulterhöhe auf, Halten Sie die Position 3 Sekunden lang an, dann senken Sie sie langsam.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-005",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende oder stehende Schulter Abduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Schulterabduktion gegen Wand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Schulterkomplexes mit Schwerpunkt auf Abduktion zu entwickeln.",
+          "howToDo": "Stand seitlich an einer Wand mit dem Ellbogen auf 90 Grad gebeugt. Legen Sie den seitlichen Aspekt des Ellbogens gegen die Wand und wenden Sie sanften Druck nach außen ohne Gelenkbewegung. Halten Sie die Position 5 Sekunden lang, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-006",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Schulterabduktion gegen Wand",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Tisch-unterstützte Schulterabduktion und Adduktion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Abduktion und Adduktion verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht vor einem Tisch. Legen Sie die Handflächen Ihrer Hände auf den Tisch vor Ihnen, mit Ihren Ellbogen leicht gebogen. Ohne die Hände von der Oberfläche zu heben, schieben Sie beide Hände gleichzeitig nach außen und öffnen Sie sie so weit wie möglich. Dann noch gleiten, bringen Sie sie zurück in die Mitte. Wiederholen Sie diese Bewegung 5 Mal.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-007",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Tisch-unterstützte Schulterabduktion und Adduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Wandunterstützt Schulter Abduktion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während der Abduktion verbessern.",
+          "howToDo": "Stehen Sie seitlich neben einer Wand, mit Ihrer rechten Seite mit Blick auf die Wand. Legen Sie die Fingerspitzen Ihrer rechten Hand auf die Wand in Schulterhöhe. Mit den Fingern, machen Sie sie \"zu Fuß\" die Wand, bewegen Sie Ihren Arm auf die Seite so weit, wie Sie bequem erreichen können. Bleiben Sie dort für 5 Sekunden, dann langsam wieder nach unten kommen und wiederholen Sie mit Ihrer linken Seite mit Blick auf die Wand.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-008",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Schulter Abduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützte Partial Triceps Dip ausführen",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der Extension verbessern.",
+          "howToDo": "Stützen Sie die Hände auf einer stabilen Oberfläche neben oder hinter dem Körper. Biegen Sie die Ellbogen leicht, um einen kurzen Abstand zu senken, dann drücken Sie wieder nach oben.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-059",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Partial Triceps Dip ausführen",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Unterstützte isometrische Partial Dip Halteposition ausführen",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Schulterkomplexes zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Stützen Sie die Hände auf einer stabilen Oberfläche und senken Sie nur eine kleine Menge in eine Tauchposition. Halten Sie die Position beim Atmen, dann wieder mit Kontrolle.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-063",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte isometrische Partial Dip Halteposition ausführen",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Stand aktiv körperübergreifend Schulter Reichbewegung",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung entwickelt kontrollierte Schulter horizontale Adduktion ohne Unterstützung vom gegenüberliegenden oberen Glied.",
+          "howToDo": "Stehen Sie aufrecht und heben Sie einen Arm nach vorn in Schulterhöhe mit dem Ellbogen verlängert oder leicht gebeugt. Bewegen Sie den Arm über die Brust unter muskulöser Kontrolle, dann wieder in die Ausgangsposition ohne Unterstützung aus dem gegenüberliegenden Arm.",
+          "whatToDo": "Halten Sie den Kofferraum nach vorne gerichtet und führen Sie die Außen- und Rücklaufphasen durch den verfügbaren komfortablen Bereich mit der gleichen kontrollierten Geschwindigkeit durch.",
+          "whatNotToDo": "Drehen Sie nicht den Stamm, ziehen Sie den Arm mit der gegenüberliegenden Hand, zucken Sie die Schulter, oder verwenden Sie Schwung.",
+          "id": "upper-limb-080",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand aktiv körperübergreifend Schulter Reichbewegung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stehende kleine Durchmesser Schulterumrundung",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Schulterkomplexes zu entwickeln, mit dem Schwerpunkt auf Zirkumduktion und Abduktion.",
+          "howToDo": "Stehen Sie hoch und öffnen Sie beide gerade Arme zu den Seiten bei 90 Grad. Zeichnen Sie kleine nach vorne Kreise für mehrere Wiederholungen, dann ziehen Sie die gleiche Anzahl von rückwärts Kreisen.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-101",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende kleine Durchmesser Schulterumrundung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Schulter Abduktion und Adduktion Impulse",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der Abduktion und Adduktion verbessern.",
+          "howToDo": "Stehen Sie hoch mit beiden Armen offen zu den Seiten. Bewegen Sie die Arme sanft nach oben und unten wie Flügel, halten Sie die Bewegung in der seitlichen Ebene und mit nur einem kleinen Bereich.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-102",
+          "sezione": "Schulter - Seitliche Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Schulter Abduktion und Adduktion Impulse",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-lateral-region"
+    },
+    {
+      "nome": "Schulter - Hintere Region",
+      "esercizi": [
+        {
+          "nome": "Sitzende Schulterverlängerung mit gebeugt Elbows",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während der Extension und der skapulären Retraktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht weg von der Rückenlehne mit den Ellbogen gebeugt und auf Brusthöhe erhöht. Bewegen Sie beide Ellbogen nach hinten durch einen kleinen kontrollierten Bereich. Halten Sie die Position 5 Sekunden lang, dann wieder in die Ausgangsposition.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-009",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Schulterverlängerung mit gebeugt Elbows",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Schulterverlängerung gegen Rückenlehne",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Schulterkomplexes zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht mit dem Rücken gestützt und beide Ellbogen auf 90 Grad neben dem Rumpf gebeugt. Drücken Sie die Ellbogen nach hinten in die Rückenlehne mit stetigen submaximalen Kraft. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-010",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Schulterverlängerung gegen Rückenlehne",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Schulterverlängerung und interne Rotation hinter dem Rücken",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Extension und inneren Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen Sie. Bewegen Sie beide oberen Gliedmaßen hinter dem Rumpf auf Taillenhöhe und halten Sie ein Handgelenk mit der gegenüberliegenden Hand, wenn verfügbar. Alternativ legen Sie die dorsalen Oberflächen der Hände gegen die Lendenwirbelregion. Erweitern Sie sanft und drehen Sie die Schultern innen, dann Halten Sie die Position 5 Sekunden lang.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-011",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Schulterverlängerung und interne Rotation hinter dem Rücken",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "internal-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende Schulter horizontale Abduktion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während horizontaler Abduktion und Extension verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Armen nach vorn auf Schulterhöhe und die Handflächen einander gegenüber. Bewegen Sie die Arme horizontal nach außen und leicht nach hinten durch die verfügbaren bequemen Bereich. Halten Sie die Position 3 Sekunden lang, dann zurückkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-012",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Schulter horizontale Abduktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende Bilaterale Schulter externe Rotation",
+          "image": "",
+          "description": "Diese bilaterale aktive Übung entwickelt symmetrische Schulter-Extern-Rotations-Kontrolle mit beiden Ellenbogen neben dem Kofferraum gehalten.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Biegen Sie beide Ellbogen auf 90 Grad und halten Sie sie in der Nähe Ihrer Seiten. Halten Sie Ihre Handflächen nach oben. Bewegen Sie langsam Ihre Hände nach außen, öffnen Sie Ihre Unterarme an den Seiten, während Sie Ihre Ellbogen an Ihrem Körper befestigt. Halten Sie die Position 2 Sekunden lang, dann zurück in die Ausgangsposition. Wiederholen Sie 5 mal.",
+          "whatToDo": "Bewegen Sie beide Unterarme symmetrisch, halten Sie die Ellbogen leicht in Kontakt mit dem Rumpf, und halten Sie neutrale Handgelenk Ausrichtung.",
+          "whatNotToDo": "Trennen Sie die Ellbogen nicht vom Rumpf, ziehen Sie die Schultern kräftig zurück, drehen Sie den Rumpf oder zwingen Sie den verfügbaren Bereich.",
+          "id": "upper-limb-037",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Bilaterale Schulter externe Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende Skapula Depression und Retraktion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während der skapulären Depression und der skapulären Retraktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit den Armen entspannt neben dem Kofferraum. Sanft deprimieren und ziehen Sie die Scapulae, ohne den Kopf zu bewegen oder verlängern die Lendenwirbelsäule. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-040",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Skapula Depression und Retraktion",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-depression",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Schulter horizontale Abduktion mit Handtuch",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Schulterkomplexes während horizontaler Abduktion und skapulärer Retraktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen und halten Sie ein Handtuch zwischen beiden Händen in Brusthöhe mit den Ellbogen leicht gebeugt. Anwenden nach außen Spannung auf das Handtuch, ohne die Armposition. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-041",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Schulter horizontale Abduktion mit Handtuch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In Seitenlage Schulter externe Rotation",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Schulterkomplexes während der äußeren Rotation verbessern.",
+          "howToDo": "Legen Sie auf einer Seite mit dem oberen Ellenbogen auf 90 Grad gebogen und gehalten in der Nähe des Körpers. Drehen Sie die Hand in Richtung der Decke, dann langsam unter.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-055",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Seitenlage Schulter externe Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Schulterflexion Mobilisierung Pulse",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung des Schulterkomplexes verbessern.",
+          "howToDo": "Stehen Sie mit Blick auf eine stabile Stütze und legen Sie beide Hände auf sie in etwa Schulterhöhe. Schritt nach hinten und Scharnier an den Hüften, bis die Arme verlängert sind. Bewegen Sie den Thorax sanft nach unten durch einen kleinen Bereich, dann zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-062",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Schulterflexion Mobilisierung Pulse",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stockunterstützt Schulter Interne Rotation Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zum Schulterkomplex, wobei der Schwerpunkt auf der inneren Rotation liegt.",
+          "howToDo": "Halten Sie eine Dübel hinter dem Rumpf mit einer Hand oben und der anderen unten. Verwenden Sie die obere Hand, um den unteren Arm allmählich in Schulter innere Rotation zu führen. Stoppen Sie bei einem milden Dehnung und halten Sie die Position.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-064",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stockunterstützt Schulter Interne Rotation Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stockunterstützt Schulter außen Rotation Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zum Schulterkomplex, wobei der Schwerpunkt auf der äußeren Rotation liegt.",
+          "howToDo": "Halten Sie den Ellenbogen nahe an der Seite und biegen Sie auf 90 Grad. Verwenden Sie einen Stock, um den Unterarm sanft nach außen zu führen, dann halten Sie eine leichte Dehnung.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-065",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stockunterstützt Schulter außen Rotation Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Im Stand Latissimus Dorsi Dehnung durchführen",
+          "image": "",
+          "description": "Diese Mobilitätsübung sorgt für eine kontrollierte Dehnung des Schulterkomplexes, wobei der Schwerpunkt auf Beugung liegt.",
+          "howToDo": "Halten Sie eine stabile Stütze mit den Händen und setzen Sie die Hüften zurück, bis die Seiten der Schultern und Rücken verlängert. Halten Sie mit entspannter Atmung.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-068",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Im Stand Latissimus Dorsi Dehnung durchführen",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In Seitenlage Schulter innere Rotation Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zum Schulterkomplex, wobei der Schwerpunkt auf der inneren Rotation liegt.",
+          "howToDo": "Legen Sie auf der Seite mit der Schulter und Ellbogen auf 90 Grad gebogen. Verwenden Sie die gegenüberliegende Hand, um den Unterarm sanft auf den Boden zu führen.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-069",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Seitenlage Schulter innere Rotation Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stehende Kreuz-Körper hintere Schulter Dehnung",
+          "image": "",
+          "description": "Diese aufrechte selbstunterstützte Dehnung verwendet Schulter horizontale Adduktion, um das hintere Schultergewebe zu verlängern.",
+          "howToDo": "Stehen Sie aufrecht und bringen Sie einen Arm über die Brust in Schulterhöhe. Legen Sie den gegenüberliegenden Unterarm über den Ellenbogen und ziehen Sie den Arm sanft näher an den Rumpf, bis eine leichte hintere Schulterdehnung wahrgenommen wird. Halten Sie, dann wechseln Sie die Seiten.",
+          "whatToDo": "Halten Sie die getestete Schulter unterhalb des Ohrs, halten Sie den Rumpf nach vorne gerichtet, und verwenden Sie nur sanfte Unterstützung vom gegenüberliegenden Arm.",
+          "whatNotToDo": "Drehen Sie den Rumpf nicht, ziehen Sie direkt am Ellenbogengelenk, heben Sie die Schulter oder zwingen Sie die Dehnung.",
+          "id": "upper-limb-071",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Kreuz-Körper hintere Schulter Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Aktiv Schulter Interne Rotation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der inneren Rotation verbessert werden.",
+          "howToDo": "Sitzen oder stehen hoch mit dem Ellbogen auf 90 Grad gebogen. Drehen Sie den Unterarm nach innen durch einen bequemen Bereich, Pause kurz, dann zurückkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-072",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktiv Schulter Interne Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Isometrische Schulter externe Rotation gegen Wand",
+          "image": "",
+          "description": "Diese isometrische Übung aktiviert die Schulter äußeren Rotatoren, ohne sichtbare glenohumerale Bewegung.",
+          "howToDo": "Stand seitlich an einer Wand mit dem arbeitenden Ellbogen auf 90 Grad gebeugt und neben dem Rumpf gehalten. Legen Sie die Rückseite der Hand gegen die Wand und drücken Sie nach außen mit stetigen submaximalen Kraft, ohne dass der Arm zu bewegen. Halten Sie die Position 5 Sekunden lang, entspannen und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie den Ellbogen neben dem Kofferraum fest, das Handgelenk neutral und die Schulter entspannt bei normaler Atmung.",
+          "whatNotToDo": "Drehen Sie den Rumpf nicht, entführen Sie den Ellenbogen, verlängern Sie das Handgelenk, halten Sie den Atem an oder wenden Sie maximale Kraft an.",
+          "id": "upper-limb-073",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Schulter externe Rotation gegen Wand",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Stand Isolated Skapula Retraction",
+          "image": "",
+          "description": "Diese selektive Kontrollübung betont die skapulothorakische Retraktion bei gleichzeitiger Minimierung der Bewegung an den glenohumeralen Gelenken.",
+          "howToDo": "Stehen Sie aufrecht mit den Armen entspannt neben dem Stamm und die Ellbogen weich gebeugt. Ohne die Oberarme nach hinten zu bewegen, ziehen Sie beide Scapulae sanft in Richtung der Wirbelsäule, kurz Pause, dann loslassen sie zu neutral.",
+          "whatToDo": "Halten Sie den Hals entspannt, die Rippen über dem Becken ausgerichtet, und die oberen Arme stehen, während die Schulterhöhlen symmetrisch bewegen.",
+          "whatNotToDo": "Die Schultern nicht zucken, die Arme hinter dem Kofferraum ausstrecken, den unteren Rücken beugen oder die Scapulae kräftig drücken.",
+          "id": "upper-limb-074",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Isolated Skapula Retraction",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-retraction",
+            "selective-control"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wandunterstützt Triceps Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung sorgt für eine kontrollierte Dehnung des Schulterkomplexes, wobei der Schwerpunkt auf Beugung liegt.",
+          "howToDo": "Legen Sie einen Ellenbogen hoch auf eine Wand mit der Hand nach unten hinter dem Kopf oder dem oberen Rücken. Bewegen Sie die Brust sanft näher an die Wand.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-075",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Triceps Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sustained Wand-unterstützt Latissimus Dorsi Dehnung",
+          "image": "",
+          "description": "Diese anhaltende Dehnung kombiniert Schulterbeugung und ein unterstütztes Hüftscharnier, um das Latissimus dorsi und das angrenzende posterolaterale Rumpfgewebe zu verlängern.",
+          "howToDo": "Legen Sie beide Hände hoch an eine Wand, treten Sie nach hinten, und scharnieren die Hüften nach hinten, während die Arme verlängert. Senken Sie die Brust allmählich zwischen den Armen, bis eine leichte Dehnung entlang der posterolateralen Schultern und Rumpf zu spüren ist. Halten Sie die Position 20 Sekunden lang während der Atmung normal.",
+          "whatToDo": "Bewahren Sie sanfte Abdominalkontrolle, halten Sie die Rippen ausgerichtet, und verteilen Sie die Dehnung gleichmäßig zwischen beiden Seiten.",
+          "whatNotToDo": "Zwingen Sie die Brust nicht nach unten, zünden Sie die Rippen auf, hyperextend die Lendenwirbelsäule, oder fortsetzen Sie, wenn die Symptome in einen oberen Gliedmaßen ausstrahlen.",
+          "id": "upper-limb-078",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sustained Wand-unterstützt Latissimus Dorsi Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stretch"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Scapula-stabilisierte körperübergreifend Schulter Dehnung",
+          "image": "",
+          "description": "Diese In Rückenlage selbstunterstützte Dehnung begrenzt die scapulare Protraktion und fokussiert die horizontale Adduktion am glenohumeralen Gelenk.",
+          "howToDo": "Lie In Rückenlage mit einer Schulter auf 90 Grad gebeugt und der Ellbogen bequem gebogen. Halten Sie die Scapula in Kontakt mit der tragenden Oberfläche und verwenden Sie die gegenüberliegende Hand über dem Ellbogen, um den Arm über die Brust zu führen, bis eine milde hintere Schulter Dehnung wahrgenommen wird.",
+          "whatToDo": "Halten Sie die Scapula an der Oberfläche, halten Sie die Schulter entspannt, und wenden Sie sanfte Hilfe durch den Oberarm.",
+          "whatNotToDo": "Heben Sie die Scapula nicht von der Oberfläche, drücken Sie direkt auf das Ellenbogengelenk, zwingen Sie den Arm über die Brust oder provozieren Sie vordere Schulterschmerzen.",
+          "id": "upper-limb-079",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Scapula-stabilisierte körperübergreifend Schulter Dehnung",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Straight-Arm Schulter Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Schulterkomplexes während der Extension verbessert werden.",
+          "howToDo": "Stehen Sie hoch mit einem Arm gerade neben dem Körper, die Schulter tief, und die Brust bequem offen. Bewegen Sie den geraden Arm nach hinten durch einen kleinen kontrollierten Bereich, Pause, dann wieder neben den Körper.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-085",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Straight-Arm Schulter Extension",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Stehende Einzel-Arm-Externe Rotation",
+          "image": "",
+          "description": "Diese einseitig stehende Übung entwickelt eine aktive Schulter-außen-Rotationskontrolle, während die gegenüberliegende obere Extremität entspannt bleibt.",
+          "howToDo": "Stehen Sie hoch mit einem Ellenbogen auf 90 Grad gebogen und gehalten in der Nähe der Seite. Beginnen Sie mit dem Unterarm nach vorne zeigen, dann drehen Sie die Hand nach außen und leicht rückwärts, während der Ellbogen fixiert bleibt. Zurück langsam.",
+          "whatToDo": "Halten Sie den arbeitenden Ellenbogen neben dem Kofferraum fest, halten Sie ein neutrales Handgelenk aufrecht und vervollständigen Sie die Phasen nach außen und kehren Sie mit derselben kontrollierten Geschwindigkeit zurück.",
+          "whatNotToDo": "Drehen Sie den Oberkörper nicht, trennen Sie den Ellenbogen vom Rumpf, verlängern Sie das Handgelenk oder verwenden Sie Impuls, um den Bereich zu erhöhen.",
+          "id": "upper-limb-086",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Einzel-Arm-Externe Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Interne Drehung des Wand in Kaktusposition durch",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der inneren Rotation verbessern.",
+          "howToDo": "Stehen Sie mit dem Rücken gegen eine Wand und legen Sie die Arme in eine Torpfostenposition. Halten Sie jeden Ellbogen in Kontakt mit der Wand. Drehen Sie die Unterarme nach unten, sodass die Handflächen auf den Boden zu bewegen, dann langsam auf die aufrechte Torpfostenposition zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-106",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Interne Drehung des Wand in Kaktusposition durch",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage in Kaktusposition Interne Rotation",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Schulterkomplexes während der inneren Rotation verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Oberarmen offen an den Seiten und die Ellenbogen auf 90 Grad gebogen. Halten Sie die Ellenbogen an der gleichen Stelle und drehen Sie die Unterarme, sodass die Handflächen auf den Boden in der Nähe der Hüften bewegen. Zurück langsam in die Ausgangsposition.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-111",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage in Kaktusposition Interne Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Elbow-unterstützt externe Rotation",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Schulterkomplexes während der äußeren Rotation verbessern.",
+          "howToDo": "Liegen Sie mit einem Ellenbogen nahe an der Seite und gebogen auf 90 Grad, sodass die Knöchel auf die Decke. Halten Sie den Ellenbogen fixiert und drehen Sie den Unterarm nach außen, die Rückseite der Hand auf den Boden neben Ihnen. Kehren Sie langsam und wiederholen Sie auf der anderen Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-112",
+          "sezione": "Schulter - Hintere Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Elbow-unterstützt externe Rotation",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-posterior-region"
+    },
+    {
+      "nome": "Arm - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Alternating Elbow Flexion gegenüber Schulter",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Ellbogens während der Beugung verbessern.",
+          "howToDo": "Setzen Sie sich aufrecht auf einen Stuhl. Halten Sie Ihre Arme an den Seiten entspannt. Heben Sie langsam die rechte Hand und bringen Sie sie zur Ruhe auf der linken Schulter, biegen Sie Ihren Ellbogen vor der Brust. Halten Sie die Position 3 Sekunden lang still, dann langsam den Arm zurück nach unten. Wiederholen Sie die gleiche Bewegung mit der linken Hand auf der rechten Schulter.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-013",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Alternating Elbow Flexion gegenüber Schulter",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Sitzen Elbow Flexion von Tabelle Unterstützung",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Ellbogens während der Beugung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht an einem Tisch mit beiden Unterarme unterstützt und die Handflächen nach oben. Bewegen Sie die Ellbogen, um die Hände zur Brust zu heben, während Aufrechterhaltung Unterarm Kontakt mit dem Tisch. Halten Sie die Position 3 Sekunden lang, dann senken Sie die Hände.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-014",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Elbow Flexion von Tabelle Unterstützung",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Elbow Flexion mit Kissen-Widerstand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Ellenbogens zu entwickeln, mit Schwerpunkt auf Flexion.",
+          "howToDo": "Setzen Sie sich aufrecht auf den Stuhl. Nehmen Sie ein kleines, weiches Kissen und halten Sie es vor der Brust und drücken Sie es zwischen den Handflächen Ihrer Hände. Biegen Sie die Arme nach vorne und drücken Sie das Kissen gegen Ihre Brust, straffen Sie die Muskeln an der Vorderseite der Arme. Halten Sie den Druck für 5 Sekunden, und entspannen Sie anschließend Sie Ihren Griff.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-015",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Elbow Flexion mit Kissen-Widerstand",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Isometrische Elbow Flexion bei 90 Grad durchführen",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Ellenbogens zu entwickeln, mit Schwerpunkt auf Flexion.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen. Flex einen Ellbogen bis 90 Grad, halten Sie es neben dem Stamm, und positionieren Sie den Unterarm in der Supination. Halten Sie die Position mit einer submaximalen isometrischen Kontraktion für 5 Sekunden, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-016",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Elbow Flexion bei 90 Grad durchführen",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Elbow Flexion zur Vorwärtserweiterung ausführen",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Ellbogens während der Beugung und Extension verbessern.",
+          "howToDo": "Stehen Sie hoch mit beiden Armen gerade an den Seiten. Bringen Sie jede Hand auf die Schulter auf der gleichen Seite, dann verlängern Sie beide Arme nach vorne in Schulterhöhe. Biegen Sie die Ellenbogen, um die Hände zu den Schultern zurück, dann senken Sie die Arme.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-098",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Elbow Flexion zur Vorwärtserweiterung ausführen",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Elbow Flexion auf Overhead-Extension",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Ellbogens während der Beugung und Extension verbessern.",
+          "howToDo": "Stehen Sie hoch mit den Armen an Ihren Seiten. Bringen Sie jede Hand auf die Schulter auf der gleichen Seite, dann beide Arme überspannen. Biegen Sie die Ellenbogen, um die Hände zu den Schultern zurück, dann senken Sie die Arme an den Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-099",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Elbow Flexion auf Overhead-Extension",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "arm-anterior-region"
+    },
+    {
+      "nome": "Arm - Posterior Region",
+      "esercizi": [
+        {
+          "nome": "Isometrische Ellbogen-Extension in Tabelle",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Ellenbogens zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht an einem Tisch mit den Handflächen unterstützt und die Ellbogen in der Nähe des Rumpfes gebeugt. Drücken Sie beide Handflächen nach unten in den Tisch, ohne das Becken zu heben. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-017",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Ellbogen-Extension in Tabelle",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Vor Elbow Extension",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungsumfang und die Bewegungssteuerung des Ellenbogens während der Extension verbessern.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen. Beginnen Sie mit einem Ellbogen gebeugt und die Hand in der Nähe der ipsilateralen Schulter. Erweitern Sie den Ellbogen, um die Hand nach vorne in Schulterhöhe zu bewegen. Halten Sie die Position 2 Sekunden lang, langsam zurückkehren, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-018",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Vor Elbow Extension",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Isometrische Schulterverlängerung gegen Wand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Schulterkomplexes zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Stehen Sie mit dem Rücken gegen eine Wand und beide Arme neben dem Kofferraum. Drücken Sie den hinteren Aspekt der Arme in die Wand mit stetiger submaximaler Kraft. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-019",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Schulterverlängerung gegen Wand",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Overhead Elbow Extension mit Kissen",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungsumfang und die Bewegungssteuerung des Ellenbogens während der Extension verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl mit einer Rückenlehne. Halten Sie ein leichtes Kissen mit beiden Händen. Bringen Sie Ihre Hände über den Kopf, biegen Sie Ihre Ellbogen nach hinten, sodass das Kissen leicht berührt die Rückseite des Halses. Von dieser Position, drücken Sie Ihre Arme nach oben, bis sie voll zur Decke verlängert sind. Halten Sie die Position 2 Sekunden lang an der höchsten Stelle, dann langsam biegen Sie Ihre Ellbogen wieder hinter dem Kopf.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-020",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Overhead Elbow Extension mit Kissen",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In Rückenlage Ellbogen-Extension in Schulterabduktion",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität des Ellenbogens während der Extension und Beugung verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Oberarmen offen an den Seiten und die Ellbogen gebogen zu 90 Grad in einer Torpfostenform. Halten Sie die Oberarme still und geraden die Ellenbogen, bis die Arme ein T bilden, dann biegen Sie die Ellbogen zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-110",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Ellbogen-Extension in Schulterabduktion",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "arm-posterior-region"
+    },
+    {
+      "nome": "Ellenbogen",
+      "esercizi": [
+        {
+          "nome": "Im Sitzen Unterarm Pronation und Supination",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungs- und Bewegungsspektrum der Unterarm- und Radioulnargelenke während der Pronation und Supination verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Ellbogen auf 90 Grad gebeugt und gehalten neben dem Stamm. Drehen Sie die Unterarme in Pronation, bis die Palmen nach unten, dann in Supination, bis die Palmen nach oben. Wechseln Sie langsam für 10 Wiederholungen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-021",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Unterarm Pronation und Supination",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Isometrische Elbow Extension gegen manuellen Widerstand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Ellenbogens zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht mit einem Ellbogen auf 90 Grad gebeugt. Legen Sie die gegenüberliegende Handfläche unter den Ellbogen. Drücken Sie den Ellbogen nach unten, während die unterstützende Hand gleichen Aufwärtswiderstand bietet, sodass keine Bewegung auftritt. Halten Sie die Position 5 Sekunden lang, dann wechseln Sie die Seiten.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-022",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Elbow Extension gegen manuellen Widerstand",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende Ellbogen-Extension mit Handöffnung",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungsumfang und die Bewegungssteuerung des Ellenbogens während der Extension verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit den Ellbogen gebeugt und die Hände locker in der Nähe der Axillarregion geschlossen. Dehnen Sie beide Ellbogen zum Boden. Öffnen Sie die Hände am Ende des Bereichs, Halten Sie die Position 2 Sekunden lang, dann langsam zurückkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-023",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Ellbogen-Extension mit Handöffnung",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Alternative isometrische Ellbogen-Extension in Tabelle",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Ellenbogens zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht an einem Tisch mit beiden Handflächen unterstützt und die Ellbogen gebeugt. Drücken Sie eine Hand nach unten, während die Extension der Ellbogen leicht und halten den entgegengesetzten Arm entspannt. Zurück zu neutralen und abwechselnden Seiten für 5 Wiederholungen.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-024",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Alternative isometrische Ellbogen-Extension in Tabelle",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende isometrische Ellbogen-Extension in Tabelle",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Ellenbogens zu entwickeln, mit Schwerpunkt auf statischer Stabilisierung.",
+          "howToDo": "Sitzen Sie aufrecht vor einem Tisch. Biegen Sie den rechten Ellenbogen und legen Sie die äußere Seite des Unterarms auf den Tisch. Drücken Sie vorsichtig Ihren Ellenbogen und Unterarm nach unten gegen den Tisch, ohne den Arm zu bewegen. Halten Sie den Druck für 5 Sekunden, und entspannen Sie anschließend. Wiederholen Sie mit dem linken Arm.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-042",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Ellbogen-Extension in Tabelle",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Aktiv Elbow Flexion und Extension",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Ellbogens während der Beugung und Extension verbessern.",
+          "howToDo": "Halten Sie den Arm an der Seite entspannt. Biegen Sie den Ellbogen, um die Hand in Richtung der Schulter zu bringen, dann langsam in die Ausgangsposition durch eine bequeme Reichweite zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-052",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktiv Elbow Flexion und Extension",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Elbow Flexion zur Downward Extension ausführen",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Ellbogens während der Beugung und Extension verbessern.",
+          "howToDo": "Stehen Sie aufrecht mit beiden Armen neben dem Rumpf. Bewegen Sie die Ellbogen, um jede Hand in Richtung der ipsilateralen Schulter zu bringen, dann verlängern Sie die Ellbogen voll auf den Boden. Zurück in die Ausgangsposition und wiederholen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-097",
+          "sezione": "Ellenbogen",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Elbow Flexion zur Downward Extension ausführen",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "elbow"
+    },
+    {
+      "nome": "Unterarm",
+      "esercizi": [
+        {
+          "nome": "Handtuch Wringing für Unterarm Rotation",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungs- und Bewegungsspektrum der Unterarm- und Radioulnargelenke während der Pronation und Supination verbessern.",
+          "howToDo": "Sitzen Sie aufrecht und halten Sie ein gerolltes Handtuch mit beiden Händen vor dem Kofferraum. Drehen Sie einen Unterarm in Pronation und das andere in Supination, um das Handtuch zu verspannen. Halten Sie die Position 4 Sekunden lang, dann die Richtung umkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-025",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Handtuch Wringing für Unterarm Rotation",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Aktive Finger-Flexion und Extension",
+          "image": "",
+          "description": "Diese Übung soll die aktive Bewegungs- und Bewegungssteuerung von Hand und Fingern während der Fingerbeugung und Fingerverlängerung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Ellbogen gebeugt und die Hände vor dem Kofferraum positioniert. Erweitern und entführen Sie alle Finger, dann beugen Sie die Finger zu einer entspannten Faust. Wechseln Sie die beiden Positionen langsam für 10 Wiederholungen.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-026",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktive Finger-Flexion und Extension",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützte Handgelenk Flexion und Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Beugung und Extension verbessert werden.",
+          "howToDo": "Setzen Sie sich an einen Tisch. Ruhen Sie Ihren rechten Unterarm auf dem Tisch, lassen Sie Ihre Hand über die Kante, mit der Hand mit Blick auf den Boden. Heben Sie Ihre Hand nach oben, zeigen Sie Ihre Finger auf die Decke, ohne Ihren Arm vom Tisch. Halten Sie die Position für 2 Sekunden, dann lassen Sie Ihre Hand nach unten fallen. Wiederholen Sie 5 Mal, dann schalten Sie die Arme.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-027",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Handgelenk Flexion und Extension",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Bilaterale Unterarm-Zirkumduktion durchführen",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungs- und Bewegungsspektrum der Unterarm- und Radioulnargelenke während der Pronation, Supination und Zirkumduktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Händen locker vor der Brust geschlossen. Bewegen Sie die Unterarme und Handgelenke durch koordinierte abwechselnde Kreise für 5 Sekunden, dann die Richtung umkehren.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-028",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Bilaterale Unterarm-Zirkumduktion durchführen",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "circumduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Forearm Pronation und Supination mit Lichtwiderstand",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungs- und Bewegungsspektrum der Unterarm- und Radioulnargelenke während der Pronation und Supination verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Halten Sie ein leichtes Objekt, wie eine kleine leere Flasche, in der rechten Hand. Halten Sie Ihren Ellenbogen auf 90 Grad gebogen und in der Nähe Ihrer Seite. Drehen Sie langsam Ihre Hand nach oben, dann langsam nach unten drehen. Wiederholen Sie 5 Mal, dann wechseln Sie die Hände.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-043",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Forearm Pronation und Supination mit Lichtwiderstand",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Aktive Unterarm Pronation und Supination",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungs- und Bewegungsspektrum der Unterarm- und Radioulnargelenke während der Pronation und Supination verbessern.",
+          "howToDo": "Halten Sie den Ellenbogen nahe am Körper und den Unterarm unterstützt. Beginnen Sie mit dem Daumen nach oben, drehen Sie die Handfläche nach oben, zurück in die Mitte, dann drehen Sie die Handfläche nach unten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-053",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktive Unterarm Pronation und Supination",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Manuell stabilisierten Unterarm Pronation und Supination",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungs- und Bewegungsspektrum der Unterarm- und Radioulnargelenke während der Pronation und Supination verbessern.",
+          "howToDo": "Sitzen oder stehen Sie mit dem linken Ellenbogen gebogen. Legen Sie die rechte Handfläche leicht gegen die Außenseite des linken Ellenbogens, um es stabil zu halten. Drehen Sie den linken Unterarm in Pronation, bringen die Handfläche nach unten, dann in Supination, wie der Unterarm sanft nach vorne reicht. Wiederholen Sie auf der anderen Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-087",
+          "sezione": "Unterarm",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Manuell stabilisierten Unterarm Pronation und Supination",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "forearm"
+    },
+    {
+      "nome": "Handgelenk",
+      "esercizi": [
+        {
+          "nome": "Unterstützte Handgelenk Extension Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zum Handgelenk, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht und verlängern Sie einen Arm nach vorne mit dem Ellenbogen gerade, die Handfläche nach vorn und die Finger nach oben gerichtet. Verwenden Sie die gegenüberliegende Hand, um sanften Druck auf die Finger, bis eine leichte Dehnung entlang der Volar Handgelenk spürbar ist. Halten Sie die Position 5 Sekunden lang, dann wechseln Sie die Seiten.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-029",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Handgelenk Extension Dehnung",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Assisted Handgelenk Flexion Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung sorgt für eine kontrollierte Dehnung des Handgelenks, wobei der Schwerpunkt auf Beugung liegt.",
+          "howToDo": "Dieses Mal, bringen Sie Ihre Hände zusammen vor der Brust, indem Sie die Rückseite der rechten Hand auf die Rückseite der linken Hand, mit Ihren Fingern nach unten. Drücken Sie vorsichtig Ihre Hände gegeneinander für 5 Sekunden, Gefühl einer Dehnung um den Handgelenkbereich.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-030",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Assisted Handgelenk Flexion Dehnung",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Aktive Radial und Ulnar Abweichung",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Radialabweichung und der Ulnarabweichung verbessert werden.",
+          "howToDo": "Setzen Sie sich an einen Tisch mit einem Unterarm unterstützt und die Handfläche nach unten. Halten Sie den Unterarm stationär, bewegen Sie die Hand in Richtung der radialen Seite und dann in Richtung der ulnaren Seite. Wiederholen Sie langsam, dann ändern Sie die Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-031",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktive Radial und Ulnar Abweichung",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Aktive Handgelenk Zirkumduktion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Handgelenks während der Zirkumduktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Ellbogen gebeugt und gehalten neben dem Rumpf. Form entspannte Fäuste und bewegen beide Handgelenke durch kontrollierten Uhrzeigersinn Zirkumduktion für 5 Wiederholungen, dann wiederholen Sie gegen den Uhrzeigersinn.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-032",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktive Handgelenk Zirkumduktion",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "circumduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Handgelenk Extensor Muskel Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung sorgt für eine kontrollierte Dehnung des Handgelenks, wobei der Schwerpunkt auf Beugung liegt.",
+          "howToDo": "Den Arm nach vorn ausstrecken, mit der Hand nach unten. Das Handgelenk so biegen, dass die Finger auf den Boden zeigen, dann die Hand vorsichtig mit der anderen Hand führen, bis eine leichte Dehnung auf der Oberseite des Unterarms zu spüren ist.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-048",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Handgelenk Extensor Muskel Dehnung",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Handgelenk Flexor Muscle Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zum Handgelenk, mit Schwerpunkt auf Extension.",
+          "howToDo": "Einen Arm nach vorn mit der Handfläche nach unten ausstrecken. Lassen Sie die Hand in Richtung des Bodens bewegen, dann verwenden Sie die andere Hand, um das Handgelenk sanft in Extension zu führen, bis sich die gegenüberliegende Seite des Unterarms erstreckt.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-049",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Handgelenk Flexor Muscle Dehnung",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Handgelenk-Extension durchführen",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Handgelenks zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Setzen Sie sich mit dem Unterarm auf einem Tisch und dem Handgelenk über den Rand. Machen Sie eine leichte Faust, bringen Sie die Hand in Linie mit dem Unterarm, halten Sie für ein paar Sekunden, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-050",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Handgelenk-Extension durchführen",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Resisted Handgelenk Extension aus",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Extension verbessert werden.",
+          "howToDo": "Stützen Sie einen Unterarm auf einem Tisch mit dem Handgelenk jenseits der Kante und der Handfläche nach unten. Erweitern Sie das Handgelenk mit Hilfe von der gegenüberliegenden Hand, dann entfernen Sie die Unterstützung und senken Sie die Hand langsam. Fügen Sie nur minimale äußere Widerstand, wenn die Bewegung gut gesteuert ist.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-051",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Resisted Handgelenk Extension aus",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pronated Handgelenk Flexion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Handgelenks während der Beugung und Pronation verbessern.",
+          "howToDo": "Setzen Sie sich mit dem Unterarm unterstützt und die Handfläche nach unten, sodass die Hand über die Kante des Tisches zu verlängern. Biegen Sie das Handgelenk so die Finger nach unten bewegen, und kehren Sie anschließend in die Neutralstellung zurück mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-088",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Pronated Handgelenk Flexion",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Pronated Handgelenk Extension aus",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Extension und Pronation verbessert werden.",
+          "howToDo": "Setzen Sie sich mit dem Unterarm unterstützt und die Handfläche nach unten, sodass die Hand über den Rand des Tisches zu verlängern. Heben Sie die Rückseite der Hand nach oben, und kehren Sie anschließend in die Neutralstellung zurück mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-089",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Pronated Handgelenk Extension aus",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Supinated Handgelenk Flexion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Beugung und Supination verbessert werden.",
+          "howToDo": "Sitzen Sie mit dem Unterarm unterstützt und die Handfläche nach oben, sodass die Hand über den Rand des Tisches zu verlängern. Curl die Handfläche in Richtung des Unterarms, dann langsam zu neutral.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-090",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Supinated Handgelenk Flexion",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Supinated Handgelenk Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Extension und der Supination verbessert werden.",
+          "howToDo": "Sitzen Sie mit dem Unterarm unterstützt und die Handfläche nach oben, sodass die Hand über den Rand des Tisches zu verlängern. Senken Sie die Rückseite der Hand sanft auf den Boden zu, und kehren Sie anschließend in die Neutralstellung zurück mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-091",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Supinated Handgelenk Extension",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Aktive Radial-und Ulnar Abweichung mit neutralen Unterarm",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Handgelenks während der Radialabweichung und der Ulnarabweichung verbessert werden.",
+          "howToDo": "Halten Sie den Unterarm vor sich mit dem Daumen nach oben. Halten Sie das Handgelenk neutral und die Finger gerade und zusammen. Bewegen Sie die Hand, sodass die kleine Fingerseite senkt, dann die Bewegung umkehren, sodass die Daumenseite steigt.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-092",
+          "sezione": "Handgelenk",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktive Radial-und Ulnar Abweichung mit neutralen Unterarm",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "wrist"
+    },
+    {
+      "nome": "Hand",
+      "esercizi": [
+        {
+          "nome": "Thumb-to-Finger Opposition",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich von Hand und Fingern während der Opposition verbessert werden.",
+          "howToDo": "Sitzen Sie bequem mit den Händen auf Ihren Oberschenkeln. Heben Sie die rechte Hand mit der Handfläche offen. Bringen Sie Ihren Daumen, um die Spitze Ihres Zeigefingers zu berühren, dann die Spitze Ihres Mittelfingers, Ringfinger und schließlich Ihren kleinen Finger. Sobald Sie den kleinen Finger erreichen, gehen Sie zurück in die entgegengesetzte Richtung. Wiederholen Sie 3 mal mit jeder Hand.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-033",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Thumb-to-Finger Opposition",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Tabletop Finger Flexion und Extension Walk",
+          "image": "",
+          "description": "Diese Übung soll die aktive Bewegungs- und Bewegungssteuerung von Hand und Fingern während der Fingerbeugung und Fingerverlängerung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht an einem Tisch. Legen Sie die Fingerspitzen einer Hand auf die Oberfläche mit der Handfläche erhöht. Nacheinander beugen und verlängern Sie die Finger, um die Hand nach vorne, dann die Reihenfolge zurück. Wiederholen Sie mit der gegenüberliegenden Hand.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-034",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Tabletop Finger Flexion und Extension Walk",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Resisted Finger Abduktion mit elastischem Band",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung von Hand und Fingern während der Fingerentführung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit den Füßen unterstützt. Bringen Sie die Fingerspitzen der rechten Hand zusammen. Legen Sie ein normales Küchen-Elastikband um die verbundenen Finger, direkt unter den Fingernägeln. Von dieser Position, spreizen Sie die Finger nach außen, schieben gegen den Widerstand des Gummibandes. Halten Sie die offene Position für 3 Sekunden, dann langsam schließen Sie die Finger wieder. Wiederholen Sie 5 mal auf jeder Seite.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-035",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Resisted Finger Abduktion mit elastischem Band",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Papier Crumpling für Handgriff",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich von Hand und Fingern während der Fingerbeugung verbessern.",
+          "howToDo": "Setzen Sie sich an einen Tisch. Legen Sie ein altes Blatt Zeitung oder ein Blatt Küchenpapier flach auf den Tisch vor Ihnen. Legen Sie Ihre offene rechte Hand auf sie. Mit nur den Fingern dieser Hand, starten Sie ziehen das Papier in die Mitte der Handfläche, bis Sie das Blatt in eine enge Kugel. Wiederholen Sie mit der linken Hand.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-036",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Papier Crumpling für Handgriff",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Isolierte Finger-Extension auf dem Tisch",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich von Hand und Fingern während der Fingerverlängerung verbessert werden.",
+          "howToDo": "Setzen Sie sich an einen Tisch und legen Sie die rechte Hand flach auf die Oberfläche, wobei sich die Handfläche und die Finger ausruhen. Halten Sie die Handfläche ruhig, heben Sie langsam nur Ihren Zeigefinger, dann senken Sie sie. Fahren Sie mit dem Mittelfinger, Ringfinger und kleinen Finger fort. Wiederholen Sie 3 Mal, dann wechseln Sie die Hände.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-044",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Isolierte Finger-Extension auf dem Tisch",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Aktive Fingerabduktion und Adduktion auf dem Tisch",
+          "image": "",
+          "description": "Diese Übung soll die aktive Bewegungs- und Bewegungssteuerung von Hand und Fingern während der Fingerabduktion und Fingerableitung verbessern.",
+          "howToDo": "Setzen Sie sich an einen Tisch und legen Sie die rechte Hand flach auf die Oberfläche. Halten Sie Ihre Handfläche unten, spreizen Sie langsam Ihre Finger so weit wie möglich auseinander, dann langsam wieder zusammen. Wiederholen Sie 5 mal, dann wechseln Sie die Hände.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-045",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Aktive Fingerabduktion und Adduktion auf dem Tisch",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction",
+            "finger-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Thumb Opposition über die Palme",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung von Hand und Fingern während der Gegen- und Daumen-Adduktion verbessern.",
+          "howToDo": "Sitzen Sie bequem mit den Händen auf den Oberschenkeln. Öffnen Sie die rechte Hand mit der Handfläche nach oben. Schieben Sie langsam Ihren Daumen über die Handfläche in Richtung der Basis des kleinen Fingers, dann wieder in die offene Position. Wiederholen Sie 5 Mal, dann wechseln Sie die Hände.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "upper-limb-046",
+          "sezione": "Hand",
+          "distretto": "Obere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Thumb Opposition über die Palme",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition",
+            "thumb-adduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "hand"
+    }
+  ],
+  "id": "upper-limb"
+}

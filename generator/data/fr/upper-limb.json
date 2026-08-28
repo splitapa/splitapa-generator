@@ -1,0 +1,2190 @@
+{
+  "distretto": "Membre supérieur",
+  "sezioni": [
+    {
+      "nome": "Épaule - Mobilité et contrôle moteur",
+      "esercizi": [
+        {
+          "nome": "Circonduction des épaules avec les mains sur les épaules",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du complexe de l'épaule.",
+          "howToDo": "Asseyez-vous le dos droit ou debout. Placez votre main droite sur votre épaule droite et votre main gauche sur votre épaule gauche. Dessinez lentement de petits cercles avec vos coudes, les déplaçant vers l'avant, vers le haut, vers l'arrière et vers le bas. Faites 5 cercles vers l'avant et puis 5 cercles vers l'arrière.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-038",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction des épaules avec les mains sur les épaules",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Diapositive murale avec contrôle scapulaire",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée et la traction scapulaire du complexe de l'épaule.",
+          "howToDo": "Tenez-vous face à un mur, les avant-bras reposant dessus. Maintenez les omoplates doucement actives, faites glisser les bras vers le haut lentement, puis retournez avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-054",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Diapositive murale avec contrôle scapulaire",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-protraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circonduction de la circonférence de l'épaule debout",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du complexe de l'épaule.",
+          "howToDo": "Tenez-vous grand avec les bras détendus. Dessinez des cercles lents avec les épaules, d'abord vers l'avant puis vers l'arrière, en utilisant une gamme confortable.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-056",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction de la circonférence de l'épaule debout",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Diapositive murale debout pour la flexion active de l'épaule",
+          "image": "",
+          "description": "Cet exercice de mobilité assistée active développe une flexion de l'épaule contrôlée tandis que la paroi supporte le poids des membres supérieurs.",
+          "howToDo": "Se tenir face à un mur avec les deux mains reposant sur elle à la largeur de l'épaule. Maintenir le tronc debout, glisser les mains vers le haut jusqu'à ce que la plage de flexion confortable disponible soit atteinte, puis revenir lentement à la position de départ.",
+          "whatToDo": "Maintenez les côtes sous contrôle, laissez les scapules tourner vers le haut naturellement, et utilisez un contact léger avec la paroi tout au long du mouvement.",
+          "whatNotToDo": "Ne pas archer le bas du dos, élever les épaules trop, ou forcer les bras au-delà d'une amplitude confortable.",
+          "id": "upper-limb-060",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Diapositive murale debout pour la flexion active de l'épaule",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Abduction horizontal de l'épaule avec bande",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'abduction horizontal et de la rétractation scapulaire.",
+          "howToDo": "Tenez une bande légère avec les deux mains devant la poitrine. Ouvrez les bras vers l'extérieur jusqu'à ce que la poitrine s'élargisse, puis revenez lentement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-066",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction horizontal de l'épaule avec bande",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion de l'épaule passante avec la serviette",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée et l'extension du complexe de l'épaule.",
+          "howToDo": "Tenez un bâton avec une large prise en main devant le corps. Levez-le au-dessus et, si confortable, continuez derrière le corps avant de revenir sur le même chemin.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-077",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de l'épaule passante avec la serviette",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Diapositive d'abduction des épaules avec support mural",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'abduction contrôlé et la rotation externe du complexe de l'épaule.",
+          "howToDo": "Le dos est soutenu contre un mur et les coudes fléchissent à 90 degrés. Faites glisser les bras vers le haut et vers le bas tout en maintenant un contact confortable entre les membres supérieurs et le mur.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-081",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Diapositive d'abduction des épaules avec support mural",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Élévation scapulaire debout",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant l'élévation scapulaire.",
+          "howToDo": "Tenez-vous grand avec les bras détendus par vos côtés. Commencez par les épaules basses et la poitrine confortablement ouverte. Levez lentement les deux épaules vers les oreilles, arrêtez brièvement, puis abaissez-les avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-082",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Élévation scapulaire debout",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-elevation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Élévation de l'omoplate à un seul bras",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la flexion, l'élévation scapulaire et la rotation scapulaire vers le haut.",
+          "howToDo": "Tenez-vous debout avec un bras étendu au-dessus. Maintenez le coude droit et les côtes contrôlées, élevez et tournez vers le haut l'omoplate pour augmenter la amplitude. Revenez lentement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-084",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Élévation de l'omoplate à un seul bras",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "scapular-elevation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Circonduction de l'épaule de la balle de mur à l'Elbow",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant la circonduction.",
+          "howToDo": "Tenez-vous face à un mur et placez une balle douce entre le mur et un coude. Appliquez une pression douce pour tenir la balle en place, puis guidez le coude à travers de petits cercles dans le sens des aiguilles d'une montre et de petits cercles dans le sens des aiguilles d'une montre.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-093",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction de l'épaule de la balle de mur à l'Elbow",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Contrôle multidirectionnel des épaules de la balle murale",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant la flexion, l'extension, l'abduction horizontal et l'adduction horizontale.",
+          "howToDo": "Maintenez la pression de la lumière et déplacez le coude vers le haut, à droite, vers le bas et à gauche pour dessiner un petit carré. Inverser la direction après avoir terminé plusieurs répétitions contrôlées.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-094",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Contrôle multidirectionnel des épaules de la balle murale",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "horizontal-abduction",
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Séquence de circonduction des épaules avec des elbows souples",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant l'extension, l'abduction, la rotation externe et la flexion.",
+          "howToDo": "Tenez-vous debout et placez chaque main sur l'épaule ipsilatérale. Déplacez les coudes vers le bas et vers l'arrière, puis latéralement dans l'abduction de l'épaule et la rotation externe, et finalement vers le haut dans la flexion. Revenez dans la même séquence.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-095",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Séquence de circonduction des épaules avec des elbows souples",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "abduction",
+            "external-rotation",
+            "flexion",
+            "coordination"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduction de l'épaule dans l'abduction et la rotation externe",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la plage active de mouvement et de contrôle des mouvements du complexe de l'épaule pendant la circonduction, la rotation externe et la rétraction scapulaire.",
+          "howToDo": "Tenez-vous grand avec chaque main touchant l'épaule sur le même côté. Ouvrez les coudes sur les côtés et tenez-les près de la hauteur de l'épaule. Gardez la poitrine ouverte et les omoplates délicatement étirées, dessinez de petits cercles avec les coudes dans les deux sens.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-096",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction de l'épaule dans l'abduction et la rotation externe",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "external-rotation",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduction alternante des épaules",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du complexe de l'épaule.",
+          "howToDo": "Tenez-vous grand avec les deux bras étendus au-dessus. Commencez à tourner un bras vers l'avant et vers le bas tandis que les autres cercles vers l'arrière et vers le bas. Continuez le motif alterné lentement, puis inversez les directions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-100",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction alternante des épaules",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "coordination",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduction progressive de l'épaule",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant la circonduction.",
+          "howToDo": "Tenez-vous grand avec les deux bras ouverts sur les côtés à la hauteur de l'épaule. Commencez par les petits cercles et augmentez progressivement leur diamètre jusqu'à ce que chaque bras complète un cercle complet confortable. Ensuite, réduisez le diamètre étape par étape jusqu'à ce que les bras soient à nouveau retenus sur les côtés. Répétez dans la direction opposée.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-103",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction progressive de l'épaule",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Serviette de tête assise vers le bas derrière la tête",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la flexion, l'abduction et la rotation externe.",
+          "howToDo": "Tenir un bâton ou une serviette avec une prise large et confortable et le relever au-dessus de la tête. Pliez les coudes pour les baisser doucement derrière la tête, puis étendez les coudes pour les ramener au-dessus.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-104",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Serviette de tête assise vers le bas derrière la tête",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Presse frontale du poteau de but supporté par le mur",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la flexion, l'abduction, la rotation externe et la rotation scapulaire vers le haut.",
+          "howToDo": "Placez les bras en forme de poteau avec les bras supérieurs sur les côtés et les coudes pliés à 90 degrés. Maintenez le dos des mains près du mur, glissez et prolongez les bras vers le haut, puis retournez à la position du poteau.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-105",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Presse frontale du poteau de but supporté par le mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "scapular-upward-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduction de l'épaule avec support Pendulum",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du complexe de l'épaule.",
+          "howToDo": "Se tenir à côté d'un banc ou d'une chaise stable dans une position décalée. Charnière vers l'avant des hanches avec un dos neutre et soutenir le corps avec la main opposée. Laisser le bras de travail s'accrocher librement vers le plancher, puis créer de petits cercles dans le sens des aiguilles d'une montre et dans le sens contraire des aiguilles d'une montre en déplaçant doucement le corps.",
+          "whatToDo": "Gardez le membre supérieur impliqué détendu et utilisez un petit mouvement assisté par gravité généré par un léger changement de poids corporel.",
+          "whatNotToDo": "Ne pas lever activement le bras ou créer de grands cercles rapides de l'épaule.",
+          "id": "upper-limb-107",
+          "sezione": "Épaule - Mobilité et contrôle moteur",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction de l'épaule avec support Pendulum",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "gravity-assisted"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-mobility-control"
+    },
+    {
+      "nome": "Épaule - Région antérieure",
+      "esercizi": [
+        {
+          "nome": "Abduction des épaules et la rotation externe avec les mains derrière la tête",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'abduction et de la rotation externe.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise ou un support. Soulevez les bras sur les côtés et pliez les coudes, apportant les paumes de tes mains pour toucher doucement l'arrière de ta tête, la nuque de ton cou. De cette position, poussez vos coudes vers l'arrière dans la gamme confortable disponible, sentir votre poitrine ouverte. Tenez cette position pendant 5 secondes, puis détendez vos bras par vos côtés.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-001",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction des épaules et la rotation externe avec les mains derrière la tête",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Presse pectorale isométrique",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du complexe de l'épaule, en mettant l'accent sur l'adduction horizontale.",
+          "howToDo": "Asseyez-vous le dos droit avec les paumes ensemble devant le sternum et les coudes au niveau des mains. Appuyez sur les paumes ensemble en utilisant une force sous-maximale constante. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-002",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Presse pectorale isométrique",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexion d'épaule assise ou debout",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la flexion.",
+          "howToDo": "Asseyez-vous le dos droit ou debout avec les deux bras le long du tronc et les paumes faisant face de façon médiane. Flexez les deux épaules pour élever les bras avant le niveau de l'œil. Maintenez pendant 3 secondes, puis baissez lentement. Un objet léger ne peut être ajouté que lorsque cela est approprié pour la difficulté sélectionnée.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-003",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion d'épaule assise ou debout",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexion de l'épaule assistée par le mur",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la flexion.",
+          "howToDo": "Tenez-vous face à un mur avec le bout des doigts positionné à la hauteur de la poitrine. Avancez les doigts vers le haut en petites étapes alternantes pour élever le bras à travers la gamme confortable disponible.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-004",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de l'épaule assistée par le mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Protraction scapulaire assise",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la protraction scapulaire.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux bras étendus vers l'avant à la hauteur de l'épaule et les paumes face à l'autre. Garder les coudes droits, propulser l'omoplate de sorte que les mains se déplacent légèrement plus loin vers l'avant.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-039",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Protraction scapulaire assise",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion de l'épaule quadrupède à bras unique",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant la flexion.",
+          "howToDo": "Supposez une position quadruplée sur une surface rembourrée. Gardez vos mains sous vos épaules et vos genoux sous vos hanches. Soulevez lentement votre bras droit en avant, le gardant droit, jusqu'à ce qu'il atteigne la hauteur de votre épaule. Maintenez pendant 2 secondes, puis placez la main en arrière. Répétez 5 fois, puis changez de bras.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-047",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de l'épaule quadrupède à bras unique",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Push-up à chaîne fermée",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant l'adduction horizontale.",
+          "howToDo": "Placez les mains sur le sol ou sur une surface surélevée. Gardez le corps long, pliez les coudes pour baisser la poitrine, puis repoussez à la position de départ.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-057",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Push-up à chaîne fermée",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Abduction horizontal permanent de l'épaule",
+          "image": "",
+          "description": "Cet exercice de mobilité dynamique développe un abduction horizontal glenohumérale à petite amplitude, les membres supérieurs étant maintenus à la hauteur de l'épaule.",
+          "howToDo": "Tenez-vous debout avec les deux épaules enlevées à environ 90 degrés et les coudes confortablement étendus. Déplacez les deux bras une courte distance vers l'arrière, puis retournez-les dans le plan frontal dans un pouls lent et répété.",
+          "whatToDo": "Initier le mouvement aux articulations de l'épaule, maintenir le tronc immobile et utiliser une petite amplitude symétrique.",
+          "whatNotToDo": "Ne poussez pas la poitrine vers l'avant, étendez la colonne vertébrale lombaire, égorgez les épaules ou utilisez un élan rapide.",
+          "id": "upper-limb-058",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction horizontal permanent de l'épaule",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Étirement de la porte Pectoral",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé du complexe de l'épaule, en mettant l'accent sur l'abduction horizontal et la rotation externe.",
+          "howToDo": "Placez l'avant-bras ou la main sur une porte à hauteur de l'épaule. Marchez un pied vers l'avant et tournez doucement le corps loin jusqu'à ce que la poitrine s'étire.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-061",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Étirement de la porte Pectoral",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Les biceps debout et l'étrier d'épaule",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, en mettant l'accent sur l'extension.",
+          "howToDo": "Tenez-vous grand et atteignez un bras légèrement derrière le corps avec le coude droit. Tournez la paume doucement ou placez la main sur un support derrière vous.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-067",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Les biceps debout et l'étrier d'épaule",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Pectoral et Biceps étirement à l'aide d'un mur",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, en mettant l'accent sur l'extension et la rotation externe.",
+          "howToDo": "Tenez-vous à côté d'un mur et placez une main ou un avant-bras derrière vous. Tournez lentement le corps jusqu'à ce que la poitrine et le devant du bras s'étirent.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-070",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Pectoral et Biceps étirement à l'aide d'un mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Étirement de biceps à assises",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous sur le sol avec les mains derrière vous et les doigts pointés vers l'extérieur ou vers l'extérieur. Déplacez lentement les hanches vers l'avant jusqu'à ce que le devant des bras s'étire.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-076",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Étirement de biceps à assises",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Protraction scapulaire debout avec bras étendu",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de la traction scapulaire et de l'adduction horizontale.",
+          "howToDo": "Tenez-vous debout et prolongez un bras vers l'avant à hauteur de l'épaule. En maintenant le coude droit et le tronc stationnaire, propulsez l'omoplate de sorte que la main avance légèrement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-083",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Protraction scapulaire debout avec bras étendu",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-protraction",
+            "horizontal-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Adduction horizontale de l'épaule de l'avant-poste",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'adduction horizontale, de l'abduction horizontal et de la rétraction scapulaire.",
+          "howToDo": "Ouvrir les bras supérieurs sur les côtés et plier les coudes pour former un poteau de but. Maintenir les coudes pliés, amener les avant-bras intérieurs les uns vers les autres devant la poitrine, puis rouvrir avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-108",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Adduction horizontale de l'épaule de l'avant-poste",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Adduction horizontale de l'épaule à bras droit En décubitus dorsal",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'adduction horizontale et de l'abduction horizontal.",
+          "howToDo": "Allongez-vous sur les genoux et ouvrez les deux bras droit sur les côtés. Plongez les bras vers le haut jusqu'à ce que les paumes se rencontrent ou presque au-dessus de la poitrine, pointant vers le plafond, puis abaissez-les vers les côtés.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-109",
+          "sezione": "Épaule - Région antérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Adduction horizontale de l'épaule à bras droit En décubitus dorsal",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-anterior-region"
+    },
+    {
+      "nome": "Épaule - Région latérale",
+      "esercizi": [
+        {
+          "nome": "Abduction des épaules assises ou debout",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'abduction.",
+          "howToDo": "Asseyez-vous le dos droit ou debout avec les bras à côté du tronc et les paumes tournées vers le milieu. Élevez les deux bras latéralement à la hauteur de l'épaule, arrêtez pendant 3 secondes, puis abaissez-les lentement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-005",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction des épaules assises ou debout",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abduction isométrique des épaules contre le mur",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du complexe de l'épaule, en mettant l'accent sur l'abduction.",
+          "howToDo": "Placez l'aspect latéral du coude contre la paroi et appliquez une légère pression vers l'extérieur sans permettre le mouvement de l'articulation. Maintenez pendant 5 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-006",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction isométrique des épaules contre le mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abduction et l'adduction des épaules avec support de table",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'abduction et de l'adduction.",
+          "howToDo": "Asseyez-vous devant une table. Placez les paumes de vos mains sur la table devant vous, les coudes légèrement fléchis. Sans lever les mains de la surface, glissez les deux mains vers l'extérieur en même temps, les ouvrant autant que possible. Puis, toujours coulissant, ramenez-les au centre. Répétez ce mouvement 5 fois.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-007",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction et l'adduction des épaules avec support de table",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Abduction de l'épaule à l'aide d'un mur",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'abduction.",
+          "howToDo": "Placez le bout des doigts de votre main droite sur le mur à la hauteur de l'épaule. En utilisant vos doigts, faites-les \"marcher\" vers le haut du mur, en déplaçant votre bras vers le côté aussi loin que vous pouvez facilement atteindre. Restez là pendant 5 secondes, puis redescendez lentement et répétez avec votre côté gauche face au mur.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-008",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction de l'épaule à l'aide d'un mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dip de triceps partiel supporté",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant l'extension.",
+          "howToDo": "Supporter les mains sur une surface stable à côté ou derrière le corps. Pliez les coudes légèrement pour baisser une courte distance, puis appuyez sur le dos.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-059",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Dip de triceps partiel supporté",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Prise en charge partielle isométrique",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du complexe de l'épaule, en mettant l'accent sur l'extension.",
+          "howToDo": "Maintenez les mains sur une surface stable et abaissez seulement une petite quantité en position de trempe. Maintenez la position en respirant, puis revenez avec le contrôle.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-063",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Prise en charge partielle isométrique",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Debout active Cross-Body Epaule allongement",
+          "image": "",
+          "description": "Cet exercice de mobilité active développe une adduction horizontale de l'épaule contrôlée sans l'aide du membre supérieur opposé.",
+          "howToDo": "Tenez-vous debout et élevez un bras vers l'avant à la hauteur de l'épaule avec le coude étendu ou légèrement fléchi. Déplacez le bras à travers la poitrine sous contrôle musculaire, puis retournez à la position de départ sans assistance du bras opposé.",
+          "whatToDo": "Maintenez le coffre tourné vers l'avant et effectuez les phases vers l'extérieur et le retour à travers la plage confortable disponible à la même vitesse contrôlée.",
+          "whatNotToDo": "Ne faites pas pivoter le tronc, tirez le bras avec la main opposée, rétrécissez l'épaule ou utilisez l'élan.",
+          "id": "upper-limb-080",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Debout active Cross-Body Epaule allongement",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circonduction debout de l'épaule à petit diamètre",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du complexe de l'épaule, en mettant l'accent sur la circonduction et l'abduction.",
+          "howToDo": "Tenez-vous grands et ouvrez les deux bras droit sur les côtés à 90 degrés. Dessinez de petits cercles avant pour plusieurs répétitions, puis dessinez le même nombre de cercles arrière.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-101",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction debout de l'épaule à petit diamètre",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "circumduction",
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abduction permanent des épaules et les pulsations d'adduction",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant l'abduction et l'adduction.",
+          "howToDo": "Déplacez les bras doucement en haut et en bas comme des ailes, en gardant le mouvement dans le plan latéral et en utilisant seulement une petite amplitude.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-102",
+          "sezione": "Épaule - Région latérale",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction permanent des épaules et les pulsations d'adduction",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "shoulder-lateral-region"
+    },
+    {
+      "nome": "Épaule - Région postérieure",
+      "esercizi": [
+        {
+          "nome": "Extension d'épaule assise avec des elbows flexibles",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la plage active de mouvement et de contrôle des mouvements du complexe de l'épaule lors de l'extension et de la rétractation scapulaire.",
+          "howToDo": "Associez-vous debout du dossier avec les coudes fléchis et élevés à la hauteur de la poitrine. Déplacez les deux coudes vers l'arrière à travers une petite amplitude contrôlée. Maintenez pendant 5 secondes, puis retournez à la position de départ.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-009",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension d'épaule assise avec des elbows flexibles",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extension isométrique de l'épaule contre le dossier",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du complexe de l'épaule, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous le dos droit avec le dos soutenu et les deux coudes fléchissaient à 90 degrés près du tronc. Appuyez sur les coudes postérieurement dans le dossier en utilisant une force sous-maximale constante. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-010",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension isométrique de l'épaule contre le dossier",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extension de l'épaule et la rotation interne derrière le dos",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant l'extension et la rotation interne.",
+          "howToDo": "Placez les deux membres supérieurs derrière le tronc au niveau de la taille et maintenez un poignet avec la main opposée lorsqu'il est disponible. Placez également les surfaces dorsales des mains contre la région lombaire. Prolongez doucement et tournez les épaules à l'intérieur, puis maintenez pendant 5 secondes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-011",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de l'épaule et la rotation interne derrière le dos",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "internal-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Abduction horizontal de l'épaule assise",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule au cours de l'abduction et de l'extension horizontaux.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux bras étendus vers l'avant à hauteur de l'épaule et les paumes face à l'autre. Déplacez les bras horizontalement vers l'extérieur et légèrement vers l'arrière à travers la plage confortable disponible.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-012",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction horizontal de l'épaule assise",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotation externe de l'épaule bilatérale assise",
+          "image": "",
+          "description": "Cet exercice actif bilatéral développe un contrôle symétrique de la rotation externe de l'épaule avec les deux coudes maintenus à côté du tronc.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise. Pliez les coudes à 90 degrés et gardez-les près de vos côtés. Gardez vos paumes face vers le haut. Déplacez lentement vos mains vers l'extérieur, en ouvrant vos avant-bras sur les côtés tout en gardant vos coudes attachés à votre corps. Maintenez pendant 2 secondes, puis retournez à la position de départ. Répétez 5 fois.",
+          "whatToDo": "Déplacez les deux avant-bras symétriquement, gardez les coudes légèrement en contact avec le tronc et maintenez l'alignement neutre du poignet.",
+          "whatNotToDo": "Ne pas séparer les coudes du tronc, rétracter les épaules avec force, faire pivoter le torse ou forcer la amplitude disponible.",
+          "id": "upper-limb-037",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe de l'épaule bilatérale assise",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Dépression et une rétractation scapulaires assises",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la dépression scapulaire et la rétractation scapulaire.",
+          "howToDo": "Asseyez-vous le dos droit avec les bras détendus à côté du tronc. Déprimez doucement et rétractez l'omoplate sans bouger la tête ni prolonger la colonne lombaire. Maintenez 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-040",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Dépression et une rétractation scapulaires assises",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-depression",
+            "scapular-retraction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abduction horizontale isométrique avec serviette",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule lors de l'abduction horizontal et de la rétractation scapulaire.",
+          "howToDo": "Asseyez-vous le dos droit ou tenez une serviette entre les deux mains à la hauteur de la poitrine avec les coudes légèrement fléchis. Appliquez la tension extérieure sur la serviette sans changer la position du bras. Tenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-041",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction horizontale isométrique avec serviette",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-abduction",
+            "scapular-retraction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Rotation externe latérale de l'épaule",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la rotation externe.",
+          "howToDo": "Allongez-vous d'un côté avec le coude supérieur courbé à 90 degrés et tenez-vous près du corps. Tournez la main vers le plafond, puis baissez lentement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-055",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe latérale de l'épaule",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Des pulsations de mobilisation de flexion d'épaule supportées",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée du complexe de l'épaule.",
+          "howToDo": "Tenez-vous face à un support stable et placez les deux mains dessus à une hauteur approximative de l'épaule. Reculez et charnièrez aux hanches jusqu'à ce que les bras soient étendus. Déplacez le thorax doucement vers le bas à travers une petite amplitude, puis retournez.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-062",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Des pulsations de mobilisation de flexion d'épaule supportées",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation interne de l'épaule à l'aide d'une serviette",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, en mettant l'accent sur la rotation interne.",
+          "howToDo": "Tenez une serviette derrière le tronc avec une main au-dessus et l'autre au-dessous. Utilisez la main supérieure pour guider le bras inférieur progressivement dans la rotation interne de l'épaule. Arrêtez à un étirement doux et maintenez la position.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-064",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne de l'épaule à l'aide d'une serviette",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation externe de l'épaule à l'aide d'une serviette",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, en mettant l'accent sur la rotation externe.",
+          "howToDo": "Maintenez le coude près du côté et plié à 90 degrés. Utilisez un bâton pour guider doucement l'avant-bras vers l'extérieur, puis maintenez une légère étirement.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-065",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe de l'épaule à l'aide d'une serviette",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Debout soutenu Latissmus Dorsi étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, avec l'accent sur la flexion.",
+          "howToDo": "Tenez un support stable avec les mains et asseyez les hanches en arrière jusqu'à ce que les côtés des épaules et le dos s'allongent.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-068",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Debout soutenu Latissmus Dorsi étirement",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation interne latérale de l'épaule",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, en mettant l'accent sur la rotation interne.",
+          "howToDo": "Allongez-vous sur le côté avec l'épaule et le coude plié à 90 degrés. Utilisez la main opposée pour guider doucement l'avant-bras vers le sol.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-069",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne latérale de l'épaule",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Debout Cross-Body Posterior Shooter étirement",
+          "image": "",
+          "description": "Ce étirement auto-assidu droit utilise l'adduction horizontale de l'épaule pour allonger les tissus postérieurs de l'épaule.",
+          "howToDo": "Tenez-vous debout et portez un bras sur la poitrine à hauteur de l'épaule. Placez l'avant-bras opposé au-dessus du coude et tirez doucement le bras plus près du tronc jusqu'à ce qu'un léger étirement postérieur soit perçu. Maintenez, puis changez de côté.",
+          "whatToDo": "Gardez l'épaule testée sous le niveau de l'oreille, maintenez le tronc tourné vers l'avant et n'utilisez que l'assistance douce du bras opposé.",
+          "whatNotToDo": "Ne faites pas pivoter le tronc, tirez directement sur l'articulation du coude, élevez l'épaule ou forcez l'étirement.",
+          "id": "upper-limb-071",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Debout Cross-Body Posterior Shooter étirement",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation interne active des épaules",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la rotation interne.",
+          "howToDo": "Asseyez-vous ou tenez-vous grand avec le coude courbé à 90 degrés. Faites tourner l'avant-bras vers l'intérieur à travers une amplitude confortable, arrêtez brièvement, puis revenez.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-072",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne active des épaules",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation externe isométrique de l'épaule contre le mur",
+          "image": "",
+          "description": "Cet exercice isométrique active les rotateurs externes de l'épaule sans produire de mouvement glenohuméral visible.",
+          "howToDo": "Placez le dos de la main contre le mur et appuyez vers l'extérieur avec une force sous-maximale constante sans laisser le bras se déplacer. Maintenez pendant 5 secondes, détendez-vous et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez le coude fixé à côté du tronc, le poignet neutre et l'épaule détendue tout en maintenant une respiration normale.",
+          "whatNotToDo": "Ne pas faire pivoter le tronc, enlever le coude, prolonger le poignet, retenir l'haleine ou appliquer la force maximale.",
+          "id": "upper-limb-073",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe isométrique de l'épaule contre le mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rétractation scapulaire isolée debout",
+          "image": "",
+          "description": "Cet exercice de contrôle sélectif met l'accent sur la rétraction scapulothoracique tout en minimisant les mouvements aux articulations gleno-humérales.",
+          "howToDo": "Tenez-vous debout avec les bras détendues à côté du tronc et les coudes légèrement fléchis. Sans bouger les bras supérieurs vers l'arrière, tirez les deux scapules doucement vers la colonne vertébrale, arrêtez brièvement, puis relâchez-les au neutre.",
+          "whatToDo": "Maintenez le cou détendu, les côtes alignées sur le bassin, et les bras supérieurs stationnaires tandis que l'omoplate se déplace symétriquement.",
+          "whatNotToDo": "Ne pas écraser les épaules, étendre les bras derrière le tronc, archer le bas du dos, ou serrer l'omoplate avec force.",
+          "id": "upper-limb-074",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rétractation scapulaire isolée debout",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "scapular-retraction",
+            "selective-control"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Des Triceps Assistés muraux étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à l'épaule complexe, avec l'accent sur la flexion.",
+          "howToDo": "Placez un coude haut sur un mur avec la main qui descend derrière la tête ou le haut du dos. Déplacez la poitrine doucement plus près du mur.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-075",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Des Triceps Assistés muraux étirement",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Latissimus Dorsi étirement soutenu par le mur",
+          "image": "",
+          "description": "Ce étirement soutenu combine la flexion de l'épaule et une charnière de hanche supportée pour allonger le latissimus dorsi et les tissus du tronc postolatéral adjacents.",
+          "howToDo": "Placez les deux mains haut sur un mur, reculez et charnièrez les hanches vers l'arrière tout en gardant les bras étendus. Abaissez graduellement la poitrine entre les bras jusqu'à ce qu'un léger étirement soit ressenti le long des épaules et du tronc post-olatérals.",
+          "whatToDo": "Maintenez un contrôle abdominal doux, maintenez les côtes alignées et distribuez l'étirement uniformément entre les deux côtés.",
+          "whatNotToDo": "Ne forcez pas la poitrine vers le bas, évasez les côtes, hyperextendez la colonne vertébrale lombaire, ou continuez si les symptômes rayonnent dans un membre supérieur.",
+          "id": "upper-limb-078",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Latissimus Dorsi étirement soutenu par le mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "flexion",
+            "stretch"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "En décubitus dorsal Scapula-Stabilisated Cross-Body Epaule étirement",
+          "image": "",
+          "description": "Ce étirement auto-assisté de En décubitus dorsal utilise la surface de support pour limiter la protraction scapulaire et l'adduction horizontale focalisée à l'articulation glenohumérale.",
+          "howToDo": "Liez la En décubitus dorsal avec une épaule fléchie à 90 degrés et le coude confortablement courbé. Gardez l'omoplate en contact avec la surface de support et utilisez la main opposée au-dessus du coude pour guider le bras à travers la poitrine jusqu'à ce qu'un léger étirement postérieur de l'épaule soit perçu.",
+          "whatToDo": "Maintenez l'omoplate contre la surface, gardez l'épaule détendue et appliquez une assistance douce à travers le bras.",
+          "whatNotToDo": "Ne levez pas l'omoplate de la surface, appuyez directement sur l'articulation du coude, forcez le bras à travers la poitrine ou provoquez des douleurs antérieures à l'épaule.",
+          "id": "upper-limb-079",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Scapula-Stabilisated Cross-Body Epaule étirement",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "horizontal-adduction",
+            "stretch",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension d'épaules droites debout",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant l'extension.",
+          "howToDo": "Tenez-vous grand avec un bras droit le long du corps, l'épaule basse et la poitrine confortablement ouverte. Déplacez le bras droit vers l'arrière à travers une petite amplitude contrôlée, arrêtez, puis revenez à côté du corps.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-085",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension d'épaules droites debout",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation externe debout à bras unique",
+          "image": "",
+          "description": "Cet exercice permanent unilatéral développe un contrôle actif de la rotation externe de l'épaule, tandis que le membre supérieur opposé reste détendu.",
+          "howToDo": "Tenez-vous grand avec un coude courbé à 90 degrés et maintenu près du côté. Commencez par le pointage avant vers l'avant, puis tournez la main vers l'extérieur et légèrement vers l'arrière pendant que le coude reste fixe. Revenez lentement.",
+          "whatToDo": "Maintenez le coude de travail fixé à côté du tronc, maintenez un poignet neutre, et terminez les phases vers l'extérieur et retour à la même vitesse contrôlée.",
+          "whatNotToDo": "Ne pas faire pivoter le torse, séparer le coude du tronc, étendre le poignet ou utiliser l'élan pour augmenter la amplitude.",
+          "id": "upper-limb-086",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe debout à bras unique",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation interne du poteau mural",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant la rotation interne.",
+          "howToDo": "Tenez-vous avec le dos contre un mur et placez les bras en position de but. Gardez chaque coude en contact avec le mur. Tournez les avant-bras vers le bas afin que les paumes se déplacent vers le sol, puis revenez lentement à la position de but debout.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-106",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne du poteau mural",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotation interne du poteau de but supin",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du complexe de l'épaule pendant la rotation interne.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les bras supérieurs ouverts sur les côtés et les coudes pliés à 90 degrés. Gardez les coudes au même endroit et tournez les avant-bras de sorte que les paumes se déplacent vers le sol près des hanches. Revenez lentement à la position de départ.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-111",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne du poteau de but supin",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "internal-rotation",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation externe soutenue par l'ormeau supérette",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du complexe de l'épaule pendant la rotation externe.",
+          "howToDo": "Allongez-vous avec un coude près du côté et plié à 90 degrés, de sorte que les articulations pointent vers le plafond. Maintenez le coude fixé et tournez l'avant-bras vers l'extérieur, ramenant le dos de la main vers le sol à côté de vous. Revenez lentement et répétez de l'autre côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-112",
+          "sezione": "Épaule - Région postérieure",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe soutenue par l'ormeau supérette",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "external-rotation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "shoulder-posterior-region"
+    },
+    {
+      "nome": "Arm - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Flexion alternée de l'ormeau vers l'épaule opposée",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement du coude pendant la flexion.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise. Maintenez les bras détendus par vos côtés. Levez lentement votre main droite et reposez-la sur votre épaule gauche, en pliant le coude devant votre poitrine. Maintenez-le pendant 3 secondes, puis abaissez lentement votre bras vers le bas. Répétez le même mouvement avec votre main gauche sur votre épaule droite.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-013",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion alternée de l'ormeau vers l'épaule opposée",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion d'un elbow assis à partir du support de table",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement du coude pendant la flexion.",
+          "howToDo": "Asseyez-vous le dos droit sur une table avec les deux avant-bras supportés et les paumes orientées vers le haut. Flexe les coudes pour lever les mains vers la poitrine tout en maintenant le contact de l'avant-bras avec la table. Maintenez 3 secondes, puis baissez les mains.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-014",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion d'un elbow assis à partir du support de table",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion isométrique avec résistance au coussin",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du coude, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous le dos droit sur la chaise. Prenez un petit coussin doux et maintenez-le devant votre poitrine, serrez-le entre les paumes de vos mains. Pliez vos bras en avant et appuyez sur le coussin contre votre poitrine, resserrant les muscles à l'avant de vos bras. Maintenez la pression pendant 5 secondes, puis détendez votre adhérence.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-015",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion isométrique avec résistance au coussin",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion isométrique Elbow à 90 degrés",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du coude, en mettant l'accent sur la flexion.",
+          "howToDo": "Placez un coude à 90 degrés, maintenez-le à côté du tronc et positionnez l'avant-bras en supination. Maintenez la position avec une contraction isométrique submaximale pendant 5 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-016",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion isométrique Elbow à 90 degrés",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexion d'Elbow vers l'extension vers l'avant",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant la flexion et l'extension.",
+          "howToDo": "Tenez-vous debout avec les deux bras droit sur vos côtés. Apportez chaque main à l'épaule du même côté, puis étendez les deux bras vers l'avant à hauteur de l'épaule. Pliez les coudes pour ramener les mains aux épaules, puis baissez les bras.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-098",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion d'Elbow vers l'extension vers l'avant",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion d'Elbow vers l'extension Overhead",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant la flexion et l'extension.",
+          "howToDo": "Tenez-vous grand avec les bras par vos côtés. Apportez chaque main à l'épaule sur le même côté, puis étendez les deux bras au-dessus. Pliez les coudes pour retourner les mains aux épaules, puis abaissez les bras sur les côtés.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-099",
+          "sezione": "Arm - Anterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion d'Elbow vers l'extension Overhead",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "arm-anterior-region"
+    },
+    {
+      "nome": "Arm - Posterior Region",
+      "esercizi": [
+        {
+          "nome": "Extension isométrique Elbow dans la table",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du coude, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous le dos droit à une table avec les paumes soutenues et les coudes fléchis près du coffre. Appuyez sur les deux paumes vers le bas dans la table sans soulever le bassin. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-017",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension isométrique Elbow dans la table",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension Elbow vers l'avant",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant l'extension.",
+          "howToDo": "Asseyez-vous le dos droit ou debout. Commencez par un coude fléchi et la main près de l'épaule ipsilatérale. Prolongez le coude pour déplacer la main vers l'avant à hauteur de l'épaule. Maintenez pendant 2 secondes, revenez lentement et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-018",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension Elbow vers l'avant",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension isométrique de l'épaule contre le mur",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du complexe de l'épaule, en mettant l'accent sur l'extension.",
+          "howToDo": "Tenez-vous le dos appuyé contre un mur et les deux bras le long du tronc. Appuyez sur l'aspect postérieur des bras dans le mur en utilisant la force sous-maximale constante. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-019",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension isométrique de l'épaule contre le mur",
+          "movementDistrict": "shoulder",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension d'Elbow Overhead avec Coussin",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant l'extension.",
+          "howToDo": "Asseyez-vous sur une chaise avec un dossier. Tenez un coussin léger avec les deux mains. Portez vos mains au-dessus de votre tête, pliant vos coudes vers l'arrière, de sorte que le coussin touche légèrement l'arrière de votre cou. De cette position, poussez vos bras vers le haut jusqu'à ce qu'ils soient complètement étendus vers le plafond.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-020",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension d'Elbow Overhead avec Coussin",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extension de l'anse En décubitus dorsal dans l'abduction des épaules",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité du coude pendant l'extension et la flexion.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les bras supérieurs ouverts sur les côtés et les coudes pliés à 90 degrés en forme de poteau de but. Maintenez les bras supérieurs immobiles et redressez les coudes jusqu'à ce que les bras forment un T, puis pliez les coudes pour revenir.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-110",
+          "sezione": "Arm - Posterior Region",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de l'anse En décubitus dorsal dans l'abduction des épaules",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "arm-posterior-region"
+    },
+    {
+      "nome": "Coude",
+      "esercizi": [
+        {
+          "nome": "Pronation et supination d'avant-bras assis",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements des articulations avant-bras et radioulniques pendant la pronation et la supination.",
+          "howToDo": "Assis debout avec les deux coudes fléchis à 90 degrés et maintenus à côté du tronc. Tourner les avant-bras en pronation jusqu'à ce que les paumes fassent face vers le bas, puis en supination jusqu'à ce que les paumes fassent face vers le haut. Alterner lentement pour 10 répétitions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-021",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Pronation et supination d'avant-bras assis",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extension isométrique Elbow avec résistance manuelle",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du coude, en mettant l'accent sur l'extension.",
+          "howToDo": "Placez la paume opposée sous le coude. Appuyez sur le coude vers le bas tandis que la main de soutien offre une résistance égale vers le haut afin qu'aucun mouvement ne se produise. Maintenez pendant 5 secondes, puis changez de côté.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-022",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension isométrique Elbow avec résistance manuelle",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Elbow extension assise avec ouverture à la main",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant l'extension.",
+          "howToDo": "Asseyez-vous le dos droit, les coudes fléchissent et les mains se ferment lâchement près de la région axillaire. Prolongez les deux coudes vers le sol. Ouvrez les mains à la fin de la amplitude, maintenez 2 secondes, puis revenez lentement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-023",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Elbow extension assise avec ouverture à la main",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extension isométrique alternée dans le tableau",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du coude, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous le dos droit à une table avec les deux paumes supportées et les coudes fléchis. Appuyez sur une main vers le bas tout en étendant légèrement ce coude et en maintenant le bras opposé détendu. Revenez sur les côtés neutres et alternés pour 5 répétitions.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-024",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension isométrique alternée dans le tableau",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension de l'enveloppe isométrique assise dans la table",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du coude, en mettant l'accent sur la stabilisation statique.",
+          "howToDo": "Asseyez-vous le dos droit devant une table. Pliez votre coude droit et placez le côté extérieur de votre avant-bras sur la table. Appuyez doucement sur votre coude et avant-bras vers le bas contre la table sans déplacer le bras. Maintenez la pression pendant 5 secondes, puis détendez-vous. Répétez avec le bras gauche.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-042",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de l'enveloppe isométrique assise dans la table",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion active et l'extension d'Elbow",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant la flexion et l'extension.",
+          "howToDo": "Gardez le bras détendu sur le côté. Pliez le coude pour amener la main vers l'épaule, puis revenez lentement à la position de départ à travers une amplitude confortable.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-052",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion active et l'extension d'Elbow",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion Elbow vers l'extension vers le bas",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du coude pendant la flexion et l'extension.",
+          "howToDo": "Tenez-vous debout avec les deux bras à côté du tronc. Flexez les coudes pour amener chaque main vers l'épaule ipsilatérale, puis étendez les coudes entièrement vers le plancher. Revenez à la position de départ et répétez.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-097",
+          "sezione": "Coude",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion Elbow vers l'extension vers le bas",
+          "movementDistrict": "elbow",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "elbow"
+    },
+    {
+      "nome": "Avant-bras",
+      "esercizi": [
+        {
+          "nome": "Des anneaux de serviette pour la rotation avant-bras",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements des articulations avant-bras et radioulniques pendant la pronation et la supination.",
+          "howToDo": "Asseyez-vous le dos droit et tiens une serviette roulée avec les deux mains devant le tronc. Tourne l'avant-bras en pronation et l'autre en supination pour serrer la serviette. Maintenez pendant 4 secondes, puis inversez les directions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-025",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Des anneaux de serviette pour la rotation avant-bras",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion active du doigt et une extension",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la main et des doigts pendant la flexion et l'extension des doigts.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux coudes fléchis et les mains placées devant le tronc. Étendre et enlever tous les doigts, puis fléchir les doigts pour former un poing détendu. Alternez lentement les deux positions pour 10 répétitions.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-026",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion active du doigt et une extension",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion et l'extension de poignets supportés",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la plage active de mouvement et de contrôle des mouvements du poignet pendant la flexion et l'extension.",
+          "howToDo": "Asseyez-vous à une table. Reposez votre avant-bras droit sur la table, laissant votre main sur le bord, avec votre paume face au sol. Levez votre main vers le haut, pointez vos doigts vers le plafond, sans lever votre bras de la table. Maintenez la position pendant 2 secondes, puis laissez votre main descendre vers le bas. Répétez 5 fois, puis changez les bras.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-027",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension de poignets supportés",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Circonduction bilatérale des avant-bras",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements des articulations avant-bras et radioulniques pendant la pronation, la supination et la circonduction.",
+          "howToDo": "Associez-vous debout les deux mains fermées de façon lâche devant la poitrine. Déplacez les avant-bras et les poignets à travers des cercles alternés coordonnés pendant 5 secondes, puis inversez la direction.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-028",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction bilatérale des avant-bras",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination",
+            "circumduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Pronation avant-bras et supination avec résistance à la lumière",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements des articulations avant-bras et radioulniques pendant la pronation et la supination.",
+          "howToDo": "Tenez un objet léger, comme une petite bouteille vide, dans votre main droite. Gardez votre coude courbé à 90 degrés et à proximité de votre côté. Tournez lentement votre paume vers le haut, puis tournez lentement vers le bas. Répétez 5 fois, puis changez les mains.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-043",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Pronation avant-bras et supination avec résistance à la lumière",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pronation active de l'avant-bras et supination",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements des articulations avant-bras et radioulniques pendant la pronation et la supination.",
+          "howToDo": "Gardez le coude près du corps et l'avant-bras soutenu. Commencez par le pouce pointé vers le haut, tournez la paume vers le haut, retournez au centre, puis tournez la paume vers le bas.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-053",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Pronation active de l'avant-bras et supination",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Pronation et la supination d'avant-bras stabilisés manuellement",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements des articulations avant-bras et radioulniques pendant la pronation et la supination.",
+          "howToDo": "Placez la paume droite légèrement contre l'extérieur du coude gauche pour la maintenir stable. Tournez l'avant-bras gauche en pronation, abaissant la paume, puis en supination lorsque l'avant-bras atteint doucement vers l'avant. Répétez de l'autre côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-087",
+          "sezione": "Avant-bras",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Pronation et la supination d'avant-bras stabilisés manuellement",
+          "movementDistrict": "forearm",
+          "movementTags": [
+            "pronation",
+            "supination"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "forearm"
+    },
+    {
+      "nome": "Poignet",
+      "esercizi": [
+        {
+          "nome": "Extension de poignet assistée étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au poignet, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous le dos droit et étends-toi un bras en avant avec le coude droit, la paume orientée vers l'avant et les doigts dirigés vers le haut. Utilise la main opposée pour appliquer une légère pression sur les doigts jusqu'à ce qu'un léger étirement soit ressenti le long du poignet volar.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-029",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de poignet assistée étirement",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion de poignet assistée",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au poignet, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous le dos droit. Cette fois, rassemblez vos mains devant votre poitrine, en plaçant l'arrière de votre main droite contre l'arrière de votre main gauche, les doigts pointant vers le bas. Appuyez doucement sur vos mains l'une contre l'autre pendant 5 secondes, en sentant un étirement autour de la zone du poignet.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-030",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de poignet assistée",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Déviation radiale active et Ulnar",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la plage active de mouvement et le contrôle des mouvements du poignet pendant la déviation radiale et la déviation lunaire.",
+          "howToDo": "Asseyez-vous à une table avec un avant-bras soutenu et la paume orientée vers le bas. Gardez l'avant-bras stationnaire, déplacez la main vers le côté radial, puis vers le côté lunaire. Répétez lentement, puis changez de côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-031",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Déviation radiale active et Ulnar",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circonduction active du poignet",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du poignet pendant la circonduction.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux coudes fléchis et tenu à côté du tronc. Formez des poings détendues et déplacez les deux poignets par circonduction contrôlée dans le sens des aiguilles d'une montre pour 5 répétitions, puis répétez dans le sens des aiguilles d'une montre.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-032",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction active du poignet",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "circumduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Poignet Extensor Muscle étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au poignet, en mettant l'accent sur la flexion.",
+          "howToDo": "Prolongez un bras vers l'avant avec la paume vers le bas. Pliez le poignet pour que les doigts pointent vers le sol, puis guidez doucement la main avec l'autre main jusqu'à ce qu'un léger étirement soit ressenti sur le dessus de l'avant-bras. Maintenez environ 15 secondes.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-048",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Poignet Extensor Muscle étirement",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexeur de poignet Muscle étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au poignet, en mettant l'accent sur l'extension.",
+          "howToDo": "Prolongez un bras vers l'avant avec la paume vers le bas. Laissez la main se déplacer vers le sol, puis utilisez l'autre main pour guider doucement le poignet dans l'extension jusqu'à ce que le côté opposé de l'avant-bras s'étire.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-049",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexeur de poignet Muscle étirement",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extension du poignet isométrique",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du poignet, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous avec l'avant-bras soutenu sur une table et le poignet au-delà du bord. Faites un poing léger, apportez la main en ligne avec l'avant-bras, tenez quelques secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-050",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension du poignet isométrique",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extension du poignet résisté",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du poignet pendant l'extension.",
+          "howToDo": "Supportez un avant-bras sur une table avec le poignet au-delà du bord et la paume vers le bas. Prolongez le poignet avec l'assistance de la main opposée, puis retirez l'assistance et baissez lentement la main. Ajoutez seulement une résistance externe minimale lorsque le mouvement est bien contrôlé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-051",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension du poignet résisté",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion du poignet",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du poignet pendant la flexion et la pronation.",
+          "howToDo": "Asseyez-vous avec l'avant-bras soutenu et la paume tournée vers le bas, permettant à la main de s'étendre au-delà du bord de la table.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-088",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion du poignet",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Produire l'extension du poignet",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du poignet pendant l'extension et la pronation.",
+          "howToDo": "Assis avec l'avant-bras soutenu et la paume tournée vers le bas, permettant à la main de s'étendre au-delà du bord de la table. Soulevez l'arrière de la main vers le haut, puis Revenez en position neutre avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-089",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Produire l'extension du poignet",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "pronation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion de poignet supiné",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement du poignet pendant la flexion et la supination.",
+          "howToDo": "Assis avec l'avant-bras soutenu et la paume orientée vers le haut, permettant à la main de s'étendre au-delà du bord de la table. Courbe la paume vers l'avant-bras, puis retourne lentement au neutre.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-090",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de poignet supiné",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "flexion",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extension de poignet supiné",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du poignet pendant l'extension et la supination.",
+          "howToDo": "Asseyez-vous avec l'avant-bras soutenu et la paume vers le haut, permettant à la main de s'étendre au-delà du bord de la table. Abaissez doucement l'arrière de la main vers le sol, puis retournez au neutre avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-091",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de poignet supiné",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "extension",
+            "supination"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Déviation radiale active et Ulnar avec un avant-bras neutre",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la plage active de mouvement et le contrôle des mouvements du poignet pendant la déviation radiale et la déviation lunaire.",
+          "howToDo": "Maintenez l'avant-bras devant vous avec le pouce pointé vers le haut. Maintenez le poignet neutre et les doigts droit et ensemble. Déplacez la main pour que le côté du petit doigt baisse, puis inversez le mouvement pour que le côté du pouce se lève.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-092",
+          "sezione": "Poignet",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Déviation radiale active et Ulnar avec un avant-bras neutre",
+          "movementDistrict": "wrist",
+          "movementTags": [
+            "radial-deviation",
+            "ulnar-deviation"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "wrist"
+    },
+    {
+      "nome": "Hand",
+      "esercizi": [
+        {
+          "nome": "Opposition de la Pouce à l'Aigle",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement de la main et des doigts pendant l'opposition.",
+          "howToDo": "Asseyez-vous confortablement avec vos mains reposant sur vos cuisses. Soulevez votre main droite avec votre paume ouverte. Apportez votre pouce pour toucher l'extrémité de votre index, puis l'extrémité de votre doigt moyen, l'annulaire, et enfin votre petit doigt. Une fois que vous atteignez le petit doigt, retournez dans la direction opposée. Répétez 3 fois avec chaque main.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-033",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Opposition de la Pouce à l'Aigle",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion du doigt de table et l'extension Walk",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la main et des doigts pendant la flexion et l'extension des doigts.",
+          "howToDo": "Placez les bouts des doigts d'une main sur la surface, la paume étant surélevée. Repliez-les de façon séquentielle et étendez les doigts pour avancer la main vers l'avant, puis inversez la séquence pour revenir. Répétez avec la main opposée.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-034",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion du doigt de table et l'extension Walk",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "finger-extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abduction de doigts avec bande élastique",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement de la main et des doigts lors de l'abduction des doigts.",
+          "howToDo": "Placez une bande élastique de cuisine régulière autour des doigts joints, juste sous les ongles. De cette position, écartez vos doigts vers l'extérieur, en poussant contre la résistance de la bande élastique. Maintenez la position ouverte pendant 3 secondes, puis fermez lentement vos doigts à nouveau. Répétez 5 fois de chaque côté.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-035",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction de doigts avec bande élastique",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Grippage de papier pour poignée de main",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la main et des doigts pendant la flexion des doigts.",
+          "howToDo": "Asseyez-vous à une table. Placez une vieille feuille de journal ou une feuille de papier de cuisine plat sur la table en face de vous. Placez votre main droite ouverte sur elle. En utilisant seulement les doigts de cette main, commencez à tirer le papier vers le centre de votre paume jusqu'à ce que vous tournez la feuille en une balle serrée. répétez avec votre main gauche.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-036",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Grippage de papier pour poignée de main",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-flexion",
+            "grip"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension du doigt isolé sur la table",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement de la main et des doigts pendant l'extension du doigt.",
+          "howToDo": "Asseyez-vous à une table et placez votre main droite à plat sur la surface, avec votre paume et vos doigts reposant vers le bas. Garder la paume immobile, lever lentement seulement votre index, puis baisser. Continuer avec le majeur, l'annulaire et le petit doigt. Répéter 3 fois, puis basculer les mains.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-044",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Extension du doigt isolé sur la table",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abduction actif du doigt et l'adduction sur la table",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la main et des doigts lors de l'abduction et de l'adduction des doigts.",
+          "howToDo": "Asseyez-vous à une table et placez votre main droite à plat sur la surface. Gardez votre paume vers le bas, écartez lentement vos doigts le plus possible, puis ramenez-les lentement. Répétez 5 fois, puis changez les mains.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-045",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction actif du doigt et l'adduction sur la table",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "finger-abduction",
+            "finger-adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Opposition de la Pouce à travers la Palme",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la main et des doigts pendant l'opposition et l'adduction du pouce.",
+          "howToDo": "Asseyez-vous confortablement avec les mains reposant sur vos cuisses. Ouvrez votre main droite avec la paume vers le haut. Faites glisser lentement votre pouce sur la paume vers la base du petit doigt, puis retournez à la position ouverte. Répétez 5 fois, puis changez les mains.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "upper-limb-046",
+          "sezione": "Hand",
+          "distretto": "Membre supérieur",
+          "thumbnail": "",
+          "imageAlt": "Opposition de la Pouce à travers la Palme",
+          "movementDistrict": "hand",
+          "movementTags": [
+            "opposition",
+            "thumb-adduction"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "hand"
+    }
+  ],
+  "id": "upper-limb"
+}

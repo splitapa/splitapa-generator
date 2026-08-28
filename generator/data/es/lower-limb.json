@@ -1,0 +1,2011 @@
+{
+  "distretto": "Miembro inferior",
+  "sezioni": [
+    {
+      "nome": "Pelvis - Movilidad y equilibrio",
+      "esercizi": [
+        {
+          "nome": "Rotación de tronco inferior de en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la rotación.",
+          "howToDo": "Túmbese en decúbito supino con las rodillas flexionadas y los pies apoyados. Mantenga los hombros en contacto con la superficie y baje las dos rodillas lentamente a un lado. Volver a la posición neutra y repetir en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-002",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Rotación de tronco inferior de en decúbito supino",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circunducción pélvica de pie Apoyada",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada de la pelvis y la región lumbopélvica.",
+          "howToDo": "Póngase detrás de una silla estable y mantenga el respaldo. Mantenga ambos pies en contacto con el suelo y mueva la pelvis a través de pequeños círculos controlados. Complete 5 repeticiones en cada dirección.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-033",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción pélvica de pie Apoyada",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Cambio de peso lateral soportado",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante el cambio de peso lateral controlado de la pelvis y la región lumbopélvica.",
+          "howToDo": "Póngase detrás de una silla robusta y agárrese con ambas manos. Mantenga los pies ligeramente separados. Cambie lentamente su peso sobre el pie derecho sin levantar el pie izquierdo del suelo. Regrese al centro y luego cambie su peso sobre el pie izquierdo. Repita 10 veces.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-040",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Cambio de peso lateral soportado",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circunducción de pie de una sola pierna de cadera",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la circunducción controlada de la cadera.",
+          "howToDo": "Párese alto y sostenga un soporte si es necesario. Dibuje círculos lentos con una cadera en una dirección, luego la otra, y repita en ambos lados.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-075",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción de pie de una sola pierna de cadera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estiramiento de rotación externa de cadera modificada",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en la rotación y flexión externas.",
+          "howToDo": "Coloque una cadera en flexión y rotación externa con la rodilla flexionada delante del tronco, y extienda la extremidad inferior opuesta hacia atrás. Incline el tronco hacia adelante hasta que se sienta un leve estiramiento posterior.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-077",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de rotación externa de cadera modificada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Posición sedente 90/90 extensión de la cadera",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la extensión controlada y la rotación externa de la cadera.",
+          "howToDo": "Siéntese en una posición 90/90. Mantenga el tronco alto y alargue o levante suavemente desde la cadera trasera hasta donde el control lo permita.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-080",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Posición sedente 90/90 extensión de la cadera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Transición de rotación de cadera sentada 90/90",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la rotación interna controlada y la rotación externa de la cadera.",
+          "howToDo": "Siéntese con ambas rodillas dobladas en una posición de 90/90. Gire las piernas para cambiar los lados lentamente, utilizando las manos para el apoyo si es necesario.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-085",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Transición de rotación de cadera sentada 90/90",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "En decúbito supino Figura-Cuatro Estiramiento cadera",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en la rotación y flexión externas.",
+          "howToDo": "Túmbese en decúbito supino o siéntese alto. Cruce un tobillo sobre el muslo opuesto y acerque suavemente las piernas hasta que la cadera externa se estira.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-089",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "En decúbito supino Figura-Cuatro Estiramiento cadera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sostén isométrico de rotación de cadera sentado 90/90",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la cadera, con énfasis en la rotación interna y la rotación externa.",
+          "howToDo": "Siéntese en una posición de 90/90 cadera con ambas rodillas flexionadas. Mantenga un tronco erguido y aplique una suave presión hacia abajo a través de ambas extremidades inferiores sin movimiento visible.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-091",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sostén isométrico de rotación de cadera sentado 90/90",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Apertura en rotación externa de pie de la cadera",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la flexión controlada, el abducción y la rotación externa de la cadera.",
+          "howToDo": "Póngase de pie y utilice un soporte estable según sea necesario. Flexione una cadera y rodilla, luego mueva la rodilla lateral y posteriormente a través de la abducción de cadera y rotación externa. Devuelva el pie al suelo y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-093",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Apertura en rotación externa de pie de la cadera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Apertura en rotación interna de pie de la cadera",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar el abducción controlado, la aducción y la rotación interna de la cadera.",
+          "howToDo": "Párese alto y sostenga un apoyo estable si es necesario. Levante una rodilla hacia el lado, guíala hacia adelante en un camino circular, luego baje el pie. Repita en el otro lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-094",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Apertura en rotación interna de pie de la cadera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "internal-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circunducción de pie de la cadera con rodilla flexionada",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la circunducción controlada de la cadera.",
+          "howToDo": "Párese alto en una pierna y sostenga un soporte estable si es necesario. Levante la rodilla opuesta a una altura cómoda y dibuje pequeños círculos horizontales con ella, primero en una dirección y luego en la otra. Repita en el lado opuesto.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-095",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Circunducción de pie de la cadera con rodilla flexionada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotación interna y externa de la cadera de pie con rodilla flexionada",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la rotación interna controlada y la rotación externa de la cadera.",
+          "howToDo": "Párese alto y sostenga un soporte estable si es necesario. Doble una rodilla para que el talón se levante detrás de usted y la rodilla permanezca cerca del otro muslo. Desde esta posición, mueva el pie suavemente hacia adentro y hacia afuera para girar la cadera interna y externamente. Repita en el otro lado.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-100",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Rotación interna y externa de la cadera de pie con rodilla flexionada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotación bilateral de cadera en decúbito supino interna y externa",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la rotación interna controlada y la rotación externa de la cadera.",
+          "howToDo": "Recuéstese en decúbito supino con ambas piernas rectas y ligeramente separadas. Mantenga los tobillos dorsiflexidos, luego gire las piernas hacia adentro y hacia afuera de las caderas para que los pies se muevan como limpiaparabrisas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-102",
+          "sezione": "Pelvis - Movilidad y equilibrio",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Rotación bilateral de cadera en decúbito supino interna y externa",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-balance"
+    },
+    {
+      "nome": "Pelvis - Región lateral",
+      "esercizi": [
+        {
+          "nome": "Alternating pélvico Hike",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la elevación pélvica controlada de la pelvis y la región lumbopélvica.",
+          "howToDo": "Siéntese erguido lejos del respaldo con ambos pies apoyados. Eleve un lado de la pelvis ligeramente desde el asiento mientras mantiene el control del tronco. Sostenga durante 2 segundos, vuelva a la posición neutra y altere los lados para 10 repeticiones.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-001",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Alternating pélvico Hike",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "pelvic-hike",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Abducción de Hipa de pie soportado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante el abducción.",
+          "howToDo": "Párate junto a un soporte estable y sostenlo con una mano. Manteniendo el tronco erguido y la rodilla extendida, secuestra la cadera opuesta moviendo la pierna lateralmente. Pausa brevemente, vuelve a ser la posición neutra y repite en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-003",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de Hipa de pie soportado",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Paso lateral soportado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante el abducción y la aducción.",
+          "howToDo": "Párate detrás de una silla robusta o junto a una mesa y sujétate con ambas manos por seguridad. Comenzando con los pies juntos, da un pequeño paso a la derecha con el pie derecho, luego acerca el pie izquierdo. Repite el mismo movimiento a la izquierda. Mueve lentamente y mantén tu cuerpo erguido. Repite 5 veces a cada lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-029",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Paso lateral soportado",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Paso cruzado soportado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la aducción y abducción.",
+          "howToDo": "Párate detrás de una silla robusta y sujeta el respaldo con ambas manos. Cruza lentamente el pie derecho delante de tu pie izquierdo, colocándolo suavemente en el suelo. Vuelve a la posición de inicio, luego cruza el pie izquierdo delante de tu pie derecho. Alterna el movimiento lentamente para 5 repeticiones en cada lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-030",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Paso cruzado soportado",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "adduction",
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sentado cadera abducción toque de la punta del pie",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante el abducción y la aducción.",
+          "howToDo": "Siéntese erguido en una silla con los pies apoyados en el suelo. Deslice el pie derecho hacia un lado, manteniendo los dedos de los pies en contacto con el suelo, luego llévelo de vuelta al centro. Repita 5 veces, luego repita con el pie izquierdo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-038",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sentado cadera abducción toque de la punta del pie",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Abducción de cadera de mentira lateral",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante el abducción.",
+          "howToDo": "Acuéstese de lado en una estera, con la pierna inferior ligeramente doblada para mayor comodidad y la pierna superior recta. Lentamente levante la pierna superior unos centímetros, manteniendo los dedos de los pies apuntando hacia adelante. Sostenga durante 2 segundos, luego baje la pierna lentamente. Repita 5 veces, luego gire hacia el otro lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-054",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de cadera de mentira lateral",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estiramiento sentado de la cadera de la pierna ancha",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en el abducción y la flexión.",
+          "howToDo": "Siéntese con ambos miembros inferiores secuestrados y las rodillas extendidas. Mantenga la elongación espinal axial y flexione hacia adelante desde las caderas hasta que se sienta un leve estiramiento a lo largo de los muslos medios y posteriores.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-067",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento sentado de la cadera de la pierna ancha",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Adducción de Hipa Cruzada de pie y abducción balanceo",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar el abducción controlado y la aducción de la cadera.",
+          "howToDo": "Párese alto y sostenga un soporte. Gire una pierna recta suavemente a través del cuerpo y luego hacia el lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-068",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Adducción de Hipa Cruzada de pie y abducción balanceo",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sujeción isométrica de pie de la cadera de la pierna ancha",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la cadera, con énfasis en el abducción y la flexión.",
+          "howToDo": "Póngase de pie con los pies anchos y las rodillas suavemente extendidas. Inserte hacia adelante en las caderas mientras mantiene una columna vertebral neutra. Utilice el apoyo de la mano según sea necesario y mantenga la posición mientras respira normalmente.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-069",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sujeción isométrica de pie de la cadera de la pierna ancha",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Cambio lateral de peso de pie de la pierna ancha",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante el abducción controlado, la aducción y el cambio lateral de peso de la cadera.",
+          "howToDo": "Póngase de pie con los pies anchos y bisagra ligeramente hacia adelante en las caderas. Cambie la pelvis y el peso corporal hacia un lado flexionando esa rodilla, vuelva a través de la posición neutra, y repita en el lado opuesto.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-071",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Cambio lateral de peso de pie de la pierna ancha",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "lateral-shift"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Abducción de cadera sentado y estiramiento externo de rotación",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en el abducción y la rotación externa.",
+          "howToDo": "Siéntese con las plantas de los pies juntos y las rodillas se abren hacia fuera. Siéntese alto y deje que las rodillas bajen sólo a través de la cómoda gama disponible.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-078",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Abducción de cadera sentado y estiramiento externo de rotación",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión de Pie de Pie de Pie Grande",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar el abducción controlado y la flexión de la cadera.",
+          "howToDo": "Párate con los pies anchos y las rodillas suavemente extendidas. Flexióna hacia adelante desde las caderas manteniendo una columna vertebral neutra, luego extiende las caderas para volver a estar de pie.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-079",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de Pie de Pie de Pie Grande",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abducción bilateral de cadera y rotación externa de supinos",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar el abducción controlado, la aducción y la rotación externa de la cadera.",
+          "howToDo": "Recuéstese de forma en decúbito supino con las rodillas flexionadas y los pies juntos. Permita que ambas rodillas se muevan lateralmente hacia el abducción de cadera y la rotación externa, y luego vuelva a ser la posición neutra con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-101",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Abducción bilateral de cadera y rotación externa de supinos",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "En decúbito supino bilateral de pierna recta abducción y adducción de cadera",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar el abducción controlado y la aducción de la cadera.",
+          "howToDo": "Recuéstese de forma en decúbito supino con ambas rodillas extendidas y los tobillos dorsiflexidos. Deslice ambos miembros inferiores lateralmente en la abducción de cadera, luego devuélvalos hacia la línea media bajo control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-104",
+          "sezione": "Pelvis - Región lateral",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "En decúbito supino bilateral de pierna recta abducción y adducción de cadera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-lateral-region"
+    },
+    {
+      "nome": "Pelvis - Región posterior",
+      "esercizi": [
+        {
+          "nome": "Extensión de cadera de pie compatible",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento de la cadera durante la extensión.",
+          "howToDo": "Póngase de pie frente a un soporte estable y sostenlo con ambas manos. Manteniendo el tronco erguido y la rodilla extendida, mueva una pierna hacia atrás hacia la extensión de la cadera. Sostenga durante 3 segundos, vuelva a la posición neutra, y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-004",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de cadera de pie compatible",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Puntera del dedo hacia atrás compatible",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento de la cadera durante la extensión.",
+          "howToDo": "Párate detrás de una silla robusta y sujétate con ambas manos. Mueve el pie derecho ligeramente hacia atrás y toca el suelo con los dedos de los pies, sin cambiar demasiado peso sobre esa pierna. Vuelve a la posición de inicio y repite 5 veces. Luego cambia a la pierna izquierda.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-037",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Puntera del dedo hacia atrás compatible",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Pasos hacia atrás soportados",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la extensión controlada de la cadera.",
+          "howToDo": "Póngase junto a una mesa estable o un mostrador de cocina y mantenga una mano sobre ella para apoyarla. Tome un pequeño paso hacia atrás con el pie derecho, luego acerque el pie izquierdo a ella. Continúe por 3 pequeños pasos, luego vuelva hacia adelante cuidadosamente. Repita 3 veces.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-048",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Pasos hacia atrás soportados",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Lunga inversa soportada",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la extensión y flexión.",
+          "howToDo": "Párese erguido y sostenga un palo verticalmente con una mano para apoyarlo. Tome un pequeño paso hacia atrás con el pie derecho, colocando los dedos del pie suavemente en el suelo. Doble ligeramente ambas rodillas, luego empuje a través de la pierna delantera para volver a la posición de inicio. Repita 5 veces, luego cambie las piernas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-052",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Lunga inversa soportada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extensión cuádruple de cadera con rodilla extendida",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento de la cadera durante la extensión.",
+          "howToDo": "Asume una posición cuádruple sobre una superficie acolchada. Extiende lentamente la pierna derecha hacia atrás, deslizándola a lo largo del suelo primero y luego levantándola ligeramente, manteniendo la rodilla recta. Sostenga durante 2 segundos, luego vuelva a la posición de inicio. Repita 5 veces, luego cambie las piernas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-053",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión cuádruple de cadera con rodilla extendida",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Ejecutar Romanian peso muerto",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión y la extensión.",
+          "howToDo": "Póngase de pie con los pies separados del ancho de la cadera. Empuje las caderas hacia atrás con una columna vertebral larga, sienta tensión en la parte posterior de los muslos, y luego vuelva a estar de pie.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-059",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Ejecutar Romanian peso muerto",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pierna Rumana peso muerto",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada y la extensión de la cadera.",
+          "howToDo": "Párese en una pierna con la rodilla ligeramente suave. Bisagra de la cadera mientras la pierna libre se extiende hacia atrás, luego vuelva a estar de pie.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-064",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Pierna Rumana peso muerto",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Bisagra de rotación externa de cadera modificada",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión y la rotación externa.",
+          "howToDo": "Coloque la cadera de plomo en flexión y rotación externa con la rodilla flexionada y la extremidad opuesta extendida hacia atrás. Mantenga una columna vertebral neutra y bisagra el tronco hacia adelante ligeramente, luego vuelva hacia arriba.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-084",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Bisagra de rotación externa de cadera modificada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "external-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extensión cuádruple de cadera con la rodilla flexionada",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la extensión controlada de la cadera.",
+          "howToDo": "Asumir una posición cuádruple. Mantener una rodilla flexionada a aproximadamente 90 grados, extender la cadera dirigiendo la superficie plantar del pie hacia arriba. Bajar la extremidad con control y repetir en el lado opuesto.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-088",
+          "sezione": "Pelvis - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión cuádruple de cadera con la rodilla flexionada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "pelvis-posterior-region"
+    },
+    {
+      "nome": "Muslo - Región anterior",
+      "esercizi": [
+        {
+          "nome": "Extensión de rodilla activa sentada",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de la rodilla durante la extensión.",
+          "howToDo": "Siéntese en posición vertical en una silla con la espalda bien apoyada contra el respaldo. Mantenga las manos a los lados del asiento. Lentamente levante el pie derecho y extienda la pierna hacia adelante hasta que esté paralela al suelo. Apriete bien el músculo del muslo y tire de los dedos de los pies hacia usted. Sostenga durante 3 segundos, luego baje lentamente el pie hacia abajo. repita con la pierna izquierda.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-005",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de rodilla activa sentada",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Aumento de la pierna recta de corto alcance de en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión.",
+          "howToDo": "Acuéstese en una superficie firme y cómoda. Dobla la rodilla izquierda, colocando el pie en el colchón; esto ayuda a proteger la espalda. Mantenga la pierna derecha completamente extendida sobre la cama. Apriete el músculo del muslo derecho y levante la pierna recta sólo ligeramente, aproximadamente la altura de una mano. Sostenga la pierna hacia arriba durante 3 segundos, luego baje lentamente hacia abajo. Repita 5 veces por cada lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-006",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Aumento de la pierna recta de corto alcance de en decúbito supino",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Parcial Sit-to-Stand",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Siéntese cerca de la parte delantera de una silla estable con ambos pies totalmente apoyados y ligeramente separados. Incline el tronco hacia adelante, extienda las caderas y las rodillas, y elevar la pelvis aproximadamente 2 a 3 cm desde el asiento. Sostenga durante 2 segundos, luego bajar con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-007",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Parcial Sit-to-Stand",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexión isométrica de la cadera sentada con resistencia manual",
+          "image": "",
+          "description": "Este ejercicio isométrico aislado desarrolla activación del flexor de cadera mientras que el tronco y la pelvis permanecen estacionarios.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Coloque ambas manos sobre el muslo distal de un lado. Trate de flexionar la cadera mientras las manos proporcionan igual resistencia hacia abajo para que no se produzca ningún movimiento visible. Sostenga durante 5 segundos, luego repita en el lado opuesto.",
+          "whatToDo": "Mantenga el nivel de pelvis, dirija verticalmente el muslo hacia ambas manos y mantenga un esfuerzo constante submáximo mientras respira con normalidad.",
+          "whatNotToDo": "No se incline hacia atrás, gire el tronco, eleve los hombros, mantenga la respiración, o permita el movimiento visible de la cadera.",
+          "id": "lower-limb-008",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión isométrica de la cadera sentada con resistencia manual",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sentadilla parcial soportado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Párate detrás de una silla estable y sujeta el respaldo. Con los pies aproximadamente separados, flexiona las caderas y las rodillas a través de un pequeño rango, luego extiéndelos para volver a estar de pie. Repite lentamente.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-031",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sentadilla parcial soportado",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión alternante de la cadera sentada con elevación del brazo contralateral",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión.",
+          "howToDo": "Siéntese erguido en la mitad delantera de una silla. Levante ligeramente la rodilla derecha mientras levanta el brazo izquierdo hacia adelante al mismo tiempo. Bájelos lentamente, luego levante la rodilla izquierda mientras levanta el brazo derecho. Alternar el movimiento para 10 repeticiones.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-036",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión alternante de la cadera sentada con elevación del brazo contralateral",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Puntera del dedo delantero soportado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión.",
+          "howToDo": "Párate detrás de una silla robusta y sujétate con ambas manos. Mueve el pie derecho hacia adelante y golpea ligeramente el suelo con los dedos de los pies. Lleva el pie de vuelta a la posición de inicio. Repite 5 veces, luego cambia las piernas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-041",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Puntera del dedo delantero soportado",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Zancada delantero soportado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Póngase de pie y sostenga un palo verticalmente con una mano para apoyarlo. Tome un pequeño paso adelante con el pie derecho. Doble lentamente ambas rodillas un poco, bajando su cuerpo sólo a través del rango cómodo disponible. Empuje a través del pie delantero para volver a la posición inicial. Repita 5 veces, luego cambie las piernas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-051",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Zancada delantero soportado",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estiramiento de la cadera de mitad rodilla",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en la extensión.",
+          "howToDo": "Asume una posición de agachamiento o de pie. Mantén un tronco erguido y traduce la pelvis hacia adelante hasta que se sienta un leve estiramiento sobre el aspecto anterior de la cadera.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-081",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de la cadera de mitad rodilla",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estiramiento de Cuádriceps de zancada",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la rodilla, con énfasis en la flexión.",
+          "howToDo": "Colóquese en una panza y doble la rodilla trasera si es cómodo. Sostenga el pie trasero con la mano o una correa y dibuje suavemente el talón hacia el glúteo.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-087",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de Cuádriceps de zancada",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexor de cadera y el estiramiento de cuádriceps con soporte de pared",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en la extensión.",
+          "howToDo": "Coloque una rodilla cerca de una pared o un sofá con la espinilla apoyada detrás de usted. Lleve el otro pie hacia adelante y levante el tronco hacia arriba como tolerado.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-092",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexor de cadera y el estiramiento de cuádriceps con soporte de pared",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Aumento de la altura de la pierna recta de en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada de la cadera.",
+          "howToDo": "Túmbese en decúbito supino con ambas piernas rectas y ligeramente separadas. Apriete un muslo, mantenga la rodilla extendida y levante esa pierna hacia arriba a través de un rango cómodo. Detenga brevemente, baje lentamente y repita en el otro lado.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-103",
+          "sezione": "Muslo - Región anterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Aumento de la altura de la pierna recta de en decúbito supino",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "thigh-anterior-region"
+    },
+    {
+      "nome": "Muslo - Región posterior",
+      "esercizi": [
+        {
+          "nome": "Flexión de rodilla de pie soportada",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión.",
+          "howToDo": "Póngase detrás de una silla estable y use ambas manos como soporte. Flexione una rodilla para mover el talón hacia la región glútea mientras mantiene un tronco erguido y una posición de cadera neutra. Sostenga durante 2 segundos, baje lentamente y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-009",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de rodilla de pie soportada",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión isométrica de la rodilla sentada con contacto de talón",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la rodilla, con énfasis en la flexión.",
+          "howToDo": "Siéntese cerca de la parte delantera de la silla y coloque un talón en el suelo ligeramente anterior a la rodilla. Presione el talón hacia abajo e intente dibujarlo hacia atrás sin permitir el movimiento. Mantenga la contracción isométrica durante 5 segundos, luego repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-010",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión isométrica de la rodilla sentada con contacto de talón",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión de rodilla isométrica de en decúbito supino con soporte",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la rodilla, con énfasis en la extensión.",
+          "howToDo": "Recuéstese en decúbito supino con un refuerzo o una bola suave debajo de una rodilla. Presione la rodilla posterior hacia abajo en el soporte para activar los cuádriceps y extender la rodilla, permitiendo que el talón se eleve ligeramente. Sostenga durante 4 segundos, luego repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-011",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de rodilla isométrica de en decúbito supino con soporte",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Diapositiva de talón de flexión de rodilla resistente a asiento",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión.",
+          "howToDo": "Siéntese erguido con un pie totalmente apoyado ligeramente anterior a la silla. Aplique presión moderada hacia abajo a través del talón y deslice el pie hacia atrás para flexionar la rodilla. Volver a la posición de inicio y repetir en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-012",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Diapositiva de talón de flexión de rodilla resistente a asiento",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extensión isométrica de la cadera sentada en cojín",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la cadera, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido en una silla. Coloque un pequeño cojín suave o toalla doblada debajo del muslo derecho, cerca de la parte posterior de la rodilla. Presione el muslo hacia abajo en el cojín durante 5 segundos, luego relájese. Repita 5 veces, luego cambie las piernas.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-042",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión isométrica de la cadera sentada en cojín",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Movilización de cuerdas de una sola pierna con soporte alternativo",
+          "image": "",
+          "description": "Este ejercicio de movilidad recíproca alterna la carga de los tendones derecho e izquierdo dentro de una posición de plegado delantero apoyada.",
+          "howToDo": "Asume una posición apoyada hacia adelante con las manos apoyadas en los muslos, bloques o suelo. Flexiona una rodilla mientras extiendes la rodilla opuesta, luego alterna los lados en una lenta secuencia continua.",
+          "whatToDo": "Transfiera el estiramiento suavemente de un muslo posterior al otro, mantenga la pelvis centrada y mantenga el apoyo de la mano estable.",
+          "whatNotToDo": "No extender ambas rodillas simultáneamente, rebotar en el rango final, rotar la pelvis, o continuar si se presentan síntomas de tipo neural.",
+          "id": "lower-limb-057",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Movilización de cuerdas de una sola pierna con soporte alternativo",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexión y extensión de la cadera de la pierna recta soportada de pie",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la flexión controlada y la extensión de la cadera.",
+          "howToDo": "Párese alto y sostenga un soporte si es necesario. Gire una pierna recta hacia adelante y atrás a través de un rango cómodo, manteniendo el tronco erguido.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-058",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión y extensión de la cadera de la pierna recta soportada de pie",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de una sola pierna de pie",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Coloque un talón delante con la rodilla recta o ligeramente suave. Cubra desde las caderas y alcance el pecho hacia adelante hasta que la parte posterior del muslo se estira.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-060",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de una sola pierna de pie",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Movilización Dinámica de Cordilleras",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la flexión controlada y la extensión de la cadera.",
+          "howToDo": "Comience en una posición de zancada. Cambie las caderas hacia atrás, enderece la rodilla delantera como tolerada, y luego vuelva a la zancada con control.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-061",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Movilización Dinámica de Cordilleras",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de la flexión de pie hacia adelante",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Póngase de pie con los pies separados del ancho de la cadera. bisagra de cadera hacia adelante y deje que las manos alcancen los dedos de los pies, deteniéndose donde se siente un estiramiento cómodo.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-062",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de la flexión de pie hacia adelante",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Movilización de la extensión de la rodilla activa de En decúbito en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la rodilla, con énfasis en la extensión.",
+          "howToDo": "Recuéstese de forma en decúbito supino o siéntese con un muslo apoyado por ambas manos. Mantenga la posición de la cadera estable, extienda la rodilla hasta que se sienta un leve estiramiento posterior-altura y luego flexione la rodilla para volver.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-063",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Movilización de la extensión de la rodilla activa de En decúbito en decúbito supino",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de la isquiotibiales de la cadera de espalda plana",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Coloque una pierna hacia adelante o sobre un soporte bajo. Mantenga la espalda plana y la bisagra de las caderas hasta que la parte posterior del muslo se estira.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-065",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de la isquiotibiales de la cadera de espalda plana",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Bisagra de cadera de cadera alta de rodillas",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión y la extensión.",
+          "howToDo": "Arrodíllate hacia arriba sobre una superficie acolchada con las caderas extendidas. Mueve la pelvis hacia atrás, acotando las caderas mientras mantienes una columna vertebral neutra, luego vuelve a la posición vertical.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-066",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Bisagra de cadera de cadera alta de rodillas",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Modificado Hurdler isquiotibiales estiramiento",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Siéntese con una rodilla extendida y la cadera opuesta y la rodilla flexionada cómodamente a un lado. bisagra de cadera hacia adelante desde las caderas hacia la extremidad extendida hasta que se sienta un leve estiramiento posterior-altura.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-070",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Modificado Hurdler isquiotibiales estiramiento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Movilización Bilateral de Cuerdas Simultáneas Apoyada",
+          "image": "",
+          "description": "Esta movilidad simétrica ejercita cargas y descarga ambos tendones simultáneamente dentro de una posición de plegado delantero soportada.",
+          "howToDo": "Asume una posición apoyada hacia adelante con las manos apoyadas en una superficie estable. Dobla ambas rodillas juntas para reducir la tensión posterior-alta, luego extiende ambas rodillas simultáneamente hasta que se perciba un leve estiramiento bilateral de las cuerdas. Continúa a través de repeticiones lentas y controladas.",
+          "whatToDo": "Mantenga el peso corporal distribuido uniformemente entre ambos pies, mantenga la alineación pélvica simétrica y mueva ambas rodillas a la misma velocidad.",
+          "whatNotToDo": "No alteren los lados, bloqueen las rodillas con fuerza, reboten en el rango final, o continúen si se presentan síntomas de tipo neural.",
+          "id": "lower-limb-072",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Movilización Bilateral de Cuerdas Simultáneas Apoyada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estiramiento de la isquiotibiales larga",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Siéntese con las piernas extendidas hacia adelante. Alce las manos hacia los pies mientras mantiene el estiramiento tolerable y respire lentamente.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-073",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de la isquiotibiales larga",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de la isquiotibiales de medio rodilla",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Desde una posición de zancada, cambiar las caderas hacia atrás y enderezar la pierna delantera como tolerada. Sostenga el estiramiento detrás del muslo.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-082",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de la isquiotibiales de medio rodilla",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sentado Estiramiento Unilateral de Cordón",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta la cadera, con énfasis en la flexión.",
+          "howToDo": "Siéntese cerca de la parte delantera de una silla con la espalda alejada del respaldo. Mantenga una rodilla doblada a 90 grados con el pie plano. Extienda la pierna opuesta con el talón en el suelo y los dedos de los pies apuntando hacia arriba.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-099",
+          "sezione": "Muslo - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sentado Estiramiento Unilateral de Cordón",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "thigh-posterior-region"
+    },
+    {
+      "nome": "Cadera y rodilla - Movilidad funcional",
+      "esercizi": [
+        {
+          "nome": "Paso adelante soportado",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada de la cadera.",
+          "howToDo": "Párese detrás de una silla estable y sostenga el respaldo. Levante un pie, avance sobre una línea marcada o el objetivo del piso bajo, y vuelva a la posición de inicio. Repita 5 veces, luego cambie de lado.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-049",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Paso adelante soportado",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Cuádruple Rock-back",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la cadera durante la flexión.",
+          "howToDo": "Asumir una posición cuádruple en una superficie acolchada. Mantener las manos en el suelo, mover lentamente la pelvis hacia atrás hacia los talones, sólo a través del rango cómodo disponible. A continuación, volver lentamente a la posición de partida. Repetir 5 veces.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-055",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Cuádruple Rock-back",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Transferencia de pierna de paso sobre soporte",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada de la cadera.",
+          "howToDo": "Párese junto a un escalón bajo o línea imaginaria y sostenga un soporte si es necesario. Levante una pierna, pásela sobre el escalón y llévelo de vuelta con control.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-056",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Transferencia de pierna de paso sobre soporte",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sentadilla de peso corporal",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Párate con los pies alrededor del ancho de la cadera separados. Dobla las rodillas y las caderas para bajar en una cómoda cuclillas, luego pararte alto de nuevo.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-074",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sentadilla de peso corporal",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pulsos dinámicos de zancada",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la cadera, con énfasis en la extensión y flexión.",
+          "howToDo": "Bajen suavemente hasta que la parte delantera de la cadera se estira y luego hagan pequeños pulsos controlados.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-076",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Pulsos dinámicos de zancada",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sentadilla de división profunda",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Póngase de pie en una posición dividida. Flexione ambas caderas y rodillas para bajar verticalmente a través del rango controlado disponible, luego extienda las extremidades inferiores para volver a estar de pie.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-083",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sentadilla de división profunda",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sentadilla lateral alternante",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar el abducción controlado y la aducción de la cadera.",
+          "howToDo": "Párese con los pies anchos. Cambie el peso corporal lateralmente mientras flexiona una cadera y rodilla y mantiene la rodilla opuesta extendida. Regrese por el centro y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-086",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sentadilla lateral alternante",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sostén isométrico de sentadilla profundo soportado",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la cadera, con énfasis en la flexión.",
+          "howToDo": "Póngase de pie cerca de un soporte estable. Flexione las caderas y las rodillas para descender en una profunda cuclillas a través del rango disponible. Mantenga la posición con respiración constante y utilice soporte de la cumbre superior según sea necesario.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-090",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sostén isométrico de sentadilla profundo soportado",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sola pierna de tres dedos del pie de dirección",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada, el abducción y la extensión de la cadera.",
+          "howToDo": "Con los dedos del pie libre, toque el suelo en el frente, vuelva al centro, toque hacia el lado, vuelva, luego toque detrás y vuelva. Cambie las piernas después de completar la secuencia.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-096",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sola pierna de tres dedos del pie de dirección",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sola pierna de tres direcciones de la diapositiva de piso",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada, el abducción y la extensión de la cadera.",
+          "howToDo": "Póngase firme sobre una pierna con un soporte estable cerca. Mantenga el otro pie ligeramente tocando el suelo y deslícelo hacia adelante, de vuelta al centro, hacia el lado, de vuelta al centro y detrás antes de regresar. Repita en la pierna opuesta.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-097",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sola pierna de tres direcciones de la diapositiva de piso",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sola pierna de tres direcciones paso a paso",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión controlada, el abducción y la extensión de la cadera.",
+          "howToDo": "Párese en una extremidad inferior con un soporte estable disponible. Levante el pie opuesto despejado del suelo y colóquelo ligeramente delante, lateralmente y posteriormente, volviendo al centro después de cada dirección. Repita en el lado opuesto.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-098",
+          "sezione": "Cadera y rodilla - Movilidad funcional",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Sola pierna de tres direcciones paso a paso",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "obstacle-clearance"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "hip-knee-functional-mobility"
+    },
+    {
+      "nome": "Knee - Mobility",
+      "esercizi": [
+        {
+          "nome": "Diapositiva de tacón de en decúbito supino para la flexión y extensión de rodilla",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Recuéstese en una superficie firme y cómoda con las piernas extendidas. Deslice lentamente el talón derecho a lo largo del colchón, llevándolo hacia su región glútea para que doble la rodilla a través de la cómoda gama disponible. Luego deslice el talón hacia delante para volver a la posición inicial. Repita 5 veces por cada pierna.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-014",
+          "sezione": "Knee - Mobility",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Diapositiva de tacón de en decúbito supino para la flexión y extensión de rodilla",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "En decúbito prono activa rodilla flexión",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión.",
+          "howToDo": "Recuéstese propenso a una superficie firme y cómoda. Flexione una rodilla para mover el talón hacia la región glútea a través del rango cómodo disponible. Sostenga durante 3 segundos, baje lentamente y repita en el lado opuesto. Coloque un cojín bajo debajo del abdomen si es necesario para mayor comodidad.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-015",
+          "sezione": "Knee - Mobility",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "En decúbito prono activa rodilla flexión",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión y extensión de rodilla pendular sentada",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la rodilla durante la flexión y extensión.",
+          "howToDo": "Siéntese en una silla suficientemente alta para que las patas inferiores puedan moverse libremente. Deje que una rodilla se flexione y se extienda a través de un pequeño rango pendular durante 10 segundos, luego repita con la pierna opuesta.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-016",
+          "sezione": "Knee - Mobility",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión y extensión de rodilla pendular sentada",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circuncisión de rodilla sentada",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada de la rodilla.",
+          "howToDo": "Siéntese erguido en una silla con los pies apoyados en el suelo. Levante el pie derecho ligeramente desde el suelo y dibuje pequeños círculos en el aire con la rodilla. Haga 5 círculos lentos en una dirección, luego 5 en la dirección opuesta. Coloque el pie hacia abajo y repita con la pierna izquierda.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-034",
+          "sezione": "Knee - Mobility",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Circuncisión de rodilla sentada",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-mobility"
+    },
+    {
+      "nome": "Knee - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Extensión de rodilla corta de arco sentado",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la rodilla, con énfasis en la extensión.",
+          "howToDo": "Siéntese en la cama o en un cómodo sofá con las piernas estiradas delante de usted. Coloque una toalla enrollada o un pequeño cojín debajo del muslo derecho, justo encima de la rodilla. Empuje la parte posterior del muslo hacia abajo contra el cojín y, al mismo tiempo, enderece la rodilla levantando el talón de la cama. Mantenga la pierna recta durante 4 segundos, luego baje lentamente hacia abajo.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-013",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de rodilla corta de arco sentado",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extensión de rodilla activa sentada con soporte de talón",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de la rodilla durante la extensión.",
+          "howToDo": "Siéntese erguido en una silla. Coloque el talón derecho en el suelo ligeramente delante de usted, con los dedos de los pies apuntando hacia arriba. Lentamente enderece la rodilla tanto como cómodo, apretando suavemente la parte delantera del muslo. Sostenga durante 3 segundos, luego relájese. Repita 5 veces y cambie las piernas.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-043",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Extensión de rodilla activa sentada con soporte de talón",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-anterior-region"
+    },
+    {
+      "nome": "Pierna - Región posterior",
+      "esercizi": [
+        {
+          "nome": "Aumento de talón de pie apoyado",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del tobillo durante la flexión plantar.",
+          "howToDo": "Póngase detrás del respaldo de una silla robusta, o delante de una mesa, y coloque ambas manos sobre ella por seguridad. Mantenga su cuerpo recto, levante lentamente los talones del suelo, levantándose sobre los dedos de los pies. Póngase de pie durante 2 segundos, luego bájese lentamente hacia abajo, colocando toda la planta de su pie en el suelo. Repite 10 veces.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-017",
+          "sezione": "Pierna - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Aumento de talón de pie apoyado",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento del Gastrocnemius de pie en la pared",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado hasta el tobillo, con énfasis en la dorsiflexión.",
+          "howToDo": "Póngase de pie frente a una pared y coloque ambas manos sobre ella a la altura del pecho. Pise el pie derecho ligeramente hacia atrás, manteniendo el talón en el suelo y la rodilla recta. Dobla un poco la rodilla delantera hasta que sienta un suave estiramiento en la pantorrilla trasera. Sostenga durante 5 segundos, luego cambie las piernas.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No realice rebotes, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-035",
+          "sezione": "Pierna - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento del Gastrocnemius de pie en la pared",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexión plantar isométrica sentada",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del tobillo, con énfasis en la flexión plantar.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Presione el antepié de un lado hacia el suelo para generar tensión plantar-flexor sin levantar el talón. Sostenga durante 5 segundos, relájese y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-044",
+          "sezione": "Pierna - Región posterior",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión plantar isométrica sentada",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "lower-leg-posterior-region"
+    },
+    {
+      "nome": "Tobillo",
+      "esercizi": [
+        {
+          "nome": "Dorsiflexión activa del tobillo sentado",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del tobillo durante la dorsiflexión.",
+          "howToDo": "Sientate erguido con ambos pies apoyados. Mantén ambos tacones en contacto con el suelo y dorsiflex los tobillos para elevar los pies delanteros. Sostén durante 3 segundos, luego baja lentamente. Repite durante 10 repeticiones.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-018",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Dorsiflexión activa del tobillo sentado",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexión Plantar del tobillo sentado y la Dorsiflexión",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del tobillo durante la flexión plantar y la dorsiflexión.",
+          "howToDo": "Sentarse erguido y levantar un pie ligeramente del suelo. Mover el tobillo en flexión plantar y luego dorsiflexión a través de la gama cómoda disponible. Repetir durante 10 ciclos, luego cambiar de lado.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-019",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión Plantar del tobillo sentado y la Dorsiflexión",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Eversion de tobillo isométrico sentado",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del tobillo, con énfasis en la eversión.",
+          "howToDo": "Siéntese en posición vertical con los bordes laterales de ambos pies contra las superficies internas de las patas estables de la silla. Aplique presión hacia el exterior a través de los pies sin permitir el movimiento. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-020",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Eversion de tobillo isométrico sentado",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rango de movimiento multidireccional del tobillo sentado",
+          "image": "",
+          "description": "Este ejercicio de movilidad activa está destinado a mejorar la circunducción controlada del tobillo.",
+          "howToDo": "Siéntate erguido y eleva un pie ligeramente desde el suelo. Mueve el tobillo a través de múltiples direcciones para rastrear los números 1 a 5 con el dedo gordo del pie. Baja el pie y repite en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-021",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Rango de movimiento multidireccional del tobillo sentado",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Inversión isométrica del tobillo sentado",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del tobillo, con énfasis en la inversión.",
+          "howToDo": "Siéntese cerca de la parte delantera de una silla con las rodillas ligeramente separadas y los bordes medios de los pies en contacto. Presione los pies juntos sin movimiento visible. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-022",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Inversión isométrica del tobillo sentado",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Eversión Activa de los Asientos",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del tobillo durante la eversión.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Mantenga un talón en contacto con el suelo y evert el tobillo elevando el borde lateral del pie. Sostenga durante 3 segundos, baje lentamente, y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-023",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Eversión Activa de los Asientos",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Asiento de tobillo Plantar Flexión y Dorsiflexion Roca",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del tobillo durante la flexión plantar y la dorsiflexión.",
+          "howToDo": "Siéntese en la parte delantera de una silla, con la espalda alejada del respaldo. Lentamente levante los talones, levantándose sobre los dedos de los pies. Bájelos lentamente hacia abajo y, sin parar, levante los dedos de los pies, moviéndose sobre los talones. Continúe este movimiento de balanceo lento y controlado 5 veces.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-024",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Asiento de tobillo Plantar Flexión y Dorsiflexion Roca",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Cambio de peso anterior y posterior soportado",
+          "image": "",
+          "description": "Este ejercicio desafía el control postural y la estabilidad de las extremidades inferiores durante la flexión plantar controlada y la dorsiflexión del tobillo.",
+          "howToDo": "Póngase detrás de una silla robusta y agárrese con ambas manos. Desplace lentamente su peso corporal hacia delante sobre los dedos de los pies, levantando ligeramente los talones del suelo. A continuación, desplace lentamente su peso hacia atrás sobre los talones, levantando ligeramente la parte delantera de sus pies. Continúe este suave movimiento de balanceo para 5 repeticiones.",
+          "whatToDo": "Utilice un apoyo estable cuando sea necesario. Mantenga una alineación neutra de los miembros inferiores y realice cada movimiento de forma lenta y controlada.",
+          "whatNotToDo": "No continúe sin un apoyo estable si el equilibrio es inseguro. Evite desplazamientos rápidos del peso y la pérdida de alineación de los miembros inferiores.",
+          "id": "lower-limb-032",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Cambio de peso anterior y posterior soportado",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Inversión activa sentada del tobillo",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del tobillo durante la inversión.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Mantenga un talón en contacto con el suelo e invierta el tobillo elevando el borde medial del pie. Sostenga durante 2 segundos, baje lentamente y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación neutra y realice cada fase lentamente, dentro de un rango de movimiento cómodo, respirando con normalidad.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-045",
+          "sezione": "Tobillo",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Inversión activa sentada del tobillo",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "ankle"
+    },
+    {
+      "nome": "Foot",
+      "esercizi": [
+        {
+          "nome": "Flexión del dedo del pie sentado con la toalla",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del pie y los dedos durante la flexión de los dedos del pie.",
+          "howToDo": "Siéntate erguido en una silla. Extiende un pañuelo de tela, o un pedazo de papel de cocina, en el suelo delante de tu pie derecho. Coloca tu pie descalzo, o tu pie con un calcetín, sobre el pañuelo. Usa solo tus dedos de los pies, scrunch y tira el paño hacia tu talón. Repite 3 veces, luego cambia los pies.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-025",
+          "sezione": "Foot",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión del dedo del pie sentado con la toalla",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Llevar a cabo abducción de Dedos Sentados",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor del pie y los dedos durante el abducción de los dedos del pie.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Mantenga las cabezas metatarsales en contacto con el suelo y secuestre los dedos de un pie. Sostenga durante 3 segundos, relájese y repita en el lado opuesto.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-026",
+          "sezione": "Foot",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Llevar a cabo abducción de Dedos Sentados",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Movilización de Tejido Suave Plantar Sentado con Bola",
+          "image": "",
+          "description": "Este ejercicio de automovilización aplica presión controlada sobre el pie y los dedos de los pies para apoyar la movilidad local de tejidos blandos y la conciencia sensorial.",
+          "howToDo": "Siéntese erguido. Coloque una pelota de tenis, o una bola de goma dura, debajo de la planta de su pie derecho. Deslice el pie hacia adelante y hacia atrás sobre la bola, aplicando una suave presión, desde el talón hasta los dedos de los pies. Continúe este lento masaje durante 15 segundos, luego cambie al pie izquierdo.",
+          "whatToDo": "Aplicar la luz a la presión moderada y moverse lentamente sobre los tejidos blandos plantares mientras se mantiene el pie y el tobillo relajados.",
+          "whatNotToDo": "No aplique presión sobre prominencias óseas ni continúe si se produce entumecimiento, hormigueo o dolor agudo.",
+          "id": "lower-limb-027",
+          "sezione": "Foot",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Movilización de Tejido Suave Plantar Sentado con Bola",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "mobility",
+            "soft-tissue-mobilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Disociación asiento-dedo grande y dedo menor-dedo",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango de movimiento activo y el control de movimiento del pie y los dedos durante la extensión de los dedos del pie.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Eleve el dedo gordo de un pie mientras mantiene los dedos inferiores en contacto con el suelo. Invierta el patrón presionando el dedo gordo hacia abajo y elevando los dedos inferiores. Alternar lentamente, luego repetir en el lado opuesto.",
+          "whatToDo": "Estabilice el segmento proximal, aísle el movimiento previsto y realice cada repetición lentamente, minimizando los movimientos compensatorios.",
+          "whatNotToDo": "No utilice el impulso, no fuerce el final del recorrido e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-028",
+          "sezione": "Foot",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Disociación asiento-dedo grande y dedo menor-dedo",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-extension",
+            "selective-control"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexión isométrica de los dedos del pie sentado",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del pie y los dedos, con énfasis en la flexión de los dedos.",
+          "howToDo": "Siéntese erguido con ambos pies apoyados. Presione los dedos de un pie suavemente en el suelo, minimizando el enroscado excesivo de los dedos de los pies. Sostenga durante 5 segundos, relájese y repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-046",
+          "sezione": "Foot",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión isométrica de los dedos del pie sentado",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexión de los pies grandes isométricos sentado",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular del pie y los dedos, con énfasis en la flexión de los dedos.",
+          "howToDo": "Siéntese con los pies planos en el suelo. Mantenga el pie derecho quieto y presione sólo el dedo gordo hacia abajo en el suelo. Mantenga la presión durante 3 segundos, luego relájese. Repita 5 veces, luego cambie los pies.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No contenga la respiración, no aplique una fuerza máxima e interrumpa el ejercicio si aparece dolor agudo o progresivamente creciente.",
+          "id": "lower-limb-047",
+          "sezione": "Foot",
+          "distretto": "Miembro inferior",
+          "thumbnail": "",
+          "imageAlt": "Flexión de los pies grandes isométricos sentado",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "foot"
+    }
+  ],
+  "id": "lower-limb"
+}

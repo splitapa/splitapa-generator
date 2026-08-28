@@ -1,0 +1,246 @@
+{
+  "distretto": "Hals",
+  "sezioni": [
+    {
+      "nome": "Vordere Halsregion",
+      "esercizi": [
+        {
+          "nome": "In Rückenlage Halswirbelsäule Retraction",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Halswirbelsäule während der skapulären Retraktion und Beugung verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Knien gebeugt und die Füße gestützt. Halten Sie den Blick auf die Decke. Übersetzen Sie das Kinn nach hinten, ohne zu beugen oder verlängern die Halswirbelsäule. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Brustwirbelsäule aufgerichtet, entspannen Sie die Schultern und führen Sie die Bewegung der Halswirbelsäule langsam und präzise aus.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-001",
+          "sezione": "Vordere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Halswirbelsäule Retraction",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "scapular-retraction",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In Rückenlage Deep Neck Flexor Aktivierung",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Halswirbelsäule während der Beugung verbessert werden.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Knien gebeugt und die Füße unterstützt. Führen Sie eine sanfte zervikale Retraktion, dann heben Sie den Kopf etwa 2 bis 3 cm unter Beibehaltung der eingezogenen Position. Halten Sie für 3 bis 5 Sekunden, dann senken Sie den Kopf langsam.",
+          "whatToDo": "Halten Sie die Brustwirbelsäule aufgerichtet, entspannen Sie die Schultern und führen Sie die Bewegung der Halswirbelsäule langsam und präzise aus.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-002",
+          "sezione": "Vordere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Deep Neck Flexor Aktivierung",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Halswirbelsäule Flexion mit manueller Beständigkeit",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Halswirbelsäule zu entwickeln, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen Sie. Legen Sie eine Handfläche auf die Stirn. Legen Sie sanften Vorwärtsdruck mit dem Kopf, während die Hand bietet gleichen Widerstand, sodass keine sichtbare Bewegung auftritt. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-003",
+          "sezione": "Vordere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Halswirbelsäule Flexion mit manueller Beständigkeit",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Sitzen Halswirbelsäule Extension mit kontrolliertem Jaw Opening",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Halswirbelsäule während der Extension verbessern.",
+          "howToDo": "Setzen Sie sich aufrecht auf einen Stuhl. Beginnen Sie, indem Sie geradeaus schauen. Drehen Sie den Kopf langsam nach oben zur Decke. Sobald Sie bequem sind, öffnen Sie den Mund, dann schließen Sie ihn wieder, während Sie den Kopf nach oben geneigt.",
+          "whatToDo": "Halten Sie die Brustwirbelsäule aufgerichtet, entspannen Sie die Schultern und führen Sie die Bewegung der Halswirbelsäule langsam und präzise aus.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-004",
+          "sezione": "Vordere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Halswirbelsäule Extension mit kontrolliertem Jaw Opening",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "anterior-neck-region"
+    },
+    {
+      "nome": "Seitliche Halsregion",
+      "esercizi": [
+        {
+          "nome": "Im Sitzen Halswirbelsäule Lateral Flexion",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung der Halswirbelsäule mit Schwerpunkt auf lateraler Beugung.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl mit den Armen entspannt an den Seiten. Bringen Sie langsam Ihr rechtes Ohr zu Ihrer rechten Schulter, ohne die Schulter zu heben. Stoppen Sie, wenn Sie eine sanfte Dehnung auf der linken Seite fühlen. Halten Sie die Position 5 Sekunden lang, zurück in die Mitte, dann wiederholen Sie die gleiche Bewegung nach links.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-005",
+          "sezione": "Seitliche Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Halswirbelsäule Lateral Flexion",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Halswirbelsäule Lateral Flexion mit manueller Beständigkeit",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Halswirbelsäule zu entwickeln, mit Schwerpunkt auf lateraler Beugung.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen Sie. Legen Sie eine Handfläche gegen den zeitlichen Bereich über dem Ohr. Legen Sie sanften seitlichen Druck mit dem Kopf, während die Hand gleichen Widerstand bietet, sodass keine sichtbare Bewegung auftritt. Halten Sie die Position 5 Sekunden lang, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-006",
+          "sezione": "Seitliche Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Halswirbelsäule Lateral Flexion mit manueller Beständigkeit",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Halswirbelsäule Rotation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Halswirbelsäule während der Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit den Schultern entspannt. Drehen Sie den Kopf langsam auf eine Seite durch die verfügbaren bequemen Bereich. Halten Sie für 3 bis 5 Sekunden, wieder neutral, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Brustwirbelsäule aufgerichtet, entspannen Sie die Schultern und führen Sie die Bewegung der Halswirbelsäule langsam und präzise aus.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-007",
+          "sezione": "Seitliche Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Halswirbelsäule Rotation",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Unterstützte Halswirbelsäule Lateral Flexion Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung der Halswirbelsäule mit Schwerpunkt auf lateraler Beugung.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Bringen Sie Ihr rechtes Ohr zu Ihrer rechten Schulter. Legen Sie vorsichtig Ihre rechte Hand auf den Kopf, in der Nähe Ihres linken Ohrs. Verwenden Sie nur das Gewicht Ihrer Hand, um die Bewegung nach unten zu führen, ohne energisch zu ziehen. Halten Sie die Position 5 Sekunden lang, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-008",
+          "sezione": "Seitliche Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Halswirbelsäule Lateral Flexion Dehnung",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "lateral-neck-region"
+    },
+    {
+      "nome": "Hintere Halsregion",
+      "esercizi": [
+        {
+          "nome": "Sitzende Halswirbelsäule Flexion",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Halswirbelsäule mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie aufrecht und lassen Sie beide Hände auf den Oberschenkeln ruhen. Beugen Sie die Halswirbelsäule langsam und führen Sie das Kinn in Richtung Brustbein. Halten Sie eine leichte Dehnung im hinteren Halsbereich für 5 Sekunden, und kehren Sie anschließend in die Neutralstellung zurück.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-009",
+          "sezione": "Hintere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Halswirbelsäule Flexion",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Isometrische Halswirbelsäule Extension gegen manuellen Widerstand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Halswirbelsäule zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht und legen Sie beide Hände gegen die okzipitale Region. Üben Sie mit dem Kopf einen leichten Druck nach hinten aus, während die Hände gleichen Widerstand bieten, sodass keine sichtbare Bewegung auftritt. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-010",
+          "sezione": "Hintere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Isometrische Halswirbelsäule Extension gegen manuellen Widerstand",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Halswirbelsäule Flexion Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Halswirbelsäule mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Verschränken Sie Ihre Hände und legen Sie sie sanft hinter den Kopf. Lassen Sie Ihren Kopf nach vorne in Richtung Ihrer Brust fallen, mit nur dem Gewicht der Arme, um die Bewegung nach unten zu führen. Sie sollten nicht energisch ziehen. Halten Sie die Position 5 Sekunden lang, dann langsam zurück in die Ausgangsposition.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-011",
+          "sezione": "Hintere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Halswirbelsäule Flexion Dehnung",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sitzende Skapula Retraction",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Halswirbelsäule während der skapulären Retraktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit den Ellbogen gebeugt und die Hände in der Nähe der Schultern. Bewegen Sie die Ellbogen nach hinten, während sanft zurückziehen die Scapulae. Halten Sie die Position 5 Sekunden lang, und kehren Sie anschließend in die Neutralstellung zurück.",
+          "whatToDo": "Halten Sie die Brustwirbelsäule aufgerichtet, entspannen Sie die Schultern und führen Sie die Bewegung der Halswirbelsäule langsam und präzise aus.",
+          "whatNotToDo": "Erzwingen Sie keine Endstellung der Halswirbelsäule und verwenden Sie keinen Schwung. Brechen Sie die Übung bei Schwindel, ausstrahlenden Beschwerden, Taubheitsgefühl oder stechenden Schmerzen ab.",
+          "id": "neck-012",
+          "sezione": "Hintere Halsregion",
+          "distretto": "Hals",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Skapula Retraction",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "stabilization",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "posterior-neck-region"
+    }
+  ],
+  "id": "neck"
+}

@@ -132,7 +132,7 @@ button:active:not(:disabled),
 
 .access-masthead {
   display: grid;
-  grid-template-columns: minmax(0, 320px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 280px) minmax(180px, 220px) minmax(0, 1fr);
   min-height: 74px;
   border-bottom: 0.5px solid var(--hairline);
 }
@@ -145,6 +145,21 @@ button:active:not(:disabled),
   padding: 18px 22px;
   color: var(--muted);
   text-align: right;
+}
+
+.header-language {
+  display: grid;
+  min-width: 0;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 12px;
+  align-items: center;
+  padding: 12px 16px;
+  border-right: 0.5px solid var(--hairline);
+}
+
+.header-language > .small-label {
+  color: var(--muted);
+  white-space: nowrap;
 }
 
 .access-layout {
@@ -378,7 +393,7 @@ button:active:not(:disabled),
 
 .masthead {
   display: grid;
-  grid-template-columns: minmax(0, 320px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 280px) minmax(180px, 220px) minmax(0, 1fr);
   min-height: 74px;
   border-bottom: 0.5px solid var(--hairline);
   background: var(--bg);
@@ -702,6 +717,14 @@ select option:checked {
   margin-top: 12px;
 }
 
+.header-language .flow-select {
+  margin-top: 0;
+}
+
+.header-language .flow-select-trigger {
+  min-height: 44px;
+}
+
 .flow-select-trigger {
   position: relative;
   display: block;
@@ -782,6 +805,10 @@ select option:checked {
   max-height: 360px;
 }
 
+.language-select.open .flow-select-menu {
+  max-height: 248px;
+}
+
 .flow-select-menu {
   scrollbar-color: var(--accent) var(--bg);
   scrollbar-width: thin;
@@ -839,7 +866,7 @@ select option:checked {
 }
 
 .flow-select-option.active::after {
-  content: "SELECTED";
+  content: attr(data-selected-label);
   font-family: "JetBrains Mono", monospace;
   font-size: 8px;
   font-weight: 500;
@@ -1435,7 +1462,14 @@ select option:checked {
   }
 
   .access-masthead {
-    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-columns: minmax(0, 1fr) minmax(180px, 240px);
+  }
+
+  .access-masthead-status {
+    grid-column: 1 / -1;
+    justify-content: center;
+    border-top: 0.5px solid var(--hairline);
+    text-align: center;
   }
 
   .masthead,
@@ -1451,6 +1485,13 @@ select option:checked {
   }
 
   .brand {
+    border-bottom: 0.5px solid var(--hairline);
+  }
+
+  .header-language {
+    grid-template-columns: minmax(90px, auto) minmax(180px, 280px);
+    justify-content: center;
+    border-right: 0;
     border-bottom: 0.5px solid var(--hairline);
   }
 
@@ -1482,6 +1523,11 @@ select option:checked {
 @media (max-width: 720px) {
   .access-masthead {
     grid-template-columns: 1fr;
+  }
+
+  .header-language {
+    grid-template-columns: 76px minmax(0, 1fr);
+    padding: 10px 12px;
   }
 
   .access-masthead-status {
@@ -1519,6 +1565,18 @@ select option:checked {
 
   .access-card h2 {
     font-size: clamp(46px, 13.5vw, 64px);
+  }
+
+  html[lang="de"] .hero-main h1 {
+    font-size: 29px;
+  }
+
+  html[lang="de"] .access-intro h1 {
+    font-size: 32px;
+  }
+
+  html[lang="de"] .access-card h2 {
+    font-size: 42px;
   }
 
   .panel-top,

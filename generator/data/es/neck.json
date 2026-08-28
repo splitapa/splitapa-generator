@@ -1,0 +1,246 @@
+{
+  "distretto": "Cuello",
+  "sezioni": [
+    {
+      "nome": "Región anterior del cuello",
+      "esercizi": [
+        {
+          "nome": "Retracción Cervical en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad de la columna cervical durante la retracción y flexión escapular.",
+          "howToDo": "Recuéstese de forma en decúbito supino con las rodillas flexionadas y los pies apoyados. Mantenga la mirada hacia el techo. Traduzca la barbilla hacia atrás sin flexionar o extender la columna cervical. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga el segmento torácico erguido, relaje los hombros y realice el movimiento cervical de forma lenta y precisa.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-001",
+          "sezione": "Región anterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Retracción Cervical en decúbito supino",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "scapular-retraction",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Activación del flexor del cuello profundo del en decúbito supino",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de la columna cervical durante la flexión.",
+          "howToDo": "Recuéstese de forma en decúbito supino con las rodillas flexionadas y los pies apoyados. Realice una suave retracción cervical, luego levante la cabeza aproximadamente 2 a 3 cm mientras mantiene la posición retrácta. Sostenga durante 3 a 5 segundos, luego baje la cabeza lentamente.",
+          "whatToDo": "Mantenga el segmento torácico erguido, relaje los hombros y realice el movimiento cervical de forma lenta y precisa.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-002",
+          "sezione": "Región anterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Activación del flexor del cuello profundo del en decúbito supino",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexión cervical isométrica con resistencia manual",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la columna cervical, con énfasis en la flexión.",
+          "howToDo": "Siéntese en posición vertical o de pie. Coloque una palma contra la frente. Aplique una suave presión hacia adelante con la cabeza mientras la mano proporciona la misma resistencia para que no se produzca ningún movimiento visible. Sostenga durante 5 segundos y luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-003",
+          "sezione": "Región anterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Flexión cervical isométrica con resistencia manual",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extensión cervical sellada con apertura de mandíbula controlada",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el rango activo de movimiento y el control de movimiento de la columna cervical durante la extensión.",
+          "howToDo": "Siéntese erguido en una silla. Comience mirando hacia adelante. Inclina lentamente la cabeza hacia arriba hacia el techo. Una vez que esté cómodo, abra suavemente la boca, y luego vuelva a cerrarla mientras mantiene la cabeza inclinada hacia arriba. Devuelva la cabeza a la posición de inicio lentamente. Repita 5 veces.",
+          "whatToDo": "Mantenga el segmento torácico erguido, relaje los hombros y realice el movimiento cervical de forma lenta y precisa.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-004",
+          "sezione": "Región anterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Extensión cervical sellada con apertura de mandíbula controlada",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "anterior-neck-region"
+    },
+    {
+      "nome": "Región lateral del cuello",
+      "esercizi": [
+        {
+          "nome": "Flexión lateral cervical sellada",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la columna cervical, con énfasis en la flexión lateral.",
+          "howToDo": "Siéntese erguido en una silla con los brazos relajados a los lados. Lentamente lleve la oreja derecha hacia el hombro derecho, sin levantar el hombro. Deténgase cuando sienta un suave estiramiento en el lado izquierdo. Sostenga durante 5 segundos, vuelva al centro, luego repita el mismo movimiento a la izquierda.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-005",
+          "sezione": "Región lateral del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Flexión lateral cervical sellada",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexión cervical lateral isométrica con resistencia manual",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la columna cervical, con énfasis en la flexión lateral.",
+          "howToDo": "Coloque una palma sobre la región temporal por encima de la oreja. Aplique una suave presión lateral con la cabeza mientras la mano proporciona la misma resistencia para que no se produzca ningún movimiento visible. Sostenga durante 5 segundos, luego repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-006",
+          "sezione": "Región lateral del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Flexión cervical lateral isométrica con resistencia manual",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotación cervical sellada",
+          "image": "",
+          "description": "Este ejercicio tiene como objetivo mejorar la amplitud articular activa y el control motor de la columna cervical durante la rotación.",
+          "howToDo": "Siéntese erguido con los hombros relajados. Gire la cabeza lentamente hacia un lado a través de la cómoda gama disponible. Sostenga durante 3 a 5 segundos, vuelva a la posición neutra, y repita en el lado opuesto.",
+          "whatToDo": "Mantenga el segmento torácico erguido, relaje los hombros y realice el movimiento cervical de forma lenta y precisa.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-007",
+          "sezione": "Región lateral del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Rotación cervical sellada",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Estiramiento de Flexión Cervical Lateral Asistida",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la columna cervical, con énfasis en la flexión lateral.",
+          "howToDo": "Siéntese erguido en una silla. Lleve la oreja derecha hacia el hombro derecho. Coloque suavemente la mano derecha sobre la cabeza, cerca de la oreja izquierda. Utilice sólo el peso de la mano para guiar el movimiento hacia abajo, sin tirar con fuerza. Sostenga durante 5 segundos, luego repita en el lado opuesto.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-008",
+          "sezione": "Región lateral del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de Flexión Cervical Lateral Asistida",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "lateral-neck-region"
+    },
+    {
+      "nome": "Región posterior del cuello",
+      "esercizi": [
+        {
+          "nome": "Flexión Cervical Sentado",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la columna cervical, con énfasis en la flexión.",
+          "howToDo": "Siéntese erguido con ambas manos apoyadas en los muslos. Flexione lentamente la columna cervical dirigiendo la barbilla hacia el esternón. Mantenga un leve estiramiento cervical posterior durante 5 segundos, luego vuelva a ser la posición neutra.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-009",
+          "sezione": "Región posterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Flexión Cervical Sentado",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extensión cervical isométrica con resistencia manual",
+          "image": "",
+          "description": "Este ejercicio utiliza una contracción isométrica submáxima para desarrollar el control neuromuscular de la columna cervical, con énfasis en la extensión.",
+          "howToDo": "Siéntese erguido y coloque ambas manos contra la región occipital. Aplique una suave presión posterior con la cabeza mientras las manos proporcionan la misma resistencia para que no se produzca ningún movimiento visible. Sostenga durante 5 segundos, luego relájese.",
+          "whatToDo": "Mantenga una alineación articular neutra, aplique una contracción submáxima constante y continúe respirando durante todo el mantenimiento.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-010",
+          "sezione": "Región posterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Extensión cervical isométrica con resistencia manual",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estiramiento de Flexión Cervical Asistido",
+          "image": "",
+          "description": "Este ejercicio de movilidad proporciona un estiramiento controlado a la columna cervical, con énfasis en la flexión.",
+          "howToDo": "Siéntese erguido en una silla. Entrelace las manos y colóquelas suavemente detrás de la cabeza. Deje que su cabeza caiga hacia adelante hacia el pecho, usando sólo el peso de sus brazos para guiar el movimiento hacia abajo. No debe tirar con fuerza. Sostenga durante 5 segundos, luego regrese lentamente a la posición de partida.",
+          "whatToDo": "Mantenga una alineación estable y avance de forma gradual hasta percibir un estiramiento suave y tolerable, respirando con normalidad.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-011",
+          "sezione": "Región posterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Estiramiento de Flexión Cervical Asistido",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Retracción escapular Sentado",
+          "image": "",
+          "description": "Este ejercicio está destinado a mejorar el control motor y la estabilidad de la columna cervical durante la retracción escapular.",
+          "howToDo": "Sentarse erguido con los codos flexionados y las manos cerca de los hombros. Mover los codos hacia atrás mientras se retrae suavemente la escápula. Sostener durante 5 segundos, luego volver a la posición neutra.",
+          "whatToDo": "Mantenga el segmento torácico erguido, relaje los hombros y realice el movimiento cervical de forma lenta y precisa.",
+          "whatNotToDo": "No fuerce la región cervical al final del recorrido ni utilice el impulso. Interrumpa el ejercicio si aparecen mareo, síntomas irradiados, entumecimiento o dolor agudo.",
+          "id": "neck-012",
+          "sezione": "Región posterior del cuello",
+          "distretto": "Cuello",
+          "thumbnail": "",
+          "imageAlt": "Retracción escapular Sentado",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "stabilization",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "posterior-neck-region"
+    }
+  ],
+  "id": "neck"
+}

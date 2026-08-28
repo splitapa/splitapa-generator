@@ -1,6 +1,9 @@
 const manifestUrl = 'data/manifest.json';
 const accessHash = '822f71cc551b8d41e032f7687a4afa309084b470a8c8828b4730c995ffeea9ac';
 const accessStorageKey = 'splitapaBetaAccess';
+const i18n = window.SplitApaI18n;
+const currentLanguage = i18n.getLanguage();
+const ui = (key, variables = {}) => i18n.t(key, variables, currentLanguage);
 
 const state = {
   manifest: null,
@@ -9,7 +12,7 @@ const state = {
   selectedDistrictIds: [],
   generatedExercises: [],
   sortMode: 'default',
-  outputMetaLabel: 'exercises generated',
+  outputMetaLabel: 'generator.generatedLabel',
   outputMetaText: '',
   outputTotal: null
 };
@@ -48,12 +51,12 @@ let appInitialized = false;
 const workoutCodePrefix = 'SAPA1-';
 const sortModes = new Set(['default', 'easy-hard', 'hard-easy']);
 const quantityOptions = [
-  { value: '1', label: '1 exercise' },
-  { value: '2', label: '2 exercises' },
-  { value: '3', label: '3 exercises' },
-  { value: '4', label: '4 exercises' },
-  { value: '5', label: '5 exercises' },
-  { value: 'all', label: 'All exercises' }
+  { value: '1', label: ui('generator.quantity.one') },
+  { value: '2', label: ui('generator.quantity.many', { count: 2 }) },
+  { value: '3', label: ui('generator.quantity.many', { count: 3 }) },
+  { value: '4', label: ui('generator.quantity.many', { count: 4 }) },
+  { value: '5', label: ui('generator.quantity.many', { count: 5 }) },
+  { value: 'all', label: ui('generator.quantity.all') }
 ];
 const smartHeaders = [...document.querySelectorAll('[data-smart-header]')];
 let lastScrollY = window.scrollY;
@@ -163,6 +166,18 @@ const movementAliases = {
   'ulnar-deviation': ['ulnar deviation']
 };
 
+const localizedAliases = i18n.searchAliases(currentLanguage);
+Object.entries(localizedAliases.districts).forEach(([key, aliases]) => {
+  districtAliases[key] = uniqueAliasValues([...(districtAliases[key] || []), ...aliases]);
+});
+Object.entries(localizedAliases.movements).forEach(([key, aliases]) => {
+  movementAliases[key] = uniqueAliasValues([...(movementAliases[key] || []), ...aliases]);
+});
+
+function uniqueAliasValues(values) {
+  return [...new Set(values.filter(Boolean))];
+}
+
 function setAccessError(message) {
   els.accessError.textContent = message;
 }
@@ -215,14 +230,14 @@ async function handleAccessSubmit(event) {
 
   const candidate = els.accessPassword.value;
   if (!candidate) {
-    setAccessError('Enter the beta password.');
+    setAccessError(ui('access.error.required'));
     return;
   }
 
   try {
     const candidateHash = await hashText(candidate);
     if (candidateHash !== accessHash) {
-      setAccessError('Wrong password. Please try again.');
+      setAccessError(ui('access.error.wrong'));
       els.accessPassword.select();
       return;
     }
@@ -231,7 +246,7 @@ async function handleAccessSubmit(event) {
     els.accessPassword.value = '';
     unlockApp();
   } catch (error) {
-    setAccessError('Access check failed in this browser. Try opening the app in a standard browser tab.');
+    setAccessError(ui('access.error.browser'));
     console.error(error);
   }
 }
@@ -266,7 +281,7 @@ function showError(message) {
   box.textContent = message;
   els.workoutList.appendChild(box);
   setSortEnabled(false);
-  setStatus('Archive error');
+  setStatus(ui('generator.archiveErrorStatus'));
 }
 
 function setAskHint(message) {
@@ -284,6 +299,7 @@ function setCodeHint(message) {
 function normalizeText(value) {
   return String(value || '')
     .toLowerCase()
+    .replace(/ß/g, 'ss')
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
     .replace(/&/g, ' and ')
@@ -434,8 +450,8 @@ function describeSmartCriteria(criteria) {
   ];
 
   return parts.length
-    ? `Matched: ${uniqueValues(parts).join(' / ')}`
-    : 'Matched by exercise text';
+    ? ui('generator.matched', { criteria: uniqueValues(parts).join(' / ') })
+    : ui('generator.matchedText');
 }
 
 function normalizeDistrictIds(ids, manifest = state.manifest) {
@@ -491,8 +507,11 @@ async function loadDistrict(id) {
     throw new Error(`Unknown district ${id}`);
   }
 
-  setStatus(`Loading ${meta.title}`);
-  const database = await fetchJson(meta.file);
+  setStatus(ui('generator.loadingDistrict', { district: meta.title }));
+  const dataUrl = currentLanguage === 'en'
+    ? meta.file
+    : meta.file.replace(/^data\//, `data/${currentLanguage}/`);
+  const database = await fetchJson(dataUrl);
   state.databaseByDistrict.set(id, database);
   return database;
 }
@@ -541,7 +560,7 @@ function setupFlowSelectTrigger(root, trigger) {
 function renderSingleFlowSelect(root, {
   options,
   initialValue = '',
-  placeholder = 'Select option',
+  placeholder = ui('generator.selectOption'),
   ariaLabel = 'Options',
   onChange = () => {}
 }) {
@@ -572,6 +591,7 @@ function renderSingleFlowSelect(root, {
       const active = selectedOption && String(option.value) === normalizedValue;
       button.classList.toggle('active', Boolean(active));
       button.setAttribute('aria-selected', String(Boolean(active)));
+      button.dataset.selectedLabel = ui('common.selected');
     });
 
     if (closeMenu) closeFlowSelect(root);
@@ -585,6 +605,7 @@ function renderSingleFlowSelect(root, {
     button.dataset.value = String(option.value);
     button.setAttribute('role', 'option');
     button.setAttribute('aria-selected', 'false');
+    button.dataset.selectedLabel = ui('common.selected');
     button.textContent = option.label;
     button.addEventListener('click', (event) => {
       event.preventDefault();
@@ -603,8 +624,8 @@ function renderQuantityControl() {
   renderSingleFlowSelect(els.quantitySelect, {
     options: quantityOptions,
     initialValue: '2',
-    placeholder: 'Select quantity',
-    ariaLabel: 'Exercises per section'
+    placeholder: ui('generator.selectQuantity'),
+    ariaLabel: ui('generator.perSectionAria')
   });
 }
 
@@ -617,13 +638,13 @@ function renderDistrictControls() {
   trigger.className = 'flow-select-trigger';
   trigger.setAttribute('aria-haspopup', 'listbox');
   trigger.setAttribute('aria-expanded', 'false');
-  trigger.textContent = 'Select districts';
+  trigger.textContent = ui('generator.selectDistricts');
   setupFlowSelectTrigger(els.districtSelect, trigger);
 
   const menu = document.createElement('div');
   menu.className = 'flow-select-menu';
   menu.setAttribute('role', 'listbox');
-  menu.setAttribute('aria-label', 'Body districts');
+  menu.setAttribute('aria-label', ui('generator.bodyDistricts'));
   menu.setAttribute('aria-multiselectable', 'true');
 
   state.manifest.districts.forEach((district) => {
@@ -638,6 +659,7 @@ function renderDistrictControls() {
     option.type = 'button';
     option.className = 'flow-select-option';
     option.setAttribute('role', 'option');
+    option.dataset.selectedLabel = ui('common.selected');
     option.dataset.district = district.id;
     option.textContent = district.title;
     option.addEventListener('click', async (event) => {
@@ -670,17 +692,23 @@ function renderSelectedDistrict() {
 
   const totalExercises = metas.reduce((sum, meta) => sum + (Number(meta.exercises) || 0), 0);
   const totalSections = metas.reduce((sum, meta) => sum + (Number(meta.sections) || 0), 0);
-  const selectedLabel = metas.length === 1 ? metas[0].title : `${metas.length} districts`;
-  const workoutTitle = metas.length === 1 ? `${metas[0].title} workout` : 'Multi-district workout';
+  const selectedLabel = metas.length === 1
+    ? metas[0].title
+    : ui('generator.districtCount', { count: metas.length });
+  const workoutTitle = metas.length === 1
+    ? ui('generator.singleWorkout', { district: metas[0].title })
+    : ui('generator.multiWorkout');
 
   els.selectedDistrictLabel.textContent = selectedLabel;
   els.selectedDistrictMeta.textContent = metas.length === 1
-    ? `${metas[0].exercises} exercises`
-    : `${totalSections} sections / ${totalExercises} exercises`;
-  els.generatorTitle.textContent = metas.length === 1 ? `${metas[0].title} plan` : 'Multi-district plan';
+    ? ui('generator.singleMeta', { count: metas[0].exercises })
+    : ui('generator.multiMeta', { sections: totalSections, exercises: totalExercises });
+  els.generatorTitle.textContent = metas.length === 1
+    ? ui('generator.singlePlan', { district: metas[0].title })
+    : ui('generator.multiPlan');
   els.generatorCopy.textContent = metas.length === 1
-    ? `${metas[0].sections} sections available. Generate a complete plan or replace individual exercises after generation.`
-    : `${metas.length} body districts selected. Generate a grouped plan while keeping each district separated.`;
+    ? ui('generator.singleCopy', { sections: metas[0].sections })
+    : ui('generator.multiCopy', { count: metas.length });
   els.outputTitle.textContent = workoutTitle;
 
   const selectedIds = getSelectedDistrictIds();
@@ -711,7 +739,7 @@ async function selectDistricts(ids) {
   state.currentDistrictId = state.selectedDistrictIds[0] || '';
   state.generatedExercises = [];
   state.sortMode = 'default';
-  state.outputMetaLabel = 'exercises generated';
+  state.outputMetaLabel = 'generator.generatedLabel';
   state.outputMetaText = '';
   state.outputTotal = null;
   els.sortSelect.value = 'default';
@@ -720,9 +748,9 @@ async function selectDistricts(ids) {
 
   try {
     await Promise.all(state.selectedDistrictIds.map((id) => loadDistrict(id)));
-    setStatus('Archive ready');
+    setStatus(ui('generator.archiveReady'));
   } catch (error) {
-    showError('One selected archive could not be loaded. Check that the district JSON files are published correctly.');
+    showError(ui('generator.archiveSelectedError'));
     console.error(error);
   }
 }
@@ -731,11 +759,11 @@ function renderEmptyState(metas = getSelectedDistrictMetas()) {
   els.workoutList.innerHTML = '';
   const empty = document.createElement('div');
   empty.className = 'empty-state';
-  const label = metas.length === 1 ? metas[0].title : 'one or more districts';
+  const label = metas.length === 1 ? metas[0].title : ui('generator.oneOrMoreDistricts');
   empty.textContent = metas.length
-    ? `No workout generated. Select ${label} and press Generate workout.`
-    : 'No workout generated.';
-  els.outputMeta.textContent = 'No workout generated';
+    ? ui('generator.emptyPrompt', { district: label })
+    : ui('generator.noWorkout');
+  els.outputMeta.textContent = ui('generator.noWorkout');
   els.workoutList.appendChild(empty);
   setSortEnabled(false);
 }
@@ -911,28 +939,33 @@ async function getExercisesFromWorkoutCode(payload) {
 }
 
 function getOutputMetaText() {
+  const label = ui(state.outputMetaLabel);
   if (state.outputTotal && state.outputTotal > state.generatedExercises.length) {
-    return `${state.generatedExercises.length} of ${state.outputTotal} ${state.outputMetaLabel}`;
+    return ui('generator.metaOf', {
+      shown: state.generatedExercises.length,
+      total: state.outputTotal,
+      label
+    });
   }
 
-  return `${state.generatedExercises.length} ${state.outputMetaLabel}`;
+  return ui('generator.metaCount', { count: state.generatedExercises.length, label });
 }
 
 async function copyWorkoutCode() {
   const code = createWorkoutCode();
   if (!code) {
-    setCodeHint('Generate a workout before copying a code.');
+    setCodeHint(ui('generator.copyFirst'));
     return;
   }
 
   els.workoutCodeInput.value = code;
   try {
     await navigator.clipboard.writeText(code);
-    setCodeHint('Workout code copied.');
+    setCodeHint(ui('generator.codeCopied'));
   } catch (error) {
     els.workoutCodeInput.focus();
     els.workoutCodeInput.select();
-    setCodeHint('Code selected. Copy it manually.');
+    setCodeHint(ui('generator.codeSelected'));
   }
 }
 
@@ -941,13 +974,13 @@ async function loadWorkoutCode() {
   try {
     payload = parseWorkoutCode(els.workoutCodeInput.value);
   } catch (error) {
-    setCodeHint('Invalid workout code.');
-    setStatus('Code not loaded');
+    setCodeHint(ui('generator.invalidCode'));
+    setStatus(ui('generator.codeNotLoaded'));
     return;
   }
 
-  setStatus('Loading workout code');
-  setCodeHint('Loading saved workout');
+  setStatus(ui('generator.loadingCode'));
+  setCodeHint(ui('generator.loadingSaved'));
 
   try {
     const { exercises, missing } = await getExercisesFromWorkoutCode(payload);
@@ -957,11 +990,11 @@ async function loadWorkoutCode() {
 
     state.generatedExercises = exercises;
     state.sortMode = payload.sort;
-    state.outputMetaLabel = 'exercises restored';
+    state.outputMetaLabel = 'generator.restoredLabel';
     state.outputMetaText = '';
     state.outputTotal = null;
     els.sortSelect.value = state.sortMode;
-    els.outputTitle.textContent = 'Restored workout';
+    els.outputTitle.textContent = ui('generator.restoredWorkout');
 
     const restoredDistrictIds = normalizeDistrictIds(exercises.map((exercise) => exercise.districtId));
     if (restoredDistrictIds.length) {
@@ -969,15 +1002,17 @@ async function loadWorkoutCode() {
       state.currentDistrictId = restoredDistrictIds[0];
       updateUrl(restoredDistrictIds);
       renderSelectedDistrict();
-      els.outputTitle.textContent = 'Restored workout';
+      els.outputTitle.textContent = ui('generator.restoredWorkout');
     }
 
     renderWorkout();
-    setCodeHint(missing.length ? `${missing.length} exercise could not be restored.` : 'Workout restored from code.');
+    setCodeHint(missing.length
+      ? ui('generator.missingRestored', { count: missing.length })
+      : ui('generator.workoutRestored'));
     document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
   } catch (error) {
-    setCodeHint('Workout code could not be loaded.');
-    setStatus('Code not loaded');
+    setCodeHint(ui('generator.codeLoadFailed'));
+    setStatus(ui('generator.codeNotLoaded'));
     console.error(error);
   }
 }
@@ -991,7 +1026,7 @@ async function generateWorkout() {
       database: await loadDistrict(districtId)
     })));
   } catch (error) {
-    showError('One selected archive could not be loaded. Check that the district JSON files are published correctly.');
+    showError(ui('generator.archiveSelectedError'));
     console.error(error);
     return;
   }
@@ -1000,11 +1035,13 @@ async function generateWorkout() {
   const metas = getSelectedDistrictMetas();
   state.generatedExercises = [];
   state.sortMode = 'default';
-  state.outputMetaLabel = 'exercises generated';
+  state.outputMetaLabel = 'generator.generatedLabel';
   state.outputMetaText = '';
   state.outputTotal = null;
   els.sortSelect.value = 'default';
-  els.outputTitle.textContent = metas.length === 1 ? `${metas[0].title} workout` : 'Multi-district workout';
+  els.outputTitle.textContent = metas.length === 1
+    ? ui('generator.singleWorkout', { district: metas[0].title })
+    : ui('generator.multiWorkout');
 
   archives.forEach(({ districtId, database }) => {
     asDistrictList(database).forEach((district) => {
@@ -1032,12 +1069,14 @@ function clearWorkout() {
   const metas = getSelectedDistrictMetas();
   state.generatedExercises = [];
   state.sortMode = 'default';
-  state.outputMetaLabel = 'exercises generated';
+  state.outputMetaLabel = 'generator.generatedLabel';
   state.outputMetaText = '';
   state.outputTotal = null;
   els.sortSelect.value = 'default';
   if (metas.length) {
-    els.outputTitle.textContent = metas.length === 1 ? `${metas[0].title} workout` : 'Multi-district workout';
+    els.outputTitle.textContent = metas.length === 1
+      ? ui('generator.singleWorkout', { district: metas[0].title })
+      : ui('generator.multiWorkout');
   }
   renderEmptyState();
   document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -1048,20 +1087,20 @@ async function handleSmartSearch(event) {
 
   const query = els.askInput.value.trim();
   if (!query) {
-    setAskHint('Enter a district and movement, for example shoulder flexion.');
+    setAskHint(ui('generator.searchPrompt'));
     els.askInput.focus();
     return;
   }
 
-  setStatus('Searching archive');
-  setAskHint('Searching local archive');
+  setStatus(ui('generator.searchingStatus'));
+  setAskHint(ui('generator.searchingHint'));
 
   try {
     const result = await findSmartMatches(query);
-    els.outputTitle.textContent = 'Smart results';
+    els.outputTitle.textContent = ui('generator.smartResults');
     state.generatedExercises = result.matches.map((exercise, index) => attachWorkoutOrder(exercise, index));
     state.sortMode = 'default';
-    state.outputMetaLabel = 'smart matches';
+    state.outputMetaLabel = 'generator.smartLabel';
     state.outputMetaText = '';
     state.outputTotal = result.total;
     els.sortSelect.value = 'default';
@@ -1070,23 +1109,23 @@ async function handleSmartSearch(event) {
       els.workoutList.innerHTML = '';
       const empty = document.createElement('div');
       empty.className = 'empty-state';
-      empty.textContent = 'No matching exercise found. Try a broader query such as shoulder mobility or ankle flexion.';
+      empty.textContent = ui('generator.noMatchCopy');
       els.workoutList.appendChild(empty);
-      els.outputMeta.textContent = 'No smart match';
+      els.outputMeta.textContent = ui('generator.noSmartMatch');
       setSortEnabled(false);
-      setAskHint('No match. Try a broader query.');
-      setStatus('No smart match');
+      setAskHint(ui('generator.noMatchHint'));
+      setStatus(ui('generator.noSmartMatch'));
       document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
       return;
     }
 
     renderWorkout();
     setAskHint(describeSmartCriteria(result.criteria));
-    setStatus('Smart search ready');
+    setStatus(ui('generator.smartReady'));
     document.getElementById('workout').scrollIntoView({ behavior: 'smooth', block: 'start' });
   } catch (error) {
-    showError('Smart search could not read the local archive. Check that all JSON files are published correctly.');
-    setAskHint('Search unavailable');
+    showError(ui('generator.searchError'));
+    setAskHint(ui('generator.searchUnavailable'));
     console.error(error);
   }
 }
@@ -1110,6 +1149,8 @@ function createCopyBlock(title, text) {
 }
 
 function formatMovementToken(value) {
+  const translated = i18n.token(value, currentLanguage);
+  if (translated && translated !== value) return translated;
   return String(value || '')
     .split('-')
     .filter(Boolean)
@@ -1134,10 +1175,10 @@ function createDifficultyTag(exercise) {
   const level = getDifficultyLevel(exercise);
   const difficulty = document.createElement('span');
   difficulty.className = 'difficulty-tag';
-  difficulty.setAttribute('aria-label', `Difficulty ${level} of 5`);
+  difficulty.setAttribute('aria-label', ui('generator.difficultyAria', { level }));
 
   const label = document.createElement('span');
-  label.textContent = 'Difficulty';
+  label.textContent = ui('generator.difficulty');
 
   const stars = document.createElement('span');
   stars.className = 'difficulty-stars';
@@ -1155,17 +1196,17 @@ function createDifficultyTag(exercise) {
 }
 
 function getExerciseMovementLabel(exercise) {
-  const area = exercise.movementDistrict ? formatMovementToken(exercise.movementDistrict) : 'Not tagged';
+  const area = exercise.movementDistrict ? formatMovementToken(exercise.movementDistrict) : ui('generator.notTagged');
   const movement = Array.isArray(exercise.movementTags) && exercise.movementTags.length
     ? exercise.movementTags.map(formatMovementToken).join(' + ')
-    : 'Not tagged';
+    : ui('generator.notTagged');
 
-  return `Area: ${area} | Movement: ${movement}`;
+  return `${ui('generator.area')}: ${area} | ${ui('generator.movement')}: ${movement}`;
 }
 
 function createReplaceOptionLabel(exercise) {
-  const section = exercise.sezione ? `[${exercise.sezione}]` : '[Unsectioned]';
-  const difficulty = `Difficulty: ${getDifficultyLevel(exercise)}/5`;
+  const section = exercise.sezione ? `[${exercise.sezione}]` : `[${ui('generator.unsectioned')}]`;
+  const difficulty = `${ui('generator.difficulty')}: ${getDifficultyLevel(exercise)}/5`;
   return `${section} ${exercise.nome} | ${getExerciseMovementLabel(exercise)} | ${difficulty}`;
 }
 
@@ -1191,11 +1232,11 @@ function createReplaceArea(currentExercise, index) {
 
   const label = document.createElement('div');
   label.className = 'replace-label';
-  label.textContent = 'Choose another exercise from the same district';
+  label.textContent = ui('generator.replaceLabel');
 
   const select = document.createElement('div');
   select.className = 'flow-select replace-select';
-  select.setAttribute('aria-label', 'Replacement exercise');
+  select.setAttribute('aria-label', ui('generator.replacementAria'));
 
   const replacementOptions = allExercises
     .map((exercise, exerciseIndex) => ({
@@ -1211,7 +1252,7 @@ function createReplaceArea(currentExercise, index) {
   const confirm = document.createElement('button');
   confirm.type = 'button';
   confirm.className = 'exercise-confirm-button';
-  confirm.textContent = 'Confirm';
+  confirm.textContent = ui('generator.confirm');
   confirm.disabled = true;
   confirm.addEventListener('click', () => {
     if (!select.dataset.value) return;
@@ -1222,7 +1263,7 @@ function createReplaceArea(currentExercise, index) {
   const cancel = document.createElement('button');
   cancel.type = 'button';
   cancel.className = 'exercise-cancel-button';
-  cancel.textContent = 'Cancel';
+  cancel.textContent = ui('generator.cancel');
   cancel.addEventListener('click', () => {
     selection.setValue('', true, false);
     area.classList.remove('active');
@@ -1230,8 +1271,8 @@ function createReplaceArea(currentExercise, index) {
 
   const selection = renderSingleFlowSelect(select, {
     options: replacementOptions,
-    placeholder: 'Select exercise',
-    ariaLabel: 'Replacement exercises',
+    placeholder: ui('generator.selectExercise'),
+    ariaLabel: ui('generator.replacementsAria'),
     onChange: (option) => {
       confirm.disabled = !option;
     }
@@ -1252,7 +1293,7 @@ function createExerciseCard(exercise, index) {
   const checkbox = document.createElement('input');
   checkbox.type = 'checkbox';
   checkbox.className = 'checkbox-done';
-  checkbox.setAttribute('aria-label', `Mark ${exercise.nome} as completed`);
+  checkbox.setAttribute('aria-label', ui('generator.markCompleted', { exercise: exercise.nome }));
   checkbox.addEventListener('change', () => {
     card.classList.toggle('done', checkbox.checked);
   });
@@ -1282,12 +1323,12 @@ function createExerciseCard(exercise, index) {
   const change = document.createElement('button');
   change.type = 'button';
   change.className = 'exercise-change-button';
-  change.textContent = 'Change';
+  change.textContent = ui('generator.change');
 
   const remove = document.createElement('button');
   remove.type = 'button';
   remove.className = 'exercise-remove-button';
-  remove.textContent = 'Remove';
+  remove.textContent = ui('generator.remove');
   remove.addEventListener('click', () => removeExercise(index));
 
   const replaceArea = createReplaceArea(exercise, index);
@@ -1313,11 +1354,11 @@ function createExerciseCard(exercise, index) {
   content.appendChild(media);
 
   const blocks = [
-    createCopyBlock('Overview', exercise.description),
-    createCopyBlock('How to do it', exercise.howToDo),
-    createCopyBlock('What to do', exercise.whatToDo),
-    createCopyBlock('What not to do', exercise.whatNotToDo),
-    !exercise.description && exercise.fullText ? createCopyBlock('Exercise notes', exercise.fullText) : null
+    createCopyBlock(ui('generator.overview'), exercise.description),
+    createCopyBlock(ui('generator.howTo'), exercise.howToDo),
+    createCopyBlock(ui('generator.whatToDo'), exercise.whatToDo),
+    createCopyBlock(ui('generator.whatNotToDo'), exercise.whatNotToDo),
+    !exercise.description && exercise.fullText ? createCopyBlock(ui('generator.notes'), exercise.fullText) : null
   ].filter(Boolean);
 
   blocks.forEach((block) => content.appendChild(block));
@@ -1353,7 +1394,7 @@ function renderWorkout() {
   els.outputMeta.textContent = state.outputMetaText || getOutputMetaText();
   setSortEnabled(true);
   updateWorkoutCodeField();
-  setStatus('Workout generated');
+  setStatus(ui('generator.workoutGenerated'));
 }
 
 async function init() {
@@ -1362,6 +1403,10 @@ async function init() {
 
   try {
     state.manifest = await fetchJson(manifestUrl);
+    state.manifest.districts.forEach((district) => {
+      district.title = i18n.districtGroup(district.id, currentLanguage);
+      district.label = district.title;
+    });
     renderDistrictControls();
     renderQuantityControl();
     document.addEventListener('click', (event) => {
@@ -1388,10 +1433,12 @@ async function init() {
     const initialDistricts = getInitialDistrictIds(state.manifest);
     await selectDistricts(initialDistricts);
   } catch (error) {
-    showError('The exercise archive could not be loaded. Publish this folder on a static host or preview it through a local server.');
+    showError(ui('generator.archiveLoadError'));
     console.error(error);
   }
 }
 
+i18n.apply(document);
+i18n.mountLanguageSelectors();
 setupSmartHeaders();
 setupAccessGate();

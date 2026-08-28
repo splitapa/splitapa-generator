@@ -1,0 +1,1455 @@
+{
+  "distretto": "Tronc",
+  "sezioni": [
+    {
+      "nome": "Chest",
+      "esercizi": [
+        {
+          "nome": "Presse bilatérale avant assise",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la plage active de mouvement et de contrôle des mouvements de la cage thoracique et de la région pectorale pendant l'adduction horizontale.",
+          "howToDo": "Asseyez-vous le dos droit avec le dos soutenu. Commencez par les coudes fléchis et les poings positionnés à côté de la poitrine. Prolongez les deux bras vers l'avant à hauteur de la poitrine, arrêtez brièvement, puis fléchissez les coudes pour revenir.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-001",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Presse bilatérale avant assise",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abduction horizontal de l'épaule assise avec l'extension thoracique",
+          "image": "",
+          "description": "Cet exercice respiratoire vise à améliorer la mécanique respiratoire contrôlée de la cage thoracique et de la région pectorale, en mettant l'accent sur l'abduction horizontal.",
+          "howToDo": "Asseyez-vous le dos droit ou debout. Prolongez vos bras en avant devant vous, avec vos paumes face à l'autre. Lorsque vous respirez profondément à travers votre nez, ouvrez vos bras sur les côtés le plus loin possible, les amenant légèrement en arrière afin que vous sentiez votre poitrine s'ouvrir.",
+          "whatToDo": "Gardez la région cervicale et les épaules relâchées. Respirez lentement, sans forcer, et laissez l'expiration se terminer progressivement.",
+          "whatNotToDo": "Ne forcez ni l'inspiration ni l'expiration, n'hyperventilez pas et ne retenez pas votre respiration. Interrompez l'exercice en cas de vertiges ou d'essoufflement inhabituel.",
+          "id": "trunk-002",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Abduction horizontal de l'épaule assise avec l'extension thoracique",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-abduction",
+            "breathing"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Push-up mural",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la plage active de mouvement et de contrôle des mouvements de la cage thoracique et de la région pectorale pendant l'adduction horizontale.",
+          "howToDo": "Placez les paumes de vos mains sur le mur à la hauteur de la poitrine, en gardant les bras droits. Penchez lentement vos coudes sur les côtés pour rapprocher votre visage et votre poitrine du mur, tout en gardant votre corps droit. Puis poussez à travers vos mains pour revenir à la position de départ avec les bras droits.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-003",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Push-up mural",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Adduction horizontale de l'épaule assise",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la plage active de mouvement et de contrôle des mouvements de la cage thoracique et de la région pectorale pendant l'adduction horizontale.",
+          "howToDo": "Asseyez-vous le dos droit les deux bras allongés latéralement à la hauteur de l'épaule. Déplacez les bras vers l'avant en adduction horizontale jusqu'à ce que les poignets se croisent devant le sternum. Revenez lentement à la position de départ.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-004",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Adduction horizontale de l'épaule assise",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Respiration costale latérale assise",
+          "image": "",
+          "description": "Cet exercice respiratoire vise à améliorer la mécanique respiratoire contrôlée de la cage thoracique et de la région pectorale, en mettant l'accent sur l'expansion latérale des coûts.",
+          "howToDo": "Asseyez-vous le dos droit et placez les deux mains sur les côtes inférieures latérales. Inhalez lentement dans le nez, dirigeant l'expansion dans les mains. Exhalez graduellement et laissez la cage thoracique revenir à sa position de repos. Répétez pendant 5 cycles respiratoires.",
+          "whatToDo": "Gardez la région cervicale et les épaules relâchées. Respirez lentement, sans forcer, et laissez l'expiration se terminer progressivement.",
+          "whatNotToDo": "Ne forcez ni l'inspiration ni l'expiration, n'hyperventilez pas et ne retenez pas votre respiration. Interrompez l'exercice en cas de vertiges ou d'essoufflement inhabituel.",
+          "id": "trunk-024",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Respiration costale latérale assise",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Assis isométrique Pectoral Press avec Coussin",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la cage thoracique et de la région pectorale, en mettant l'accent sur l'adduction horizontale.",
+          "howToDo": "Maintenez un coussin souple devant votre poitrine entre vos avant-bras, en gardant vos coudes pliés. Appuyez doucement sur vos avant-bras pour presser le coussin. Maintenez la pression pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-025",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Assis isométrique Pectoral Press avec Coussin",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "En décubitus dorsal auto-étreinte thoracique Expansion Respiration",
+          "image": "",
+          "description": "Cet exercice respiratoire est destiné à améliorer la mécanique respiratoire contrôlée de la cage thoracique et de la région pectorale, en mettant l'accent sur l'expansion thoracique des côtes.",
+          "howToDo": "Allongez-vous et enveloppez les bras à travers la poitrine. Inhalez lentement et profondément, dirigez l'haleine dans la poitrine et les côtés de la cage thoracique afin que les côtes s'étendent doucement contre les bras. Exhalez et détendez.",
+          "whatToDo": "Gardez la région cervicale et les épaules relâchées. Respirez lentement, sans forcer, et laissez l'expiration se terminer progressivement.",
+          "whatNotToDo": "Ne forcez ni l'inspiration ni l'expiration, n'hyperventilez pas et ne retenez pas votre respiration. Interrompez l'exercice en cas de vertiges ou d'essoufflement inhabituel.",
+          "id": "trunk-063",
+          "sezione": "Chest",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal auto-étreinte thoracique Expansion Respiration",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion",
+            "stretch"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "chest"
+    },
+    {
+      "nome": "Abdomen",
+      "esercizi": [
+        {
+          "nome": "Dessin Abdominal assis",
+          "image": "",
+          "description": "Cet exercice vise à améliorer le contrôle moteur et la stabilité de la paroi abdominale et de la région lumbopelvique pendant la stabilisation contrôlée.",
+          "howToDo": "S'asseoir debout loin du dossier avec les deux pieds soutenus. Exhaler lentement tout en tirant la paroi abdominale inférieure vers l'intérieur sans déplacer la colonne vertébrale ou le bassin. Maintenir la contraction pendant 4 secondes tout en continuant à respirer, puis se détendre.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-005",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Dessin Abdominal assis",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion de hanche alternée assise avec stabilisation du tronc",
+          "image": "",
+          "description": "Cet exercice vise à améliorer le contrôle moteur et la stabilité de la paroi abdominale et de la région lumbopelvique pendant la stabilisation contrôlée.",
+          "howToDo": "Asseyez-vous le dos droit près de l'avant d'une chaise avec les deux pieds supportés. Activez la paroi abdominale, puis soulevez un genou de quelques centimètres sans changer de tronc ou d'alignement bassin. Abaissez lentement et alternez les côtés.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-006",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion de hanche alternée assise avec stabilisation du tronc",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexion latérale du tronc assis",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la paroi abdominale et de la région lombo-pelvienne pendant la flexion latérale.",
+          "howToDo": "Placez-vous debout sur une chaise stable avec les pieds placés à l'écart. Faites glisser une main vers le plancher tout en fléchissant latéralement le tronc. Revenez en position neutre en utilisant une activation abdominale contrôlée, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-007",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion latérale du tronc assis",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Brassage isométrique et abdominal avec résistance manuelle",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la paroi abdominale et de la région lumbopelvienne, en mettant l'accent sur la stabilisation statique.",
+          "howToDo": "Pendant une lente exhalation, appliquer la pression vers le bas à travers les mains tout en activant la paroi abdominale sans changer la position du tronc. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-008",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Brassage isométrique et abdominal avec résistance manuelle",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assis isométrique Heel Press for tronc Stabilisation",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la paroi abdominale et de la région lumbopelvienne, en mettant l'accent sur la stabilisation statique.",
+          "howToDo": "Placez vos mains sur vos cuisses. Appuyez doucement sur les deux talons vers le bas dans le sol tout en resserrant légèrement vos muscles abdominaux. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-026",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Assis isométrique Heel Press for tronc Stabilisation",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Pression contralatérale tête-à-tête anti-rotation",
+          "image": "",
+          "description": "Cet exercice isométrique contralatéral défie le contrôle abdominal et lombo-pelvienne en exigeant que le tronc résiste à la rotation.",
+          "howToDo": "Placez la paume gauche sur la cuisse antérieure distale. Appuyez sur la cuisse vers le haut et la main vers le bas avec une force sous-maximale égale tout en empêchant le mouvement du tronc et du bassin. Maintenez pendant 5 secondes, puis répétez avec la main et le genou opposés.",
+          "whatToDo": "Maintenir une colonne vertébrale neutre, maintenir les deux épaules à un niveau et résister à toute tendance pour le tronc ou le bassin à tourner tout en respirant normalement.",
+          "whatNotToDo": "Ne vous penchez pas vers l'arrière, tournez le tronc, élevez l'épaule, retenez le souffle ou utilisez la force maximale.",
+          "id": "trunk-027",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Pression contralatérale tête-à-tête anti-rotation",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "anti-rotation",
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "En décubitus dorsal Alternating Talon",
+          "image": "",
+          "description": "Cet exercice vise à améliorer le contrôle moteur et la stabilité de la paroi abdominale et de la région lumbopelvique pendant la stabilisation contrôlée.",
+          "howToDo": "Allongez-vous sur un tapis avec les genoux pliés et les pieds reposant sur le sol. Attachez légèrement vos muscles abdominaux. Soulevez votre pied droit à quelques centimètres du sol et appuyez doucement sur le talon avant, puis ramenez-le à la position de départ. Répétez 5 fois, puis changez les jambes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-034",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Alternating Talon",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Plan latéral dynamique",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer le contrôle moteur et la stabilité de la paroi abdominale et de la région lumbopelvienne pendant la flexion latérale.",
+          "howToDo": "Placez-vous dans une planche latérale des genoux ou des pieds. Relevez les hanches loin du sol, baissez avec le contrôle et répétez.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-046",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Plan latéral dynamique",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "lateral-flexion",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "En décubitus dorsal Hollow-Body isométrique maintien",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la paroi abdominale et de la région lumbopelvienne, en mettant l'accent sur la stabilisation statique.",
+          "howToDo": "Allongez-vous sur le dos et appuyez doucement sur le bas du dos vers le sol. Levez les jambes et les bras jusqu'à ce que vous puissiez garder le contrôle.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-056",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Hollow-Body isométrique maintien",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "En décubitus dorsal Diaphragmatique Respiration",
+          "image": "",
+          "description": "Cet exercice respiratoire est destiné à améliorer la mécanique respiratoire contrôlée de la paroi abdominale et de la région lumbopelvique, en mettant l'accent sur la respiration diaphragmatique et l'expansion abdominale.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les genoux fléchis. Placez une main sur le haut de la poitrine et l'autre sur l'abdomen. Inspirez lentement dans le nez, ce qui permet à la paroi abdominale de s'élever tout en limitant le mouvement de la poitrine supérieure.",
+          "whatToDo": "Gardez la région cervicale et les épaules relâchées. Respirez lentement, sans forcer, et laissez l'expiration se terminer progressivement.",
+          "whatNotToDo": "Ne forcez ni l'inspiration ni l'expiration, n'hyperventilez pas et ne retenez pas votre respiration. Interrompez l'exercice en cas de vertiges ou d'essoufflement inhabituel.",
+          "id": "trunk-064",
+          "sezione": "Abdomen",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Diaphragmatique Respiration",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "breathing",
+            "diaphragmatic-breathing"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "abdomen"
+    },
+    {
+      "nome": "Trunk - Integrated Stability",
+      "esercizi": [
+        {
+          "nome": "Transfert de balle assis autour du coffre",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant la rotation.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise et tenez une petite boule ou un coussin doux avec les deux mains. Passez l'objet d'une main à l'autre autour de votre taille, le déplaçant derrière votre dos et puis retour à l'avant. Faites 5 cercles lents dans une direction, puis 5 dans la direction opposée.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-022",
+          "sezione": "Trunk - Integrated Stability",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Transfert de balle assis autour du coffre",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension de bras et de jambes contralatérales quadruplés",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer le contrôle moteur et la stabilité de la colonne vertébrale pendant l'extension.",
+          "howToDo": "Supposons une position quadruplée sur une surface rembourrée. Prolongez lentement votre bras droit vers l'avant et votre jambe gauche vers l'arrière en même temps. Maintenez la position pendant 2 secondes, puis revenez à la position de départ. Répétez avec le bras gauche et la jambe droite. Alternez lentement pour 5 répétitions de chaque côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-033",
+          "sezione": "Trunk - Integrated Stability",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension de bras et de jambes contralatérales quadruplés",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "stabilization",
+            "extension"
+          ],
+          "difficulty": 5
+        }
+      ],
+      "id": "abdomen-back-integrated-stability"
+    },
+    {
+      "nome": "Bassin - Mobilité et stabilité",
+      "esercizi": [
+        {
+          "nome": "Antérior assis et l'a posteriori bassin Tilt",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'inclinaison antérieure du bassin et l'inclinaison postérieure du bassin et de la région lumbopelvienne.",
+          "howToDo": "Asseyez-vous près de l'avant d'une chaise avec les deux pieds supportés et les mains reposant sur les cuisses. Déplacez le bassin dans l'inclinaison antérieure avec une petite augmentation de l'extension lombaire, puis dans l'inclinaison postérieure avec une légère flexion lombaire. Alternez lentement pour 10 répétitions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-010",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Antérior assis et l'a posteriori bassin Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "En décubitus dorsal Bridge",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle des mouvements du bassin et de la région lumbopelvienne pendant l'extension.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les genoux fléchis, les pieds complètement soutenus, et les bras à côté du tronc. Activez les muscles glutés et étendez les hanches pour élever le bassin une courte distance. Maintenez pendant 3 secondes, puis abaissez la colonne vertébrale et le bassin graduellement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-011",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Bridge",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Abduction de la hanche avec résistance externe",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du bassin et de la région lumbopelvienne, en mettant l'accent sur l'abduction.",
+          "howToDo": "Placez une bande élastique autour des cuisses distales ou placez les deux mains contre les aspects latéraux des genoux. Enlèvez les hanches contre la résistance externe sans changer de position du pied. Maintenez pendant 5 secondes, puis revenez lentement.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-012",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Abduction de la hanche avec résistance externe",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Déplacement latéral de poids bassin assis",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs pendant le déplacement de poids latéral contrôlé du bassin et de la région lumbopelvienne.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise, les pieds reposant sur le sol. Sans soulever votre région glutéale, déplacez lentement votre poids vers le côté droit de votre bassin, puis retournez au centre. Répétez vers le côté gauche. Alternez lentement pour 10 répétitions.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "trunk-028",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Déplacement latéral de poids bassin assis",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "En décubitus dorsal Bridge isométrique maintien",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du bassin et de la région lombo-pelvienne, en mettant l'accent sur l'extension.",
+          "howToDo": "Allongez-vous sur le dos avec les genoux pliés et les pieds mis à la terre. Appuyez sur les pieds et soulevez les hanches dans un pont, puis maintenez en respirant.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-062",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Bridge isométrique maintien",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "En décubitus dorsal Anterior-Posterior bassin Tilt",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'inclinaison antérieure du bassin et l'inclinaison postérieure du bassin et de la région lumbopelvienne.",
+          "howToDo": "Allongez-vous avec les genoux pliés et les pieds à plat. Basculez doucement le bassin vers l'arrière pour réduire l'espace sous le bas du dos, puis inclinez-le vers l'avant pour restaurer un petit arc naturel. Continuez à basculer lentement entre les deux positions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-065",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Anterior-Posterior bassin Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Debout Anterior-Astérior bassin Tilt",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs du bassin pendant l'inclinaison antérieure contrôlée du bassin et l'inclinaison postérieure du bassin et de la région lumbopelvienne.",
+          "howToDo": "Tenez-vous debout avec les pieds autour de la largeur de la hanche et les genoux doucement pliés. Inclinez le bassin vers l'arrière en tupant doucement l'os de la queue, puis inclinez-le vers l'avant pour revenir à une petite courbe inférieure naturelle. Alternez lentement.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "trunk-066",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Debout Anterior-Astérior bassin Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Traduction debout en avant-arrière de bassin",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la traduction pelvienne antérieure contrôlée et la traduction pelvienne postérieure du bassin et de la région lumbopelvienne.",
+          "howToDo": "Tenez-vous grand avec les pieds de la largeur de la hanche et les mains sur les hanches. Maintenir la poitrine stable, glisser le bassin vers l'avant, revenir au centre, puis glisser vers l'arrière et revenir à nouveau.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-067",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Traduction debout en avant-arrière de bassin",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-translation",
+            "posterior-translation",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Traduction latérale debout bassin",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs pendant le déplacement de poids latéral contrôlé du bassin et de la région lumbopelvienne.",
+          "howToDo": "Remontez le bassin à droite, retournez au centre, puis glissez à gauche tout en gardant les deux pieds en contact avec le sol.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "trunk-068",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Traduction latérale debout bassin",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Debout bassin Square Pattern",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle des mouvements du bassin et de la région lumbopelvienne pendant la translation pelvienne antérieure, le changement de poids latéral et la translation pelvienne postérieure.",
+          "howToDo": "Tenez-vous grand avec les pieds de la largeur de la hanche et les mains sur les hanches. Déplacez le bassin vers l'avant, puis à droite, puis vers l'arrière, puis à gauche pour dessiner un carré. Revenez au centre et répétez dans la direction opposée.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-069",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Debout bassin Square Pattern",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-translation",
+            "lateral-shift",
+            "posterior-translation",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circonduction bassin debout avec stabilisation du tronc",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs du bassin pendant la circonduction contrôlée du bassin et de la région lumbopelvienne.",
+          "howToDo": "Tenez-vous debout avec les pieds légèrement séparés et les mains sur les hanches. Glissez le bassin vers l'avant, d'un côté, vers l'arrière, et de l'autre côté pour terminer un cercle lent. Répétez dans les deux sens.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "trunk-070",
+          "sezione": "Bassin - Mobilité et stabilité",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Circonduction bassin debout avec stabilisation du tronc",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-stability"
+    },
+    {
+      "nome": "Colonne vertébrale - Mobilité et contrôle moteur",
+      "esercizi": [
+        {
+          "nome": "Prolongation bilatérale des épaules assises avec rétractation scapulaire",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la colonne vertébrale pendant la rétraction scapulaire et l'extension.",
+          "howToDo": "Associez-vous debout du dossier, les deux bras étant levés vers l'avant. Flexez les coudes et tirez-les vers le bas à côté du tronc tout en rétractant l'omoplate. Maintenez 3 secondes, puis prolongez les bras vers le haut.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-013",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Prolongation bilatérale des épaules assises avec rétractation scapulaire",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "scapular-retraction",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation du tronc assis",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant la rotation.",
+          "howToDo": "Maintenez le bassin au neutre et tournez le thorax et la tête d'un côté à travers la plage confortable disponible. Maintenez pendant 3 secondes, Revenez en position neutre et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-016",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation du tronc assis",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation du tronc Diagonal assis",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la colonne vertébrale pendant la rotation et la flexion latérale.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux pieds supportés et les mains reposant sur les cuisses. Atteindre un bras en diagonale vers le haut sur la ligne médiane avec rotation contrôlée du tronc. Retourner au neutre et répéter sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-021",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation du tronc Diagonal assis",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Allongement de la tige axiale debout au mur",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur l'extension.",
+          "howToDo": "Tenez vos pieds légèrement loin du mur et vos genoux légèrement pliés. Appuyez doucement sur la partie médiane et supérieure de votre dos contre le mur tout en allongeant le haut de votre tête vers le plafond. Tenez cette position pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-023",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Allongement de la tige axiale debout au mur",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension thoracique assise",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous sur la moitié avant d'une chaise, les mains reposant sur les cuisses. Glissez légèrement les mains en arrière le long de vos cuisses tout en levant la poitrine et en allongeant la colonne vertébrale. Tenez la position haute pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-029",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension thoracique assise",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion et l'extension du coffre assis",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité de la colonne vertébrale pendant la flexion et l'extension.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux pieds supportés et les bras prolongés vers l'avant à hauteur de poitrine. Flexez le tronc légèrement pour atteindre l'avant, puis activez l'extenseur de la colonne vertébrale et les muscles abdominaux pour revenir à la position verticale. Répétez lentement pour 5 répétitions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-030",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension du coffre assis",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexion et l'extension de la spinale quadrupède segmentaire",
+          "image": "",
+          "description": "Cet exercice de contrôle moteur développe une flexion et une extension séquentielles à travers le bassin, la colonne vertébrale lombaire, la colonne vertébrale thoracique et la colonne vertébrale cervicale.",
+          "howToDo": "Assumer une position quadrupède avec les mains sous les épaules et les genoux sous les hanches. Initier une inclinaison postérieure pelvienne et fléchir progressivement les régions lombaires, thoraciques et cervicales. Inverser la séquence du bassin pour revenir à travers neutre dans une extension confortable. Compléter 5 cycles lents.",
+          "whatToDo": "Déplacer une région de la colonne vertébrale après l'autre, répartir le mouvement progressivement, et coordonner la flexion avec l'expiration et l'extension avec l'inhalation.",
+          "whatNotToDo": "Ne pas déplacer toute la colonne vertébrale comme un bloc rigide, s'effondrer entre les épaules, forcer l'extrémité, ou continuer en cas de douleur aiguë ou radiante.",
+          "id": "trunk-032",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension de la spinale quadrupède segmentaire",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Rotation du tronc debout avec une serviette",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant la rotation.",
+          "howToDo": "Tenez un bâton horizontalement devant votre poitrine avec les deux mains, en gardant vos coudes fléchis. Tournez lentement votre torse à droite, en gardant votre bassin tourné vers l'avant. Revenez au centre, puis tournez à gauche. Répétez 5 fois de chaque côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-036",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation du tronc debout avec une serviette",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexion et l'extension de la spinale segmentaire debout",
+          "image": "",
+          "description": "Cet exercice de mobilité active est destiné à améliorer la flexion contrôlée et l'extension de la colonne vertébrale.",
+          "howToDo": "Tenez-vous grand. Roulez lentement la tête, les épaules et la colonne vertébrale vers le bas un segment à la fois, puis revenez à la position debout avec le même contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-037",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension de la spinale segmentaire debout",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Allongement axial permanent de la colonne vertébrale",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur l'extension.",
+          "howToDo": "De position confortable, atteindre la couronne de la tête loin du bassin et s'allonger doucement à travers la colonne vertébrale, puis se détendre.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-038",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Allongement axial permanent de la colonne vertébrale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion et la rotation alternées du tronc diagonal",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion et la rotation contrôlées de la colonne vertébrale.",
+          "howToDo": "Se tenir avec les pieds à l'aise. Atteindre une main en diagonale vers le pied opposé ou vers le plancher, puis revenir et alterner les côtés.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-039",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion et la rotation alternées du tronc diagonal",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Circonduction du bassin debout",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du bassin et de la région lumbopelvienne.",
+          "howToDo": "Tenez-vous les mains sur les hanches. Faites des cercles lents avec le bassin dans une direction, puis répétez dans l'autre direction.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-040",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Circonduction du bassin debout",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion et l'extension en quadrupède thoracique",
+          "image": "",
+          "description": "Cet exercice de mobilité sélective met l'accent sur la flexion et l'extension de la colonne thoracique alors que la région lumbopelvienne reste relativement stable.",
+          "howToDo": "Supposons une position quadruplée et établissez un bassin neutre. Sans incliner délibérément le bassin, appuyez sur le plancher pour arrondir le haut du dos, puis laissez le sternum descendre doucement entre les épaules pour étendre la région thoracique. Répétez lentement.",
+          "whatToDo": "Gardez la paroi abdominale doucement active, concentrez le mouvement entre les omoplates et maintenez la pression à travers les mains et les genoux.",
+          "whatNotToDo": "Ne pas remplacer par de grandes inclinaisons pelviennes, effondrement de la colonne vertébrale lombaire, plier les coudes, ou forcer l'extrémité thoracique.",
+          "id": "trunk-041",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension en quadrupède thoracique",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility",
+            "selective-control"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation active du coffre",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant la rotation.",
+          "howToDo": "Asseyez-vous avec les pieds à terre. rotation du tronc d'un côté, pause, retour au centre, puis répéter de l'autre côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-042",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation active du coffre",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion de tronc supporté Latissimus Dorsi étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur la flexion latérale et la flexion.",
+          "howToDo": "Tenez un support stable avec les mains. Asseyez les hanches en arrière et laissez le côté du tronc s'allonger jusqu'à ce que la zone lat s'étire.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-043",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion de tronc supporté Latissimus Dorsi étirement",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Prise de flexion de coffre longue durée",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne vertébrale, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous avec les jambes prolongées vers l'avant. Charnière vers l'avant des hanches et laisser la colonne vertébrale plier seulement dans la gamme confortable disponible.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-044",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Prise de flexion de coffre longue durée",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Tronc flexion latérale étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité permet de contrôler l'étirement de la colonne vertébrale, en mettant l'accent sur la flexion latérale.",
+          "howToDo": "Asseyez-vous ou tenez-vous debout. Atteindre un bras au-dessus et plier doucement du côté opposé jusqu'à ce que le côté du tronc s'allonge.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-045",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Tronc flexion latérale étirement",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Rotation thoracique en quadribus",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur la rotation et la flexion.",
+          "howToDo": "Supposons une position quadruplée. Faites glisser un bras sous le bras opposé et tournez le haut du dos jusqu'à ce que l'épaule approche du plancher.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-047",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation thoracique en quadribus",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Pression prolongée pour l'extension spinale",
+          "image": "",
+          "description": "Cet exercice soutenu expose la colonne vertébrale à une position d'extension confortable maintenue pour une courte tenue statique.",
+          "howToDo": "Appuyez sur les mains pour élever la poitrine tout en gardant le bassin pris en charge. S'arrêter à la plage d'extension confortable disponible, tenir pendant 5 à 10 secondes tout en respirant normalement, puis descendre complètement.",
+          "whatToDo": "Distribuez l'extension à travers la colonne vertébrale, gardez les épaules loin des oreilles et maintenez une position statique sans symptôme.",
+          "whatNotToDo": "Ne levez pas le bassin, forcez les coudes droit, retenez le souffle, ou continuez si la douleur rayonne ou augmente progressivement.",
+          "id": "trunk-048",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Pression prolongée pour l'extension spinale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension thoracique assistée par mur avec la diapositive de bras",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'extension contrôlée et la rétractation scapulaire de la colonne vertébrale.",
+          "howToDo": "Tenez-vous avec le dos près d'un mur. Faites glisser les bras vers le haut et vers le bas tout en gardant les côtes contrôlées et le haut du dos actif.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-049",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension thoracique assistée par mur avec la diapositive de bras",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension spinale à mur fixe",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant l'extension.",
+          "howToDo": "Levez-vous face à un mur avec les mains reposant dessus. Laissez la poitrine se déplacer doucement vers l'avant et vers le haut tout en gardant les hanches contrôlées.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-050",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension spinale à mur fixe",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation assistée du coffre",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur la rotation.",
+          "howToDo": "Asseyez-vous et faites pivoter le tronc d'un côté. Utilisez les mains légèrement pour le soutien et maintenez la torsion en respirant.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-051",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation assistée du coffre",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dynamic En décubitus ventral Press-Up pour extension Spinale",
+          "image": "",
+          "description": "Cet exercice de mobilité dynamique utilise des cycles de compression répétés pour déplacer la colonne vertébrale dans et hors d'une plage d'extension confortable.",
+          "howToDo": "Allongez-vous avec les mains près des épaules. Appuyez sur les mains pour soulever la poitrine à travers la plage d'extension confortable disponible, puis vers le bas complètement à la position de départ sans tenir au sommet. Répétez à un tempo lent et uniforme.",
+          "whatToDo": "Maintenez le bassin soutenu, détendez-vous pleinement entre les répétitions, et rendre chaque phase vers le haut et vers le bas lisse et contrôlée.",
+          "whatNotToDo": "Ne pas s'arrêter dans une maintien soutenue, utiliser l'élan, forcer les coudes droit, ou continuer si la douleur rayonne ou augmente progressivement.",
+          "id": "trunk-052",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Dynamic En décubitus ventral Press-Up pour extension Spinale",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion latérale du tronc à demi-clin",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur la flexion latérale et l'extension.",
+          "howToDo": "Installez-vous dans un poumon confortable. Atteindre un bras au-dessus et plier doucement loin de la jambe arrière, puis revenir.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-053",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion latérale du tronc à demi-clin",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation thoracique dynamique quadrupède",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la rotation contrôlée de la colonne vertébrale.",
+          "howToDo": "Supposons une position quadruplée. Faites glisser un bras sous le bras opposé pour tourner, puis ouvrez le même bras vers le plafond.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-054",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Rotation thoracique dynamique quadrupède",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Prise isométrique de flexion spinale quadrupède",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne vertébrale, en mettant l'accent sur la flexion.",
+          "howToDo": "Supposons une position quadruplée. Appuyez sur les mains et déplacez la colonne vertébrale en flexion tout en permettant à la tête de suivre la courbe vertébrale. Maintenez la position tout en respirant normalement.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-057",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Prise isométrique de flexion spinale quadrupède",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extension de spinale Quadruped isométrique maintien",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne vertébrale, en mettant l'accent sur l'extension.",
+          "howToDo": "Supposons une position quadruplée. Laissez la poitrine avancer et les os de l'assise se soulever légèrement, créant une arche douce.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-058",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension de spinale Quadruped isométrique maintien",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion et l'extension segmentaire",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant la flexion et l'extension.",
+          "howToDo": "Asseyez-vous avec les jambes étendues ou les genoux pliés. Roulez lentement la colonne vertébrale vers l'arrière ou vers l'avant dans une plage confortable, puis retournez.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-059",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension segmentaire",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension spinale progressive assistée par mur",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'extension contrôlée de la colonne vertébrale.",
+          "howToDo": "Tenez-vous à l'arrière face à un mur. Atteindre les mains au-dessus du mur, puis les descendre lentement jusqu'à ce que le contrôle le permette.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-060",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension spinale progressive assistée par mur",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Pli avancé soutenu avec extension alternante du genou",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne vertébrale, en mettant l'accent sur la flexion et l'extension.",
+          "howToDo": "Repliez-vous vers l'avant avec les mains supportées. Alternez doucement la flexion et le redressement des genoux tout en gardant le mouvement de la colonne vertébrale contrôlée.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-061",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Pli avancé soutenu avec extension alternante du genou",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Debout Overhead thoracique extension",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'extension contrôlée de la colonne vertébrale.",
+          "howToDo": "Tenez-vous debout et étendez les deux bras au-dessus. Maintenez le bassin contrôlé, soulevez la poitrine et déplacez légèrement les mains vers l'arrière pour créer une légère extension à travers la colonne vertébrale supérieure et médiane, puis Revenez en position neutre.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-071",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Debout Overhead thoracique extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion du tronc debout avec la descente à la poitrine",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée de la colonne vertébrale.",
+          "howToDo": "Tenez-vous avec les genoux doucement pliés. Commencez la descente en guidant la poitrine vers l'avant et vers le bas, puis laissez la tête et les bras suivre vers le sol. Arrêtez à une profondeur confortable et revenez lentement à debout.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-072",
+          "sezione": "Colonne vertébrale - Mobilité et contrôle moteur",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Flexion du tronc debout avec la descente à la poitrine",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "back-mobility-functional-control"
+    },
+    {
+      "nome": "Spine - Extensor Region",
+      "esercizi": [
+        {
+          "nome": "Extension thoracique isométrique assise contre le dossier",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne vertébrale, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous avec la colonne thoracique soutenue contre le dossier de la chaise. Appuyez doucement sur le dos supérieur dans le support tout en allongeant la colonne vertébrale verticalement. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "trunk-014",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension thoracique isométrique assise contre le dossier",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abduction horizontal de l'épaule assise avec l'extension thoracique",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant l'extension et la rétractation scapulaire.",
+          "howToDo": "Gardez vos bras près de vos côtés. Fermez vos mains en poings, gardez vos pouces pointés vers le haut. Levez lentement vos bras vers les côtés jusqu'à la hauteur de l'épaule et ramenez-les légèrement vers l'arrière, gardez toujours vos pouces pointés vers le plafond. Maintenez pendant 3 secondes tout en sentant vos muscles du dos travailler, puis baissez lentement vos bras vers le bas.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-015",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Abduction horizontal de l'épaule assise avec l'extension thoracique",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension dynamique En décubitus ventral supérieur-tronc avec le support de tête avant",
+          "image": "",
+          "description": "Cet exercice dynamique développe un contrôle de l'extenseur thoracique à courte amplitude avec la tête et les membres supérieurs supportés comme une unité.",
+          "howToDo": "Allongez-vous avec les mains empilées sous le front. Gardez le front en contact léger avec les mains et soulevez les mains, la tête et le haut de la poitrine ensemble à quelques centimètres du sol. Abaissez immédiatement avec le contrôle et répétez pour 5 répétitions.",
+          "whatToDo": "Gardez la colonne cervicale neutre, soulignez le mouvement à travers le tronc supérieur, et terminez chaque répétition sans tenir longtemps.",
+          "whatNotToDo": "Ne pas lever le menton, séparer le front des mains, utiliser l'élan, ou exagérer l'extension lombaire.",
+          "id": "trunk-035",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Extension dynamique En décubitus ventral supérieur-tronc avec le support de tête avant",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "En décubitus ventral isométrique tronc extension avec des bras à côté du corps",
+          "image": "",
+          "description": "Cet exercice isométrique développe l'endurance de la chaîne de l'extenseur de la colonne vertébrale avec les bras placés à côté du tronc.",
+          "howToDo": "Levez doucement la tête et la poitrine une petite distance tout en gardant la colonne cervicale neutre. Tenez la position pendant 5 secondes, abaissez complètement et reposez-vous avant de répéter.",
+          "whatToDo": "Maintenez le contrôle abdominal, allongez la cime de la tête et utilisez un lifting faible et soutenu pendant la respiration normale.",
+          "whatNotToDo": "Ne pas balancer les bras, lever le menton, retenir la respiration, forcer l'extension lombaire, ou lever le tronc aussi haut que possible.",
+          "id": "trunk-055",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus ventral isométrique tronc extension avec des bras à côté du corps",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "En décubitus ventral extension du tronc à long bras de levier",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer le contrôle moteur et la stabilité de la colonne vertébrale pendant l'extension.",
+          "howToDo": "Allongez-vous avec les jambes longues et les bras étendus à l'avant. Brassez doucement l'abdomen, puis soulevez la poitrine, les bras et les jambes à une petite distance du plancher. Pause brièvement et en bas avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-073",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "En décubitus ventral extension du tronc à long bras de levier",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Des pulsations de rétractation scapulaire en position T En décubitus ventral",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement de la colonne vertébrale pendant l'extension, la rétractation scapulaire et l'abduction horizontal.",
+          "howToDo": "Gardez les pouces pointés vers le haut ou les paumes orientées vers le bas, soulevez doucement la poitrine et les bras d'une petite distance, puis faites de courtes impulsions d'ailes vers le haut et vers le bas, avant de descendre.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas le rachis en fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou irradiante.",
+          "id": "trunk-074",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Des pulsations de rétractation scapulaire en position T En décubitus ventral",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "back-posterior-region"
+    },
+    {
+      "nome": "Plancher pelvien",
+      "esercizi": [
+        {
+          "nome": "Plancher bassin assis et une contraction de gluten",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'activation volontaire, la relaxation et le contrôle moteur du plancher bassin, en mettant l'accent sur la contraction contrôlée et la relaxation complète.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux pieds supportés. Contractez le plancher bassin et les muscles glutés simultanément, en tirant doucement le plancher bassin vers le haut. Maintenez pendant 5 secondes en respirant normalement, puis détendez-vous complètement.",
+          "whatToDo": "Coordonnez la contraction avec une respiration régulière et laissez les muscles se relâcher complètement entre les répétitions.",
+          "whatNotToDo": "Ne retenez pas votre respiration, ne réalisez pas de contraction maximale et ne maintenez pas de tension résiduelle entre les répétitions.",
+          "id": "trunk-009",
+          "sezione": "Plancher pelvien",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Plancher bassin assis et une contraction de gluten",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Contraction au plancher bassin soutenue",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'activation volontaire, la relaxation et le contrôle moteur du plancher bassin, en mettant l'accent sur la contraction contrôlée et la relaxation complète.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise ferme avec les deux pieds supportés. Contractez et élevez les muscles du plancher bassin sans activer la paroi abdominale excessivement. Maintenez pendant 4 secondes tout en respirant normalement, puis relâchez progressivement.",
+          "whatToDo": "Coordonnez la contraction avec une respiration régulière et laissez les muscles se relâcher complètement entre les répétitions.",
+          "whatNotToDo": "Ne retenez pas votre respiration, ne réalisez pas de contraction maximale et ne maintenez pas de tension résiduelle entre les répétitions.",
+          "id": "trunk-017",
+          "sezione": "Plancher pelvien",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Contraction au plancher bassin soutenue",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "elevation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Adduction de la hanche assise avec la contraction de plancher bassin",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'activation volontaire, la relaxation et le contrôle moteur du plancher bassin, en mettant l'accent sur l'adduction.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux pieds supportés et place une boule molle ou un coussin replié entre les genoux. Pendant une lente exhalation, adduit les hanches pour compresser l'objet tout en effectuant une légère contraction du plancher bassin. Maintenez 5 secondes, puis détendez-vous complètement.",
+          "whatToDo": "Coordonnez la contraction avec une respiration régulière et laissez les muscles se relâcher complètement entre les répétitions.",
+          "whatNotToDo": "Ne retenez pas votre respiration, ne réalisez pas de contraction maximale et ne maintenez pas de tension résiduelle entre les répétitions.",
+          "id": "trunk-018",
+          "sezione": "Plancher pelvien",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Adduction de la hanche assise avec la contraction de plancher bassin",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "adduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Pré-contraction du plancher bassin avant de vous asseoir",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'activation volontaire, la relaxation et le contrôle moteur du plancher bassin, en mettant l'accent sur la contraction contrôlée et la relaxation complète.",
+          "howToDo": "Associez-vous près de l'avant d'une chaise stable avec les deux pieds supportés. Avant de commencer le transfert, effectuez une légère contraction du plancher bassin. Maintenez la contraction tout en inclinant le tronc vers l'avant et prolongez les hanches et les genoux pour se tenir.",
+          "whatToDo": "Coordonnez la contraction avec une respiration régulière et laissez les muscles se relâcher complètement entre les répétitions.",
+          "whatNotToDo": "Ne retenez pas votre respiration, ne réalisez pas de contraction maximale et ne maintenez pas de tension résiduelle entre les répétitions.",
+          "id": "trunk-019",
+          "sezione": "Plancher pelvien",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Pré-contraction du plancher bassin avant de vous asseoir",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abduction et l'adduction de la hanche En décubitus dorsal avec le contrôle du plancher bassin",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'activation volontaire, la relaxation et le contrôle moteur du plancher bassin, en mettant l'accent sur l'abduction.",
+          "howToDo": "Laisser les deux genoux se déplacer latéralement dans l'abduction de la hanche, puis les rendre neutres tout en coordonnant une légère contraction du plancher bassin.",
+          "whatToDo": "Coordonnez la contraction avec une respiration régulière et laissez les muscles se relâcher complètement entre les répétitions.",
+          "whatNotToDo": "Ne retenez pas votre respiration, ne réalisez pas de contraction maximale et ne maintenez pas de tension résiduelle entre les répétitions.",
+          "id": "trunk-020",
+          "sezione": "Plancher pelvien",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Abduction et l'adduction de la hanche En décubitus dorsal avec le contrôle du plancher bassin",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Des contractions d'étage rapide bassin assis",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'activation volontaire, la relaxation et le contrôle moteur du plancher bassin, en mettant l'accent sur la contraction contrôlée et la relaxation complète.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise ferme avec les deux pieds supportés. Effectuez une brève contraction du plancher bassin suivie d'une relaxation complète. Répétez 5 fois avec un court repos entre les contractions.",
+          "whatToDo": "Coordonnez la contraction avec une respiration régulière et laissez les muscles se relâcher complètement entre les répétitions.",
+          "whatNotToDo": "Ne retenez pas votre respiration, ne réalisez pas de contraction maximale et ne maintenez pas de tension résiduelle entre les répétitions.",
+          "id": "trunk-031",
+          "sezione": "Plancher pelvien",
+          "distretto": "Tronc",
+          "thumbnail": "",
+          "imageAlt": "Des contractions d'étage rapide bassin assis",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "relaxation"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "perineum"
+    }
+  ],
+  "id": "trunk"
+}

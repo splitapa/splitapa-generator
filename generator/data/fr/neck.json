@@ -1,0 +1,246 @@
+{
+  "distretto": "Cou",
+  "sezioni": [
+    {
+      "nome": "Région antérieure du cou",
+      "esercizi": [
+        {
+          "nome": "En décubitus dorsal Retraction Cervicale",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la maîtrise du moteur et la stabilité de la colonne cervicale pendant la rétraction et la flexion scapulaires.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les genoux fléchis et les pieds soutenus. Maintenez le regard vers le plafond. Traduisez le menton vers l'arrière sans fléchir ni prolonger la colonne cervicale. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez le rachis thoracique redressé, relâchez les épaules et réalisez le mouvement cervical lentement et avec précision.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-001",
+          "sezione": "Région antérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Retraction Cervicale",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "scapular-retraction",
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Activation du flexeur du cou profond",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'amplitude active du mouvement et le contrôle du mouvement de la colonne cervicale pendant la flexion.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les genoux fléchis et les pieds soutenus. Effectuez une légère rétraction cervicale, puis soulevez la tête environ 2 à 3 cm tout en maintenant la position rétractée. Maintenez pendant 3 à 5 secondes, puis abaissez la tête lentement.",
+          "whatToDo": "Maintenez le rachis thoracique redressé, relâchez les épaules et réalisez le mouvement cervical lentement et avec précision.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-002",
+          "sezione": "Région antérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Activation du flexeur du cou profond",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion cervical isométrique avec résistance manuelle",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne cervicale, en mettant l'accent sur la flexion.",
+          "howToDo": "Placez une paume contre le front. Appliquez une légère pression vers l'avant avec la tête tandis que la main offre une résistance égale afin qu'aucun mouvement visible ne se produise. Tenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-003",
+          "sezione": "Région antérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Flexion cervical isométrique avec résistance manuelle",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension cervical assise avec ouverture de la mâchoire contrôlée",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active des mouvements et le contrôle des mouvements de la colonne cervicale pendant l'extension.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise. Commencez par regarder droit devant. Basculez lentement votre tête vers le haut vers le plafond. Une fois confortable, ouvrez doucement votre bouche, puis fermez-la à nouveau tout en gardant votre tête inclinée vers le haut. Retournez votre tête à la position de départ lentement. Répétez 5 fois.",
+          "whatToDo": "Maintenez le rachis thoracique redressé, relâchez les épaules et réalisez le mouvement cervical lentement et avec précision.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-004",
+          "sezione": "Région antérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Extension cervical assise avec ouverture de la mâchoire contrôlée",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "anterior-neck-region"
+    },
+    {
+      "nome": "Région latérale du cou",
+      "esercizi": [
+        {
+          "nome": "Flexion latérale cervical assise",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne cervicale, en mettant l'accent sur la flexion latérale.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise avec les bras détendus par vos côtés. Apportez lentement l'oreille droite vers l'épaule droite, sans lever l'épaule. Arrêtez lorsque vous sentez un étirement doux sur le côté gauche. Maintenez pendant 5 secondes, retournez au centre, puis répétez le même mouvement à gauche.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-005",
+          "sezione": "Région latérale du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Flexion latérale cervical assise",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion latérale isométrique cervicale avec résistance manuelle",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne cervicale, en mettant l'accent sur la flexion latérale.",
+          "howToDo": "Placez une paume contre la région temporelle au-dessus de l'oreille. Appliquez une légère pression latérale avec la tête tandis que la main offre une résistance égale pour qu'aucun mouvement visible ne se produise. Maintenez pendant 5 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-006",
+          "sezione": "Région latérale du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Flexion latérale isométrique cervicale avec résistance manuelle",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation cervicale assise",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active des mouvements et le contrôle des mouvements de la colonne cervicale pendant la rotation.",
+          "howToDo": "Asseyez-vous le dos droit avec les épaules détendues. Tournez lentement la tête d'un côté à travers la plage de confort disponible. Maintenez pendant 3 à 5 secondes, Revenez en position neutre et répétez de l'autre côté.",
+          "whatToDo": "Maintenez le rachis thoracique redressé, relâchez les épaules et réalisez le mouvement cervical lentement et avec précision.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-007",
+          "sezione": "Région latérale du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Rotation cervicale assise",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Flexion latérale assistée",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la colonne cervicale, en mettant l'accent sur la flexion latérale.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise. Apportez votre oreille droite vers votre épaule droite. Placez doucement votre main droite sur le dessus de votre tête, près de votre oreille gauche. Utilisez seulement le poids de votre main pour guider le mouvement vers le bas, sans tirer avec force. Tenez pendant 5 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-008",
+          "sezione": "Région latérale du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Flexion latérale assistée",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "lateral-neck-region"
+    },
+    {
+      "nome": "Région postérieure du cou",
+      "esercizi": [
+        {
+          "nome": "Flexion cervicale en position assise",
+          "image": "",
+          "description": "Cet exercice de mobilité permet de contrôler l'étirement de la colonne cervicale, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux mains reposant sur les cuisses. Fléchissez lentement la colonne cervicale lentement en dirigeant le menton vers le sternum. Maintenez un léger étirement cervical postérieur pendant 5 secondes, puis Revenez en position neutre.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-009",
+          "sezione": "Région postérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Flexion cervicale en position assise",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Extension cervical isométrique avec résistance manuelle",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la colonne cervicale, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous le dos droit et placez les deux mains contre la région occipitale. Appliquez une légère pression postérieure avec la tête tandis que les mains offrent une résistance égale afin qu'aucun mouvement visible ne se produise.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-010",
+          "sezione": "Région postérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Extension cervical isométrique avec résistance manuelle",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion cervicale assistée",
+          "image": "",
+          "description": "Cet exercice de mobilité permet de contrôler l'étirement de la colonne cervicale, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise. Entrelacez vos mains et placez-les doucement derrière votre tête. Laissez votre tête tomber vers l'avant vers votre poitrine, en utilisant seulement le poids de vos bras pour guider le mouvement vers le bas. Vous ne devriez pas tirer avec force. Tenez pendant 5 secondes, puis revenez lentement à la position de départ.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-011",
+          "sezione": "Région postérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Flexion cervicale assistée",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Rétractation scapulaire assise",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la maîtrise du moteur et la stabilité de la colonne cervicale pendant la rétraction scapulaire.",
+          "howToDo": "Asseyez-vous le dos droit avec les coudes fléchis et les mains près des épaules. Déplacez les coudes vers l'arrière tout en rétractant doucement l'omoplate. Maintenez pendant 5 secondes, puis Revenez en position neutre.",
+          "whatToDo": "Maintenez le rachis thoracique redressé, relâchez les épaules et réalisez le mouvement cervical lentement et avec précision.",
+          "whatNotToDo": "Ne forcez pas la région cervicale en fin d'amplitude et n'utilisez pas l'élan. Interrompez l'exercice en cas de vertiges, de symptômes irradiants, d'engourdissement ou de douleur aiguë.",
+          "id": "neck-012",
+          "sezione": "Région postérieure du cou",
+          "distretto": "Cou",
+          "thumbnail": "",
+          "imageAlt": "Rétractation scapulaire assise",
+          "movementDistrict": "neck",
+          "movementTags": [
+            "stabilization",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "posterior-neck-region"
+    }
+  ],
+  "id": "neck"
+}

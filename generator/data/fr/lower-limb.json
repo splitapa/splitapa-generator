@@ -1,0 +1,2011 @@
+{
+  "distretto": "Membre inférieur",
+  "sezioni": [
+    {
+      "nome": "Bassin - Mobilité et équilibre",
+      "esercizi": [
+        {
+          "nome": "Rotation de la tronc inférieur de En décubitus dorsal",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'autonomie active du mouvement et le contrôle du mouvement de la hanche pendant la rotation.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec les genoux fléchis et les pieds soutenus. Maintenez les épaules en contact avec la surface et abaissez les deux genoux lentement d'un côté. Revenez en position neutre et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-002",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation de la tronc inférieur de En décubitus dorsal",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circonduction du bassin debout soutenue",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du bassin et de la région lumbopelvienne.",
+          "howToDo": "Tenez-vous derrière une chaise stable et tenez le dossier. Gardez les deux pieds en contact avec le sol et déplacez le bassin à travers de petits cercles contrôlés. Complétez 5 répétitions dans chaque direction.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-033",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction du bassin debout soutenue",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Déplacement de poids latéral soutenu",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs pendant le déplacement de poids latéral contrôlé du bassin et de la région lumbopelvienne.",
+          "howToDo": "Tenez-vous derrière une chaise robuste et maintenez les deux mains. Maintenez vos pieds légèrement séparés. Déplacez lentement votre poids sur votre pied droit sans soulever le pied gauche du sol. Revenez au centre, puis déplacez votre poids sur votre pied gauche. Répétez 10 fois.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-040",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Déplacement de poids latéral soutenu",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduction de hanche unipodale debout",
+          "image": "",
+          "description": "Cet exercice met en doute le contrôle postural et la stabilité des membres inférieurs pendant la circonduction contrôlée de la hanche.",
+          "howToDo": "Tenez-vous grand et tenez un support si nécessaire. Dessinez des cercles lents avec une hanche dans une direction, puis l'autre, et répétez des deux côtés.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-075",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction de hanche unipodale debout",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Rotation externe de la hanche modifiée étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la rotation externe et la flexion.",
+          "howToDo": "Placer une hanche dans la flexion et la rotation externe avec le genou fléchi devant le tronc, et étendre le membre inférieur opposé vers l'arrière. Inclinez le tronc vers l'avant jusqu'à ce qu'un léger étirement postérieur soit ressenti.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-077",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe de la hanche modifiée étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assis 90/90 hanche extension",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'extension contrôlée et la rotation externe de la hanche.",
+          "howToDo": "Asseyez-vous dans une position 90/90. Maintenez le tronc haut et prolongez ou soulevez doucement de la hanche arrière jusqu'à ce que le contrôle le permette.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-080",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Assis 90/90 hanche extension",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Transition de rotation de la hanche 90/90",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la rotation interne contrôlée et la rotation externe de la hanche.",
+          "howToDo": "Asseyez-vous avec les deux genoux pliés dans une position 90/90. Tourner les jambes pour changer les côtés lentement, en utilisant les mains pour le soutien si nécessaire.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-085",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Transition de rotation de la hanche 90/90",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "En décubitus dorsal en quatre hanche étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la rotation externe et la flexion.",
+          "howToDo": "Étendez-vous ou asseyez-vous haut. Traversez une cheville sur la cuisse opposée et rapprochez doucement les jambes jusqu'à ce que la hanche extérieure s'étire.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-089",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal en quatre hanche étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Assis 90/90 hanche rotation isométrique maintien",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la hanche, en mettant l'accent sur la rotation interne et la rotation externe.",
+          "howToDo": "Asseyez-vous dans une position de hanche 90/90 avec les deux genoux fléchis. Maintenez un tronc droit et appliquez une légère pression vers le bas à travers les deux membres inférieurs sans mouvement visible. Maintenez en respirant normalement.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-091",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Assis 90/90 hanche rotation isométrique maintien",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Debout hanche externe rotation ouverture",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée, l'abduction et la rotation externe de la hanche.",
+          "howToDo": "Tenez-vous debout et utilisez un support stable au besoin. Flexez une hanche et un genou, puis déplacez le genou latéralement et vers l'arrière par abduction de hanche et rotation externe. Retournez le pied au sol et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-093",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Debout hanche externe rotation ouverture",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Debout hanche interne rotation ouverture",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'abduction contrôlé, l'adduction et la rotation interne de la hanche.",
+          "howToDo": "Levez un genou vers le côté, guidez-le vers l'avant dans un sentier circulaire, puis abaissez le pied. Répétez de l'autre côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-094",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Debout hanche interne rotation ouverture",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "internal-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circonduction de la hanche debout avec le genou fléchi",
+          "image": "",
+          "description": "Cet exercice met en doute le contrôle postural et la stabilité des membres inférieurs pendant la circonduction contrôlée de la hanche.",
+          "howToDo": "Levez le genou opposé à une hauteur confortable et dessinez de petits cercles horizontaux avec lui, d'abord dans une direction et ensuite dans l'autre. Répétez sur le côté opposé.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-095",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction de la hanche debout avec le genou fléchi",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotation interne et externe de la hanche debout avec le genou fléchi",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs pendant la rotation interne contrôlée et la rotation externe de la hanche.",
+          "howToDo": "Tenez-vous grand et maintenez un support stable si nécessaire. Pliez un genou pour que le talon se lève derrière vous et le genou reste près de l'autre cuisse. De cette position, déplacez le pied doucement vers l'intérieur et vers l'extérieur pour faire pivoter la hanche intérieurement et vers l'extérieur. Répétez de l'autre côté.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-100",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne et externe de la hanche debout avec le genou fléchi",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotation interne et externe de la hanche bilatérale En décubitus dorsal",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la rotation interne contrôlée et la rotation externe de la hanche.",
+          "howToDo": "Gardez les chevilles dorsiflexées, puis roulez les jambes vers l'intérieur et vers l'extérieur des hanches de sorte que les pieds se déplacent comme des essuie-glaces.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-102",
+          "sezione": "Bassin - Mobilité et équilibre",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation interne et externe de la hanche bilatérale En décubitus dorsal",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-balance"
+    },
+    {
+      "nome": "Bassin - Région latérale",
+      "esercizi": [
+        {
+          "nome": "Alternating bassin Hike",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs du bassin pendant l'élévation contrôlée du bassin et de la région lumbopelvienne.",
+          "howToDo": "S'asseoir à l'écart du dossier avec les deux pieds supportés. Élever légèrement un côté du bassin du siège tout en maintenant la commande du tronc. Maintenez pendant 2 secondes, Revenez en position neutre et alternez les côtés pour 10 répétitions.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-001",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Alternating bassin Hike",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "pelvic-hike",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Abduction de la hanche debout soutenu",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'amplitude active du mouvement et le contrôle du mouvement de la hanche pendant l'abduction.",
+          "howToDo": "Tenez-vous à côté d'un support stable et tenez-le d'une main. En maintenant le tronc droit et le genou étendu, enlevez la hanche opposée en déplaçant la jambe latéralement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-003",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction de la hanche debout soutenu",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Étape latérale soutenue",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'amplitude active du mouvement et le contrôle du mouvement de la hanche pendant l'abduction et l'adduction.",
+          "howToDo": "Tenez-vous derrière une chaise robuste ou à côté d'une table et maintenez les deux mains en toute sécurité. En commençant par les pieds ensemble, prenez un petit pas à droite avec votre pied droit, puis portez votre pied gauche près de lui. Répétez le même mouvement à gauche. Déplacez lentement et maintenez votre corps debout. Répétez 5 fois de chaque côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-029",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Étape latérale soutenue",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Étape de croisement supportée",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer la amplitude active du mouvement et le contrôle du mouvement de la hanche pendant l'adduction et l'abduction.",
+          "howToDo": "Placez-vous derrière une chaise robuste et maintenez le dossier avec les deux mains. Traversez lentement votre pied droit devant votre pied gauche, le plaçant doucement sur le sol. Revenez à la position de départ, puis traversez votre pied gauche devant votre pied droit. Alternez lentement le mouvement pour 5 répétitions de chaque côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-030",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Étape de croisement supportée",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "adduction",
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assis hanche abduction Toe Tap",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'amplitude active du mouvement et le contrôle du mouvement de la hanche pendant l'abduction et l'adduction.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise, les pieds reposant sur le sol. Faites glisser votre pied droit sur le côté, en gardant les orteils en contact avec le sol, puis ramenez-le au centre. Répétez 5 fois, puis répétez avec le pied gauche.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-038",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Assis hanche abduction Toe Tap",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Abduction de la hanche latérale",
+          "image": "",
+          "description": "Cet exercice vise à améliorer l'amplitude active du mouvement et le contrôle du mouvement de la hanche pendant l'abduction.",
+          "howToDo": "Allongez-vous sur le côté sur un tapis, la jambe inférieure légèrement pliée pour le confort et la jambe supérieure droite. Levez lentement la jambe supérieure de quelques centimètres, en gardant les orteils pointés vers l'avant. Maintenez 2 secondes, puis abaissez la jambe lentement. Répétez 5 fois, puis tournez sur l'autre côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-054",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction de la hanche latérale",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Assis jambes écartées hanche flexion étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur l'abduction et la flexion.",
+          "howToDo": "Maintenez l'allongement axial de la colonne vertébrale et fléchissez vers l'avant des hanches jusqu'à ce qu'un léger étirement soit ressenti le long des cuisses médiales et postérieures.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-067",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Assis jambes écartées hanche flexion étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Adduction de hanches interstitielles debout et l'abduction balancement",
+          "image": "",
+          "description": "Cet exercice de mobilité active est destiné à améliorer l'abduction contrôlé et l'adduction de la hanche.",
+          "howToDo": "Tenez-vous grand et maintenez un support. balancement une jambe droite doucement à travers le corps et puis dehors sur le côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-068",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Adduction de hanches interstitielles debout et l'abduction balancement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Performer Debout Wide-jambe hanche flexion isométrique maintien",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la hanche, en mettant l'accent sur l'abduction et la flexion.",
+          "howToDo": "Tenez-vous debout avec les pieds larges et les genoux doucement étendus. Menez vers l'avant aux hanches tout en maintenant une colonne vertébrale neutre. Utilisez le soutien de la main au besoin et maintenez la position tout en respirant normalement.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-069",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Performer Debout Wide-jambe hanche flexion isométrique maintien",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Déplacement de poids latéral à large jambe debout",
+          "image": "",
+          "description": "Cet exercice met en péril le contrôle postural et la stabilité des membres inférieurs pendant l'abduction contrôlé, l'adduction et le déplacement latéral du poids de la hanche.",
+          "howToDo": "Déplacez le bassin et le poids du corps vers un côté en fléchissant le genou, en retournant par le neutre et en répétant de l'autre côté.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-071",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Déplacement de poids latéral à large jambe debout",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "lateral-shift"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Abduction de la hanche assise et la rotation externe étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur l'abduction et la rotation externe.",
+          "howToDo": "Asseyez-vous avec la plante des pieds ensemble et les genoux s'ouvrent vers l'extérieur. Asseyez-vous et laissez les genoux descendre seulement à travers la gamme confortable disponible.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-078",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction de la hanche assise et la rotation externe étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Debout Wide-jambe hanche flexion",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'abduction contrôlé et la flexion de la hanche.",
+          "howToDo": "Tenez-vous debout avec les pieds larges et les genoux doucement étendus. Souplez-vous vers l'avant des hanches tout en maintenant une colonne vertébrale neutre, puis étendez les hanches pour revenir debout.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-079",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Debout Wide-jambe hanche flexion",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Abduction bilatéral de la hanche de En décubitus dorsal et la rotation externe",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer l'abduction contrôlé, l'adduction et la rotation externe de la hanche.",
+          "howToDo": "Laisser les deux genoux se déplacer latéralement dans l'abduction de la hanche et la rotation externe, puis les ramener au neutre avec contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-101",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction bilatéral de la hanche de En décubitus dorsal et la rotation externe",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Abduction et l'adduction de la hanche droite bilatérale En décubitus dorsal",
+          "image": "",
+          "description": "Cet exercice de mobilité active est destiné à améliorer l'abduction contrôlé et l'adduction de la hanche.",
+          "howToDo": "Allongez les deux genoux et les chevilles dorsiflexées. Faites glisser les deux membres inférieurs latéralement dans l'abduction de la hanche, puis retournez-les vers la ligne médiane sous contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-104",
+          "sezione": "Bassin - Région latérale",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction et l'adduction de la hanche droite bilatérale En décubitus dorsal",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-lateral-region"
+    },
+    {
+      "nome": "Bassin - Région postérieure",
+      "esercizi": [
+        {
+          "nome": "Extension de hanche debout supportée",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant l'extension.",
+          "howToDo": "Maintenez le tronc droit et le genou étendu, déplacez une jambe vers l'arrière dans l'extension de la hanche. Maintenez pendant 3 secondes, Revenez en position neutre et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-004",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de hanche debout supportée",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Robinet arrière supporté",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant l'extension.",
+          "howToDo": "Déplacez votre pied droit légèrement vers l'arrière et touchez le sol avec vos orteils, sans déplacer trop de poids sur cette jambe. Revenez à la position de départ et répétez 5 fois. Passez ensuite à la jambe gauche.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-037",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Robinet arrière supporté",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Des pas en arrière soutenus",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant l'extension contrôlée de la hanche.",
+          "howToDo": "Tenez-vous à côté d'une table stable ou d'un comptoir de cuisine et gardez une main dessus pour le soutien. Prenez un petit pas en arrière avec votre pied droit, puis portez votre pied gauche près de lui. Continuez pendant 3 petits pas, puis revenez en avant soigneusement. Répétez 3 fois.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-048",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Des pas en arrière soutenus",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Fente inverse prise en charge",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer l'autonomie active du mouvement et le contrôle du mouvement de la hanche pendant l'extension et la flexion.",
+          "howToDo": "Tenez-vous debout et maintenez un bâton verticalement avec une main pour le soutien. Prenez un petit pas en arrière avec votre pied droit, en plaçant les orteils doucement sur le sol. Pliez légèrement les deux genoux, puis poussez à travers la jambe avant pour revenir à la position de départ. Répétez 5 fois, puis basculez les jambes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-052",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Fente inverse prise en charge",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension Quadruped hanche avec le genou étendu",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant l'extension.",
+          "howToDo": "Supposons une position quadruplée sur une surface rembourrée. Prolongez lentement votre jambe droite vers l'arrière, glissez-la le long du plancher d'abord, puis le soulevez légèrement, en maintenant le genou droit. Maintenez 2 secondes, puis retournez à la position de départ. Répétez 5 fois, puis changez les jambes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-053",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension Quadruped hanche avec le genou étendu",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Roumain soulevé de terre",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion et l'extension.",
+          "howToDo": "Tenez-vous les pieds à la largeur de la hanche. Poussez les hanches en arrière avec une longue colonne vertébrale, sentez la tension dans l'arrière des cuisses, puis revenez à debout.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-059",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Roumain soulevé de terre",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Seul jambe roumain soulevé de terre",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée et l'extension de la hanche.",
+          "howToDo": "Se tenir sur une jambe avec le genou légèrement doux. Charnière de la hanche pendant que la jambe libre atteint le dos, puis revenir à debout.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-064",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Seul jambe roumain soulevé de terre",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Rotation externe de hanche modifiée",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion et la rotation externe.",
+          "howToDo": "Placez la hanche de tête dans la flexion et la rotation externe avec le genou fléchi et le membre opposé s'allonge vers l'arrière. Maintenez une colonne vertébrale neutre et charnièrez légèrement le tronc vers l'avant, puis retournez debout.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-084",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Rotation externe de hanche modifiée",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "external-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension Quadruped hanche avec le genou fléchi",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant l'extension contrôlée de la hanche.",
+          "howToDo": "Supposons une position quadruplée. Maintenir un genou fléchi à environ 90 degrés, étendre la hanche en dirigeant la surface plantaire du pied vers le haut. Abaisser le membre avec contrôle et répéter sur le côté opposé.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-088",
+          "sezione": "Bassin - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension Quadruped hanche avec le genou fléchi",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "pelvis-posterior-region"
+    },
+    {
+      "nome": "Cuisse - Région antérieure",
+      "esercizi": [
+        {
+          "nome": "Extension active du genou assis",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du genou pendant l'extension.",
+          "howToDo": "Maintenez les mains sur les côtés du siège. Levez lentement votre pied droit et prolongez votre jambe vers l'avant jusqu'à ce qu'elle soit parallèle au plancher. Serrez bien votre muscle de la cuisse et tirez vos orteils vers vous. Maintenez pendant 3 secondes, puis abaissez lentement votre pied vers le bas. répétez avec votre jambe gauche.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-005",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension active du genou assis",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "En décubitus dorsal à courte amplitude Droite-Léger",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion.",
+          "howToDo": "Allongez-vous sur une surface ferme et confortable. Pliez votre genou gauche, en plaçant votre pied sur le matelas; cela aide à protéger votre dos. Maintenez votre jambe droite complètement allongée sur le lit. Serrez le muscle de votre cuisse droite et soulevez votre jambe droite seulement légèrement, à peu près la hauteur d'une main. Maintenez la jambe en haut pendant 3 secondes, puis baissez lentement. Répétez 5 fois de chaque côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-006",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal à courte amplitude Droite-Léger",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Partiellement assis sur place",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Assis près de l'avant d'une chaise stable avec les deux pieds entièrement supportés et légèrement séparés. Inclinez le tronc vers l'avant, étendez les hanches et les genoux, et élevez le bassin à environ 2 à 3 cm du siège. Maintenez pendant 2 secondes, puis baissez avec le contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-007",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Partiellement assis sur place",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexion de hanche isométrique assise avec résistance manuelle",
+          "image": "",
+          "description": "Cet exercice isométrique isolé développe l'activation du flexeur de la hanche alors que le tronc et le bassin restent stationnaires.",
+          "howToDo": "Placez les deux mains sur la cuisse distale d'un côté. Essayez de fléchir la hanche pendant que les mains offrent une résistance égale vers le bas afin qu'aucun mouvement visible ne se produise. Maintenez pendant 5 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenir le niveau du bassin, diriger la cuisse verticalement dans les deux mains et maintenir un effort sous-maximal constant tout en respirant normalement.",
+          "whatNotToDo": "Ne vous penchez pas vers l'arrière, faites pivoter le tronc, élevez les épaules, retenez le souffle ou laissez le mouvement de la hanche visible.",
+          "id": "lower-limb-008",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de hanche isométrique assise avec résistance manuelle",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion des jambes partiel supporté",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Placez-vous derrière une chaise stable et maintenez le dossier. Avec les pieds à peu près la largeur de la hanche, fléchissez les hanches et les genoux à travers une petite amplitude, puis étendez-les pour revenir debout. Répétez lentement.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-031",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion des jambes partiel supporté",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion alternante de la hanche assise avec le bras contralatéral",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion.",
+          "howToDo": "Asseyez-vous le dos droit sur la moitié avant d'une chaise. Soulevez légèrement votre genou droit tout en levant votre bras gauche vers l'avant en même temps. Abaissez-les lentement, puis levez votre genou gauche tout en levant votre bras droit. Alternez le mouvement pour 10 répétitions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-036",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion alternante de la hanche assise avec le bras contralatéral",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Touche d'orteil avant prise en charge",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion.",
+          "howToDo": "Déplacez votre pied droit vers l'avant et tapez légèrement sur le sol avec vos orteils. Ramenez le pied à la position de départ. Répétez 5 fois, puis changez les jambes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-041",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Touche d'orteil avant prise en charge",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Avancée soutenue fente",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Tenez-vous debout et maintenez un bâton verticalement avec une main pour le soutien. Faites un petit pas en avant avec votre pied droit. Plongez lentement les deux genoux un peu, abaissez votre corps seulement à travers la gamme confortable disponible. Poussez à travers le pied avant pour revenir à la position de départ. Répétez 5 fois, puis changez les jambes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-051",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Avancée soutenue fente",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexeur de hanche à demi-clin",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur l'extension.",
+          "howToDo": "Maintenez un tronc droit et traduisez le bassin vers l'avant jusqu'à ce qu'un léger étirement soit ressenti sur l'aspect antérieur de la hanche traînante.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-081",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexeur de hanche à demi-clin",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Fente Quadriceps étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au genou, en mettant l'accent sur la flexion.",
+          "howToDo": "Placez-vous dans une lunette et pliez le genou arrière si vous êtes à l'aise. Maintenez le pied arrière avec la main ou une sangle et tirez doucement le talon vers le glute.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-087",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Fente Quadriceps étirement",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexeur de hanche et Quadriceps étirement avec support mural",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur l'extension.",
+          "howToDo": "Placez un genou près d'un mur ou d'un canapé avec le tibia soutenu derrière vous. Amenez l'autre pied vers l'avant et soulevez le tronc droit comme toléré.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-092",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexeur de hanche et Quadriceps étirement avec support mural",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "En décubitus dorsal à pleine amplitude Droite-Légère",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée de la hanche.",
+          "howToDo": "Allongez les deux jambes droites et légèrement espacées. Serrez une cuisse, maintenez le genou allongé et soulevez la jambe vers le haut à travers une plage confortable. Pause brièvement, baissez lentement et répétez de l'autre côté.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-103",
+          "sezione": "Cuisse - Région antérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal à pleine amplitude Droite-Légère",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "thigh-anterior-region"
+    },
+    {
+      "nome": "Cuisse - Région postérieure",
+      "esercizi": [
+        {
+          "nome": "Flexion du genou debout supportée",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion.",
+          "howToDo": "Se tenir derrière une chaise stable et utiliser les deux mains pour le soutien. Flexer un genou pour déplacer le talon vers la région glutéale tout en maintenant un tronc droit et une position de hanche neutre. Maintenez pendant 2 secondes, baissez lentement et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-009",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion du genou debout supportée",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion isométrique du genou assise avec contact talon",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du genou, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous près de l'avant d'une chaise et placez un talon sur le sol légèrement antérieur au genou. Appuyez sur le talon vers le bas et essayez de le dessiner postérieurement sans permettre de mouvement. Maintenez la contraction isométrique pendant 5 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-010",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion isométrique du genou assise avec contact talon",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "En décubitus dorsal isométrique genou extension avec Bolster",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du genou, en mettant l'accent sur l'extension.",
+          "howToDo": "Allongez-vous en décubitus dorsal avec un support ou une balle molle sous un genou. Appuyez sur le genou postérieur vers le bas dans le support pour activer les quadriceps et prolonger le genou, ce qui permet au talon de s'élever légèrement. Maintenez pendant 4 secondes, puis répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-011",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal isométrique genou extension avec Bolster",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Glissement de talon de flexion assise et résistante",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion.",
+          "howToDo": "Asseyez-vous le dos droit avec un pied entièrement soutenu légèrement antérieur à la chaise. Appliquez une pression modérée vers le bas à travers le talon et glissez le pied vers l'arrière pour fléchir le genou. Revenez à la position de départ et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-012",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Glissement de talon de flexion assise et résistante",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Extension de la hanche isométrique assise dans le coussin",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la hanche, en mettant l'accent sur l'extension.",
+          "howToDo": "Placez un petit coussin doux ou une serviette pliée sous votre cuisse droite, près de l'arrière du genou. Appuyez sur votre cuisse vers le bas dans le coussin pendant 5 secondes, puis détendez-vous. Répétez 5 fois, puis coupez les jambes.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-042",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension de la hanche isométrique assise dans le coussin",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Mobilisation alternée de hamster unipodale",
+          "image": "",
+          "description": "Cet exercice de mobilité réciproque alterne le chargement des hamsters droit et gauche à l'intérieur d'une position d'avant supportée.",
+          "howToDo": "Supposons que les mains reposent sur les cuisses, les blocs ou le plancher. Flexer un genou tout en étendant le genou opposé, puis alterner les côtés dans une séquence continue lente.",
+          "whatToDo": "Transférer l'étirement en douceur d'une cuisse postérieure à l'autre, maintenir le bassin au centre et maintenir un support manuel stable.",
+          "whatNotToDo": "Ne pas étendre les deux genoux simultanément, rebondir à l'extrémité, faire pivoter le bassin, ou continuer en cas de symptômes de type neural.",
+          "id": "lower-limb-057",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Mobilisation alternée de hamster unipodale",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion et l'extension de la hanche droite supportée debout",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée et l'extension de la hanche.",
+          "howToDo": "Tenez-vous grand et maintenez un support si nécessaire. Faites pivoter une jambe droite en avant et en arrière à travers une plage confortable, en maintenant le tronc droit.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-058",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension de la hanche droite supportée debout",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Debout unilatéral-jambe ischio-jambiers étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Placer un talon devant avec le genou droit ou légèrement doux. Charnière des hanches et atteindre la poitrine vers l'avant jusqu'à ce que le dos de la cuisse s'étire.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-060",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Debout unilatéral-jambe ischio-jambiers étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Mobilisation dynamique de l'hameçonnage",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la flexion contrôlée et l'extension de la hanche.",
+          "howToDo": "Commencer par une position pulmonaire. Déplacer les hanches vers l'arrière, redresser le genou avant comme toléré, puis revenir à la position pulmonaire avec contrôle.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-061",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Mobilisation dynamique de l'hameçonnage",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Debout Forward flexion étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Se tenir avec les pieds la largeur de la hanche à l'écart. Charnière vers l'avant et laisser les mains atteindre vers les orteils, arrêt où un étirement confortable est ressenti.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-062",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Debout Forward flexion étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "En décubitus dorsal active genou extension Hamsring Mobilization",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au genou, en mettant l'accent sur l'extension.",
+          "howToDo": "Tenir la position de la hanche stable, prolonger le genou jusqu'à ce qu'un léger étirement postérieur à la cuisse soit ressenti, puis fléchir le genou pour revenir.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-063",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal active genou extension Hamsring Mobilization",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Habillage hanche-charnière à dos plat",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Placer une jambe vers l'avant ou sur un support bas. Conserver le dos à plat et la charnière des hanches jusqu'à ce que le dos de la cuisse s'étire.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-065",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Habillage hanche-charnière à dos plat",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Charnière de hanche de grande hauteur",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion et l'extension.",
+          "howToDo": "Agenouillez sur une surface rembourrée avec les hanches allongées. Déplacez le bassin vers l'arrière en hissant les hanches tout en maintenant une colonne vertébrale neutre, puis revenez à la position verticale.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-066",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Charnière de hanche de grande hauteur",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Exécution modifiée Hurdler ischio-jambiers étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous avec un genou allongé et la hanche et le genou opposés fléchissent confortablement sur le côté. Arrière des hanches vers le membre étendu jusqu'à ce qu'un léger étirement postérieur-vif soit ressenti.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-070",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Exécution modifiée Hurdler ischio-jambiers étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Mobilisation bilatérale simultanée de ischio-jambiers soutenue",
+          "image": "",
+          "description": "Cet exercice de mobilité symétrique charge et décharge les deux cordes simultanément dans une position d'avant soutenue.",
+          "howToDo": "Supposons une position soutenue en avant avec les mains reposant sur une surface stable. Pliez les deux genoux ensemble pour réduire la tension postérieure-haute, puis étendez les deux genoux simultanément jusqu'à ce qu'un léger étirement bilatéral soit perçu. Continuer à travers des répétitions lentes et contrôlées.",
+          "whatToDo": "Maintenir le poids du corps réparti uniformément entre les deux pieds, maintenir l'alignement symétrique du bassin et déplacer les deux genoux à la même vitesse.",
+          "whatNotToDo": "Ne pas alterner les côtés, verrouiller les genoux avec force, rebondir à l'extrémité, ou continuer en cas de symptômes de type neuronal.",
+          "id": "lower-limb-072",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Mobilisation bilatérale simultanée de ischio-jambiers soutenue",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "String long-sitting étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous avec les jambes étendues vers l'avant. Atteindre les mains vers les pieds tout en gardant l'étirement tolérable et respirer lentement.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-073",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "String long-sitting étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Des hamsters à demi-clin",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "De la position pulmonaire, déplacer les hanches vers l'arrière et redresser la jambe avant comme toléré. Maintenez l'étirement derrière la cuisse.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-082",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Des hamsters à demi-clin",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sièges Unilatéral ischio-jambiers étirement",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Asseyez-vous près de l'avant d'une chaise avec le dos loin du dossier. Gardez un genou courbé à 90 degrés avec le pied à plat. Prolongez la jambe opposée avec le talon sur le plancher et les orteils pointant vers le haut. Mencez la poitrine vers l'avant vers les genoux, puis retournez debout et changez les côtés.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-099",
+          "sezione": "Cuisse - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Sièges Unilatéral ischio-jambiers étirement",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "thigh-posterior-region"
+    },
+    {
+      "nome": "Hanche et genou - Mobilité fonctionnelle",
+      "esercizi": [
+        {
+          "nome": "Étape avancée soutenue",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée de la hanche.",
+          "howToDo": "Placez-vous derrière une chaise stable et maintenez le dossier. Soulevez un pied, avancez-le sur une ligne marquée ou une cible de plancher bas, et retournez-le à la position de départ. Répétez 5 fois, puis changez de côté.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-049",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Étape avancée soutenue",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Quadruped Rock-Back",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et le contrôle des mouvements de la hanche pendant la flexion.",
+          "howToDo": "Supposons une position quadruplée sur une surface rembourrée. Garder les mains sur le sol, déplacer lentement votre bassin vers l'arrière vers vos talons, seulement à travers la plage confortable disponible. Puis revenir lentement à la position de départ. Répéter 5 fois.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-055",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Quadruped Rock-Back",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Transfert de jambe à l'étape supérieure soutenu",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée de la hanche.",
+          "howToDo": "Tenez-vous à côté d'une marche basse ou d'une ligne imaginaire et tenez un support si nécessaire. Levez une jambe, passez-la au-dessus de la marche, puis ramenez-la avec le contrôle.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-056",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Transfert de jambe à l'étape supérieure soutenu",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion des jambes de poids corporel",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Tenez-vous avec les pieds autour de la largeur de la hanche à l'écart. Pliez les genoux et les hanches pour descendre dans un flexion des jambes confortable, puis tenez-vous grand à nouveau.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-074",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion des jambes de poids corporel",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Des pulsations dynamiques",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la hanche, en mettant l'accent sur l'extension et la flexion.",
+          "howToDo": "Abaissez doucement jusqu'à ce que l'avant de la hanche du dos s'étire, puis faites de petites impulsions contrôlées.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-076",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Des pulsations dynamiques",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion des jambes de division profonde",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Repliez les hanches et les genoux jusqu'à ce qu'ils descendent verticalement dans la plage de contrôle disponible, puis étendez les membres inférieurs pour revenir debout.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-083",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion des jambes de division profonde",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Flexion des jambes latéral alternant",
+          "image": "",
+          "description": "Cet exercice de mobilité active est destiné à améliorer l'abduction contrôlé et l'adduction de la hanche.",
+          "howToDo": "Se tenir les pieds larges. Déplacer le poids latéralement tout en fléchissant une hanche et un genou et en gardant le genou opposé étendu. Retourner à travers le centre et répéter sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-086",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion des jambes latéral alternant",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Prise en charge isométrique du flexion des jambes profond",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la hanche, en mettant l'accent sur la flexion.",
+          "howToDo": "Tenez-vous près d'un support stable. Flexez les hanches et les genoux pour descendre dans un flexion des jambes profond à travers la gamme disponible. Maintenez la position avec une respiration régulière et utilisez le support de la tige supérieure au besoin.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-090",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Prise en charge isométrique du flexion des jambes profond",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Prise d'orteil simple à trois directions",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée, l'abduction et l'extension de la hanche.",
+          "howToDo": "Tenez-vous sur une jambe avec un support stable à proximité. Avec les orteils du pied libre, tapez sur le plancher devant, retournez au centre, touchez sur le côté, retournez, puis touchez derrière et retournez. Changez les jambes après avoir terminé la séquence.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-096",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Prise d'orteil simple à trois directions",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Diapositive de sol à trois directions",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée, l'abduction et l'extension de la hanche.",
+          "howToDo": "Maintenez l'autre pied légèrement toucher le sol et glissez-le vers l'avant, vers le centre, vers le côté, vers le centre et vers l'arrière avant de revenir. Répétez sur la jambe opposée.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-097",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Diapositive de sol à trois directions",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Étape de trois directions en une seule ligne",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion contrôlée, l'abduction et l'extension de la hanche.",
+          "howToDo": "Tenez-vous sur un membre inférieur avec un support stable disponible. Soulevez le pied opposé hors du sol et placez-le légèrement devant, latéralement, et vers l'arrière, retournant au centre après chaque direction. Répétez sur le côté opposé.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-098",
+          "sezione": "Hanche et genou - Mobilité fonctionnelle",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Étape de trois directions en une seule ligne",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "obstacle-clearance"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "hip-knee-functional-mobility"
+    },
+    {
+      "nome": "Knee - Mobility",
+      "esercizi": [
+        {
+          "nome": "En décubitus dorsal Talon glissement pour flexion de genou et extension",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Allongez-vous sur une surface ferme et confortable avec vos jambes prolongées. Faites glisser lentement votre talon droit le long du matelas, l'amenant vers votre région glutéale de sorte que vous pliez votre genou à travers la gamme confortable disponible. Faites ensuite glisser votre talon vers l'avant pour revenir à la position de départ. Répétez 5 fois pour chaque jambe.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-014",
+          "sezione": "Knee - Mobility",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus dorsal Talon glissement pour flexion de genou et extension",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "En décubitus ventral active genou flexion",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion.",
+          "howToDo": "Allongez-vous sur une surface ferme et confortable. Flexez un genou pour déplacer le talon vers la région du gluteal à travers la plage confortable disponible. Maintenez pendant 3 secondes, baissez lentement et répétez sur le côté opposé. Placez un coussin bas sous l'abdomen si nécessaire pour le confort.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-015",
+          "sezione": "Knee - Mobility",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "En décubitus ventral active genou flexion",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion et l'extension du genou pendulaire assis",
+          "image": "",
+          "description": "Cet exercice a pour but d'améliorer l'amplitude active du mouvement et le contrôle du mouvement du genou pendant la flexion et l'extension.",
+          "howToDo": "Asseyez-vous sur une chaise suffisamment haute pour que les jambes inférieures puissent se déplacer librement. Laissez un genou fléchir et prolonger à travers une petite plage de pendules pendant 10 secondes, puis répétez avec la jambe opposée.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-016",
+          "sezione": "Knee - Mobility",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion et l'extension du genou pendulaire assis",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circonduction du genou assis",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée du genou.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise avec les pieds reposant sur le sol. Soulevez légèrement le pied droit du sol et dessinez de petits cercles dans l'air avec le genou. Faites 5 cercles lents dans une direction, puis 5 dans la direction opposée. Placez le pied vers le bas et répétez avec la jambe gauche.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-034",
+          "sezione": "Knee - Mobility",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Circonduction du genou assis",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-mobility"
+    },
+    {
+      "nome": "Knee - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Extension du genou à arc court",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé au genou, en mettant l'accent sur l'extension.",
+          "howToDo": "Asseyez-vous sur le lit ou sur un canapé confortable avec vos jambes tendues devant vous. Placez une serviette roulée ou un petit coussin sous votre cuisse droite, juste au-dessus du genou. Poussez l'arrière de votre cuisse vers le bas contre le coussin et, en même temps, redressez votre genou en soulevant votre talon du lit. Maintenez votre jambe droite pendant 4 secondes, puis abaissez lentement vers le bas.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-013",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension du genou à arc court",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Extension du genou actif assis avec le soutien du talon",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement du genou pendant l'extension.",
+          "howToDo": "Placez votre talon droit légèrement devant vous, les orteils pointant vers le haut. Redressez lentement le genou aussi bien que confortablement, serrez doucement l'avant de votre cuisse. Maintenez 3 secondes, puis détendez-vous. Répétez 5 fois et changez les jambes.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-043",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Extension du genou actif assis avec le soutien du talon",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-anterior-region"
+    },
+    {
+      "nome": "Jambe - Région postérieure",
+      "esercizi": [
+        {
+          "nome": "Élévation du talon debout soutenue",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la cheville pendant la flexion plantaire.",
+          "howToDo": "Tenez-vous derrière le dossier d'une chaise robuste, ou devant une table, et placez les deux mains dessus pour la sécurité. Gardez votre corps droit, levez lentement vos talons du sol, levez-vous sur vos orteils. Restez debout pendant 2 secondes, puis descendez lentement vers le bas, en plaçant toute la semelle de votre pied sur le sol. Répétez 10 fois.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-017",
+          "sezione": "Jambe - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Élévation du talon debout soutenue",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Debout Gastrocnemius étirement au mur",
+          "image": "",
+          "description": "Cet exercice de mobilité fournit un étirement contrôlé à la cheville, en mettant l'accent sur la dorsiflexion.",
+          "howToDo": "Tenez-vous face à un mur et placez les deux mains dessus à la hauteur de la poitrine. Marchez légèrement le pied droit en arrière, en maintenant le talon sur le sol et le genou droit. Pliez un peu le genou avant jusqu'à ce que vous sentiez une douce étirement dans le mollet arrière. Maintenez pendant 5 secondes, puis changez les jambes.",
+          "whatToDo": "Maintenez un alignement stable et progressez graduellement jusqu'à ressentir un étirement léger et tolérable, en respirant normalement.",
+          "whatNotToDo": "N'effectuez pas de mouvements saccadés, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-035",
+          "sezione": "Jambe - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Debout Gastrocnemius étirement au mur",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion de plantar isométrique assise",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la cheville, en mettant l'accent sur la flexion plantaire.",
+          "howToDo": "Maintenez le pied avant d'un côté dans le plancher pour générer une tension de flexeur plantaire sans soulever le talon. Maintenez pendant 5 secondes, détendez-vous et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-044",
+          "sezione": "Jambe - Région postérieure",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion de plantar isométrique assise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "lower-leg-posterior-region"
+    },
+    {
+      "nome": "Cheville",
+      "esercizi": [
+        {
+          "nome": "Assis active Ankle Dorsiflexion",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la cheville pendant la dorsiflexion.",
+          "howToDo": "Maintenez les deux talons en contact avec le sol et dorsiflex les chevilles pour élever la jambe avant. Maintenez 3 secondes, puis baissez lentement. Répétez pendant 10 répétitions.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-018",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Assis active Ankle Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion plantaire de cheville assise et Dorsiflexion",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la cheville pendant la flexion plantaire et la dorsiflexion.",
+          "howToDo": "Asseyez-vous le dos droit et soulevez légèrement un pied du sol. Déplacez la cheville dans la flexion plantaire, puis la dorsiflexion dans la gamme confortable disponible. Répétez pendant 10 cycles, puis changez de côté.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-019",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion plantaire de cheville assise et Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Éversion de la cheville isométrique assise",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la cheville, en mettant l'accent sur l'évitement.",
+          "howToDo": "Asseyez-vous le dos droit avec les bordures latérales des deux pieds contre les surfaces intérieures des jambes stables de la chaise. Appliquez la pression extérieure à travers les pieds sans laisser de mouvement.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-020",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Éversion de la cheville isométrique assise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Gamme de mouvement de la cheville multidirectionnelle assise",
+          "image": "",
+          "description": "Cet exercice de mobilité active vise à améliorer la circonduction contrôlée de la cheville.",
+          "howToDo": "Placez-vous debout et élevez légèrement un pied du sol. Déplacez la cheville dans plusieurs directions pour tracer les nombres 1 à 5 avec le grand orteil. Abaissez le pied et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-021",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Gamme de mouvement de la cheville multidirectionnelle assise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Inversion de cheville isométrique assise",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire de la cheville, en mettant l'accent sur l'inversion.",
+          "howToDo": "Asseyez-vous près de l'avant d'une chaise avec les genoux légèrement écartés et les bordures médiales des pieds en contact. Appuyez ensemble les pieds sans mouvement visible. Maintenez pendant 5 secondes, puis détendez-vous.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-022",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Inversion de cheville isométrique assise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Éversion active de la cheville assise",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la amplitude active du mouvement et le contrôle du mouvement de la cheville pendant l'évitement.",
+          "howToDo": "Maintenez un talon en contact avec le sol et étreignez la cheville en soulevant la bordure latérale du pied. Maintenez pendant 3 secondes, abaissez lentement et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-023",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Éversion active de la cheville assise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flexion plantaire assise et la roche Dorsiflexion",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la cheville pendant la flexion plantaire et la dorsiflexion.",
+          "howToDo": "Asseyez-vous sur la partie avant d'une chaise, avec le dos loin du dossier. Levez lentement vos talons, levez-vous sur les orteils. Baissez-les lentement vers le bas et, sans s'arrêter, soulevez vos orteils, en se déplaçant sur vos talons. Continuez ce mouvement de bascule lent et contrôlé 5 fois.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-024",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion plantaire assise et la roche Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Déplacement d'antérior debout et de poids postérieur soutenu",
+          "image": "",
+          "description": "Cet exercice remet en question le contrôle postural et la stabilité des membres inférieurs pendant la flexion plantaire contrôlée et la dorsiflexion de la cheville.",
+          "howToDo": "Placez-vous derrière une chaise robuste et maintenez-vous avec les deux mains. Déplacez lentement votre poids vers l'avant sur vos orteils, levant légèrement vos talons du sol. Puis déplacez lentement votre poids vers l'arrière sur vos talons, levant légèrement la partie avant de vos pieds. Continuez ce mouvement de basculement doux pour 5 répétitions.",
+          "whatToDo": "Utilisez un appui stable si nécessaire. Maintenez un alignement neutre des membres inférieurs et réalisez chaque mouvement lentement et de manière contrôlée.",
+          "whatNotToDo": "Ne poursuivez pas sans appui stable si l'équilibre est incertain. Évitez les transferts de poids rapides et toute perte d'alignement des membres inférieurs.",
+          "id": "lower-limb-032",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Déplacement d'antérior debout et de poids postérieur soutenu",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Inversion active de la cheville assise",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement de la cheville pendant l'inversion.",
+          "howToDo": "Tenez un talon en contact avec le sol et inversez la cheville en soulevant la bordure médiane du pied. Maintenez pendant 2 secondes, baissez lentement et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement neutre et réalisez chaque phase lentement, dans une amplitude de mouvement confortable, en respirant normalement.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-045",
+          "sezione": "Cheville",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Inversion active de la cheville assise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "ankle"
+    },
+    {
+      "nome": "Foot",
+      "esercizi": [
+        {
+          "nome": "Flexion d'orteil assis avec serviette",
+          "image": "",
+          "description": "Cet exercice est destiné à améliorer la plage active de mouvement et de contrôle de mouvement du pied et des orteils pendant la flexion des orteils.",
+          "howToDo": "Asseyez-vous le dos droit sur une chaise. Répartir un mouchoir en tissu, ou un morceau de papier de cuisine, sur le sol devant ton pied droit. Placer ton pied nu, ou ton pied avec une chaussette, sur le mouchoir. N'utiliser que tes orteils, scruter et tirer le chiffon vers ton talon. Répéter 3 fois, puis basculer les pieds.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-025",
+          "sezione": "Foot",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion d'orteil assis avec serviette",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Abduction d'orteils assis",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du pied et des orteils lors de l'abduction des orteils.",
+          "howToDo": "Tenez les têtes métatarsales en contact avec le sol et enlevez les orteils d'un pied. Maintenez pendant 3 secondes, détendez-vous et répétez sur le côté opposé.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-026",
+          "sezione": "Foot",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Abduction d'orteils assis",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Mobilisation de tissus doux Plantar assis avec balle",
+          "image": "",
+          "description": "Cet exercice d'automobilisation exerce une pression contrôlée sur le pied et les orteils pour soutenir la mobilité locale des tissus mous et la sensibilisation sensorielle.",
+          "howToDo": "Placez une balle de tennis, ou une balle en caoutchouc dur, sous la semelle de votre pied droit. Faites glisser votre pied vers l'avant et vers l'arrière sur la balle, en appliquant une pression douce, du talon aux orteils. Continuez ce massage lent pendant 15 secondes, puis passez au pied gauche.",
+          "whatToDo": "Appliquer la lumière à une pression modérée et se déplacer lentement sur les tissus mous plantaires tout en gardant le pied et la cheville détendus.",
+          "whatNotToDo": "N'appliquez pas de pression sur les engourdissements osseux ou continuez en cas d'engourdissement, de picotements ou de douleurs aiguës.",
+          "id": "lower-limb-027",
+          "sezione": "Foot",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Mobilisation de tissus doux Plantar assis avec balle",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "mobility",
+            "soft-tissue-mobilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Dissociation des grands pieds et des petits pieds assis",
+          "image": "",
+          "description": "Cet exercice vise à améliorer la amplitude active du mouvement et le contrôle du mouvement du pied et des orteils pendant l'extension des orteils.",
+          "howToDo": "Asseyez-vous le dos droit avec les deux pieds soutenus. Élevez le grand orteil d'un pied tout en gardant le petit orteil en contact avec le sol. Inversez le motif en appuyant sur le grand orteil vers le bas et en soulevant les orteils inférieurs. Alternez lentement, puis répétez sur le côté opposé.",
+          "whatToDo": "Stabilisez le segment proximal, isolez le mouvement recherché et réalisez chaque répétition lentement en limitant les compensations.",
+          "whatNotToDo": "N'utilisez pas l'élan, ne forcez pas la fin d'amplitude et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-028",
+          "sezione": "Foot",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Dissociation des grands pieds et des petits pieds assis",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-extension",
+            "selective-control"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flexion isométrique des pieds assis",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du pied et des orteils, en mettant l'accent sur la flexion des orteils.",
+          "howToDo": "Mettez les orteils d'un pied doucement dans le sol tout en minimisant le curling excessif des orteils. Maintenez pendant 5 secondes, détendez-vous et répétez sur le côté opposé.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-046",
+          "sezione": "Foot",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion isométrique des pieds assis",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flexion isométrique de grand orteil assise",
+          "image": "",
+          "description": "Cet exercice utilise une contraction isométrique submaximale pour développer le contrôle neuromusculaire du pied et des orteils, en mettant l'accent sur la flexion des orteils.",
+          "howToDo": "Asseyez-vous avec les pieds à plat sur le sol. Maintenez le pied droit immobile et appuyez seulement sur le gros orteil vers le bas dans le sol. Maintenez la pression pendant 3 secondes, puis détendez-vous. Répétez 5 fois, puis changez de pieds.",
+          "whatToDo": "Maintenez un alignement articulaire neutre, exercez une contraction sous-maximale constante et continuez à respirer pendant toute la durée du maintien.",
+          "whatNotToDo": "Ne retenez pas votre respiration, n'exercez pas une force maximale et interrompez l'exercice en cas de douleur aiguë ou progressivement croissante.",
+          "id": "lower-limb-047",
+          "sezione": "Foot",
+          "distretto": "Membre inférieur",
+          "thumbnail": "",
+          "imageAlt": "Flexion isométrique de grand orteil assise",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "foot"
+    }
+  ],
+  "id": "lower-limb"
+}

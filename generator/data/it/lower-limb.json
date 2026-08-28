@@ -1,0 +1,2011 @@
+{
+  "distretto": "Arto inferiore",
+  "sezioni": [
+    {
+      "nome": "Bacino - Mobilità ed equilibrio",
+      "esercizi": [
+        {
+          "nome": "Rotazione del tronco inferiore in posizione supina",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la rotazione.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse e i piedi sostenuti. Tenere le spalle a contatto con la superficie e abbassare le ginocchia lentamente su un lato. Ritornare a posizione neutra e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-002",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione del tronco inferiore in posizione supina",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circonduzione pelvica assistita in stazione eretta",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del bacino e della regione lombo-pelvica.",
+          "howToDo": "Stare dietro una sedia stabile e tenere lo schienale. Tenere entrambi i piedi a contatto con il pavimento e spostare il bacino attraverso piccoli cerchi controllati. Completare 5 ripetizioni in ogni direzione.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-033",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione pelvica assistita in stazione eretta",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Spostamento laterale assistito del peso",
+          "image": "",
+          "description": "Questo esercizio mette a dura prova il controllo posturale e la stabilità inferiore durante lo spostamento laterale controllato del peso del bacino e della regione lombo-pelvica.",
+          "howToDo": "Posizionarsi dietro una sedia robusta e tieniti forte con entrambe le mani. Mantenere i piedi leggermente separati. Sposta lentamente il peso sul piede destro senza sollevare il piede sinistro dal pavimento. Torna al centro, poi sposta il peso sul piede sinistro. Ripetere 10 volte.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-040",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Spostamento laterale assistito del peso",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Circonduzione monopodalica dell'anca in stazione eretta",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la circonduzione controllata dell'anca.",
+          "howToDo": "Stare in alto e tenere un supporto se necessario. Disegnare cerchi lenti con un'anca in una direzione, poi l'altra, e ripetere su entrambi i lati.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-075",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione monopodalica dell'anca in stazione eretta",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Allungamento modificato in rotazione esterna dell'anca",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con particolare attenzione alla rotazione esterna e alla flessione.",
+          "howToDo": "Posizionare un'anca in flessione e rotazione esterna con il ginocchio flesso davanti al tronco, ed estendere l'arto inferiore opposto posteriore. Inclinare il tronco in avanti fino a quando si sente un leggero tratto posteriore-anca.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-077",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Allungamento modificato in rotazione esterna dell'anca",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione dell'anca in posizione In posizione seduta 90/90",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare l'estensione controllata e la rotazione esterna dell'anca.",
+          "howToDo": "Si sieda in posizione 900/90. Mantenere il tronco alto e delicatamente allungare o sollevare dall'anca posteriore fino a quando il controllo lo permette.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-080",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione dell'anca in posizione In posizione seduta 90/90",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Transizione di rotazione dell'anca in posizione In posizione seduta 90/90",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare la rotazione interna controllata e la rotazione esterna dell'anca.",
+          "howToDo": "Siediti con entrambe le ginocchia piegate in una posizione di 90/90. Ruota le gambe per cambiare lentamente i lati, utilizzando le mani per il supporto se necessario.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-085",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Transizione di rotazione dell'anca in posizione In posizione seduta 90/90",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Allungamento dell'anca a figura quattro in posizione supina",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con particolare attenzione alla rotazione esterna e alla flessione.",
+          "howToDo": "Sdraiarsi in posizione supina o siediti alto. Attraversa una caviglia sulla coscia opposta e porta delicatamente le gambe più vicine fino a quando l'anca esterna si allunga.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-089",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Allungamento dell'anca a figura quattro in posizione supina",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Tenuta isometrica della rotazione dell'anca in posizione In posizione seduta 90/90",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare dell'anca, con enfasi sulla rotazione interna e la rotazione esterna.",
+          "howToDo": "Siediti in una posizione dell'anca 90/90 con entrambe le ginocchia flesse. Mantenere un tronco eretto ed applicare una leggera pressione verso il basso attraverso entrambi gli arti inferiori senza movimento visibile. Tenere durante la respirazione normalmente.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-091",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Tenuta isometrica della rotazione dell'anca in posizione In posizione seduta 90/90",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Apertura dell'anca in rotazione esterna in stazione eretta",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la flessione controllata, il abduzione e la rotazione esterna dell'anca.",
+          "howToDo": "Stare in posizione verticale e utilizzare un supporto stabile come richiesto. Flettere un'anca e un ginocchio, quindi spostare il ginocchio lateralmente e posteriore attraverso il abduzione dell'anca e la rotazione esterna. Riportare il piede al pavimento e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-093",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Apertura dell'anca in rotazione esterna in stazione eretta",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Apertura dell'anca in rotazione interna in stazione eretta",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare il abduzione controllato, l'adduzione e la rotazione interna dell'anca.",
+          "howToDo": "Stare in alto e tenere un supporto stabile se necessario. Sollevare un ginocchio verso il lato, guidarlo in avanti in un percorso circolare, quindi abbassare il piede. Ripetere sull'altro lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-094",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Apertura dell'anca in rotazione interna in stazione eretta",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "internal-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Circonduzione dell'anca in piedi con il ginocchio flesso",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la circonduzione controllata dell'anca.",
+          "howToDo": "Stare in alto su una gamba e tenere un supporto stabile se necessario. Sollevare il ginocchio opposto ad una comoda altezza e disegnare piccoli cerchi orizzontali con esso, prima in una direzione e poi l'altra. Ripetere sul lato opposto.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-095",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione dell'anca in piedi con il ginocchio flesso",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rotazione interna ed esterna dell'anca in piedi con il ginocchio flesso",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la rotazione interna controllata e la rotazione esterna dell'anca.",
+          "howToDo": "Stare in alto e tenere un supporto stabile se necessario. Piegare un ginocchio in modo che il tallone si alza dietro di voi e il ginocchio rimane vicino all'altra coscia. Da questa posizione, spostare delicatamente il piede verso l'interno ed verso l'esterno per ruotare l'anca internamente ed esternamente. Ripetere sull'altro lato.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-100",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Rotazione interna ed esterna dell'anca in piedi con il ginocchio flesso",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione supina bilaterale anca rotazione interna ed esterna",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare la rotazione interna controllata e la rotazione esterna dell'anca.",
+          "howToDo": "Sdraiarsi in posizione supina con entrambe le gambe dritte e leggermente separate. Tenere le caviglie dorsiflexed, poi rotolare le gambe verso l'interno e verso l'esterno dai fianchi in modo che i piedi si muovono come tergicristalli parabrezza.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-102",
+          "sezione": "Bacino - Mobilità ed equilibrio",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina bilaterale anca rotazione interna ed esterna",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-balance"
+    },
+    {
+      "nome": "Bacino - Regione laterale",
+      "esercizi": [
+        {
+          "nome": "Un'escursione pelvico alternativa",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante l'elevazione pelvica controllata del bacino e della regione lombo-pelvica.",
+          "howToDo": "Siediti in posizione verticale lontano dallo schienale con entrambi i piedi supportati. Sollevare un lato del bacino leggermente dal In posizione seduta mantenendo il controllo del tronco. Tenere per 2 secondi, tornare ai lati neutri, e alternare per 10 ripetizioni.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-001",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Un'escursione pelvico alternativa",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "pelvic-hike",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Abduzione anca in piedi assistito",
+          "image": "",
+          "description": "Questo esercizio è volto a migliorare la ampiezza articolare attiva e controllo del movimento dell'anca durante il abduzione.",
+          "howToDo": "Stare accanto a un supporto stabile e tenerlo con una mano. Tenere il tronco in posizione verticale e il ginocchio esteso, rapire l'anca opposta spostando la gamba lateralmente. Pausa brevemente, tornare a posizione neutra, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-003",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Abduzione anca in piedi assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Passo laterale assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante il abduzione e l'adduzione.",
+          "howToDo": "Mettetevi dietro una robusta sedia o accanto a un tavolo e tenetelo con entrambe le mani per sicurezza. A partire dai piedi insieme, fate un piccolo passo a destra con il piede destro, quindi avvicinatevi al piede sinistro. Ripetete lo stesso movimento a sinistra. Spostatevi lentamente e mantenete il corpo in posizione verticale. Ripetete 5 volte su ogni lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-029",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Passo laterale assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Passo di incrociato assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante l'adduzione e il abduzione.",
+          "howToDo": "Stai dietro una robusta sedia e Mantenere lo schienale con entrambe le mani. Attraversa lentamente il piede destro davanti al piede sinistro, posizionandolo delicatamente sul pavimento. Torna alla posizione di partenza, poi incrocia il piede sinistro davanti al piede destro. Alterna lentamente il movimento per 5 ripetizioni su ogni lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-030",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Passo di incrociato assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "adduction",
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Da seduto anca abduzione tocco della punta del piede",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante il abduzione e l'adduzione.",
+          "howToDo": "Siediti su una sedia con i piedi appoggiati sul pavimento. Fai scivolare il piede destro verso il lato, tenendo le dita a contatto con il pavimento, poi riportalo al centro. Ripetere 5 volte, poi Ripetere con il piede sinistro.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-038",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Da seduto anca abduzione tocco della punta del piede",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sottrazione laterale dell'anca",
+          "image": "",
+          "description": "Questo esercizio è volto a migliorare la ampiezza articolare attiva e controllo del movimento dell'anca durante il abduzione.",
+          "howToDo": "Sdraiati sul tuo fianco su un tappetino, con la gamba inferiore leggermente piegata per il comfort e la gamba superiore dritta. Solleva lentamente la gamba superiore di qualche centimetro, mantenendo le dita in avanti. Mantenere premuto per 2 secondi, poi abbassa lentamente la gamba. Ripetere 5 volte, poi gira sull'altro lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-054",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Sottrazione laterale dell'anca",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In posizione seduta a gambe divaricate anca flessione allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sul abduzione e la flessione.",
+          "howToDo": "Sedersi con entrambi gli arti inferiori rapiti e le ginocchia estese. Mantenere allungamento spinale assiale e flettere in avanti dai fianchi fino a quando un lieve tratto è sentito lungo le cosce mediali e posteriori.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-067",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta a gambe divaricate anca flessione allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In piedi incrociato anca adduzione e abduzione altalena",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare il abduzione controllato e l'adduzione dell'anca.",
+          "howToDo": "Stare in alto e tenere un supporto. Altalena una gamba dritta delicatamente attraverso il corpo e poi fuori verso il lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-068",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi incrociato anca adduzione e abduzione altalena",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Blocco isometrico della flessione dell'anca ad ampio raggio in piedi",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare dell'anca, con enfasi sul abduzione e la flessione.",
+          "howToDo": "Stare con i piedi larghi e le ginocchia delicatamente estese. Fissare in avanti ai fianchi mantenendo una spina neutra. Utilizzare il supporto della mano come richiesto e mantenere la posizione durante la respirazione normalmente.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-069",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Blocco isometrico della flessione dell'anca ad ampio raggio in piedi",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi a gambe divaricate spostamento peso laterale",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante il abduzione controllato, l'adduzione e lo spostamento laterale del peso dell'anca.",
+          "howToDo": "Stare con i piedi larghi e cerniera in avanti leggermente ai fianchi. Spostare il bacino e il peso del corpo verso un lato facendo flettere quel ginocchio, tornare attraverso posizione neutra, e ripetere sul lato opposto.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-071",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi a gambe divaricate spostamento peso laterale",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "lateral-shift"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sottrazione dell'anca In posizione seduta e la rotazione esterna allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sul abduzione e rotazione esterna.",
+          "howToDo": "Siediti con le suole dei piedi insieme e le ginocchia che si aprono verso l'esterno. Siediti alto e fai abbassare le ginocchia solo attraverso la ampiezza di movimento confortevole disponibile.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-078",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Sottrazione dell'anca In posizione seduta e la rotazione esterna allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In piedi a gambe divaricate anca flessione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare il abduzione controllato e la flessione dell'anca.",
+          "howToDo": "Stare con i piedi larghi e le ginocchia delicatamente estese. Flessibile in avanti dai fianchi mantenendo una spina neutra, quindi estendere i fianchi per tornare in piedi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-079",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi a gambe divaricate anca flessione",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina bilaterale abduzione dell'anca e rotazione esterna",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare il abduzione controllato, l'adduzione e la rotazione esterna dell'anca.",
+          "howToDo": "Sdraiarsi in posizione supina con le ginocchia flesse e i piedi insieme. Lascia che entrambe le ginocchia si muova lateralmente nel abduzione dell'anca e nella rotazione esterna, quindi restituiscile neutre con il controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-101",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina bilaterale abduzione dell'anca e rotazione esterna",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione supina bilaterale a gamba tesa anca abduzione e adduzione",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare il abduzione controllato e l'adduzione dell'anca.",
+          "howToDo": "Sdraiarsi in posizione supina con entrambe le ginocchia estese e le caviglie dorsiflexed. Scivolare entrambi gli arti inferiori lateralmente nel abduzione dell'anca, quindi riportarli verso la linea mediana sotto controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-104",
+          "sezione": "Bacino - Regione laterale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina bilaterale a gamba tesa anca abduzione e adduzione",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-lateral-region"
+    },
+    {
+      "nome": "Bacino - Regione posteriore",
+      "esercizi": [
+        {
+          "nome": "Estensione dell'anca in piedi assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante l'estensione.",
+          "howToDo": "Stare di fronte a un supporto stabile e tenerlo con entrambe le mani. Tenere il tronco in posizione verticale e il ginocchio esteso, spostare una gamba posteriore nell'estensione dell'anca. Tenere per 3 secondi, tornare a posizione neutra, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-004",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione dell'anca in piedi assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Backward tocco della punta del piede assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante l'estensione.",
+          "howToDo": "Spostare il piede destro leggermente all'indietro e toccare il pavimento con le dita dei piedi, senza spostare troppo peso su quella gamba. Tornare alla posizione di partenza e ripetere 5 volte. Poi passare alla gamba sinistra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-037",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Backward tocco della punta del piede assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Passo indietro assistito",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante l'estensione controllata dell'anca.",
+          "howToDo": "Stare accanto a un tavolo stabile o banco da cucina e tenere una mano su di esso per il supporto. Prendere un piccolo passo indietro con il piede destro, quindi portare il piede sinistro vicino ad esso. Continuare per 3 piccoli passi, poi tornare in avanti con attenzione. Ripetere 3 volte.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-048",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Passo indietro assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Affondo inversa assistita",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante l'estensione e la flessione.",
+          "howToDo": "Stare in piedi e tenere un bastone verticalmente con una mano per il supporto. Fate un piccolo passo indietro con il piede destro, posizionando le dita delicatamente sul pavimento. Leggermente piegare entrambe le ginocchia, quindi spingere attraverso la gamba anteriore per tornare alla posizione di partenza. Ripetere 5 volte, quindi cambiare le gambe.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-052",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Affondo inversa assistita",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In quadrupedia anca estensione con ginocchio esteso",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante l'estensione.",
+          "howToDo": "Assumere una posizione in quadrupedia su una superficie imbottita. Lentamente estendere la gamba destra all'indietro, scorrere prima lungo il pavimento e poi sollevare leggermente, mantenendo il ginocchio diritto. Tenere per 2 secondi, quindi tornare alla posizione di partenza. Ripetere 5 volte, poi cambiare le gambe.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-053",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia anca estensione con ginocchio esteso",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Rumeno stacco da terra",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la flessione e l'estensione.",
+          "howToDo": "Spingere i fianchi all'indietro con una lunga colonna vertebrale, sentire la tensione nella parte posteriore delle cosce, quindi tornare in piedi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-059",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Rumeno stacco da terra",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Singolo gamba rumeno stacco da terra",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata e l'estensione dell'anca.",
+          "howToDo": "Mettere su una gamba con il ginocchio leggermente morbido. Cerniera dall'anca mentre la gamba libera raggiunge indietro, quindi tornare in piedi.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-064",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Singolo gamba rumeno stacco da terra",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Modificato anca rotazione esterna cerniera",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento dell'anca durante la flessione e la rotazione esterna.",
+          "howToDo": "Posizionare l'anca di piombo in flessione e rotazione esterna con il ginocchio flesso e l'arto opposto esteso posteriore. Mantenere una spina neutra e cerniera il tronco in avanti leggermente, quindi tornare in posizione verticale.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-084",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Modificato anca rotazione esterna cerniera",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "external-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estensione in quadrupedia dell'anca con il ginocchio flesso",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante l'estensione controllata dell'anca.",
+          "howToDo": "Presumere una posizione in quadrupedia. Mantenere un ginocchio flesso a circa 90 gradi, estendere l'anca dirigendo la superficie plantare del piede verso l'alto. Abbassare l'arto con il controllo e ripetere sul lato opposto.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-088",
+          "sezione": "Bacino - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione in quadrupedia dell'anca con il ginocchio flesso",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "pelvis-posterior-region"
+    },
+    {
+      "nome": "Coscia - Regione anteriore",
+      "esercizi": [
+        {
+          "nome": "Estensione del ginocchio attivo In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante l'estensione.",
+          "howToDo": "Siediti in piedi su una sedia con la schiena ben sostenuta contro lo schienale. Mantenere le mani sui lati del In posizione seduta. Solleva lentamente il piede destro e allunga la gamba in avanti fino a quando non è parallela al pavimento. Stringi bene il muscolo della coscia e tira le dita dei piedi verso di te. Mantenere premuto per 3 secondi, poi abbassa lentamente il piede indietro. Ripetere con la gamba sinistra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-005",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del ginocchio attivo In posizione seduta",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione supina Short-Range a gamba tesa sollevamento",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la flessione.",
+          "howToDo": "Piegare il ginocchio sinistro, posizionando il piede sul materasso; questo aiuta a proteggere la schiena. Tenere la gamba destra completamente estesa sul letto. Stringere il muscolo della coscia destra e sollevare la gamba dritta solo leggermente, circa l'altezza di una mano. Tenere la gamba in alto per 3 secondi, quindi abbassarla lentamente verso il basso. Ripetere 5 volte su ogni lato.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-006",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Short-Range a gamba tesa sollevamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Passaggio seduto-in piedi parziale",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Siediti vicino alla parte anteriore di una sedia stabile con entrambi i piedi completamente supportati e leggermente divaricati. Inclinare il tronco in avanti, estendere i fianchi e le ginocchia, ed elevare il bacino di circa 2 a 3 cm dal In posizione seduta. Tenere per 2 secondi, poi abbassare con il controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-007",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Passaggio seduto-in piedi parziale",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flessione isometrica dell'anca In posizione seduta con resistenza manuale",
+          "image": "",
+          "description": "Questo esercizio isometrico isolato sviluppa l'attivazione del flexor dell'anca mentre il tronco e il bacino rimangono fermi.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi supportati. Posiziona entrambe le mani sulla coscia distale di un lato. Tenta di flettere l'anca mentre le mani forniscono uguale resistenza verso il basso in modo che non si verifichi alcun movimento visibile. Tenere premuto per 5 secondi, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere il livello del bacino, dirigere la coscia verticalmente in entrambe le mani, e mantenere uno sforzo sottomassimale costante durante la respirazione normale.",
+          "whatNotToDo": "Non piegarsi all'indietro, ruotare il tronco, alzare le spalle, trattenere il respiro, o consentire il movimento dell'anca visibile.",
+          "id": "lower-limb-008",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione isometrica dell'anca In posizione seduta con resistenza manuale",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Accosciata parziale assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Stare dietro una sedia stabile e tenere lo schienale. Con i piedi di circa la larghezza dell'anca, flettere i fianchi e le ginocchia attraverso una piccola gamma, quindi estenderli per tornare in piedi. Ripetere lentamente.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-031",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Accosciata parziale assistito",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione seduta Alternativa anca flessione con braccio Contralaterale Alza",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la flessione.",
+          "howToDo": "Siediti in piedi sulla metà anteriore di una sedia. Solleva leggermente il ginocchio destro alzando il braccio sinistro in avanti allo stesso tempo. Abbassalo lentamente, poi solleva il ginocchio sinistro alzando il braccio destro. Alterna il movimento per 10 ripetizioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-036",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta Alternativa anca flessione con braccio Contralaterale Alza",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Toe toe in avanti assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la flessione.",
+          "howToDo": "Mettiti dietro una robusta sedia e tieniti forte con entrambe le mani. Sposta in avanti il piede destro e tocca leggermente il pavimento con le dita dei piedi. Riporta il piede nella posizione di partenza. Ripetere 5 volte, poi cambia le gambe.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-041",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Toe toe in avanti assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Affondo Forward assistita",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Stare in piedi e tenere un bastone in verticale con una mano per il supporto. Fate un piccolo passo in avanti con il piede destro. Lentamente piegare entrambe le ginocchia un po ', abbassando il corpo solo attraverso la ampiezza di movimento confortevole disponibile. Spingere attraverso il piede anteriore per tornare alla posizione di partenza. Ripetere 5 volte, quindi cambiare le gambe.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-051",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Affondo Forward assistita",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Mezzo ginocchio anca Flexor allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sull'estensione.",
+          "howToDo": "Supponiamo una posizione a split-ginocchio o in piedi a affondo. Mantenere un tronco eretto e tradurre il bacino in avanti fino a quando un lieve tratto è sentito sopra l'aspetto anteriore dell'anca posteriore.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-081",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Mezzo ginocchio anca Flexor allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Affondo Quadriceps allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al ginocchio, con particolare attenzione alla flessione.",
+          "howToDo": "Mettere in un lungo e piegare il ginocchio posteriore se confortevole. Tenere il piede posteriore con la mano o una cinghia e disegnare delicatamente il tallone verso il gluteo.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-087",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Affondo Quadriceps allungamento",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wall-assistito anca Flexor e Quadriceps allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sull'estensione.",
+          "howToDo": "Mettere un ginocchio vicino a una parete o divano con lo splendore sostenuto dietro di voi. Portare l'altro piede in avanti e sollevare il tronco in posizione verticale come tollerato.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-092",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Wall-assistito anca Flexor e Quadriceps allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In posizione supina Full-Range a gamba tesa sollevamento",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata dell'anca.",
+          "howToDo": "Sdraiarsi in posizione supina con entrambe le gambe dritte e leggermente divaricate. Stringi una coscia, Mantenere il ginocchio allungato, e solleva quella gamba verso l'alto attraverso una ampiezza di movimento confortevole. Fai una pausa brevemente, abbassa lentamente, e Ripetere dall'altra parte.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-103",
+          "sezione": "Coscia - Regione anteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Full-Range a gamba tesa sollevamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "thigh-anterior-region"
+    },
+    {
+      "nome": "Coscia - Regione posteriore",
+      "esercizi": [
+        {
+          "nome": "Flessione del ginocchio in piedi assistito",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento del ginocchio durante la flessione.",
+          "howToDo": "Stare dietro una sedia stabile e utilizzare entrambe le mani per il supporto. Flessi un ginocchio per spostare il tallone verso la regione glutea mantenendo un tronco eretto e posizione dell'anca neutra. Tenere per 2 secondi, abbassare lentamente, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-009",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione del ginocchio in piedi assistito",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flessione isometrica del ginocchio In posizione seduta con il contatto del tallone",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare del ginocchio, con enfasi sulla flessione.",
+          "howToDo": "Sedersi vicino alla parte anteriore di una sedia e posizionare un tallone sul pavimento leggermente anteriore al ginocchio. Premere il tallone verso il basso e tentare di disegnare posteriore senza permettere il movimento. Tenere la contrazione isometrica per 5 secondi, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-010",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione isometrica del ginocchio In posizione seduta con il contatto del tallone",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Estensione del ginocchio isometrico in posizione supina con supporto",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare del ginocchio, con enfasi sull'estensione.",
+          "howToDo": "Sdraiarsi in posizione supina con un supporto o una palla morbida sotto un ginocchio. Premere il ginocchio posteriore verso il basso nel supporto per attivare i quadricipiti ed estendere il ginocchio, permettendo al tallone di alzarsi leggermente. Tenere premuto per 4 secondi, quindi ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-011",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del ginocchio isometrico in posizione supina con supporto",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione seduta Resisted ginocchia flessione Tacco scivolamento",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento del ginocchio durante la flessione.",
+          "howToDo": "Siediti in posizione verticale con un piede completamente sostenuto leggermente anteriore alla sedia. Applicare una moderata pressione verso il basso attraverso il tallone e far scivolare il piede posteriore per flettere il ginocchio. Tornare alla posizione di partenza e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-012",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta Resisted ginocchia flessione Tacco scivolamento",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Estensione isometrica dell'anca In posizione seduta in cuscino",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare dell'anca, con enfasi sull'estensione.",
+          "howToDo": "Siediti in posizione verticale su una sedia. Posiziona un piccolo cuscino morbido o un asciugamano piegato sotto la coscia destra, vicino alla parte posteriore del ginocchio. Premere la coscia verso il basso nel cuscino per 5 secondi, quindi rilassarsi. Ripetere 5 volte, quindi cambiare le gambe.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-042",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione isometrica dell'anca In posizione seduta in cuscino",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Assistito alternando singolo gamba ischiocrurali Mobilization",
+          "image": "",
+          "description": "Questo esercizio di mobilità reciproca alterna il caricamento delle stringhe destra e sinistra all'interno di una posizione assistita in avanti.",
+          "howToDo": "Assumere una posizione sostenuta in avanti-fold con le mani che poggiano sulle cosce, blocchi, o pavimento. Flessi un ginocchio mentre si estende il ginocchio opposto, quindi alternare i lati in una lenta sequenza continua.",
+          "whatToDo": "Trasferire il tratto senza intoppi da una coscia posteriore all'altra, mantenere il bacino al centro, e mantenere stabile il supporto della mano.",
+          "whatNotToDo": "Non estendere entrambe le ginocchia simultaneamente, rimbalzare all'intervallo finale, ruotare il bacino, o continuare se si verificano sintomi di tipo neurale.",
+          "id": "lower-limb-057",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito alternando singolo gamba ischiocrurali Mobilization",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flessione e l'estensione a gamba tesa anca supportati",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare la flessione controllata e l'estensione dell'anca.",
+          "howToDo": "Stare in alto e tenere un supporto se necessario. Altalena una gamba dritta in avanti e indietro attraverso una gamma confortevole, mantenendo il tronco in posizione verticale.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-058",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione e l'estensione a gamba tesa anca supportati",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi singolo gamba ischiocrurali allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Posizionare un tallone davanti con il ginocchio dritto o leggermente morbido. Cercare dai fianchi e raggiungere il petto in avanti fino alla parte posteriore della coscia si estende.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-060",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi singolo gamba ischiocrurali allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dinamica affondo ischiocrurali Mobilization",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare la flessione controllata e l'estensione dell'anca.",
+          "howToDo": "Iniziare in una posizione di polmone. Spostare i fianchi all'indietro, raddrizzare il ginocchio anteriore come tollerato, poi tornare al polmone con controllo.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-061",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Dinamica affondo ischiocrurali Mobilization",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi avanti flessione allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Stare con i piedi divaricati di larghezza dell'anca. Cerniera in avanti e lasciare le mani si estendono verso le dita dei piedi, fermandosi dove un comodo tratto è sentito.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-062",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi avanti flessione allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione supina attiva ginocchio estensione ischiocrurali Mobilization",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al ginocchio, con enfasi sull'estensione.",
+          "howToDo": "Sdraiarsi in posizione supina o siediti con una coscia sostenuta da entrambe le mani. Mantenendo la posizione dell'anca stabile, allungare il ginocchio fino a quando si avverte un leggero tratto posteriore-alta, quindi flettere il ginocchio per tornare.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-063",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina attiva ginocchio estensione ischiocrurali Mobilization",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "A schiena neutra anca-flessione d'anca ischiocrurali allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Posizionare una gamba in avanti o su un basso supporto. Tenere la schiena piatta e cerniera dai fianchi fino alla parte posteriore della coscia si estende.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-065",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "A schiena neutra anca-flessione d'anca ischiocrurali allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Tall-Kneeling anca flessione d'anca",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la flessione e l'estensione.",
+          "howToDo": "Inginocchiarsi in posizione verticale su una superficie imbottita con i fianchi estesi. Spostare il bacino posteriore con l'unghia ai fianchi mantenendo una spina neutra, quindi tornare alla posizione eretta.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-066",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Tall-Kneeling anca flessione d'anca",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Dell'ostacolista Modificato allungamento ischiocrurali",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Siediti con un ginocchio esteso e l'anca e il ginocchio opposti si flettevano comodamente verso il lato. Cerniera in avanti dai fianchi verso l'arto esteso fino a quando non si sente un leggero tratto posteriore-altezza.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-070",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Dell'ostacolista Modificato allungamento ischiocrurali",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Mobilitazione bilaterale simultanea assistita",
+          "image": "",
+          "description": "Questa mobilità simmetrica carica e scarica entrambe le stringhe simultaneamente all'interno di una posizione assistita in avanti.",
+          "howToDo": "Assumere una posizione sostenuta in avanti-fold con le mani che poggiano su una superficie stabile. Piegare entrambe le ginocchia insieme per ridurre la tensione posteriore-alta, quindi estendere entrambe le ginocchia contemporaneamente fino a quando non si percepisce un lieve tratto bilaterale del gambo. Continuare attraverso ripetizioni lente e controllate.",
+          "whatToDo": "Mantenere il peso corporeo distribuito uniformemente tra entrambi i piedi, mantenere l'allineamento pelvico simmetrico, e spostare entrambe le ginocchia alla stessa velocità.",
+          "whatNotToDo": "Non alternare i lati, bloccare le ginocchia con forza, rimbalzare all'intervallo finale, o continuare se si verificano sintomi di tipo neurale.",
+          "id": "lower-limb-072",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Mobilitazione bilaterale simultanea assistita",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Lungo-sitting stretching allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Siediti con le gambe estese in avanti. Raggiungi le mani verso i piedi mantenendo il tratto tollerabile e respira lentamente.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-073",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Lungo-sitting stretching allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Half-Kneeling ischiocrurali allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Da una posizione di affondo, spostare i fianchi all'indietro e raddrizzare la gamba anteriore come tollerato. Tenere il tratto dietro la coscia.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-082",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Half-Kneeling ischiocrurali allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Da seduto Unilateral ischiocrurali allungamento",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un tratto controllato all'anca, con enfasi sulla flessione.",
+          "howToDo": "Sedersi vicino alla parte anteriore di una sedia con la parte posteriore lontano dallo schienale. Tenere un ginocchio piegato a 90 gradi con il piede piatto. Estendere la gamba opposta con il tallone sul pavimento e le dita che puntano verso l'alto. Cercare il petto in avanti verso le ginocchia, quindi tornare in piedi e cambiare i lati.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-099",
+          "sezione": "Coscia - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Da seduto Unilateral ischiocrurali allungamento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "thigh-posterior-region"
+    },
+    {
+      "nome": "Anca e ginocchio - Mobilità funzionale",
+      "esercizi": [
+        {
+          "nome": "Passo-passo assistito",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata dell'anca.",
+          "howToDo": "Stare dietro una sedia stabile e tenere lo schienale. Sollevare un piede, avanzare su una linea marcata o obiettivo piano basso, e tornare alla posizione di partenza. Ripetere 5 volte, poi cambiare i lati.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-049",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Passo-passo assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In quadrupedia arretramento del bacino",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio dell'anca durante la flessione.",
+          "howToDo": "Assumete una posizione in quadrupedia su una superficie imbottita. Tenete le mani sul pavimento, muovete lentamente il bacino all'indietro verso i talloni, solo attraverso la ampiezza di movimento confortevole disponibile. Quindi tornate lentamente alla posizione di partenza. Ripetete 5 volte.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-055",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In quadrupedia arretramento del bacino",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Trasferimento superamento dell'ostacolo della gamba assistito",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata dell'anca.",
+          "howToDo": "Stare accanto a un passo basso o linea immaginaria e tenere un supporto se necessario. Sollevare una gamba, passarlo sopra il gradino, quindi riportarlo con il controllo.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-056",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Trasferimento superamento dell'ostacolo della gamba assistito",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Bodyweight accosciata",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Stare con i piedi circa la larghezza dell'anca a parte. Piegare le ginocchia e fianchi per abbassare in un comodo accovacciamento, poi stare di nuovo alto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-074",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Bodyweight accosciata",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Eseguite i pulsanti dinamici di affondo",
+          "image": "",
+          "description": "Questo esercizio di mobilità offre un tratto controllato all'anca, con particolare attenzione all'estensione e alla flessione.",
+          "howToDo": "Abbassare delicatamente fino a quando la parte anteriore dell'anca posteriore si allunga, quindi fare piccoli impulsi controllati.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-076",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Eseguite i pulsanti dinamici di affondo",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Deep Split accosciata",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Mettere in posizione di spaccatura. Flettere sia i fianchi che le ginocchia per abbassare verticalmente attraverso la gamma controllata disponibile, quindi estendere gli arti inferiori per tornare in piedi.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-083",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Deep Split accosciata",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Accosciata Alternativo Laterale",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare il abduzione controllato e l'adduzione dell'anca.",
+          "howToDo": "Stare con i piedi larghi. Spostare lateralmente il peso corporeo mentre si flette un'anca e un ginocchio e mantenere il ginocchio opposto esteso. Ritornare attraverso il centro e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-086",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Accosciata Alternativo Laterale",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Supporto profondo accosciata Isometrico mantenimento",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare dell'anca, con enfasi sulla flessione.",
+          "howToDo": "Stare vicino ad un supporto stabile. Flessi i fianchi e le ginocchia per scendere in un profondo accovacciamento attraverso la gamma disponibile. Mantenere la posizione con respirazione costante e utilizzare il supporto superiore di salita come richiesto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-090",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Supporto profondo accosciata Isometrico mantenimento",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Singolo gamba tre-direzione tocco della punta del piede",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata, il abduzione e l'estensione dell'anca.",
+          "howToDo": "Stare costantemente su una gamba con un supporto stabile nelle vicinanze. Con le dita del piede libero, toccare il pavimento davanti, tornare al centro, toccare al lato, tornare, quindi toccare dietro e tornare. Cambiare le gambe dopo aver completato la sequenza.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-096",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Singolo gamba tre-direzione tocco della punta del piede",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Scivolamento da Pavimento monopodalico a tre direzioni",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata, il abduzione e l'estensione dell'anca.",
+          "howToDo": "Stare costantemente su una gamba con un supporto stabile nelle vicinanze. Tenere l'altro piede toccando leggermente il pavimento e scivolare in avanti, verso il centro, verso il lato, verso il centro, e dietro prima di tornare. Ripetere sulla gamba opposta.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-097",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Scivolamento da Pavimento monopodalico a tre direzioni",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Monopodalico Three-Direction superamento dell'ostacolo",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione controllata, il abduzione e l'estensione dell'anca.",
+          "howToDo": "Spostarsi su un arto inferiore con un supporto stabile disponibile. Sollevare il piede opposto libero dal pavimento e posizionarlo leggermente davanti, lateralmente, e posteriore, tornando al centro dopo ogni direzione. Ripetere sul lato opposto.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-098",
+          "sezione": "Anca e ginocchio - Mobilità funzionale",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Monopodalico Three-Direction superamento dell'ostacolo",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "obstacle-clearance"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "hip-knee-functional-mobility"
+    },
+    {
+      "nome": "Knee - Mobility",
+      "esercizi": [
+        {
+          "nome": "In posizione supina Tacco scivolamento per la flessione e l'estensione del ginocchio",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Sdraiati su una superficie solida e confortevole con le gambe estese. Fai scivolare lentamente il tacco destro lungo il materasso, portandolo verso la tua regione glutea in modo da piegare il ginocchio attraverso la ampiezza di movimento confortevole disponibile. Poi fai scivolare il tallone in avanti per tornare alla posizione di partenza. Ripetere 5 volte per ogni gamba.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-014",
+          "sezione": "Knee - Mobility",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione supina Tacco scivolamento per la flessione e l'estensione del ginocchio",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione prona attiva ginocchio flessione",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento del ginocchio durante la flessione.",
+          "howToDo": "Sdraiati su una superficie solida e confortevole. Flessi un ginocchio per spostare il tallone verso la regione glutea attraverso la ampiezza di movimento confortevole disponibile. Tenere per 3 secondi, abbassare lentamente e ripetere sul lato opposto. Posizionare un cuscino basso sotto l'addome se necessario per il comfort.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-015",
+          "sezione": "Knee - Mobility",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione prona attiva ginocchio flessione",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Flessione e l'estensione del ginocchio pendolare In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante la flessione e l'estensione.",
+          "howToDo": "Siediti su un seggiolone sufficientemente alto in modo che le gambe inferiori possano muoversi liberamente. Lascia che un ginocchio si fletti e si alzi attraverso una piccola gamma pendolare per 10 secondi, quindi Ripetere con la gamba opposta.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-016",
+          "sezione": "Knee - Mobility",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione e l'estensione del ginocchio pendolare In posizione seduta",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Circonduzione del ginocchio In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva mira a migliorare la circonduzione controllata del ginocchio.",
+          "howToDo": "Siediti su una sedia con i piedi appoggiati sul pavimento. Solleva leggermente il piede destro da terra e disegna piccoli cerchi nell'aria con il ginocchio. Fai 5 cerchi lenti in una direzione, poi 5 nella direzione opposta. Metti il piede in basso e Ripetere con la gamba sinistra.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-034",
+          "sezione": "Knee - Mobility",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Circonduzione del ginocchio In posizione seduta",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-mobility"
+    },
+    {
+      "nome": "Knee - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Estensione del ginocchio a corto raggio",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato al ginocchio, con enfasi sull'estensione.",
+          "howToDo": "Siediti sul letto o su un comodo divano con le gambe distese davanti a te. Metti un asciugamano arrotolato o un piccolo cuscino sotto la coscia destra, appena sopra il ginocchio. Spingi la parte posteriore della coscia verso il basso contro il cuscino e, allo stesso tempo, raddrizza il ginocchio sollevando il tallone dal letto. Mantenere la gamba dritta per 4 secondi, poi abbassala lentamente verso il basso.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-013",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del ginocchio a corto raggio",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Estensione del ginocchio attivo In posizione seduta con il supporto del tallone",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio del ginocchio durante l'estensione.",
+          "howToDo": "Siediti in posizione verticale su una sedia. Posiziona il tuo tacco destro sul pavimento leggermente davanti a te, con le dita dei piedi rivolte verso l'alto. Raddrizza lentamente il ginocchio quanto più comodo, stringendo delicatamente la parte anteriore della coscia. Mantenere premuto per 3 secondi, poi rilassati. Ripetere 5 volte e cambia gambe.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-043",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Estensione del ginocchio attivo In posizione seduta con il supporto del tallone",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-anterior-region"
+    },
+    {
+      "nome": "Gamba - Regione posteriore",
+      "esercizi": [
+        {
+          "nome": "Sostegno Tacco in piedi sollevamento",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della caviglia durante la flessione plantare.",
+          "howToDo": "Stare dietro lo schienale di una sedia robusta, o di fronte a un tavolo, e mettere entrambe le mani su di esso per la sicurezza. Mantenere il corpo dritto, sollevare lentamente i talloni dal pavimento, sollevarsi sulle dita dei piedi. Rimanere in piedi per 2 secondi, poi lentamente abbassare indietro, posizionando l'intera suola del piede sul pavimento. Ripetere 10 volte.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-017",
+          "sezione": "Gamba - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Sostegno Tacco in piedi sollevamento",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In piedi Gastrocnemius allungamento a Wall",
+          "image": "",
+          "description": "Questo esercizio di mobilità fornisce un allungamento controllato alla caviglia, con enfasi sulla dorsiflession.",
+          "howToDo": "In piedi di fronte a una parete e mettere entrambe le mani su di esso all'altezza del petto. Passo il piede destro leggermente all'indietro, mantenendo il tallone sul pavimento e il ginocchio dritto. Piegare il ginocchio anteriore un po ' finchè non si sente un leggero stretching nel polpaccio posteriore. Tenere per 5 secondi, quindi cambiare le gambe.",
+          "whatToDo": "Mantenere un allineamento stabile e procedere gradualmente fino a percepire un allungamento lieve e tollerabile, respirando normalmente.",
+          "whatNotToDo": "Non eseguire movimenti a rimbalzo, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-035",
+          "sezione": "Gamba - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In piedi Gastrocnemius allungamento a Wall",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione seduta isometrica flessione plantare",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximale per sviluppare il controllo neuromuscolare della caviglia, con enfasi sulla flessione plantare.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti. Premere l'avampiede di un lato nel pavimento per generare tensione plantare-flexor senza sollevare il tallone. Tenere per 5 secondi, rilassarsi, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-044",
+          "sezione": "Gamba - Regione posteriore",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta isometrica flessione plantare",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "lower-leg-posterior-region"
+    },
+    {
+      "nome": "Caviglia",
+      "esercizi": [
+        {
+          "nome": "In posizione seduta attiva caviglia Dorsiflexion",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della caviglia durante la dorsiflession.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi supportati. Tenere entrambi i talloni a contatto con il pavimento e dorsiflex le caviglie per alzare il frontespizio. Tenere per 3 secondi, poi abbassare lentamente. Ripetere per 10 ripetizioni.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-018",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta attiva caviglia Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In posizione seduta alla caviglia Plantar flessione e Dorsiflexion",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento della caviglia durante la flessione plantare e la dorsiflession.",
+          "howToDo": "Siediti e solleva un piede leggermente dal pavimento. Sposta la caviglia in flessione plantare e poi dorsiflexion attraverso la ampiezza di movimento confortevole disponibile. Ripetere per 10 cicli, quindi cambiare i lati.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-019",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta alla caviglia Plantar flessione e Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Eversione Isometrica della caviglia In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submaximal per sviluppare il controllo neuromuscolare della caviglia, con enfasi sulla eversion.",
+          "howToDo": "Siediti in posizione verticale con i bordi laterali di entrambi i piedi contro le superfici interne delle gambe stabili della sedia. Applicare la pressione verso l'esterno attraverso i piedi senza permettere il movimento. Tenere premuto per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-020",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Eversione Isometrica della caviglia In posizione seduta",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Ampiezza articolare della caviglia multidirezionale In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio di mobilità attiva ha lo scopo di migliorare la circonduzione controllata della caviglia.",
+          "howToDo": "Siediti in posizione verticale ed elevare leggermente un piede dal pavimento. Spostare la caviglia attraverso più direzioni per tracciare i numeri da 1 a 5 con l'alluce grande. Abbassare il piede e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-021",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Ampiezza articolare della caviglia multidirezionale In posizione seduta",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Inversione isometrica della caviglia In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare della caviglia, con enfasi sull'inversione.",
+          "howToDo": "Sedersi vicino alla parte anteriore di una sedia con le ginocchia leggermente divaricate e i bordi mediali dei piedi a contatto. Premere i piedi insieme senza movimento visibile. Tenere premuto per 5 secondi, quindi rilassarsi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-022",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Inversione isometrica della caviglia In posizione seduta",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Eversione della caviglia attiva In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del movimento della caviglia durante l'eversion.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi appoggiati. Mantenere un tallone a contatto con il pavimento e alza la caviglia alzando il bordo laterale del piede. Mantenere premuto per 3 secondi, abbassa lentamente e Ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-023",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Eversione della caviglia attiva In posizione seduta",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Da seduto Ankle Plantar flessione e Dorsiflexion Rock",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del movimento della caviglia durante la flessione plantare e la dorsiflession.",
+          "howToDo": "Siediti sulla parte anteriore di una sedia, con la schiena lontano dallo schienale. Solleva lentamente i tacchi, salendo sulle dita dei piedi. Abbassali lentamente all'indietro e, senza fermarsi, solleva i piedi, spostandosi sui tacchi. Continua questo lento movimento a dondolo controllato 5 volte.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-024",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Da seduto Ankle Plantar flessione e Dorsiflexion Rock",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Assistito In piedi Anteriore e Posterior Peso spostamento",
+          "image": "",
+          "description": "Questo esercizio sfida il controllo posturale e la stabilità dell'arrampicata inferiore durante la flessione plantare controllata e la dorsiflession della caviglia.",
+          "howToDo": "Posizionarsi dietro una sedia robusta e tieniti forte con entrambe le mani. Sposta lentamente il tuo peso corporeo in avanti sulle dita, sollevando i tacchi leggermente dal pavimento. Poi sposta lentamente il tuo peso all'indietro sui tacchi, sollevando leggermente la parte anteriore dei piedi. Continua questo movimento a dondolo delicato per 5 ripetizioni.",
+          "whatToDo": "Utilizzare un supporto stabile quando necessario. Mantenere un allineamento posizione neutra degli arti inferiori ed eseguire ogni movimento lentamente e in modo controllato.",
+          "whatNotToDo": "Non proseguire senza un supporto stabile se l'equilibrio è incerto. Evitare rapidi spostamenti del peso e la perdita di allineamento degli arti inferiori.",
+          "id": "lower-limb-032",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Assistito In piedi Anteriore e Posterior Peso spostamento",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Inversione della caviglia attiva In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare l'ampiezza articolare attiva e il controllo motorio della caviglia durante l'inversione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi appoggiati. Mantenere un tallone a contatto con il pavimento e capovolgi la caviglia alzando il bordo mediale del piede. Mantenere premuto per 2 secondi, abbassa lentamente e Ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento posizione neutra ed eseguire ogni fase lentamente, entro un'ampiezza di movimento confortevole, respirando normalmente.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-045",
+          "sezione": "Caviglia",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Inversione della caviglia attiva In posizione seduta",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "ankle"
+    },
+    {
+      "nome": "Foot",
+      "esercizi": [
+        {
+          "nome": "Punta In posizione seduta flessione con Asciugamano",
+          "image": "",
+          "description": "Questo esercizio mira a migliorare la ampiezza articolare attiva e controllo del piede e delle dita durante la flessione delle dita.",
+          "howToDo": "Siediti su una sedia. Stendi un fazzoletto di stoffa, o un pezzo di carta da cucina, sul pavimento davanti al piede destro. Metti il piede nudo o il piede con un calzino sopra il fazzoletto. Usando solo le dita dei piedi, strofina e tira il panno verso il tallone. Ripetere 3 volte, poi scambia i piedi.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-025",
+          "sezione": "Foot",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Punta In posizione seduta flessione con Asciugamano",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sottrazione di punta In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio ha lo scopo di migliorare la ampiezza articolare attiva e controllo del piede e delle dita durante il abduzione.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti. Tenere le teste metatarsale a contatto con il pavimento e rapire le dita di un piede. Tenere per 3 secondi, rilassarsi, e ripetere sul lato opposto.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-026",
+          "sezione": "Foot",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Sottrazione di punta In posizione seduta",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In posizione seduta Plantar Soft-Tissue Mobilization con Palla",
+          "image": "",
+          "description": "Questo esercizio di auto-mobilizzazione applica pressione controllata al piede e alle dita dei piedi per supportare la mobilità locale soft-tessuto e la consapevolezza sensoriale.",
+          "howToDo": "Mettere una palla da tennis, o una palla di gomma dura, sotto la suola del piede destro. Far scivolare il piede in avanti e all'indietro sopra la palla, applicando una leggera pressione, dal tallone alle dita. Continuare questo massaggio lento per 15 secondi, quindi passare al piede sinistro.",
+          "whatToDo": "Applicare la luce alla pressione moderata e muoversi lentamente sui tessuti molli plantare mantenendo il piede e la caviglia rilassati.",
+          "whatNotToDo": "Non applicare la pressione su prominenze ossee o continuare se si verifica intorpidimento, formicolio, o dolore acuto.",
+          "id": "lower-limb-027",
+          "sezione": "Foot",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta Plantar Soft-Tissue Mobilization con Palla",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "mobility",
+            "soft-tissue-mobilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Da seduto Great-Toe e meno-Toe Dissociation",
+          "image": "",
+          "description": "Questo esercizio è inteso a migliorare la ampiezza articolare attiva e di controllo del movimento del piede e delle dita durante l'estensione della punta.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi sostenuti. Sollevare la punta grande di un piede mantenendo le dita inferiori a contatto con il pavimento. Invertire il motivo premendo la punta grande verso il basso ed elevando le dita minori. Alternare lentamente, quindi ripetere sul lato opposto.",
+          "whatToDo": "Stabilizzare il segmento prossimale, isolare il movimento previsto ed eseguire ogni ripetizione lentamente, riducendo al minimo i compensi.",
+          "whatNotToDo": "Non utilizzare lo slancio, non forzare la posizione di fine corsa e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-028",
+          "sezione": "Foot",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Da seduto Great-Toe e meno-Toe Dissociation",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-extension",
+            "selective-control"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Flessione isometrica della punta In posizione seduta",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare del piede e delle dita dei piedi, con enfasi sulla flessione dei piedi.",
+          "howToDo": "Siediti in posizione verticale con entrambi i piedi appoggiati. Premere delicatamente le dita di un piede nel pavimento minimizzando l'eccessiva arricciatura delle dita. Tenere per 5 secondi, rilassarsi, e ripetere sul lato opposto.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-046",
+          "sezione": "Foot",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "Flessione isometrica della punta In posizione seduta",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In posizione seduta isometrica Grande-Toe flessione",
+          "image": "",
+          "description": "Questo esercizio utilizza una contrazione isometrica submassimale per sviluppare il controllo neuromuscolare del piede e delle dita dei piedi, con enfasi sulla flessione dei piedi.",
+          "howToDo": "Siediti con i piedi piatti sul pavimento. Tenere fermo il piede destro e premere solo l'alluce grande verso il basso nel pavimento. Tenere la pressione per 3 secondi, quindi rilassarsi. Ripetere 5 volte, quindi cambiare i piedi.",
+          "whatToDo": "Mantenere un allineamento articolare posizione neutra, applicare una contrazione submassimale costante e continuare a respirare durante tutto il mantenimento.",
+          "whatNotToDo": "Non trattenere il respiro, non applicare una forza massimale e interrompere l'esercizio in presenza di dolore acuto o in progressivo aumento.",
+          "id": "lower-limb-047",
+          "sezione": "Foot",
+          "distretto": "Arto inferiore",
+          "thumbnail": "",
+          "imageAlt": "In posizione seduta isometrica Grande-Toe flessione",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "foot"
+    }
+  ],
+  "id": "lower-limb"
+}

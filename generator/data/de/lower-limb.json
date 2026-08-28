@@ -1,0 +1,2011 @@
+{
+  "distretto": "Untere Extremität",
+  "sezioni": [
+    {
+      "nome": "Becken - Mobilität und Gleichgewicht",
+      "esercizi": [
+        {
+          "nome": "In Rückenlage unterer Rumpf Rotation",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Hüfte während der Rotation verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Knien gebeugt und die Füße unterstützt. Halten Sie die Schultern in Kontakt mit der Oberfläche und senken Sie beide Knie langsam auf eine Seite. Kehren Sie in die Neutralstellung zurück und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-002",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage unterer Rumpf Rotation",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Unterstützte Im Stand Becken Zirkumduktion",
+          "image": "",
+          "description": "Mit dieser aktiven Mobilitätsübung soll die kontrollierte Zirkumduktion des Beckens und der lumbopelvinen-Region verbessert werden.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie die Rückenlehne. Halten Sie beide Füße in Kontakt mit dem Boden und bewegen Sie das Becken durch kleine kontrollierte Kreise. Führen Sie 5 Wiederholungen in jede Richtung.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-033",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Im Stand Becken Zirkumduktion",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte laterale Gewichtsverlagerung",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter Seitengewichtsverschiebung des Beckens und des lumbopelvinen-Gebiets vor Herausforderungen.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie sich mit beiden Händen. Halten Sie die Füße leicht auseinander. Verschieben Sie Ihr Gewicht langsam auf den rechten Fuß, ohne den linken Fuß vom Boden zu heben. Zurück in die Mitte, dann verschieben Sie Ihr Gewicht auf den linken Fuß. Wiederholen Sie 10 mal.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-040",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte laterale Gewichtsverlagerung",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Stehende einbeinig Hüfte Zirkumduktion",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität unterer Extremitäten bei kontrollierter Hüftumrundung vor Herausforderungen.",
+          "howToDo": "Stehen Sie hoch und halten Sie bei Bedarf eine Stütze. Zeichnen Sie langsame Kreise mit einer Hüfte in eine Richtung, dann die andere, und wiederholen Sie auf beiden Seiten.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-075",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende einbeinig Hüfte Zirkumduktion",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Modifiziert Hüfte außen Rotation Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, wobei der Schwerpunkt auf äußere Rotation und Beugung liegt.",
+          "howToDo": "Legen Sie eine Hüfte in Beugung und äußere Rotation mit dem Knie vor dem Rumpf gebeugt, und verlängern Sie die gegenüberliegenden unteren Gliedmaßen posterior. Inclinieren Sie den Stamm nach vorne, bis eine milde posterior-Hüfte-Dehnung ist spürbar.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-077",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Modifiziert Hüfte außen Rotation Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende 90/90 Hüftextension",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Extension und äußere Rotation der Hüfte verbessern.",
+          "howToDo": "Sitzen Sie in einer 90/90 Position. Halten Sie den Kofferraum hoch und verlängern oder heben Sie sanft von der Hüfte zurück, soweit die Kontrolle dies erlaubt.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-080",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende 90/90 Hüftextension",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Sitzen 90/90 Hüfte Rotation Übergang",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte interne Rotation und äußere Rotation der Hüfte verbessern.",
+          "howToDo": "Sitzen Sie mit beiden Knien in einer 90/90-Position gebogen. Drehen Sie die Beine, um die Seiten langsam zu wechseln, mit den Händen für Unterstützung bei Bedarf.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-085",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen 90/90 Hüfte Rotation Übergang",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage Figur-Vier Hüfte Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, wobei der Schwerpunkt auf äußere Rotation und Beugung liegt.",
+          "howToDo": "Legen Sie sich in Rückenlage oder sitzen Sie hoch. Kreuzen Sie einen Knöchel über den gegenüberliegenden Oberschenkel und bringen Sie die Beine sanft näher, bis sich die äußere Hüfte erstreckt.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-089",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Figur-Vier Hüfte Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "external-rotation",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende 90/90 Hüfte Rotation isometrisch Halteposition",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Hüfte zu entwickeln, mit Schwerpunkt auf der inneren Rotation und der äußeren Rotation.",
+          "howToDo": "Sitzen Sie in einer 90/90 Hüfte Position mit beiden Knien gebeugt. Halten Sie einen aufrechten Stamm und sanften Abwärtsdruck durch beide unteren Gliedmaßen ohne sichtbare Bewegung. Halten Sie beim Atmen normal.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-091",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende 90/90 Hüfte Rotation isometrisch Halteposition",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Stand Hüfte außen Rotation Öffnung",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung, Abduktion und äußere Rotation der Hüfte verbessern.",
+          "howToDo": "Stehen Sie aufrecht und verwenden Sie eine stabile Stütze je nach Bedarf. Flex eine Hüfte und Knie, dann bewegen das Knie seitlich und nach hinten durch Hüftabduktion und äußere Rotation. Kehren Sie den Fuß auf den Boden und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-093",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Hüfte außen Rotation Öffnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stehende Hüfte Interne Rotation Öffnung",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion, Adduktion und innere Rotation der Hüfte verbessern.",
+          "howToDo": "Stehen Sie hoch und halten Sie bei Bedarf eine stabile Stütze. Heben Sie ein Knie zur Seite heraus, führen Sie es in einem kreisförmigen Weg, dann senken Sie den Fuß. Wiederholen Sie auf der anderen Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-094",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Hüfte Interne Rotation Öffnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "internal-rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Hüfte Zirkumduktion mit gebeugtem Knie",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität unterer Extremitäten bei kontrollierter Hüftumrundung vor Herausforderungen.",
+          "howToDo": "Stehen Sie hoch auf einem Bein und halten Sie bei Bedarf eine stabile Stütze. Heben Sie das gegenüberliegende Knie auf eine bequeme Höhe und ziehen Sie kleine horizontale Kreise mit ihm, zuerst in eine Richtung und dann in die andere. Wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-095",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Hüfte Zirkumduktion mit gebeugtem Knie",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "circumduction",
+            "stabilization",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Stehende Hüfte Innen- und Außenrotation mit gebeugtem Knie durchführen",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität der unteren Kante bei kontrollierter interner Rotation und äußerer Rotation der Hüfte in Frage.",
+          "howToDo": "Stehen Sie hoch und halten Sie bei Bedarf eine stabile Stütze. Biegen Sie ein Knie, sodass die Ferse hinter Ihnen steigt und das Knie in der Nähe des anderen Oberschenkels bleibt. Bewegen Sie aus dieser Position den Fuß vorsichtig nach innen und nach außen, um die Hüfte innen und außen zu drehen. Wiederholen Sie auf der anderen Seite.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-100",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende Hüfte Innen- und Außenrotation mit gebeugtem Knie durchführen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage Bilaterale Hüfte interne und externe Rotation",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte interne Rotation und äußere Rotation der Hüfte verbessern.",
+          "howToDo": "Liegen Sie mit beiden Beinen gerade und leicht auseinander. Halten Sie die Knöchel dorsiflexed, dann rollen die Beine nach innen und außen von den Hüften, sodass die Füße wie Scheibenwischer bewegen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-102",
+          "sezione": "Becken - Mobilität und Gleichgewicht",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Bilaterale Hüfte interne und externe Rotation",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "internal-rotation",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-balance"
+    },
+    {
+      "nome": "Becken - Seitliche Region",
+      "esercizi": [
+        {
+          "nome": "Alternating Becken Hike",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter Beckenerhöhung des Beckens und des lumbopelvinen-Gebiets vor Herausforderungen.",
+          "howToDo": "Sitzen Sie aufrecht weg von der Rückenlehne mit beiden Füßen unterstützt. Heben Sie eine Seite des Beckens leicht vom Sitz bei Beibehaltung der Rumpfsteuerung. Halten Sie die Position 2 Sekunden lang, wieder neutral, und wechseln Sie Seiten für 10 Wiederholungen.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-001",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Alternating Becken Hike",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "pelvic-hike",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Unterstützte Im Stand Hüfte Abduktion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Abduktion verbessern.",
+          "howToDo": "Stehen Sie neben einer stabilen Stütze und halten Sie sie mit einer Hand. Halten Sie den Stamm aufrecht und das Knie verlängert, entführen Sie die gegenüberliegende Hüfte, indem Sie das Bein seitlich bewegen. Pause kurz, wieder neutral, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-003",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Im Stand Hüfte Abduktion",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützten Lateral Step aus",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Abduktion und Adduktion verbessern.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl oder neben einem Tisch und halten Sie sich mit beiden Händen zur Sicherheit. Beginnen Sie mit den Füßen zusammen, nehmen Sie einen kleinen Schritt nach rechts mit dem rechten Fuß, dann bringen Sie Ihren linken Fuß in die Nähe. Wiederholen Sie die gleiche Bewegung nach links. Bewegen Sie sich langsam und halten Sie Ihren Körper aufrecht. Wiederholen Sie 5 mal auf jeder Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-029",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützten Lateral Step aus",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützten Crossover-Schritt",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Adduktion und Abduktion verbessern.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie die Rückenlehne mit beiden Händen. Kreuzen Sie langsam Ihren rechten Fuß vor dem linken Fuß und legen Sie ihn sanft auf den Boden. Zurück in die Ausgangsposition, dann überqueren Sie Ihren linken Fuß vor dem rechten Fuß. Wechseln Sie die Bewegung langsam für 5 Wiederholungen auf jeder Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-030",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützten Crossover-Schritt",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "adduction",
+            "abduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Hüfte Abduktion Toe Tap",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Abduktion und Adduktion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl mit den Füßen ruhen auf dem Boden. Schieben Sie Ihren rechten Fuß zur Seite, halten die Zehen in Kontakt mit dem Boden, dann bringen Sie ihn zurück in die Mitte. Wiederholen Sie 5 Mal, dann wiederholen Sie mit dem linken Fuß.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-038",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Hüfte Abduktion Toe Tap",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Seitenlage Hüfte Abduktion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Abduktion verbessern.",
+          "howToDo": "Legen Sie sich auf die Seite auf eine Matte, mit dem unteren Bein leicht gebogen für Komfort und das obere Bein gerade. Heben Sie langsam das obere Bein ein paar Zentimeter, halten die Zehen nach vorne. Halten Sie die Position 2 Sekunden lang, dann senken Sie das Bein langsam. Wiederholen Sie 5 Mal, dann auf die andere Seite drehen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-054",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Seitenlage Hüfte Abduktion",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende breitbeinig Hüfte Flexion Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Abduktion und Beugung.",
+          "howToDo": "Sitzen Sie mit beiden unteren Gliedmaßen entführt und die Knie verlängert. Halten Sie die axiale Wirbelsäulendehnung und beugen Sie sich von den Hüften nach vorne, bis eine leichte Dehnung entlang der medialen und posterioren Oberschenkel zu spüren ist.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-067",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende breitbeinig Hüfte Flexion Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Stehende körperübergreifend Hüfte Adduktion und Abduktion Pendelbewegung",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion und Adduktion der Hüfte verbessern.",
+          "howToDo": "Stehen Sie hoch und halten Sie eine Stütze. Schwingen Sie ein gerades Bein sanft über den Körper und dann hinaus zur Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-068",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Stehende körperübergreifend Hüfte Adduktion und Abduktion Pendelbewegung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand breitbeinig Hüfte Flexion Isometrische Halteposition",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Hüfte zu entwickeln, mit Schwerpunkt auf Abduktion und Beugung.",
+          "howToDo": "Stehen Sie mit den Füßen breit und die Knie weich verlängert. Scharnier vorne an den Hüften unter Beibehaltung einer neutralen Wirbelsäule. Verwenden Sie Handstütze bei Bedarf und halten Sie die Position beim Atmen normal.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-069",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand breitbeinig Hüfte Flexion Isometrische Halteposition",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand breitbeinig laterale Gewichtsverlagerung",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die untere Absenkungsstabilität bei kontrollierter Abduktion, Adduktion und lateraler Gewichtsverlagerung der Hüfte in Frage.",
+          "howToDo": "Stehen Sie mit den Füßen breit und Scharnier nach vorne leicht an den Hüften. Verschieben Sie das Becken und das Körpergewicht zu einer Seite, indem Sie das Knie, Rückkehr durch neutral, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-071",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand breitbeinig laterale Gewichtsverlagerung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "lateral-shift"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende Hüftabduktion und externe Rotation Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Abduktion und äußere Rotation.",
+          "howToDo": "Setzen Sie sich mit den Fußsohlen zusammen und die Knie öffnen sich nach außen. Sitzen Sie hoch und lassen Sie die Knie nur durch die zur Verfügung stehende bequeme Strecke nach unten.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-078",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Hüftabduktion und externe Rotation Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "external-rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Stand breitbeinig Hüfte Flexion",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion und Beugung der Hüfte verbessern.",
+          "howToDo": "Stehen Sie mit den Füßen breit und die Knie weich verlängert. Flex nach vorn von den Hüften unter Beibehaltung einer neutralen Wirbelsäule, dann verlängern Sie die Hüften, um wieder zu stehen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-079",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand breitbeinig Hüfte Flexion",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Bilaterale Hüftabduktion und externe Rotation",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion, Adduktion und äußere Rotation der Hüfte verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Knien gebeugt und die Füße zusammen. Lassen Sie beide Knie seitlich in Hüftabduktion und äußere Rotation zu bewegen, dann bringen Sie sie zu neutral mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-101",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Bilaterale Hüftabduktion und externe Rotation",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "external-rotation",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In Rückenlage Bilateral mit gestrecktem Bein Hüfte Abduktion und Adduktion",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion und Adduktion der Hüfte verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit beiden Knien verlängert und die Knöchel dorsiflexed. Schieben Sie beide unteren Gliedmaßen seitlich in Hüftabduktion, dann bringen Sie sie in Richtung der Mittellinie unter Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-104",
+          "sezione": "Becken - Seitliche Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Bilateral mit gestrecktem Bein Hüfte Abduktion und Adduktion",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-lateral-region"
+    },
+    {
+      "nome": "Becken - Hintere Region",
+      "esercizi": [
+        {
+          "nome": "Unterstützte stehende Hüftextension aus",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Hüfte während der Extension verbessern.",
+          "howToDo": "Stehen Sie mit einer stabilen Stütze gegenüber und halten Sie sie mit beiden Händen. Halten Sie den Stamm aufrecht und das Knie verlängert, bewegen Sie ein Bein nach hinten in Hüftverlängerung. Halten Sie die Position 3 Sekunden lang, Kehren Sie in die Neutralstellung zurück, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-004",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte stehende Hüftextension aus",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützte rückwärtiges Antippen mit der Fußspitze",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Hüfte während der Extension verbessern.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie sich mit beiden Händen. Bewegen Sie den rechten Fuß leicht rückwärts und berühren Sie den Boden mit den Zehen, ohne zu viel Gewicht auf das Bein zu verschieben. Zurück in die Ausgangsposition und wiederholen Sie 5 Mal. Dann wechseln Sie zum linken Bein.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-037",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte rückwärtiges Antippen mit der Fußspitze",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützte Backward Stepping",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die untere-Limb-Stabilität bei kontrollierter Hüftverlängerung in Frage.",
+          "howToDo": "Stehen Sie neben einem stabilen Tisch oder Küchentisch und halten Sie eine Hand auf sie für Unterstützung. Nehmen Sie einen kleinen Schritt rückwärts mit dem rechten Fuß, dann bringen Sie Ihren linken Fuß in die Nähe. Weiter für 3 kleine Schritte, dann wieder vorsichtig. Wiederholen Sie 3 mal.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-048",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Backward Stepping",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Unterstützte Reverse-Ausfallschritt ausführen",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Hüfte während der Extension und Beugung verbessert werden.",
+          "howToDo": "Stehen Sie aufrecht und halten Sie einen Stock vertikal mit einer Hand für Unterstützung. Machen Sie einen kleinen Schritt rückwärts mit dem rechten Fuß, indem Sie die Zehen sanft auf den Boden. Leicht biegen beide Knie, dann drücken Sie durch das Vorderbein, um in die Ausgangsposition zurück. Wiederholen Sie 5 Mal, dann schalten Sie die Beine.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-052",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Reverse-Ausfallschritt ausführen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Vierfüßlerstand Hüfte Extension mit Knie Extended",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Hüfte während der Extension verbessern.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position auf einer gepolsterten Oberfläche. Erweitern Sie langsam Ihr rechtes Bein nach hinten, gleiten Sie es zuerst entlang des Bodens und dann heben Sie es leicht, halten Sie das Knie gerade. Halten Sie die Position 2 Sekunden lang, dann zurück in die Ausgangsposition. Wiederholen Sie 5 Mal, dann schalten Sie Beine.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-053",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Hüfte Extension mit Knie Extended",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Rumänischen Kreuzheben",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Hüfte während der Beugung und Extension verbessert werden.",
+          "howToDo": "Stehen Sie mit den Füßen Hüftbreite auseinander. Schieben Sie die Hüften rückwärts mit einer langen Wirbelsäule, fühlen Spannung in der Rückseite der Oberschenkel, dann wieder zu stehen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-059",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Rumänischen Kreuzheben",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Einbeinig Rumänische Kreuzheben",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität unterer Extremitäten bei kontrollierter Beugung und Extension der Hüfte in Frage.",
+          "howToDo": "Stehen Sie auf einem Bein mit dem Knie leicht weich. Scharnier von der Hüfte, während das freie Bein zurückreicht, dann zurück zum Stehen.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-064",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Einbeinig Rumänische Kreuzheben",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Modifiziert Hüfte außen Rotation Hüftbeuge",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Hüfte während der Beugung und der äußeren Rotation verbessern.",
+          "howToDo": "Positionieren Sie die Blei Hüfte in Beugung und äußere Rotation mit dem Knie gebeugt und das gegenüberliegende Glied nach hinten verlängert. Halten Sie eine neutrale Wirbelsäule und scharnieren Sie den Stamm nach vorne leicht, dann wieder aufrecht.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-084",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Modifiziert Hüfte außen Rotation Hüftbeuge",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "external-rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Vierfüßlerstand Hüfte Extension mit Knie gebeugt",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die untere-Limb-Stabilität bei kontrollierter Hüftverlängerung in Frage.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position an. Halten Sie ein Knie auf etwa 90 Grad gebeugt, verlängern Sie die Hüfte, indem Sie die Plantarfläche des Fußes nach oben. Senken Sie das Glied mit Kontrolle und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-088",
+          "sezione": "Becken - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Hüfte Extension mit Knie gebeugt",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "pelvis-posterior-region"
+    },
+    {
+      "nome": "Oberschenkel - Vordere Region",
+      "esercizi": [
+        {
+          "nome": "Im Sitzen aktiv Knie Extension aus",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Extension verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl mit dem Rücken gut unterstützt gegen die Rückenlehne. Halten Sie die Hände an den Seiten des Sitzes. Heben Sie langsam den rechten Fuß und verlängern Sie Ihr Bein nach vorne, bis es parallel zum Boden ist. Straffen Sie Ihren Oberschenkelmuskel gut und ziehen Sie Ihre Zehen zu Ihnen. Halten Sie die Position 3 Sekunden lang, dann langsam senken Sie Ihren Fuß wieder nach unten. Wiederholen Sie mit Ihrem linken Bein.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-005",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen aktiv Knie Extension aus",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Short-Bewegungsumfang mit gestrecktem Bein Raise",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Beugung verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage auf einer festen, bequemen Oberfläche. Biegen Sie das linke Knie, indem Sie Ihren Fuß auf die Matratze; dies hilft, den Rücken zu schützen. Halten Sie Ihr rechtes Bein voll auf dem Bett verlängert. straffen Sie den Muskel des rechten Oberschenkels und heben Sie Ihr gerades Bein nur leicht, etwa die Höhe einer Hand. Halten Sie das Bein für 3 Sekunden hoch, dann langsam senken Sie es wieder nach unten. Wiederholen Sie 5 mal auf jeder Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-006",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Short-Bewegungsumfang mit gestrecktem Bein Raise",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Teilweise Aufstehen aus dem Sitz ausführen",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Sitzen Sie in der Nähe eines stabilen Stuhls mit beiden Füßen vollständig unterstützt und leicht auseinander. Incline den Kofferraum nach vorne, verlängern die Hüften und Knie, und heben Sie das Becken ca. 2 bis 3 cm vom Sitz. Halten Sie die Position 2 Sekunden lang, dann niedriger mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-007",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Teilweise Aufstehen aus dem Sitz ausführen",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende isometrische Hüfte-Flexion mit manueller Beständigkeit",
+          "image": "",
+          "description": "Diese isolierte isometrische Übung entwickelt eine Hüft-Flexor-Aktivierung, während Stamm und Becken stationär bleiben.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Legen Sie beide Hände über den distalen Oberschenkel einer Seite. Versuchen Sie, die Hüfte zu biegen, während die Hände gleichen Widerstand nach unten, sodass keine sichtbare Bewegung auftritt. Halten Sie die Position 5 Sekunden lang, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie den Beckenspiegel, leiten Sie den Oberschenkel senkrecht in beide Hände und halten Sie während der normalen Atmung einen stetigen submaximalen Aufwand aufrecht.",
+          "whatNotToDo": "Lehnen Sie sich nicht nach hinten, drehen Sie den Rumpf, erheben Sie die Schultern, halten Sie den Atem an oder ermöglichen Sie sichtbare Hüftbewegungen.",
+          "id": "lower-limb-008",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Hüfte-Flexion mit manueller Beständigkeit",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Partial Kniebeuge ausführen",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie die Rückenlehne. Mit den Füßen etwa Hüftbreite auseinander, beugen Sie die Hüften und Knie durch einen kleinen Bereich, dann verlängern Sie sie zurück zum Stehen. Wiederholen Sie langsam.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-031",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Partial Kniebeuge ausführen",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Sitzen Alternating Hüfte Flexion mit kontralateralen Arm Raise",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Beugung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf der vorderen Hälfte eines Stuhls. Heben Sie Ihr rechtes Knie leicht und heben Sie Ihren linken Arm gleichzeitig nach vorne. Senken Sie sie langsam, dann heben Sie Ihr linkes Knie, während Sie Ihren rechten Arm. Wechseln Sie die Bewegung für 10 Wiederholungen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-036",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Alternating Hüfte Flexion mit kontralateralen Arm Raise",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Weiterleitung Toe Tap",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Beugung verbessern.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie sich mit beiden Händen. Bewegen Sie den rechten Fuß nach vorne und klopfen Sie leicht mit den Zehen auf den Boden. Bringen Sie den Fuß zurück in die Ausgangsposition. Wiederholen Sie 5 Mal, dann schalten Sie die Beine.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-041",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Weiterleitung Toe Tap",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Vorwärts-Ausfallschritt",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Stehen Sie aufrecht und halten Sie einen Stock vertikal mit einer Hand für Unterstützung. Machen Sie einen kleinen Schritt nach vorne mit dem rechten Fuß. Biegen Sie langsam beide Knie ein wenig, senken Sie Ihren Körper nur durch die verfügbaren bequemen Bereich. Drücken Sie durch den vorderen Fuß, um in die Ausgangsposition zurück. Wiederholen Sie 5 Mal, dann schalten Sie die Beine.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-051",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Vorwärts-Ausfallschritt",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Halb kneeling Hüfte Flexor Dehnung",
+          "image": "",
+          "description": "Diese Mobilität Übung bietet eine kontrollierte Dehnung bis zur Hüfte, mit Schwerpunkt auf Extension.",
+          "howToDo": "Nehmen Sie eine Split-Knie- oder stehende Lungenposition an. Bewahren Sie einen aufrechten Stamm und übersetzen Sie das Becken nach vorne, bis eine leichte Dehnung über den vorderen Aspekt der hinteren Hüfte zu spüren ist.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-081",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Halb kneeling Hüfte Flexor Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Ausfallschritt Quadriceps Dehnung durchführen",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung bis zum Knie, wobei der Schwerpunkt auf Beugung liegt.",
+          "howToDo": "Legen Sie sich in eine Ausfallschritt und biegen Sie das hintere Knie, wenn bequem. Halten Sie den hinteren Fuß mit der Hand oder einem Riemen und ziehen Sie sanft die Ferse in Richtung der Glut.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-087",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Ausfallschritt Quadriceps Dehnung durchführen",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Wand-unterstützte Hüfte Flexor und Quadriceps Dehnung",
+          "image": "",
+          "description": "Diese Mobilität Übung bietet eine kontrollierte Dehnung bis zur Hüfte, mit Schwerpunkt auf Extension.",
+          "howToDo": "Legen Sie ein Knie in der Nähe einer Wand oder Sofa mit dem Schienbein unterstützt hinter Ihnen. Bringen Sie den anderen Fuß nach vorne und heben Sie den Stamm aufrecht wie toleriert.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-092",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Wand-unterstützte Hüfte Flexor und Quadriceps Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In Rückenlage Full-Bewegungsumfang mit gestrecktem Bein Raise",
+          "image": "",
+          "description": "Diese Übung stellt posturale Kontrolle und untere-Limb Stabilität bei kontrollierter Beugung der Hüfte vor Herausforderungen.",
+          "howToDo": "Liegen Sie mit beiden Beinen gerade und leicht auseinander. Einen Oberschenkel fest, halten Sie das Knie verlängert, und heben Sie das Bein nach oben durch einen bequemen Bereich. Pause kurz, langsam unter, und wiederholen Sie auf der anderen Seite.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-103",
+          "sezione": "Oberschenkel - Vordere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Full-Bewegungsumfang mit gestrecktem Bein Raise",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "stabilization"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "thigh-anterior-region"
+    },
+    {
+      "nome": "Oberschenkel - Hintere Region",
+      "esercizi": [
+        {
+          "nome": "Unterstützte Im Stand Knie Flexion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung verbessert werden.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und verwenden beide Hände für die Unterstützung. Flex ein Knie, um die Ferse in Richtung der Gluteal Region zu bewegen, während die Beibehaltung eines aufrechten Rumpf und neutrale Hüfte Position. Halten Sie die Position 2 Sekunden lang, langsam unter, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-009",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Im Stand Knie Flexion",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende isometrische Knie Flexion mit Absatz Kontakt",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Knies zu entwickeln, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie in der Nähe der Vorderseite eines Stuhls und positionieren Sie eine Ferse auf dem Boden leicht vor dem Knie. Drücken Sie die Ferse nach unten und versuchen, sie nach hinten ziehen, ohne Bewegung. Halten Sie die isometrische Kontraktion für 5 Sekunden, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-010",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Knie Flexion mit Absatz Kontakt",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Isometrische Knie-Extension mit Lagerungsrolle",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Knies zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Legen Sie sich in Rückenlage mit einer Stütze oder einer weichen Kugel unter einem Knie. Drücken Sie das hintere Knie nach unten in die Stütze, um die Quadriceps zu aktivieren und das Knie zu verlängern, sodass die Ferse leicht erheben. Halten Sie die Position 4 Sekunden lang, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-011",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Isometrische Knie-Extension mit Lagerungsrolle",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Im Sitzen Resisted Knie Flexion Absatz Folie",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit einem Fuß vollständig unterstützt leicht vor dem Stuhl. Tragen Sie moderaten Abwärtsdruck durch die Ferse und schieben Sie den Fuß nach hinten, um das Knie zu beugen. Zurück in die Ausgangsposition und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-012",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Resisted Knie Flexion Absatz Folie",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende isometrische Hüftextension in Kissen",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Hüfte zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Legen Sie ein kleines weiches Kissen oder gefaltete Handtuch unter den rechten Oberschenkel, nahe an der Rückseite des Knies. Drücken Sie den Oberschenkel nach unten in das Kissen für 5 Sekunden, und entspannen Sie anschließend. Wiederholen Sie 5 Mal, dann schalten Sie die Beine.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-042",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Hüftextension in Kissen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Unterstützte alternierende einbeinig ischiocrurale Muskulatur-Mobilisierung durchführen",
+          "image": "",
+          "description": "Diese reziproke Beweglichkeitsübung wechselt die Belastung der rechten und linken Hamstrings innerhalb einer unterstützten Vorwärts-Faltposition ab.",
+          "howToDo": "Nehmen Sie eine unterstützte Vorwärtsfalte Position mit den Händen auf den Oberschenkeln, Blöcken oder Boden ruhen. Flex ein Knie, während die Extension des gegenüberliegenden Knies, dann wechseln Sie die Seiten in einer langsamen kontinuierlichen Reihenfolge.",
+          "whatToDo": "Übertragen Sie die Dehnung reibungslos von einem hinteren Oberschenkel zum anderen, halten Sie das Becken zentriert, und halten Sie stabile Handstütze.",
+          "whatNotToDo": "Nicht beide Knie gleichzeitig ausstrecken, im Endbereich hüpfen, das Becken drehen oder bei neuronalen Symptomen weitermachen.",
+          "id": "lower-limb-057",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte alternierende einbeinig ischiocrurale Muskulatur-Mobilisierung durchführen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Im Stand mit gestrecktem Bein Hüfte Flexion und Extension",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung und Extension der Hüfte verbessern.",
+          "howToDo": "Stehen Sie hoch und halten Sie bei Bedarf eine Stütze. Schwingen Sie ein gerades Bein nach vorne und zurück durch eine bequeme Reichweite, halten Sie den Stamm aufrecht.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-058",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Im Stand mit gestrecktem Bein Hüfte Flexion und Extension",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand einbeinig ischiocrurale Muskulatur Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Legen Sie einen Absatz vorne mit dem Knie gerade oder leicht weich. Scharren Sie von den Hüften und erreichen Sie die Brust nach vorne, bis die Rückseite des Oberschenkels erstreckt sich.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-060",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand einbeinig ischiocrurale Muskulatur Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dynamic Ausfallschritt ischiocrurale Muskulatur Mobilization",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung und Extension der Hüfte verbessern.",
+          "howToDo": "Beginnen Sie in einer Lungenposition. Verschieben Sie die Hüften nach hinten, gerade das vordere Knie wie toleriert, dann kehren Sie mit Kontrolle in die Ausfallschritt zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-061",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Dynamic Ausfallschritt ischiocrurale Muskulatur Mobilization",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Forward Flexion Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Stehen Sie mit den Füßen Hüftbreite auseinander. Scharren Sie nach vorne und lassen Sie die Hände in Richtung der Zehen zu erreichen, stoppen, wo eine bequeme Dehnung zu spüren ist.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-062",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Forward Flexion Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "In Rückenlage aktiv Knie Extension ischiocrurale Muskulatur Mobilization",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zum Knie, mit Schwerpunkt auf Extension.",
+          "howToDo": "Legen Sie sich in Rückenlage oder sitzen Sie mit einem Oberschenkel von beiden Händen unterstützt. Halten Sie die Hüftposition stabil, verlängern Sie das Knie, bis ein mildes posterior-hoch Dehnung ist zu spüren, dann biegen Sie das Knie zurück.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-063",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage aktiv Knie Extension ischiocrurale Muskulatur Mobilization",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Flat-Back Hüfte-Hüftbeuge ischiocrurale Muskulatur Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Legen Sie ein Bein nach vorne oder auf einen niedrigen Halt. Halten Sie den Rücken flach und Scharnier von den Hüften, bis die Rückseite des Oberschenkels erstreckt sich.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-065",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Flat-Back Hüfte-Hüftbeuge ischiocrurale Muskulatur Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Tall-Kneeling Hüfte Hüftbeuge",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Hüfte während der Beugung und Extension verbessert werden.",
+          "howToDo": "Knien Sie aufrecht auf einer gepolsterten Oberfläche mit den Hüften verlängert. Bewegen Sie das Becken nach hinten, indem Sie an den Hüften hinging unter Beibehaltung einer neutralen Wirbelsäule, dann wieder in die aufrechte Position.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-066",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Tall-Kneeling Hüfte Hüftbeuge",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Modifiziert Hurdler ischiocrurale Muskulatur Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie mit einem Knie verlängert und die gegenüberliegende Hüfte und Knie gebeugt bequem an der Seite. Scharnier nach vorne von den Hüften in Richtung der verlängerten Gliedmaßen, bis eine milde posterior-hohe Dehnung zu spüren ist.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-070",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Modifiziert Hurdler ischiocrurale Muskulatur Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Simultane Bilaterale ischiocrurale Muskulatur-Mobilisierung durchführen",
+          "image": "",
+          "description": "Diese symmetrische Beweglichkeit lädt und entlastet beide Hamstrings gleichzeitig in einer unterstützten Vorwärtsfalte.",
+          "howToDo": "Nehmen Sie eine unterstützte Vorwärtsfalte mit den Händen ruhen auf einer stabilen Oberfläche. Biegen Sie beide Knie zusammen, um die posterior-hohe Spannung zu reduzieren, dann beide Knie gleichzeitig verlängern, bis eine milde bilaterale ischiocrurale Muskulatur Dehnung wahrgenommen wird. Weiter durch langsame, kontrollierte Wiederholungen.",
+          "whatToDo": "Halten Sie das Körpergewicht gleichmäßig zwischen beiden Füßen verteilt, halten Sie symmetrische Beckenausrichtung und bewegen Sie beide Knie mit der gleichen Geschwindigkeit.",
+          "whatNotToDo": "Wechseln Sie nicht die Seiten, verschließen Sie die Knie mit Gewalt, hüpfen Sie im Endbereich oder fahren Sie fort, wenn neuronale Symptome auftreten.",
+          "id": "lower-limb-072",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Simultane Bilaterale ischiocrurale Muskulatur-Mobilisierung durchführen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Langsitzige ischiocrurale Muskulatur Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie mit den Beinen nach vorne verlängert. Greifen Sie die Hände in Richtung der Füße, während die Dehnung tolerierbar und langsam atmen.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-073",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Langsitzige ischiocrurale Muskulatur Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Halb kneeling ischiocrurale Muskulatur Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Von einer Ausfallschritt Position, verschieben Sie die Hüften nach hinten und geraden das Vorderbein wie toleriert. Halten Sie die Strecke hinter dem Oberschenkel.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-082",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Halb kneeling ischiocrurale Muskulatur Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende unilaterale ischiocrurale Muskulatur Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Hüfte, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie in der Nähe der Vorderseite eines Stuhls mit dem Rücken weg von der Rückenlehne. Halten Sie ein Knie bis zu 90 Grad mit dem Fuß flach gebogen. Erweitern Sie das entgegengesetzte Bein mit der Ferse auf dem Boden und die Zehen nach oben. Hingen Sie die Brust nach vorne in Richtung der Knie, dann wieder aufrecht und wechseln Sie die Seiten.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-099",
+          "sezione": "Oberschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende unilaterale ischiocrurale Muskulatur Dehnung",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "thigh-posterior-region"
+    },
+    {
+      "nome": "Hüfte und Knie - Funktionelle Mobilität",
+      "esercizi": [
+        {
+          "nome": "Unterstützte Vorwärts-Schritt-Over",
+          "image": "",
+          "description": "Diese Übung stellt posturale Kontrolle und untere-Limb Stabilität bei kontrollierter Beugung der Hüfte vor Herausforderungen.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie die Rückenlehne. Heben Sie einen Fuß, vorwärts über eine markierte Linie oder niedrigen Boden Ziel, und zurück in die Ausgangsposition. Wiederholen Sie 5 mal, dann wechseln Sie die Seiten.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-049",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Vorwärts-Schritt-Over",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Vierfüßlerstand Rock-Back",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung der Hüfte während der Beugung verbessern.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position auf einer gepolsterten Oberfläche. Halten Sie Ihre Hände auf dem Boden, langsam bewegen Sie Ihr Becken nach hinten zu Ihren Fersen, nur durch die verfügbaren bequemen Bereich. Dann langsam zurück in die Ausgangsposition. Wiederholen Sie 5 mal.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-055",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Rock-Back",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützte Step-Over Bein Transfer",
+          "image": "",
+          "description": "Diese Übung stellt posturale Kontrolle und untere-Limb Stabilität bei kontrollierter Beugung der Hüfte vor Herausforderungen.",
+          "howToDo": "Stehen Sie neben einem niedrigen Schritt oder imaginären Linie und halten Sie eine Unterstützung, wenn nötig. Heben Sie ein Bein, übergeben Sie es über den Schritt, dann bringen Sie es zurück mit Kontrolle.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-056",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Step-Over Bein Transfer",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Bodyweight Kniebeuge durchführen",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Stehen Sie mit den Füßen etwa Hüftbreite auseinander. Biegen Sie die Knie und Hüften, um in eine bequeme Kniebeuge zu senken, dann stehen wieder hoch.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-074",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Bodyweight Kniebeuge durchführen",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Dynamische Ausfallschritt Pulse durchführen",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zur Hüfte, wobei der Schwerpunkt auf Extension und Beugung liegt.",
+          "howToDo": "Treten Sie in eine Lungenposition. Senken Sie vorsichtig, bis die Vorderseite der Rücken Hüfte erstreckt sich, dann machen kleine kontrollierte Impulse.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-076",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Dynamische Ausfallschritt Pulse durchführen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "extension",
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Deep Split Kniebeuge",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Stehen Sie in einer geteilten Haltung. Bewegen Sie Hüften und Knie, um vertikal durch den verfügbaren kontrollierten Bereich zu senken, dann verlängern Sie die unteren Gliedmaßen, um wieder zu stehen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-083",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Deep Split Kniebeuge",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Alternating Lateral Kniebeuge",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Abduktion und Adduktion der Hüfte verbessern.",
+          "howToDo": "Stehen Sie mit den Füßen breit. Verschieben Sie das Körpergewicht lateral, während Sie eine Hüfte und ein Knie und halten das gegenüberliegende Knie verlängert.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-086",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Alternating Lateral Kniebeuge",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "abduction",
+            "adduction",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Unterstützte Deep Kniebeuge isometrisch Halteposition ausführen",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Hüfte zu entwickeln, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Stehen Sie in der Nähe einer stabilen Stütze. Bewegen Sie die Hüften und Knie, um in eine tiefe hocken durch die zur Verfügung stehenden Bereich. Halten Sie die Position mit stetiger Atmung und verwenden Sie Oberkiefer Unterstützung, wie erforderlich.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-090",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Deep Kniebeuge isometrisch Halteposition ausführen",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "isometric",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Einbeinig Drei-Richtung Toe Tap",
+          "image": "",
+          "description": "Diese Übung stellt die Kontrolle der Haltung und die Stabilität der unteren Extreme bei kontrollierter Beugung, Abduktion und Extension der Hüfte in Frage.",
+          "howToDo": "Mit den Zehen des freien Fußes, tippen Sie auf den Boden vor, zurück in die Mitte, tippen Sie auf die Seite, zurück, dann tippen Sie hinter und zurück. Schalten Sie die Beine nach Abschluss der Sequenz.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-096",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Einbeinig Drei-Richtung Toe Tap",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Einbeinig Drei-Richtung-Boden-Folie",
+          "image": "",
+          "description": "Diese Übung stellt die Kontrolle der Haltung und die Stabilität der unteren Extreme bei kontrollierter Beugung, Abduktion und Extension der Hüfte in Frage.",
+          "howToDo": "Stehen Sie stetig auf einem Bein mit einer stabilen Stütze in der Nähe. Halten Sie den anderen Fuß leicht berühren den Boden und schieben Sie ihn nach vorne, zurück in die Mitte, zur Seite, zurück in die Mitte, und hinter vor der Rückkehr. Wiederholen Sie auf dem gegenüberliegenden Bein.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-097",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Einbeinig Drei-Richtung-Boden-Folie",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "closed-chain"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Ein-Bein Drei-Richtung-Schritt-über",
+          "image": "",
+          "description": "Diese Übung stellt die Kontrolle der Haltung und die Stabilität der unteren Extreme bei kontrollierter Beugung, Abduktion und Extension der Hüfte in Frage.",
+          "howToDo": "Stehen Sie auf einem unteren Glied mit einer stabilen Stütze zur Verfügung. Heben Sie den gegenüberliegenden Fuß frei vom Boden und legen Sie ihn leicht vor, seitlich und nach hinten, zurück in die Mitte nach jeder Richtung. Wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-098",
+          "sezione": "Hüfte und Knie - Funktionelle Mobilität",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Ein-Bein Drei-Richtung-Schritt-über",
+          "movementDistrict": "hip",
+          "movementTags": [
+            "flexion",
+            "abduction",
+            "extension",
+            "stabilization",
+            "obstacle-clearance"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "hip-knee-functional-mobility"
+    },
+    {
+      "nome": "Knee - Mobility",
+      "esercizi": [
+        {
+          "nome": "In Rückenlage Absatz Folie für Knie Flexion und Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Legen Sie sich in Rückenlage auf einer festen, bequemen Oberfläche mit verlängerten Beinen. Schieben Sie langsam Ihren rechten Absatz entlang der Matratze und bringen Sie ihn in Richtung Ihrer Gesäßregion, sodass Sie Ihr Knie durch den verfügbaren bequemen Bereich biegen. Dann schieben Sie Ihre Ferse nach vorne, um wieder in die Ausgangsposition. Wiederholen Sie 5 mal für jedes Bein.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-014",
+          "sezione": "Knee - Mobility",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Absatz Folie für Knie Flexion und Extension",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In Bauchlage aktiv Knie Flexion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung verbessert werden.",
+          "howToDo": "Liegen anfällig auf einer festen, bequemen Oberfläche. Flex ein Knie, um die Ferse in Richtung der Gluteal Bereich durch die zur Verfügung bequeme Bereich bewegen. Halten Sie die Position 3 Sekunden lang, langsam unter, und wiederholen Sie auf der gegenüberliegenden Seite. Platzieren Sie ein niedriges Kissen unter dem Bauch, wenn für Komfort erforderlich.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-015",
+          "sezione": "Knee - Mobility",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "In Bauchlage aktiv Knie Flexion",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende Pendular Knie Flexion und Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Beugung und Extension verbessert werden.",
+          "howToDo": "Setzen Sie sich auf einen ausreichend hohen Stuhl, sodass die unteren Beine frei bewegen können. Lassen Sie ein Knie zu beugen und verlängern durch einen kleinen Pendelbereich für 10 Sekunden, dann wiederholen Sie mit dem gegenüberliegenden Bein.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-016",
+          "sezione": "Knee - Mobility",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Pendular Knie Flexion und Extension",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sitzende Knie-Zirkumduktion",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Zirkumduktion des Knies verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl mit den Füßen auf dem Boden ruhen. Heben Sie Ihren rechten Fuß leicht vom Boden und ziehen Sie kleine Kreise in die Luft mit Ihrem Knie. Machen Sie 5 langsame Kreise in eine Richtung, dann 5 in die entgegengesetzte Richtung. Platzieren Sie den Fuß nach unten und wiederholen Sie mit dem linken Bein.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-034",
+          "sezione": "Knee - Mobility",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Knie-Zirkumduktion",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-mobility"
+    },
+    {
+      "nome": "Knee - Anterior Region",
+      "esercizi": [
+        {
+          "nome": "Im Sitzen Short-Arc Knie Extension aus",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zum Knie, mit Schwerpunkt auf Extension.",
+          "howToDo": "Setzen Sie sich auf das Bett oder auf ein bequemes Sofa mit ausgestreckten Beinen vor sich. Legen Sie ein gerolltes Handtuch oder ein kleines Kissen unter Ihren rechten Oberschenkel, knapp über dem Knie. Drücken Sie die Rückseite des Oberschenkels nach unten gegen das Kissen und gleichzeitig geraden Sie Ihr Knie, indem Sie Ihre Ferse vom Bett. Halten Sie Ihr Bein gerade für 4 Sekunden, dann langsam wieder nach unten.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-013",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Short-Arc Knie Extension aus",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende aktive Knie-Extension mit Absatz-Unterstützung",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knies während der Extension verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Legen Sie Ihre rechte Ferse auf den Boden leicht vor Ihnen, mit Ihren Zehen nach oben. Langsam geraden Sie Ihr Knie so viel wie bequem, sanft straffen die Vorderseite des Oberschenkels. Halten Sie die Position 3 Sekunden lang, und entspannen Sie anschließend. Wiederholen Sie 5 Mal und schalten Sie die Beine.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-043",
+          "sezione": "Knee - Anterior Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende aktive Knie-Extension mit Absatz-Unterstützung",
+          "movementDistrict": "knee",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "knee-anterior-region"
+    },
+    {
+      "nome": "Unterschenkel - Hintere Region",
+      "esercizi": [
+        {
+          "nome": "Unterstützte Im Stand Heel Raise",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich des Knöchels während der Plantarbeugung verbessern.",
+          "howToDo": "Stehen Sie hinter der Rückenlehne eines stabilen Stuhls, oder vor einem Tisch, und legen Sie beide Hände auf ihn zur Sicherheit. Halten Sie Ihren Körper gerade, langsam heben Sie Ihre Fersen vom Boden, steigen auf die Zehen. Bleiben Sie für 2 Sekunden, dann langsam senken Sie sich wieder nach unten, setzen Sie die gesamte Sohle Ihres Fußes auf den Boden. Wiederholen Sie 10 mal.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-017",
+          "sezione": "Unterschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Im Stand Heel Raise",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Gastrocnemius Dehnung an der Wand",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zum Knöchel, mit Schwerpunkt auf dorsiflexion.",
+          "howToDo": "Stehen Sie mit Blick auf eine Wand und legen Sie beide Hände auf Brusthöhe. Treten Sie Ihren rechten Fuß leicht rückwärts, halten Sie die Ferse auf dem Boden und das Knie gerade. Biegen Sie das vordere Knie ein wenig, bis Sie eine sanfte Dehnung im hinteren Kalb fühlen. Halten Sie die Position 5 Sekunden lang, dann schalten Sie die Beine.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-035",
+          "sezione": "Unterschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Gastrocnemius Dehnung an der Wand",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende isometrische Plantar-Flexion",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Knöchels zu entwickeln, mit Schwerpunkt auf der Plantarflexion.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Drücken Sie den Vorderfuß einer Seite in den Boden, um Plantar-Flexor Spannung zu erzeugen, ohne die Ferse zu heben. Halten Sie die Position 5 Sekunden lang, entspannen Sie sich und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-044",
+          "sezione": "Unterschenkel - Hintere Region",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Plantar-Flexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "isometric"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "lower-leg-posterior-region"
+    },
+    {
+      "nome": "Sprunggelenk",
+      "esercizi": [
+        {
+          "nome": "Im Sitzen aktiv Sprunggelenk Dorsiflexion",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Knöchels während der dorsiflexion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Halten Sie beide Absätze in Kontakt mit dem Boden und dorsiflex die Knöchel, um die Vorderfeet zu erhöhen. Halten Sie die Position 3 Sekunden lang, dann langsam unter. Wiederholen Sie für 10 Wiederholungen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-018",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen aktiv Sprunggelenk Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "dorsiflexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende Sprunggelenk Plantar Flexion und Dorsiflexion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knöchels während der Plantarflexion und der Dorsiflexion verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht und heben Sie einen Fuß leicht vom Boden. Bewegen Sie den Knöchel in Plantarflexion und dann dorsiflexion durch die verfügbaren komfortablen Bereich. Wiederholen Sie für 10 Zyklen, dann wechseln Sie die Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-019",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Sprunggelenk Plantar Flexion und Dorsiflexion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende isometrische Sprunggelenk Eversion",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Knöchels zu entwickeln, mit Schwerpunkt auf Eversion.",
+          "howToDo": "Sitzen Sie aufrecht mit den seitlichen Rändern der beiden Füße gegen die inneren Oberflächen der stabilen Stuhl Beine. Nach außen Druck durch die Füße, ohne Bewegung. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-020",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Sprunggelenk Eversion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende multidirektionale Sprunggelenk Bewegungsumfang",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Zirkumduktion des Knöchels verbessern.",
+          "howToDo": "Sitzen Sie aufrecht und erheben Sie einen Fuß leicht vom Boden. Bewegen Sie den Knöchel durch mehrere Richtungen, um die Zahlen 1 bis 5 mit der großen Zehe. Senken Sie den Fuß und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-021",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende multidirektionale Sprunggelenk Bewegungsumfang",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende isometrische Sprunggelenk Inversion",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Knöchels zu entwickeln, mit Schwerpunkt auf Inversion.",
+          "howToDo": "Sitzen Sie in der Nähe der Vorderseite eines Stuhls mit den Knien leicht auseinander und die medialen Grenzen der Füße in Kontakt. Drücken Sie die Füße zusammen ohne sichtbare Bewegung. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-022",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Sprunggelenk Inversion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende aktive Sprunggelenk Eversion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knöchels während der Eversion verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Halten Sie eine Ferse in Kontakt mit dem Boden und immer den Knöchel durch die Erhöhung der seitlichen Grenze des Fußes. Halten Sie die Position 3 Sekunden lang, langsam unter, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-023",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende aktive Sprunggelenk Eversion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "eversion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende Sprunggelenk Plantar Flexion und Dorsiflexion Rock",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Knöchels während der Plantarflexion und der Dorsiflexion verbessert werden.",
+          "howToDo": "Setzen Sie sich auf den vorderen Teil eines Stuhls, mit dem Rücken weg von der Rückenlehne. Heben Sie langsam Ihre Fersen, steigen auf Ihre Zehen. Senken Sie sie langsam wieder nach unten und, ohne zu stoppen, heben Sie Ihre Zehen, auf Ihre Fersen. Setzen Sie diese langsame, kontrollierte Schaukelbewegung 5 Mal.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-024",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Sprunggelenk Plantar Flexion und Dorsiflexion Rock",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Unterstützte Stehende Vorder-und Hinter-Gewichtsverschiebung",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter Plantarflexion und Dorsiflexion des Knöchels vor Herausforderungen.",
+          "howToDo": "Stehen Sie hinter einem stabilen Stuhl und halten Sie sich mit beiden Händen fest. Verschieben Sie Ihr Körpergewicht langsam auf die Zehen und heben Sie die Fersen leicht vom Boden. Dann verschieben Sie Ihr Gewicht langsam nach hinten auf die Fersen und heben Sie den vorderen Teil der Füße leicht. Setzen Sie diese sanfte Schaukelbewegung für 5 Wiederholungen fort.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "lower-limb-032",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Stehende Vorder-und Hinter-Gewichtsverschiebung",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "plantar-flexion",
+            "dorsiflexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende aktive Sprunggelenk Inversion",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungsumfang und die Bewegungssteuerung des Knöchels während der Inversion verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Halten Sie eine Ferse in Kontakt mit dem Boden und invertieren Sie den Knöchel durch Erhöhung der medialen Grenze des Fußes. Halten Sie die Position 2 Sekunden lang, langsam unter, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-045",
+          "sezione": "Sprunggelenk",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende aktive Sprunggelenk Inversion",
+          "movementDistrict": "ankle",
+          "movementTags": [
+            "inversion"
+          ],
+          "difficulty": 4
+        }
+      ],
+      "id": "ankle"
+    },
+    {
+      "nome": "Foot",
+      "esercizi": [
+        {
+          "nome": "Sitzende Zehenflexion mit Handtuch",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich von Fuß und Zehen während der Zehenbeugung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Spreizen Sie ein Tuch Taschentuch, oder ein Stück Küchenpapier, auf dem Boden vor dem rechten Fuß. Legen Sie Ihren nackten Fuß, oder Ihren Fuß mit einer Socke auf, über das Taschentuch. Verwenden Sie nur Ihre Zehen, knirschen und ziehen Sie das Tuch zu Ihrer Ferse. Wiederholen Sie 3 Mal, dann schalten Sie die Füße.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-025",
+          "sezione": "Foot",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Zehenflexion mit Handtuch",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende Zehen Abduktion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Füße und Zehen während der Zehenentführung verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Halten Sie die Metatarsalköpfe in Kontakt mit dem Boden und entführen Sie die Zehen eines Fußes. Halten Sie die Position 3 Sekunden lang, entspannen Sie sich und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-026",
+          "sezione": "Foot",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Zehen Abduktion",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sitzende Plantar Soft-Tissue-Mobilisierung mit Ball",
+          "image": "",
+          "description": "Diese Selbstmobilisierungsübung wendet kontrollierten Druck auf Fuß und Zehen an, um lokale Weichteil-Mobilität und Sinnesbewusstsein zu unterstützen.",
+          "howToDo": "Sitzen Sie aufrecht. Legen Sie einen Tennisball oder eine harte Gummikugel unter die Sohle Ihres rechten Fußes. Schieben Sie Ihren Fuß nach vorne und rückwärts über den Ball, auf sanften Druck, von der Ferse bis zu den Zehen. Setzen Sie diese langsame Massage für 15 Sekunden, dann wechseln Sie auf den linken Fuß.",
+          "whatToDo": "Tragen Sie leichten bis moderaten Druck und bewegen Sie sich langsam über die Plantar Weichgewebe, während der Fuß und Knöchel entspannt.",
+          "whatNotToDo": "Bei Taubheitsgefühl, Kribbeln oder starken Schmerzen dürfen Sie keinen Druck auf knöcherne Prominenzen ausüben oder fortfahren.",
+          "id": "lower-limb-027",
+          "sezione": "Foot",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Plantar Soft-Tissue-Mobilisierung mit Ball",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "mobility",
+            "soft-tissue-mobilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende große Zehen und kleinere Zehen Dissoziation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich von Fuß und Zehen während der Zehenverlängerung verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Heben Sie die große Zehe eines Fußes, während die weniger Zehen in Kontakt mit dem Boden. Wenden Sie das Muster durch Drücken der großen Zehe nach unten und heben die weniger Zehen. Wechseln Sie langsam, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Stabilisieren Sie das proximale Segment, isolieren Sie die vorgesehene Bewegung und führen Sie jede Wiederholung langsam mit möglichst wenigen Ausweichbewegungen aus.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-028",
+          "sezione": "Foot",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende große Zehen und kleinere Zehen Dissoziation",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-extension",
+            "selective-control"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende Isometrische Zehenflexion",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Füße und Zehen zu entwickeln, mit Schwerpunkt auf Zehenflexion.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Drücken Sie die Zehen eines Fußes sanft in den Boden, während die Minimierung übermäßige Zehenlocken. Halten Sie die Position 5 Sekunden lang, entspannen Sie, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-046",
+          "sezione": "Foot",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Isometrische Zehenflexion",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende isometrische Great-Toe-Flexion",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Füße und Zehen zu entwickeln, mit Schwerpunkt auf Zehenflexion.",
+          "howToDo": "Setzen Sie sich mit den Füßen flach auf den Boden. Halten Sie den rechten Fuß still und drücken Sie nur die große Zehe nach unten in den Boden. Halten Sie den Druck für 3 Sekunden, und entspannen Sie anschließend. Wiederholen Sie 5 Mal, dann schalten Sie die Füße.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "lower-limb-047",
+          "sezione": "Foot",
+          "distretto": "Untere Extremität",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Great-Toe-Flexion",
+          "movementDistrict": "foot",
+          "movementTags": [
+            "toe-flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "foot"
+    }
+  ],
+  "id": "lower-limb"
+}

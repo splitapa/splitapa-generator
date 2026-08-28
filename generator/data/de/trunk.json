@@ -1,0 +1,1455 @@
+{
+  "distretto": "Rumpf",
+  "sezioni": [
+    {
+      "nome": "Chest",
+      "esercizi": [
+        {
+          "nome": "Sitzende Bilaterale Vorwärtspresse",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Brustkorbes und der Brustregion während der horizontalen Adduktion verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit dem Rücken gestützt. Beginnen Sie mit beiden Ellbogen gebeugt und die Fäuste neben der Brust positioniert. Erweitern Sie beide Arme nach vorne in Brusthöhe, Pause kurz, dann biegen Sie die Ellbogen zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-001",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Bilaterale Vorwärtspresse",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Schulter horizontale Abduktion mit Brustwirbelsäule Expansion",
+          "image": "",
+          "description": "Diese Atemübung soll die kontrollierte Atmungsmechanik des Brustkorbes und der Brustregion verbessern, wobei der Schwerpunkt auf der horizontalen Abduktion liegt.",
+          "howToDo": "Sitzen Sie aufrecht oder stehen Sie. Erweitern Sie Ihre Arme nach vorne vor Ihnen, mit Ihren Handflächen gegenüber einander. Während Sie tief durch die Nase atmen, öffnen Sie Ihre Arme an die Seiten so weit wie möglich, bringen sie leicht nach hinten, sodass Sie Ihre Brust öffnen fühlen. Halten Sie die Luft für 2 Sekunden, dann atmen Sie aus, wie Sie Ihre Hände wieder nach vorne bringen.",
+          "whatToDo": "Halten Sie Halswirbelsäule und Schultern entspannt. Atmen Sie langsam und ungezwungen und lassen Sie die Ausatmung vollständig und allmählich erfolgen.",
+          "whatNotToDo": "Erzwingen Sie weder Ein- noch Ausatmung, hyperventilieren Sie nicht und halten Sie nicht den Atem an. Brechen Sie die Übung bei Schwindel oder ungewöhnlicher Atemnot ab.",
+          "id": "trunk-002",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Schulter horizontale Abduktion mit Brustwirbelsäule Expansion",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-abduction",
+            "breathing"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wand Push-Up",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Brustkorbes und der Brustregion während der horizontalen Adduktion verbessert werden.",
+          "howToDo": "Stehen Sie mit Blick auf eine flache Wand, etwa einen Schritt entfernt. Legen Sie die Handflächen auf die Wand in Brusthöhe, halten Sie die Arme gerade. Verbiegen Sie langsam Ihre Ellenbogen an die Seiten, um Ihr Gesicht und Brust näher an die Wand zu bringen, während Sie Ihren Körper gerade. Dann drücken Sie durch die Hände, um zurück in die Ausgangsposition mit den Armen gerade.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-003",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Wand Push-Up",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Sitzende Schulter horizontale Adduktion",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich des Brustkorbes und der Brustregion während der horizontalen Adduktion verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Armen seitlich in Schulterhöhe verlängert. Bewegen Sie die Arme nach vorne in horizontale Adduktion, bis die Handgelenke Kreuz vor dem Brustbein. Zurück langsam in die Ausgangsposition.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-004",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Schulter horizontale Adduktion",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Sitzen Lateral Costal Atmen",
+          "image": "",
+          "description": "Diese Atemübung soll die kontrollierte Atmungsmechanik des Brustkorbes und des Brustraumes verbessern, wobei der Schwerpunkt auf der lateralen Ausdehnung der Costale liegt.",
+          "howToDo": "Sitzen Sie aufrecht und legen Sie beide Hände über die seitlichen unteren Rippen. Inhalieren Sie langsam durch die Nase und richten Sie die Ausdehnung in die Hände. Ausatmen allmählich und lassen Sie die Rippenkäfig zu seiner Ruheposition zurück. Wiederholen Sie für 5 Atemzyklen.",
+          "whatToDo": "Halten Sie Halswirbelsäule und Schultern entspannt. Atmen Sie langsam und ungezwungen und lassen Sie die Ausatmung vollständig und allmählich erfolgen.",
+          "whatNotToDo": "Erzwingen Sie weder Ein- noch Ausatmung, hyperventilieren Sie nicht und halten Sie nicht den Atem an. Brechen Sie die Übung bei Schwindel oder ungewöhnlicher Atemnot ab.",
+          "id": "trunk-024",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Lateral Costal Atmen",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende isometrische Pectoral Press mit Kissen",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Brustkorbes und der Brustregion zu entwickeln, wobei der Schwerpunkt auf der horizontalen Adduktion liegt.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl. Halten Sie ein weiches Kissen vor Ihrer Brust zwischen den Unterarmen, halten Sie Ihre Ellbogen gebogen. Drücken Sie vorsichtig Ihre Unterarme nach innen, um das Kissen zu drücken. Halten Sie den Druck für 5 Sekunden, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-025",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Pectoral Press mit Kissen",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "horizontal-adduction",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Selbst-Hug Brustwirbelsäule Expansion Atmung",
+          "image": "",
+          "description": "Diese Atemübung soll die kontrollierte Atmungsmechanik des Brustkorbes und des Brustkorbes verbessern, wobei der Schwerpunkt auf der Brustkorbausdehnung liegt.",
+          "howToDo": "Legen Sie die Arme über die Brust und wickeln Sie die Arme in einen bequemen Selbstzug. Atmen Sie langsam und tief ein und lenken Sie den Atem in die obere Brust und die Seiten des Rippenkäfigs, sodass sich die Rippen sanft gegen die Arme ausdehnen. Ausatmen und entspannen.",
+          "whatToDo": "Halten Sie Halswirbelsäule und Schultern entspannt. Atmen Sie langsam und ungezwungen und lassen Sie die Ausatmung vollständig und allmählich erfolgen.",
+          "whatNotToDo": "Erzwingen Sie weder Ein- noch Ausatmung, hyperventilieren Sie nicht und halten Sie nicht den Atem an. Brechen Sie die Übung bei Schwindel oder ungewöhnlicher Atemnot ab.",
+          "id": "trunk-063",
+          "sezione": "Chest",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Selbst-Hug Brustwirbelsäule Expansion Atmung",
+          "movementDistrict": "chest",
+          "movementTags": [
+            "breathing",
+            "rib-expansion",
+            "stretch"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "chest"
+    },
+    {
+      "nome": "Bauch",
+      "esercizi": [
+        {
+          "nome": "Sitzende Abdominal Drawing-In",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Bauchwand und lumbopelvinen-Region während der kontrollierten Stabilisierung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht weg von der Rückenlehne mit beiden Füßen unterstützt. Atmen Sie langsam beim Zeichnen der unteren Bauchwand nach innen, ohne die Wirbelsäule oder Becken zu bewegen. Halten Sie die Kontraktion für 4 Sekunden, während Sie weiter atmen, und entspannen Sie anschließend.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-005",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Abdominal Drawing-In",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Sitzen Alternating Hüfte Flexion mit Rumpf-Stabilisierung",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Bauchwand und lumbopelvinen-Region während der kontrollierten Stabilisierung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht an der Vorderseite eines Stuhls mit beiden Füßen unterstützt. Aktivieren Sie die Bauchwand, dann heben Sie ein Knie ein paar Zentimeter ohne Änderung Stamm oder Becken Ausrichtung. Untere langsam und abwechselnde Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-006",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Alternating Hüfte Flexion mit Rumpf-Stabilisierung",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Sitzen Rumpf Lateral Flexion",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Bauchwand und des lumbopelvinen-Bereichs während der lateralen Beugung verbessern.",
+          "howToDo": "Sitzen Sie aufrecht auf einem stabilen Stuhl mit den Füßen auseinander positioniert. Schieben Sie eine Hand zum Boden, während seitlich beugen den Kofferraum. Kehren Sie in die Neutralstellung zurück mit kontrollierter Bauchaktivierung, dann wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-007",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Rumpf Lateral Flexion",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sitzende isometrische Abdominal Verriegelung mit manuellen Widerstand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Bauchwand und lumbopelvinen Region zu entwickeln, mit Schwerpunkt auf statische Stabilisierung.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt und legen Sie die Handflächen über die distalen Oberschenkel. Während einer langsamen Ausatmung, nach unten Druck durch die Hände, während die Aktivierung der Bauchwand ohne Änderung der Rumpfposition. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-008",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Abdominal Verriegelung mit manuellen Widerstand",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende isometrische Absatzpresse für Rumpf-Stabilisierung",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Bauchwand und lumbopelvinen Region zu entwickeln, mit Schwerpunkt auf statische Stabilisierung.",
+          "howToDo": "Sitzen Sie aufrecht auf der vorderen Hälfte eines Stuhls mit den Füßen auf dem Boden ruhen. Legen Sie Ihre Hände auf die Oberschenkel. Drücken Sie vorsichtig beide Absätze nach unten in den Boden, während leicht straffen Sie Ihre Bauchmuskeln. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-026",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende isometrische Absatzpresse für Rumpf-Stabilisierung",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende kontralaterale Hand-zu-Knie-Anti-Rotations-Presse",
+          "image": "",
+          "description": "Diese kontralaterale isometrische Übung Herausforderungen abdominale und lumbopelvinen Kontrolle, indem der Stamm zu widerstehen Rotation.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Heben Sie das rechte Knie leicht und legen Sie die linke Handfläche auf den distalen vorderen Oberschenkel. Drücken Sie den Oberschenkel nach oben und die Hand nach unten mit gleicher submaximalen Kraft, während die Bewegung des Rumpfes und Beckens zu verhindern. Halten Sie die Position 5 Sekunden lang, dann wiederholen Sie mit der gegenüberliegenden Hand und Knie.",
+          "whatToDo": "Halten Sie eine neutrale Wirbelsäule, halten beide Schultern Höhe, und widerstehen jeder Tendenz für den Rumpf oder Becken zu drehen, während die Atmung normal.",
+          "whatNotToDo": "Lehnen Sie sich nicht nach hinten, drehen Sie den Stamm, heben Sie die Schulter, halten Sie den Atem an oder verwenden Sie maximale Kraft.",
+          "id": "trunk-027",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende kontralaterale Hand-zu-Knie-Anti-Rotations-Presse",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "anti-rotation",
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage Alternating Heel Tap",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Bauchwand und lumbopelvinen-Region während der kontrollierten Stabilisierung verbessern.",
+          "howToDo": "Liegen Sie auf einer Matte mit den Knien gebogen und die Füße ruhen auf dem Boden. straffen Sie Ihre Bauchmuskeln leicht. Heben Sie den rechten Fuß ein paar Zentimeter vom Boden und klopfen Sie sanft die Ferse nach vorne, dann bringen Sie es zurück in die Ausgangsposition. Wiederholen Sie 5 Mal, dann schalten Sie die Beine.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-034",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Alternating Heel Tap",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dynamische Seitenplanke durchführen",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Bauchwand und des lumbopelvinen-Bereichs während der seitlichen Beugung verbessern.",
+          "howToDo": "Stellen Sie sich in einem Seitenbrett von den Knien oder Füßen. Heben Sie die Hüften weg vom Boden, unter mit Kontrolle, und wiederholen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-046",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Dynamische Seitenplanke durchführen",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "lateral-flexion",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage Hollow-Body Isometrische halten",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Bauchwand und lumbopelvinen Region zu entwickeln, mit Schwerpunkt auf statische Stabilisierung.",
+          "howToDo": "Legen Sie sich auf den Rücken und drücken Sie den unteren Rücken vorsichtig zum Boden. Heben Sie die Beine und Arme nur so weit, wie Sie die Kontrolle behalten können.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-056",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Hollow-Body Isometrische halten",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "stabilization",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage Diaphragmatic Breathing",
+          "image": "",
+          "description": "Diese Atemübung soll die kontrollierte Atmungsmechanik der Bauchwand und der lumbopelvinen-Region verbessern, wobei der Schwerpunkt auf der diaphragmatischen Atmung und der Expansion des Bauches liegt.",
+          "howToDo": "Legen Sie eine Hand über die obere Brust und die andere über den Bauch. Inhalieren Sie langsam durch die Nase, sodass die Bauchwand zu steigen, während die Begrenzung der oberen Brustbewegung. Ausatmen allmählich und ermöglichen den Bauch zurück.",
+          "whatToDo": "Halten Sie Halswirbelsäule und Schultern entspannt. Atmen Sie langsam und ungezwungen und lassen Sie die Ausatmung vollständig und allmählich erfolgen.",
+          "whatNotToDo": "Erzwingen Sie weder Ein- noch Ausatmung, hyperventilieren Sie nicht und halten Sie nicht den Atem an. Brechen Sie die Übung bei Schwindel oder ungewöhnlicher Atemnot ab.",
+          "id": "trunk-064",
+          "sezione": "Bauch",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Diaphragmatic Breathing",
+          "movementDistrict": "abdomen",
+          "movementTags": [
+            "breathing",
+            "diaphragmatic-breathing"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "abdomen"
+    },
+    {
+      "nome": "Trunk - Integrated Stability",
+      "esercizi": [
+        {
+          "nome": "Sitzenden Ball Transfer rund um den Kofferraum",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl und halten Sie eine kleine weiche Kugel oder Kissen mit beiden Händen. Übergeben Sie das Objekt von einer Hand auf die andere um die Taille, bewegen Sie es hinter dem Rücken und dann zurück nach vorne. Machen Sie 5 langsame Kreise in eine Richtung, dann 5 in die entgegengesetzte Richtung.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-022",
+          "sezione": "Trunk - Integrated Stability",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzenden Ball Transfer rund um den Kofferraum",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Vierfüßlerstand Contralateral Arm und Bein Extension",
+          "image": "",
+          "description": "Diese Übung soll die Motorsteuerung und Stabilität der Wirbelsäule während der Extension verbessern.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position auf einer gepolsterten Oberfläche an. Verlängern Sie den rechten Arm nach vorne und das linke Bein zur gleichen Zeit nach hinten. Halten Sie die Position für 2 Sekunden, dann zurück in die Ausgangsposition. Wiederholen Sie mit dem linken Arm und dem rechten Bein. Wechseln Sie langsam für 5 Wiederholungen auf jeder Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-033",
+          "sezione": "Trunk - Integrated Stability",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Contralateral Arm und Bein Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "stabilization",
+            "extension"
+          ],
+          "difficulty": 5
+        }
+      ],
+      "id": "abdomen-back-integrated-stability"
+    },
+    {
+      "nome": "Becken - Mobilität und Stabilität",
+      "esercizi": [
+        {
+          "nome": "Sitzende vordere und hintere Becken Tilt",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte vordere Beckenneigung und die hintere Beckenneigung des Beckens und der lumbopelvinen-Region verbessern.",
+          "howToDo": "Sitzen Sie in der Nähe der Vorderseite eines Stuhls mit beiden Füßen unterstützt und die Hände auf den Oberschenkeln ruhen. Bewegen Sie das Becken in vordere Neigung mit einer geringen Zunahme der Lendenwirbelverlängerung, dann in hintere Neigung mit sanfter Lendenwirbelflexion. Wechseln Sie langsam für 10 Wiederholungen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-010",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende vordere und hintere Becken Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "In Rückenlage Bridge aus",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Beckens und der lumbopelvinen-Region während der Extension verbessern.",
+          "howToDo": "Lie In Rückenlage mit den Knien gebeugt, die Füße voll gestützt, und die Arme neben dem Rumpf. Aktivieren Sie die Gesäßmuskulatur und verlängern die Hüften, um das Becken eine kurze Strecke zu erhöhen. Halten Sie die Position 3 Sekunden lang, dann senken Sie die Wirbelsäule und Becken allmählich.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-011",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Bridge aus",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Hüfte-Abduktion mit externem Widerstand",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Beckens und lumbopelvinen Region zu entwickeln, mit Schwerpunkt auf Abduktion.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Legen Sie ein elastisches Band um die distalen Oberschenkel oder legen Sie beide Hände gegen die seitlichen Aspekte der Knie. Ableiten Sie die Hüften gegen den äußeren Widerstand ohne Änderung der Fußposition. Halten Sie die Position 5 Sekunden lang, dann langsam zurück.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-012",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Hüfte-Abduktion mit externem Widerstand",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "abduction",
+            "isometric"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Im Sitzen Lateral Becken Gewichtsverlagerung",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter Seitengewichtsverschiebung des Beckens und des lumbopelvinen-Gebiets vor Herausforderungen.",
+          "howToDo": "Sitzen Sie aufrecht auf einem Stuhl mit den Füßen ruhen auf dem Boden. Ohne Ihre Gluteal Region zu heben, langsam Ihr Gewicht in Richtung der rechten Seite des Beckens verschieben, dann zurück in die Mitte. Wiederholen Sie in Richtung der linken Seite. Wechseln Sie langsam für 10 Wiederholungen.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "trunk-028",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Lateral Becken Gewichtsverlagerung",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Bridge Isometrische Halteposition",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle des Beckens und lumbopelvinen Region zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Legen Sie sich auf den Rücken mit den Knien gebogen und Füße geerdet. Drücken Sie durch die Füße und heben Sie die Hüften in eine Brücke, dann halten Sie beim Atmen.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-062",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Bridge Isometrische Halteposition",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Rückenlage anterior-Posterior Becken Tilt",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte vordere Beckenneigung und die hintere Beckenneigung des Beckens und der lumbopelvinen-Region verbessern.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Knien gebogen und die Füße flach. Schwenken Sie vorsichtig das Becken nach hinten, um den Raum unter dem unteren Rücken zu reduzieren, dann kippen Sie es nach vorne, um einen kleinen natürlichen Bogen wiederherzustellen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-065",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage anterior-Posterior Becken Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "mobility"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Stehend anterior-Posterior Becken Tilt",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter anteriorer Beckenneigung und posteriorer Beckenneigung des Beckens und der lumbopelvinen-Region vor Herausforderungen.",
+          "howToDo": "Stehen Sie mit den Füßen etwa Hüftbreite auseinander und die Knie weich gebogen. Kippen Sie das Becken nach hinten durch sanftes Schleppen des Schwanzbeins, dann kippen Sie es nach vorne, um zu einer kleinen natürlichen unteren Rückenkurve zurück. Wechseln Sie langsam.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "trunk-066",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Stehend anterior-Posterior Becken Tilt",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-pelvic-tilt",
+            "posterior-pelvic-tilt",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Stehende Becken vorwärts-rückwärts Übersetzung",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte vordere Beckenübersetzung und die hintere Beckenübersetzung des Beckens und des Lumbopelvicums verbessern.",
+          "howToDo": "Stehen Sie hoch mit den Füßen Hüftbreite auseinander und die Hände auf den Hüften. Halten Sie die Brust ruhig, gleiten Sie das Becken nach vorne, kehren Sie in die Mitte zurück, dann gleiten Sie nach hinten und wieder zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-067",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Stehende Becken vorwärts-rückwärts Übersetzung",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-translation",
+            "posterior-translation",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Stand Lateral Becken Übersetzung",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter Seitengewichtsverschiebung des Beckens und des lumbopelvinen-Gebiets vor Herausforderungen.",
+          "howToDo": "Stehen Sie hoch mit den Füßen Hüftbreite auseinander und die Hände auf den Hüften. Gleiten Sie das Becken nach rechts, zurück in die Mitte, dann gleiten Sie es nach links, während beide Füße in Kontakt mit dem Boden.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "trunk-068",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Lateral Becken Übersetzung",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "lateral-shift",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Stand Becken Square Muster",
+          "image": "",
+          "description": "Diese Übung soll das aktive Bewegungsspektrum und die Bewegungssteuerung des Becken- und lumbopelvinen-Bereichs während der vorderen Becken-Übersetzung, der seitlichen Gewichtsverschiebung und der hinteren Becken-Übersetzung verbessern.",
+          "howToDo": "Stehen Sie hoch mit den Füßen Hüftbreite auseinander und die Hände auf den Hüften. Bewegen Sie das Becken nach vorne, dann rechts, dann rückwärts, dann links, um ein Quadrat zu zeichnen. Zurück in die Mitte und wiederholen Sie in die entgegengesetzte Richtung.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-069",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Becken Square Muster",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "anterior-translation",
+            "lateral-shift",
+            "posterior-translation",
+            "coordination"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Becken Zirkumduktion mit Rumpf Stabilisation",
+          "image": "",
+          "description": "Diese Übung stellt die posturale Kontrolle und die Stabilität des unteren Beckens bei kontrollierter Zirkumduktion des Beckens und des Lumbopelvicums vor Herausforderungen.",
+          "howToDo": "Stehen Sie hoch mit den Füßen etwas auseinander und die Hände an den Hüften. Gleiten Sie das Becken nach vorne, nach einer Seite, rückwärts, und auf der anderen Seite, um einen langsamen Kreis abzuschließen. Wiederholen Sie in beiden Richtungen.",
+          "whatToDo": "Verwenden Sie bei Bedarf eine stabile Stütze. Achten Sie auf eine neutrale Ausrichtung der unteren Extremitäten und führen Sie jede Bewegung langsam und kontrolliert aus.",
+          "whatNotToDo": "Übung bei unsicherem Gleichgewicht nicht ohne stabile Stütze fort. Vermeiden Sie schnelle Gewichtsverlagerungen und den Verlust der Beinachse.",
+          "id": "trunk-070",
+          "sezione": "Becken - Mobilität und Stabilität",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Becken Zirkumduktion mit Rumpf Stabilisation",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility",
+            "stabilization"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "id": "pelvis-mobility-stability"
+    },
+    {
+      "nome": "Wirbelsäule - Mobilität und motorische Kontrolle",
+      "esercizi": [
+        {
+          "nome": "Bilaterale Schulterverlängerung mit Skapula Retraction aus",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der skapulären Retraktion und Extension verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht weg von der Rückenlehne mit beiden Armen nach vorne angehoben. Flex die Ellbogen und ziehen Sie sie nach unten neben dem Stamm beim Zurückziehen der Schulterklappen. Halten Sie die Position 3 Sekunden lang, dann verlängern Sie die Arme wieder nach oben.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-013",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Bilaterale Schulterverlängerung mit Skapula Retraction aus",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "scapular-retraction",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Rumpf Drehung",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt und die Arme über die Brust gekreuzt. Halten Sie das Becken in neutral und drehen Sie den Thorax und Kopf auf eine Seite durch die zur Verfügung bequeme Bereich. Halten Sie die Position 3 Sekunden lang, Kehren Sie in die Neutralstellung zurück, und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-016",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Rumpf Drehung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Diagonal Rumpf Drehung Reichweite",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Rotation und der lateralen Beugung verbessert werden.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt und die Hände auf den Oberschenkeln ruhen. Erreichen Sie einen Arm diagonal nach oben über die Mittellinie mit kontrollierter Rumpfdrehung. Kehren Sie in die Neutralstellung zurück und wiederholen Sie auf der gegenüberliegenden Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-021",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Diagonal Rumpf Drehung Reichweite",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Im Stand Axial Spine Dehnung an der Wand",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, mit Schwerpunkt auf Extension.",
+          "howToDo": "Stehen Sie mit dem Rücken gegen eine Wand. Halten Sie Ihre Füße leicht weg von der Wand und Ihre Knie weich gebogen. Drücken Sie vorsichtig den mittleren und oberen Teil des Rückens gegen die Wand, während die Extension der Oberseite des Kopfes in Richtung der Decke. Halten Sie diese Position für 5 Sekunden, und entspannen Sie anschließend.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-023",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Axial Spine Dehnung an der Wand",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende Brustwirbelsäule Extension",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, mit Schwerpunkt auf Extension.",
+          "howToDo": "Setzen Sie sich auf die vordere Hälfte eines Stuhls mit den Händen, die auf den Oberschenkeln ruhen. Schieben Sie die Hände leicht nach hinten entlang der Oberschenkel, während Sie Ihre Brust und Extension der Wirbelsäule. Halten Sie die hohe Position für 5 Sekunden, und entspannen Sie anschließend.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-029",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Brustwirbelsäule Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sitzende Rumpf-Flexion und Extension",
+          "image": "",
+          "description": "Diese Übung soll die motorische Kontrolle und Stabilität der Wirbelsäule während der Beugung und Extension verbessern.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt und die Arme nach vorne auf Brusthöhe verlängert. Flex den Stamm leicht nach vorne zu erreichen, dann aktivieren Sie die Wirbelsäule Extensor und Bauchmuskeln, um in die aufrechte Position zurück. Wiederholen Sie langsam für 5 Wiederholungen.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-030",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Rumpf-Flexion und Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Durchführen Segmental im Vierfüßlerstand Spinal Flexion und Extension",
+          "image": "",
+          "description": "Diese motorische Steuerungsübung entwickelt sequentielle Beugung und Extension durch Becken, Lendenwirbelsäule, Brustwirbelsäule und Halswirbelsäule.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position mit den Händen unter den Schultern und den Knien unter den Hüften. Initiieren Sie eine posteriore Beckenneigung und nach und nach beugen die Lenden-, Thorax- und Halsbereich. Wenden Sie die Sequenz aus dem Becken, um durch neutrale in komfortable Extension zurück. Führen Sie 5 langsame Zyklen.",
+          "whatToDo": "Bewegen Sie einen Spinalbereich nach dem anderen, verteilen Sie die Bewegung allmählich, und koordinieren Sie Flexion mit Ausatmung und Extension mit Inhalation.",
+          "whatNotToDo": "Bewegen Sie nicht die gesamte Wirbelsäule als einen starren Block, kollabieren zwischen den Schultern, Kraft-Endbereich, oder weiter, wenn scharfe oder strahlende Schmerzen auftreten.",
+          "id": "trunk-032",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Durchführen Segmental im Vierfüßlerstand Spinal Flexion und Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Im Stand Rumpf Rotation mit Dübel",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Rotation verbessert werden.",
+          "howToDo": "Stehen Sie aufrecht mit den Füßen etwas auseinander. Halten Sie einen Stock horizontal vor der Brust mit beiden Händen, halten Sie Ihre Ellbogen gebogen. Drehen Sie langsam Ihren Rumpf nach rechts, halten Sie Ihr Becken nach vorne. Zurück in die Mitte, dann drehen Sie nach links. Wiederholen Sie 5 mal auf jeder Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-036",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Rumpf Rotation mit Dübel",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Im Stand Segmental Spinal Flexion und Extension",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung und Extension der Wirbelsäule verbessern.",
+          "howToDo": "Stehen Sie hoch. Drehen Sie langsam den Kopf, die Schultern und die Wirbelsäule nach unten ein Segment auf einmal, dann wieder zu stehen mit der gleichen Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-037",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Segmental Spinal Flexion und Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Stand Axial Spine Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, mit Schwerpunkt auf Extension.",
+          "howToDo": "Von einer bequemen Position, erreichen Sie die Krone des Kopfes weg vom Becken und sanft durch die Wirbelsäule verlängern, und entspannen Sie anschließend.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-038",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Axial Spine Dehnung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Alternating Diagonal Rumpf Flexion und Rotation",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung und Drehung der Wirbelsäule verbessern.",
+          "howToDo": "Stehen Sie bequem mit den Füßen. Greifen Sie eine Hand diagonal zum gegenüberliegenden Fuß oder zum Boden, dann kehren Sie zurück und wechseln Sie die Seiten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-039",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Alternating Diagonal Rumpf Flexion und Rotation",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "rotation",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Stand Becken Zirkumduktion",
+          "image": "",
+          "description": "Mit dieser aktiven Mobilitätsübung soll die kontrollierte Zirkumduktion des Beckens und der lumbopelvinen-Region verbessert werden.",
+          "howToDo": "Stehen Sie mit den Händen auf den Hüften. Machen Sie langsame Kreise mit dem Becken in eine Richtung, dann wiederholen Sie in die andere Richtung.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-040",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Becken Zirkumduktion",
+          "movementDistrict": "pelvis",
+          "movementTags": [
+            "circumduction",
+            "mobility"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Brustwirbelsäule-Biased im Vierfüßlerstand Flexion und Extension",
+          "image": "",
+          "description": "Diese selektive Mobilitätsübung betont die Beugung und Extension der Brustwirbelsäule, während die lumbopelvinen-Region relativ stabil bleibt.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position an und etablieren Sie ein neutrales Becken. Ohne bewusst das Becken zu kippen, drücken Sie den Boden weg, um den oberen Rücken, dann lassen Sie das Brustbein leicht zwischen den Schultern absteigen, um den Brustbereich zu verlängern. Wiederholen Sie langsam.",
+          "whatToDo": "Halten Sie die Bauchwand sanft aktiv, konzentrieren Sie die Bewegung zwischen den Schulterblättern, und halten Sie sogar Druck durch Hände und Knie.",
+          "whatNotToDo": "Nicht ersetzen mit großen Beckenneigungen, kollabieren die Lendenwirbelsäule, biegen die Ellenbogen, oder Kraft thorakischen Endbereich.",
+          "id": "trunk-041",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Brustwirbelsäule-Biased im Vierfüßlerstand Flexion und Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility",
+            "selective-control"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Sitzende aktiv Rumpf Rotation",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Rotation verbessert werden.",
+          "howToDo": "Sitzen Sie hoch mit den Füßen geerdet. Drehen Sie den Stamm auf eine Seite, Pause, Rückkehr in die Mitte, dann wiederholen Sie auf die andere Seite.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-042",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende aktiv Rumpf Rotation",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Unterstützte Rumpf Flexion Latissimus Dorsi Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, wobei der Schwerpunkt auf lateraler Beugung und Beugung liegt.",
+          "howToDo": "Halten Sie eine stabile Stütze mit den Händen. Setzen Sie die Hüften zurück und lassen Sie die Seite des Rumpfes verlängern, bis sich der Lat-Bereich erstreckt.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-043",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Rumpf Flexion Latissimus Dorsi Dehnung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion",
+            "flexion"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Langsitzige Rumpf-Flexion halten",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Wirbelsäule zu entwickeln, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Sitzen Sie mit den Beinen nach vorne verlängert. Scharnier nach vorn von den Hüften und lassen Sie die Wirbelsäule nur durch die verfügbaren komfortablen Bereich falten.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-044",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Langsitzige Rumpf-Flexion halten",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Rumpf Lateral Flexion Dehnung",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung der Wirbelsäule mit Schwerpunkt auf lateraler Beugung.",
+          "howToDo": "Sitzen oder stehen hoch. Greifen Sie einen Arm oben und biegen Sie sanft zur gegenüberliegenden Seite, bis die Seite des Rumpfes verlängert wird.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-045",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Rumpf Lateral Flexion Dehnung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Im Vierfüßlerstand Brustwirbelsäule Rotation Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, mit Schwerpunkt auf Rotation und Beugung.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position. Schieben Sie einen Arm unter dem gegenüberliegenden Arm und drehen Sie den oberen Rücken, bis die Schulter nähert sich dem Boden.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-047",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Brustwirbelsäule Rotation Dehnung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "flexion"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sustained In Bauchlage Press-Up für Spinal Extension",
+          "image": "",
+          "description": "Diese anhaltende Übung setzt die Wirbelsäule einer bequemen Verlängerungsposition aus, die für einen kurzen statischen Halt gehalten wird.",
+          "howToDo": "Liegen Sie mit den Händen unter oder etwas vor den Schultern. Drücken Sie durch die Hände, um die Brust zu heben, während das Becken unterstützt. Stoppen Sie an der verfügbaren bequemen Verlängerungsbereich, halten Sie für 5 bis 10 Sekunden während der Atmung normal, dann ganz unten.",
+          "whatToDo": "Verteilen Sie die Extension durch die Wirbelsäule, halten Sie die Schultern von den Ohren fern und halten Sie eine symptomfreie statische Position aufrecht.",
+          "whatNotToDo": "Heben Sie das Becken nicht an, zwingen Sie die Ellbogen gerade, halten Sie den Atem an oder fahren Sie fort, wenn die Schmerzen ausstrahlen oder sich allmählich erhöhen.",
+          "id": "trunk-048",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sustained In Bauchlage Press-Up für Spinal Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wandunterstützt Brustwirbelsäule Extension mit Arm Gleitbewegung",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Extension und skapulöse Retraktion der Wirbelsäule verbessern.",
+          "howToDo": "Stehen Sie mit dem Rücken in der Nähe einer Wand. Schieben Sie die Arme nach oben und nach unten, während die Rippen kontrolliert und der obere Rücken aktiv.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-049",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Brustwirbelsäule Extension mit Arm Gleitbewegung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand wandunterstützt Spinal Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Extension verbessert werden.",
+          "howToDo": "Stehen Sie mit Blick auf eine Wand mit den Händen ruhen darauf. Lassen Sie die Brust bewegen sanft nach vorne und nach oben, während die Hüften kontrolliert.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-050",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand wandunterstützt Spinal Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Assisted Im Sitzen Rumpf Rotation Dehnung",
+          "image": "",
+          "description": "Diese Bewegung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, mit Schwerpunkt auf Rotation.",
+          "howToDo": "Sitzen Sie hoch und drehen Sie den Stamm auf eine Seite. Verwenden Sie die Hände leicht für die Unterstützung und halten Sie die Drehung beim Atmen.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-051",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Assisted Im Sitzen Rumpf Rotation Dehnung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Dynamic In Bauchlage Press-Up für Spinal Extension",
+          "image": "",
+          "description": "Diese dynamische Beweglichkeitsübung verwendet wiederholte Press-up-Zyklen, um die Wirbelsäule in und aus einem komfortablen Verlängerungsbereich zu bewegen.",
+          "howToDo": "Liegen Sie mit den Händen in der Nähe der Schultern. Drücken Sie durch die Hände, um die Brust durch den verfügbaren bequemen Verlängerungsbereich zu heben, dann ganz in die Ausgangsposition, ohne an der Spitze zu halten. Wiederholen Sie bei einem langsamen, gleichmäßigen Tempo.",
+          "whatToDo": "Halten Sie das Becken unterstützt, entspannen Sie sich voll zwischen den Wiederholungen, und machen jede nach oben und unten Phase glatt und kontrolliert.",
+          "whatNotToDo": "Halten Sie nicht in einem anhaltenden Halt an, verwenden Sie Impuls, zwingen Sie die Ellbogen gerade, oder fahren Sie fort, wenn die Schmerzen ausstrahlen oder allmählich zunehmen.",
+          "id": "trunk-052",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Dynamic In Bauchlage Press-Up für Spinal Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Half-Kneeling Rumpf Lateral Flexion Dehnung",
+          "image": "",
+          "description": "Diese Beweglichkeitsübung bietet eine kontrollierte Dehnung zur Wirbelsäule, mit Schwerpunkt auf lateraler Beugung und Extension.",
+          "howToDo": "In einer bequemen Ausfallschritt aufstellen. Einen Arm über den Kopf erreichen und sich sanft vom Hinterbein abbeugen, dann zurückkehren.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-053",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Half-Kneeling Rumpf Lateral Flexion Dehnung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "lateral-flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Dynamische im Vierfüßlerstand Brustwirbelsäule Rotation durchführen",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Rotation der Wirbelsäule verbessern.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position. Schieben Sie einen Arm unter dem gegenüberliegenden Arm zu drehen, dann öffnen Sie den gleichen Arm in Richtung der Decke.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-054",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Dynamische im Vierfüßlerstand Brustwirbelsäule Rotation durchführen",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "rotation",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Vierfüßlerstand Spinal Flexion Isometrische Halteposition",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Wirbelsäule zu entwickeln, mit Schwerpunkt auf Beugung.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position an. Drücken Sie durch die Hände und bewegen Sie die Wirbelsäule in Beugung, während der Kopf der Wirbelsäule Kurve folgen. Halten Sie die Position beim Atmen normal.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-057",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Spinal Flexion Isometrische Halteposition",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Vierfüßlerstand Spinal Extension Isometrische halten",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Wirbelsäule zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Nehmen Sie eine vervierfachte Position an. Lassen Sie die Brust vorwärts bewegen und die Sitzknochen leicht heben, wodurch ein sanfter Bogen.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-058",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Vierfüßlerstand Spinal Extension Isometrische halten",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 2
+        },
+        {
+          "nome": "Im Sitzen Segmental Spinal Flexion und Extension",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Beugung und Extension verbessert werden.",
+          "howToDo": "Sitzen Sie hoch mit den Beinen verlängert oder Knie gebogen. Drehen Sie langsam die Wirbelsäule nach hinten oder nach vorne in einem komfortablen Bereich, dann wieder.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-059",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Segmental Spinal Flexion und Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Wandunterstützt Progressive Spinal Extension",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Extension der Wirbelsäule verbessern.",
+          "howToDo": "Stehen Sie mit dem Rücken zu einer Wand. Erreichen Sie die Hände über die Wand, dann langsam gehen sie nach unten nur so weit wie es die Kontrolle erlaubt.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-060",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Wandunterstützt Progressive Spinal Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "Unterstützte Vorwärtsfaltung mit wechselnder Knieverlängerung durchführen",
+          "image": "",
+          "description": "Diese Mobilitätsübung bietet eine kontrollierte Dehnung bis zur Wirbelsäule, mit Schwerpunkt auf Beugung und Extension.",
+          "howToDo": "Falten Sie nach vorne mit den Händen unterstützt. Wechseln Sie sanft biegen und geraden die Knie, während die Wirbelsäule Bewegung kontrolliert.",
+          "whatToDo": "Achten Sie auf eine stabile Ausrichtung und steigern Sie die Bewegung allmählich bis zu einer leichten, gut tolerierbaren Dehnung. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "keine federnden Bewegungen aus, erzwingen Sie keine Endstellung und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-061",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Unterstützte Vorwärtsfaltung mit wechselnder Knieverlängerung durchführen",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Im Stand Overhead Brustwirbelsäule Extension",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Extension der Wirbelsäule verbessern.",
+          "howToDo": "Stehen Sie hoch und verlängern Sie beide Arme über den Kopf. Halten Sie das Becken kontrolliert, heben Sie die Brust und bewegen Sie die Hände leicht rückwärts, um eine sanfte Extension durch die obere und mittlere Wirbelsäule zu schaffen, und kehren Sie anschließend in die Neutralstellung zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-071",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Overhead Brustwirbelsäule Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "mobility"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Im Stand Rumpf Flexion mit brustkorbgeführt Abstieg",
+          "image": "",
+          "description": "Diese aktive Mobilitätsübung soll die kontrollierte Beugung der Wirbelsäule verbessern.",
+          "howToDo": "Stehen Sie mit den Knien sanft gebogen. Beginnen Sie den Abstieg, indem Sie die Brust nach vorne und unten führen, dann lassen Sie den Kopf und die Arme auf den Boden zu folgen. Stoppen Sie in einer komfortablen Tiefe und kehren Sie langsam zum Stehen zurück.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-072",
+          "sezione": "Wirbelsäule - Mobilität und motorische Kontrolle",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Stand Rumpf Flexion mit brustkorbgeführt Abstieg",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "flexion",
+            "mobility"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "back-mobility-functional-control"
+    },
+    {
+      "nome": "Spine - Extensor Region",
+      "esercizi": [
+        {
+          "nome": "Im Sitzen isometrisch Brustwirbelsäule Extension gegen Rückenlehne",
+          "image": "",
+          "description": "Diese Übung verwendet eine submaximale isometrische Kontraktion, um neuromuskuläre Kontrolle der Wirbelsäule zu entwickeln, mit Schwerpunkt auf Extension.",
+          "howToDo": "Setzen Sie sich mit der Brustwirbelsäule gegen die Rückenlehne des Stuhls. Drücken Sie den oberen Rücken vorsichtig in die Stütze und verlängern Sie die Wirbelsäule vertikal. Halten Sie 5 Sekunden lang, und entspannen Sie anschließend Sie sich.",
+          "whatToDo": "Halten Sie die Gelenke neutral ausgerichtet, führen Sie eine gleichmäßige submaximale Kontraktion aus und atmen Sie während der gesamten Haltephase weiter.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, üben Sie keine maximale Kraft aus und brechen Sie die Übung bei stechenden oder zunehmend stärker werdenden Schmerzen ab.",
+          "id": "trunk-014",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen isometrisch Brustwirbelsäule Extension gegen Rückenlehne",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Im Sitzen Schulter Horizontal Abduktion mit Brustwirbelsäule Extension",
+          "image": "",
+          "description": "Diese Übung soll den aktiven Bewegungs- und Bewegungsbereich der Wirbelsäule während der Extension und der skapulären Retraktion verbessern.",
+          "howToDo": "Setzen Sie sich weg von der Rückenlehne oder stehen Sie. Halten Sie Ihre Arme an Ihren Seiten. Schließen Sie Ihre Hände in Fäuste, halten Sie Ihre Daumen nach oben. Heben Sie langsam Ihre Arme zu den Seiten bis zu Schulterhöhe und bringen Sie sie leicht rückwärts, immer halten Sie Ihre Daumen in Richtung Decke. Halten Sie die Position 3 Sekunden lang während das Gefühl der Rückenmuskulatur arbeiten, dann langsam die Arme wieder nach unten.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-015",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Im Sitzen Schulter Horizontal Abduktion mit Brustwirbelsäule Extension",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Dynamische In Bauchlage oberer-Rumpf-Extension mit Vorkopf-Unterstützung",
+          "image": "",
+          "description": "Diese dynamische Übung entwickelt eine Kurzstrecken-Thorax-Extensor-Kontrolle mit dem Kopf und den oberen Gliedmaßen als Einheit unterstützt.",
+          "howToDo": "Liegen Sie anfällig mit den Händen unter der Stirn gestapelt. Halten Sie die Stirn in Lichtkontakt mit den Händen und heben Sie die Hände, den Kopf und die obere Brust zusammen ein paar Zentimeter vom Boden. Senken Sie sofort mit Kontrolle und wiederholen Sie für 5 Wiederholungen.",
+          "whatToDo": "Halten Sie die Halswirbelsäule neutral, betonen Sie Bewegung durch den oberen Stamm, und füllen Sie jede Wiederholung ohne einen längeren Halt.",
+          "whatNotToDo": "Heben Sie das Kinn nicht, trennen Sie die Stirn von den Händen, verwenden Sie Impuls, oder übertreiben Sie Lendenwirbelverlängerung.",
+          "id": "trunk-035",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Dynamische In Bauchlage oberer-Rumpf-Extension mit Vorkopf-Unterstützung",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension"
+          ],
+          "difficulty": 5
+        },
+        {
+          "nome": "In Bauchlage Isometrische Rumpf-Extension mit Armen neben Körper",
+          "image": "",
+          "description": "Diese isometrische Übung entwickelt Ausdauer der Wirbelsäule Extensor-Kette mit den Armen neben dem Stamm positioniert.",
+          "howToDo": "Liegen Sie anfällig mit beiden Armen neben dem Körper und den nach innen gerichteten Handflächen. Heben Sie den Kopf und die Brust vorsichtig einen kleinen Abstand, während Sie die Halswirbelsäule neutral halten. Halten Sie die Position für 5 Sekunden, ganz unten, und ruhen Sie vor dem Wiederholen.",
+          "whatToDo": "Halten Sie die Kontrolle über den Bauch, verlängern durch die Krone des Kopfes, und verwenden Sie einen niedrigen anhaltenden Lift während der Atmung normal.",
+          "whatNotToDo": "Schwingen Sie nicht die Arme, heben Sie das Kinn, halten Sie den Atem, Kraft Lendenwirbelverlängerung, oder heben Sie den Stamm so hoch wie möglich.",
+          "id": "trunk-055",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Bauchlage Isometrische Rumpf-Extension mit Armen neben Körper",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "isometric"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Extension des In Bauchlage mit langem Hebel Trunks durch",
+          "image": "",
+          "description": "Diese Übung soll die Motorsteuerung und Stabilität der Wirbelsäule während der Extension verbessern.",
+          "howToDo": "Liegen Sie anfällig mit den Beinen lang und die Arme vorne verlängert. Halten Sie vorsichtig den Bauch, dann heben Sie die Brust, Arme und Beine einen kleinen Abstand vom Boden. Pause kurz und niedriger mit Kontrolle.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-073",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Extension des In Bauchlage mit langem Hebel Trunks durch",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "In Bauchlage T-Position Skapula Retraction Pulses",
+          "image": "",
+          "description": "Mit dieser Übung soll der aktive Bewegungs- und Bewegungsbereich der Wirbelsäule während der Extension, der skapulären Retraktion und der horizontalen Abduktion verbessert werden.",
+          "howToDo": "Liegen Sie anfällig mit den Armen an den Seiten in Schulterhöhe verlängert. Halten Sie die Daumen nach oben oder die Handflächen nach unten gerichtet, sanft heben die Brust und Arme einen kleinen Abstand, dann kurze kontrollierte oben-und-unten Flügel Impulse vor dem Absenken.",
+          "whatToDo": "Achten Sie auf eine neutrale Ausrichtung und führen Sie jede Phase langsam im verfügbaren, angenehmen Bewegungsumfang aus. Atmen Sie dabei ruhig weiter.",
+          "whatNotToDo": "Verwenden Sie keinen Schwung, erzwingen Sie keine Endstellung der Wirbelsäule und brechen Sie die Übung bei stechenden oder ausstrahlenden Schmerzen ab.",
+          "id": "trunk-074",
+          "sezione": "Spine - Extensor Region",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Bauchlage T-Position Skapula Retraction Pulses",
+          "movementDistrict": "spine",
+          "movementTags": [
+            "extension",
+            "scapular-retraction",
+            "horizontal-abduction"
+          ],
+          "difficulty": 3
+        }
+      ],
+      "id": "back-posterior-region"
+    },
+    {
+      "nome": "Beckenboden",
+      "esercizi": [
+        {
+          "nome": "Sitzende Beckenboden und Gluteal Kontraktion",
+          "image": "",
+          "description": "Diese Übung soll die freiwillige Aktivierung, Entspannung und motorische Steuerung des Beckenbodens verbessern, wobei der Schwerpunkt auf kontrollierter Kontraktion und völliger Entspannung liegt.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt. Beziehen Sie den Beckenboden und die Gesäßmuskulatur gleichzeitig, ziehen Sie den Beckenboden sanft nach oben. Halten Sie die Position 5 Sekunden lang beim Atmen normal, und entspannen Sie anschließend Sie sich ganz.",
+          "whatToDo": "Koordinieren Sie die Kontraktion mit einer ruhigen Atmung und lassen Sie die Muskulatur zwischen den Wiederholungen vollständig entspannen.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, kontrahieren Sie nicht maximal und lassen Sie zwischen den Wiederholungen keine Restspannung bestehen.",
+          "id": "trunk-009",
+          "sezione": "Beckenboden",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Beckenboden und Gluteal Kontraktion",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 4
+        },
+        {
+          "nome": "Sitzende anhaltende Beckenboden-Kontraktion",
+          "image": "",
+          "description": "Diese Übung soll die freiwillige Aktivierung, Entspannung und motorische Steuerung des Beckenbodens verbessern, wobei der Schwerpunkt auf kontrollierter Kontraktion und völliger Entspannung liegt.",
+          "howToDo": "Sitzen Sie aufrecht auf einem festen Stuhl mit beiden Füßen unterstützt. Vertragen und heben Sie die Beckenbodenmuskulatur, ohne die Bauchwand übermäßig zu aktivieren. Halten Sie die Position 4 Sekunden lang während der Atmung normal, dann allmählich loslassen.",
+          "whatToDo": "Koordinieren Sie die Kontraktion mit einer ruhigen Atmung und lassen Sie die Muskulatur zwischen den Wiederholungen vollständig entspannen.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, kontrahieren Sie nicht maximal und lassen Sie zwischen den Wiederholungen keine Restspannung bestehen.",
+          "id": "trunk-017",
+          "sezione": "Beckenboden",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende anhaltende Beckenboden-Kontraktion",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "elevation"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "Sitzende Hüfte Adduktion mit Beckenboden Kontraktion",
+          "image": "",
+          "description": "Diese Übung soll die freiwillige Aktivierung, Entspannung und Motorsteuerung des Beckenbodens verbessern, wobei der Schwerpunkt auf Adduktion liegt.",
+          "howToDo": "Sitzen Sie aufrecht mit beiden Füßen unterstützt und platzieren Sie eine weiche Kugel oder gefaltete Kissen zwischen den Knien. Während einer langsamen Ausatmung, adduct die Hüften, um das Objekt zu komprimieren, während die Durchführung einer sanften Beckenbodenkontraktion. Halten Sie die Position 5 Sekunden lang, und entspannen Sie anschließend Sie sich ganz.",
+          "whatToDo": "Koordinieren Sie die Kontraktion mit einer ruhigen Atmung und lassen Sie die Muskulatur zwischen den Wiederholungen vollständig entspannen.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, kontrahieren Sie nicht maximal und lassen Sie zwischen den Wiederholungen keine Restspannung bestehen.",
+          "id": "trunk-018",
+          "sezione": "Beckenboden",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende Hüfte Adduktion mit Beckenboden Kontraktion",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "adduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Beckenboden Pre-Contraction vor Aufstehen aus dem Sitz",
+          "image": "",
+          "description": "Diese Übung soll die freiwillige Aktivierung, Entspannung und motorische Steuerung des Beckenbodens verbessern, wobei der Schwerpunkt auf kontrollierter Kontraktion und völliger Entspannung liegt.",
+          "howToDo": "Sitzen Sie in der Nähe der Vorderseite eines stabilen Stuhls mit beiden Füßen unterstützt. Vor Beginn der Übertragung, führen Sie eine sanfte Beckenbodenkontraktion. Halten Sie die Kontraktion während der Neigung des Rumpfes nach vorne und verlängern die Hüften und Knie zu stehen. Entspannen Sie sich vollständig einmal aufrecht.",
+          "whatToDo": "Koordinieren Sie die Kontraktion mit einer ruhigen Atmung und lassen Sie die Muskulatur zwischen den Wiederholungen vollständig entspannen.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, kontrahieren Sie nicht maximal und lassen Sie zwischen den Wiederholungen keine Restspannung bestehen.",
+          "id": "trunk-019",
+          "sezione": "Beckenboden",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Beckenboden Pre-Contraction vor Aufstehen aus dem Sitz",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "stabilization"
+          ],
+          "difficulty": 3
+        },
+        {
+          "nome": "In Rückenlage Hüfte Abduktion und Adduktion mit Beckenboden-Steuerung",
+          "image": "",
+          "description": "Diese Übung soll die freiwillige Aktivierung, Entspannung und motorische Steuerung des Beckenbodens verbessern, wobei der Schwerpunkt auf Abduktion liegt.",
+          "howToDo": "Legen Sie sich in Rückenlage mit den Knien gebeugt und die Füße zusammen. Lassen Sie beide Knie seitlich in Hüftabduktion zu bewegen, dann bringen Sie sie zu neutral, während die Koordination einer sanften Beckenbodenkontraktion.",
+          "whatToDo": "Koordinieren Sie die Kontraktion mit einer ruhigen Atmung und lassen Sie die Muskulatur zwischen den Wiederholungen vollständig entspannen.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, kontrahieren Sie nicht maximal und lassen Sie zwischen den Wiederholungen keine Restspannung bestehen.",
+          "id": "trunk-020",
+          "sezione": "Beckenboden",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "In Rückenlage Hüfte Abduktion und Adduktion mit Beckenboden-Steuerung",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "abduction"
+          ],
+          "difficulty": 1
+        },
+        {
+          "nome": "Sitzende schnelle Beckenboden-Kontraktionen",
+          "image": "",
+          "description": "Diese Übung soll die freiwillige Aktivierung, Entspannung und motorische Steuerung des Beckenbodens verbessern, wobei der Schwerpunkt auf kontrollierter Kontraktion und völliger Entspannung liegt.",
+          "howToDo": "Sitzen Sie aufrecht auf einem festen Stuhl mit beiden Füßen unterstützt. Führen Sie eine kurze Beckenbodenkontraktion gefolgt von völliger Entspannung. Wiederholen Sie 5 Mal mit einer kurzen Pause zwischen Kontraktionen.",
+          "whatToDo": "Koordinieren Sie die Kontraktion mit einer ruhigen Atmung und lassen Sie die Muskulatur zwischen den Wiederholungen vollständig entspannen.",
+          "whatNotToDo": "Halten Sie nicht den Atem an, kontrahieren Sie nicht maximal und lassen Sie zwischen den Wiederholungen keine Restspannung bestehen.",
+          "id": "trunk-031",
+          "sezione": "Beckenboden",
+          "distretto": "Rumpf",
+          "thumbnail": "",
+          "imageAlt": "Sitzende schnelle Beckenboden-Kontraktionen",
+          "movementDistrict": "pelvic-floor",
+          "movementTags": [
+            "contraction",
+            "relaxation"
+          ],
+          "difficulty": 1
+        }
+      ],
+      "id": "perineum"
+    }
+  ],
+  "id": "trunk"
+}
