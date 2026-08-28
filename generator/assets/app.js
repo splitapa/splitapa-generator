@@ -47,6 +47,42 @@ const els = {
 let appInitialized = false;
 const workoutCodePrefix = 'SAPA1-';
 const sortModes = new Set(['default', 'easy-hard', 'hard-easy']);
+const smartHeaders = [...document.querySelectorAll('[data-smart-header]')];
+let lastScrollY = window.scrollY;
+let headerTicking = false;
+
+function showSmartHeaders() {
+  smartHeaders.forEach((header) => header.classList.remove('is-hidden'));
+}
+
+function updateSmartHeaders() {
+  const currentScrollY = Math.max(0, window.scrollY);
+  const delta = currentScrollY - lastScrollY;
+
+  smartHeaders.forEach((header) => {
+    if (currentScrollY <= 12 || delta < -4) {
+      header.classList.remove('is-hidden');
+    } else if (delta > 4) {
+      header.classList.add('is-hidden');
+    }
+  });
+
+  lastScrollY = currentScrollY;
+  headerTicking = false;
+}
+
+function setupSmartHeaders() {
+  window.addEventListener('scroll', () => {
+    if (headerTicking) return;
+    headerTicking = true;
+    window.requestAnimationFrame(updateSmartHeaders);
+  }, { passive: true });
+
+  window.addEventListener('resize', () => {
+    showSmartHeaders();
+    lastScrollY = Math.max(0, window.scrollY);
+  });
+}
 
 const districtAliases = {
   abdomen: ['abs', 'core'],
@@ -161,6 +197,8 @@ function unlockApp() {
   els.accessScreen.hidden = true;
   els.appShell.hidden = false;
   setAccessError('');
+  window.scrollTo({ top: 0, behavior: 'auto' });
+  showSmartHeaders();
   init();
 }
 
@@ -1251,4 +1289,5 @@ async function init() {
   }
 }
 
+setupSmartHeaders();
 setupAccessGate();
