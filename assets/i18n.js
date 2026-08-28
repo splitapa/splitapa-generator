@@ -178,6 +178,8 @@
     ['generator.copyCode', 'Copy code', 'Copia codice', 'Copiar código', 'Copier le code', 'Code kopieren'],
     ['generator.loadCode', 'Load code', 'Carica codice', 'Cargar código', 'Charger le code', 'Code laden'],
     ['generator.codeHint', 'Code updates when the plan changes', 'Il codice si aggiorna quando il programma cambia', 'El código se actualiza cuando cambia el programa', 'Le code est actualisé lorsque le programme change', 'Der Code wird bei Änderungen am Programm aktualisiert'],
+    ['generator.fms.open', 'Open FMS assessment', 'Apri la valutazione FMS', 'Abrir la evaluación FMS', 'Ouvrir l’évaluation FMS', 'FMS Bewertung öffnen'],
+    ['generator.fms.note', 'Seven movement patterns / guided scoring / three recommended plans', 'Sette schemi di movimento / punteggio guidato / tre programmi consigliati', 'Siete patrones de movimiento / puntuación guiada / tres programas recomendados', 'Sept schémas de mouvement / cotation guidée / trois programmes recommandés', 'Sieben Bewegungsmuster / geführte Bewertung / drei empfohlene Programme'],
     ['generator.generatedPlan', 'Generated plan', 'Programma generato', 'Programa generado', 'Programme généré', 'Erstelltes Programm'],
     ['generator.workoutPreview', 'Workout preview', 'Anteprima del programma', 'Vista previa del programa', 'Aperçu du programme', 'Programmvorschau'],
     ['generator.noWorkout', 'No workout generated', 'Nessun programma generato', 'No se ha generado ningún programa', 'Aucun programme généré', 'Kein Programm erstellt'],

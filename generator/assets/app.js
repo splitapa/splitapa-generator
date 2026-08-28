@@ -1,6 +1,7 @@
 const manifestUrl = 'data/manifest.json';
 const accessHash = '822f71cc551b8d41e032f7687a4afa309084b470a8c8828b4730c995ffeea9ac';
 const accessStorageKey = 'splitapaBetaAccess';
+const pendingWorkoutStorageKey = 'splitapaPendingWorkoutCode';
 const i18n = window.SplitApaI18n;
 const currentLanguage = i18n.getLanguage();
 const ui = (key, variables = {}) => i18n.t(key, variables, currentLanguage);
@@ -1017,6 +1018,16 @@ async function loadWorkoutCode() {
   }
 }
 
+function takePendingWorkoutCode() {
+  try {
+    const code = window.localStorage.getItem(pendingWorkoutStorageKey) || '';
+    window.localStorage.removeItem(pendingWorkoutStorageKey);
+    return code;
+  } catch (error) {
+    return '';
+  }
+}
+
 async function generateWorkout() {
   const selectedIds = getSelectedDistrictIds();
   let archives;
@@ -1432,6 +1443,12 @@ async function init() {
 
     const initialDistricts = getInitialDistrictIds(state.manifest);
     await selectDistricts(initialDistricts);
+
+    const pendingWorkoutCode = takePendingWorkoutCode();
+    if (pendingWorkoutCode) {
+      els.workoutCodeInput.value = pendingWorkoutCode;
+      await loadWorkoutCode();
+    }
   } catch (error) {
     showError(ui('generator.archiveLoadError'));
     console.error(error);

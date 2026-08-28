@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Split APA FMS Assessment</title>
+  <link rel="stylesheet" href="../assets/style.css?v=20260828j">
+  <link rel="stylesheet" href="../assets/fms.css?v=20260828c">
+</head>
+<body>
+  <main class="page fms-shell" id="fmsShell" hidden>
+    <header class="masthead smart-header" data-smart-header>
+      <a class="brand" href="../../" aria-label="Split APA home" data-i18n-aria="common.homeAria">
+        <span class="brand-mark">SA</span>
+        <span class="brand-name">Split APA</span>
+      </a>
+      <div class="header-language">
+        <span class="small-label" data-i18n="common.language">Language</span>
+        <div data-language-select></div>
+      </div>
+      <div class="masthead-actions">
+        <a class="logout-button small-label fms-back-link" href="../" data-fms="backGenerator">Back to generator</a>
+      </div>
+    </header>
+
+    <section class="fms-hero" id="top">
+      <div class="eyebrow" data-fms="heroEyebrow">Movement screening / Guided profile</div>
+      <h1 data-fms="heroHeading">FMS Assessment</h1>
+      <p class="lead" data-fms="heroLead">Record the seven movement patterns, identify priorities, and create three progressive Split APA plans.</p>
+      <div class="fms-hero-actions">
+        <a class="button" href="#screen" data-fms="startAssessment">Start assessment</a>
+        <a class="button button-secondary" href="../" data-fms="openGenerator">Open generator</a>
+      </div>
+      <div class="fms-stats" aria-label="Assessment overview" data-fms-aria="overviewAria">
+        <div><span class="small-label" data-fms="testsLabel">Tests</span><strong>07</strong></div>
+        <div><span class="small-label" data-fms="scoreLabel">Score</span><strong>0–3</strong></div>
+        <div><span class="small-label" data-fms="plansLabel">Plans</span><strong>03</strong></div>
+      </div>
+    </section>
+
+    <section class="fms-protocol" id="screen">
+      <div class="fms-section-heading">
+        <div>
+          <div class="eyebrow" data-fms="protocolEyebrow">Assessment protocol / 01</div>
+          <h2 data-fms="protocolHeading">Score movement quality.</h2>
+        </div>
+        <p data-fms="protocolCopy">Use the standard 0–3 scale. Bilateral tests require both sides and retain the lower score. This tool supports structured observation and does not provide a diagnosis.</p>
+      </div>
+
+      <div class="fms-legend" aria-label="FMS score legend" data-fms-aria="legendAria">
+        <div><strong>3</strong><span data-fms="score3">Pattern completed correctly without compensation.</span></div>
+        <div><strong>2</strong><span data-fms="score2">Pattern completed pain-free with compensation.</span></div>
+        <div><strong>1</strong><span data-fms="score1">Pattern cannot be completed as instructed.</span></div>
+        <div><strong>0</strong><span data-fms="score0">Pain is reported during the movement or clearing test.</span></div>
+      </div>
+      <div class="fms-source-note">
+        <span data-fms="protocolSource">Administration and scoring should follow the official FMS protocol and qualified professional judgment.</span>
+        <a href="https://www.functionalmovement.com/articles/536/creating_a_movement_blueprint_with_the_functional_movement_screen" target="_blank" rel="noopener noreferrer">Functional Movement Systems</a>
+      </div>
+
+      <div class="fms-subject-grid">
+        <label class="fms-text-field">
+          <span class="small-label" data-fms="subjectName">Subject name</span>
+          <input id="subjectName" type="text" autocomplete="name" data-fms-placeholder="optionalPlaceholder" placeholder="Optional">
+        </label>
+        <label class="fms-text-field">
+          <span class="small-label" data-fms="assessmentDate">Assessment date</span>
+          <input id="assessmentDate" type="date">
+        </label>
+      </div>
+
+      <form id="fmsForm" novalidate>
+        <div class="fms-test-list" id="fmsTestList"></div>
+        <div class="fms-form-actions">
+          <button class="button" type="submit" data-fms="generateAssessment">Generate assessment</button>
+          <button class="button button-secondary" type="button" id="resetAssessment" data-fms="resetAssessment">Reset assessment</button>
+        </div>
+        <div class="fms-form-message small-label" id="formMessage" role="alert" aria-live="polite"></div>
+      </form>
+    </section>
+
+    <section class="fms-results" id="results" aria-live="polite">
+      <div class="fms-section-heading fms-results-heading">
+        <div>
+          <div class="eyebrow" data-fms="resultsEyebrow">Movement profile / 02</div>
+          <h2 data-fms="resultsHeading">Assessment report.</h2>
+        </div>
+        <p data-fms="resultsLead">Complete every test to generate the movement profile and the three progressive workout codes.</p>
+      </div>
+      <div class="fms-results-body" id="resultsBody">
+        <div class="empty-state" data-fms="resultsEmpty">No assessment generated. Complete all seven tests and select Generate assessment.</div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span data-fms="footerApp">Split APA / FMS-guided movement profile</span>
+      <span data-fms="footerDisclaimer">Screening support / Not a diagnosis</span>
+    </footer>
+  </main>
+
+  <noscript>
+    <div class="noscript">JavaScript is required to use this assessment.</div>
+  </noscript>
+
+  <script src="../../assets/i18n.js?v=20260828b"></script>
+  <script type="module" src="../assets/fms.js?v=20260828b"></script>
+</body>
+</html>
