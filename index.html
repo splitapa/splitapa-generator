@@ -169,6 +169,18 @@
       min-width: 0;
     }
 
+    .panel-top,
+    .panel-main,
+    .panel-actions,
+    .field,
+    .map-item,
+    .value-card,
+    .solution-card,
+    .audience-card,
+    .cta > * {
+      min-width: 0;
+    }
+
     .brand,
     .header-language,
     .nav {
@@ -197,6 +209,8 @@
     }
 
     .header-language > .small-label {
+      align-self: start;
+      margin-top: 15px;
       color: var(--muted);
       white-space: nowrap;
     }
@@ -269,7 +283,7 @@
     }
 
     .flow-select.open .flow-select-menu {
-      max-height: 248px;
+      max-height: 310px;
       margin-top: 8px;
       overflow-y: auto;
       visibility: visible;
@@ -314,6 +328,15 @@
       content: attr(data-selected-label);
       font-size: 7px;
       letter-spacing: 0.2em;
+    }
+
+    .language-select .flow-select-option {
+      grid-template-columns: minmax(0, 1fr);
+    }
+
+    .language-select .flow-select-option.active::after {
+      display: none;
+      content: none;
     }
 
     .flow-select-option:hover,
@@ -529,6 +552,7 @@
 
     .hero-signal {
       display: grid;
+      min-width: 0;
       grid-template-rows: auto 1fr auto;
       min-height: 520px;
       border-bottom: 0.5px solid var(--hairline);
@@ -540,6 +564,7 @@
 
     .signal-strip {
       display: grid;
+      min-width: 0;
       grid-template-columns: 1fr 1fr;
       border-bottom: 0.5px solid var(--hairline);
     }
@@ -563,6 +588,7 @@
 
     .hero-designed-main {
       display: flex;
+      min-width: 0;
       flex-direction: column;
       justify-content: center;
       padding: clamp(28px, 4vw, 54px);
@@ -571,6 +597,10 @@
     .hero-designed-title {
       max-width: 680px;
       font-size: clamp(52px, 6.4vw, 100px);
+    }
+
+    html[lang="it"] .hero-designed-title {
+      font-size: clamp(50px, 6vw, 94px);
     }
 
     .hero-designed-copy {
@@ -583,11 +613,13 @@
 
     .hero-value-grid {
       display: grid;
+      min-width: 0;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       border-top: 0.5px solid var(--hairline);
     }
 
     .hero-value-card {
+      min-width: 0;
       min-height: 150px;
       padding: 18px;
       border-right: 0.5px solid var(--hairline);
@@ -677,6 +709,10 @@
     .section-heading {
       max-width: 1120px;
       font-size: clamp(52px, 8.3vw, 128px);
+    }
+
+    html[lang="de"] .section-heading {
+      font-size: clamp(48px, 7.5vw, 114px);
     }
 
     .section-lead {
@@ -1168,6 +1204,18 @@
         grid-template-columns: 1fr;
       }
 
+      html[lang="de"] .audience-title {
+        font-size: 19px;
+      }
+
+      html[lang="de"] .map-title {
+        font-size: 26px;
+      }
+
+      html[lang="fr"] .solution-title {
+        font-size: 24px;
+      }
+
       .method-col {
         min-height: auto;
       }
@@ -1184,7 +1232,7 @@
       .problem-line,
       .method-grid,
       .cta {
-        grid-template-columns: 1fr;
+        grid-template-columns: minmax(0, 1fr);
       }
 
       .brand,
@@ -1279,6 +1327,23 @@
         white-space: nowrap;
       }
 
+      .section-heading {
+        font-size: clamp(38px, 11.2vw, 46px);
+      }
+
+      html[lang="de"] .section-heading {
+        overflow-wrap: anywhere;
+        hyphens: auto;
+        word-break: normal;
+      }
+
+      .principle-title {
+        min-width: 0;
+        font-size: 20px;
+        overflow-wrap: anywhere;
+        word-break: normal;
+      }
+
       .brand,
       .nav button {
         text-align: center;
@@ -1291,7 +1356,7 @@
       .panel-top,
       .panel-actions,
       .generator-map {
-        grid-template-columns: 1fr;
+        grid-template-columns: minmax(0, 1fr);
       }
 
       .meta,
@@ -1318,6 +1383,74 @@
 
       .button {
         width: 100%;
+      }
+    }
+
+    @media (min-width: 681px) and (max-width: 1180px) {
+      html[lang="de"] .panel-main h3 {
+        font-size: 48px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      html[lang="de"] .panel-main h3 {
+        font-size: 37px;
+        overflow-wrap: anywhere;
+        word-break: normal;
+      }
+
+      .cta h2 {
+        font-size: 47px;
+        overflow-wrap: anywhere;
+        word-break: normal;
+      }
+    }
+
+    @media (max-width: 360px) {
+      .nav button {
+        min-height: 44px;
+        white-space: normal;
+        overflow-wrap: anywhere;
+      }
+
+      .hero-designed-title {
+        font-size: 44px;
+      }
+
+      .section-heading {
+        font-size: 35px;
+      }
+
+      .audience-heading {
+        font-size: 36px;
+      }
+
+      .panel-main h3 {
+        font-size: 34px;
+      }
+
+      .phase-title {
+        font-size: 22px;
+      }
+
+      .cta h2 {
+        font-size: 42px;
+      }
+
+      .hero-designed-title,
+      .section-heading,
+      .audience-heading,
+      .panel-main h3,
+      .value-title,
+      .solution-title,
+      .audience-title,
+      .map-title,
+      .phase-title,
+      .principle-title,
+      .cta h2 {
+        overflow-wrap: anywhere;
+        hyphens: auto;
+        word-break: normal;
       }
     }
 

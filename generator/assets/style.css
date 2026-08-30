@@ -158,6 +158,8 @@ button:active:not(:disabled),
 }
 
 .header-language > .small-label {
+  align-self: start;
+  margin-top: 15px;
   color: var(--muted);
   white-space: nowrap;
 }
@@ -209,7 +211,16 @@ button:active:not(:disabled),
 .access-intro h1 {
   max-width: 760px;
   margin-top: 34px;
-  font-size: clamp(64px, 7.4vw, 108px);
+  font-size: clamp(58px, 6.2vw, 92px);
+}
+
+html[lang="de"] .access-intro h1 {
+  font-size: clamp(40px, 3.8vw, 60px);
+}
+
+html[lang="fr"] .access-intro h1,
+html[lang="it"] .access-intro h1 {
+  font-size: clamp(54px, 5.7vw, 86px);
 }
 
 .access-intro-copy p {
@@ -262,6 +273,10 @@ button:active:not(:disabled),
   line-height: 0.82;
   text-wrap: balance;
   text-transform: uppercase;
+}
+
+html[lang="fr"] .access-card h2 {
+  font-size: clamp(46px, 4.8vw, 70px);
 }
 
 .access-card p {
@@ -623,6 +638,8 @@ html[lang="de"] .hero-main h1 {
 
 .control-panel {
   display: grid;
+  min-width: 0;
+  grid-template-columns: minmax(0, 1fr);
   grid-template-rows: auto auto auto auto;
   min-height: 0;
   background: var(--fg);
@@ -633,6 +650,7 @@ html[lang="de"] .hero-main h1 {
 .panel-actions,
 .control-grid {
   display: grid;
+  min-width: 0;
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
@@ -658,6 +676,7 @@ html[lang="de"] .hero-main h1 {
 
 .panel-main {
   display: flex;
+  min-width: 0;
   flex-direction: column;
   justify-content: center;
   padding: clamp(34px, 5vw, 76px);
@@ -752,6 +771,10 @@ select option:checked {
 
 .header-language .flow-select-trigger {
   min-height: 44px;
+  padding-right: 36px;
+  padding-left: 12px;
+  font-size: 11px;
+  letter-spacing: 0.05em;
 }
 
 .flow-select-trigger {
@@ -835,7 +858,7 @@ select option:checked {
 }
 
 .language-select.open .flow-select-menu {
-  max-height: 248px;
+  max-height: 310px;
 }
 
 .flow-select-menu {
@@ -902,6 +925,15 @@ select option:checked {
   letter-spacing: 0.28em;
 }
 
+.language-select .flow-select-option {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.language-select .flow-select-option.active::after {
+  display: none;
+  content: none;
+}
+
 .flow-select-option:hover {
   background: var(--accent-soft);
   color: var(--fg);
@@ -920,6 +952,7 @@ select option:checked {
 
 .ask-panel {
   display: grid;
+  min-width: 0;
   grid-template-columns: minmax(0, 1fr) auto;
   margin-top: 18px;
   border-top: 0.5px solid var(--ink-hairline);
@@ -966,6 +999,7 @@ select option:checked {
 }
 
 .ask-button {
+  min-width: 0;
   min-height: 100%;
   padding: 0 22px;
   border: 0;
@@ -985,6 +1019,7 @@ select option:checked {
 }
 
 .ask-hint {
+  min-width: 0;
   grid-column: 1 / -1;
   padding: 12px 16px;
   border-right: 0.5px solid var(--ink-hairline);
@@ -1023,6 +1058,7 @@ select option:checked {
 
 .code-panel {
   display: grid;
+  min-width: 0;
   gap: 12px;
   padding: 16px;
   border-top: 0.5px solid var(--ink-hairline);
@@ -1032,6 +1068,7 @@ select option:checked {
 
 .code-field {
   display: grid;
+  min-width: 0;
   gap: 10px;
 }
 
@@ -1069,12 +1106,14 @@ select option:checked {
 
 .code-actions {
   display: grid;
+  min-width: 0;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   border-top: 0.5px solid var(--ink-hairline);
   border-left: 0.5px solid var(--ink-hairline);
 }
 
 .code-button {
+  min-width: 0;
   min-height: 46px;
   border: 0;
   border-right: 0.5px solid var(--ink-hairline);
@@ -1494,6 +1533,10 @@ select option:checked {
     grid-template-columns: minmax(0, 1fr) minmax(180px, 240px);
   }
 
+  .access-masthead .header-language {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
   .access-masthead-status {
     grid-column: 1 / -1;
     justify-content: center;
@@ -1581,7 +1624,7 @@ select option:checked {
   }
 
   .access-intro h1 {
-    font-size: clamp(54px, 16vw, 68px);
+    font-size: clamp(46px, 13vw, 56px);
   }
 
   .access-progress {
@@ -1596,15 +1639,27 @@ select option:checked {
     font-size: clamp(46px, 13.5vw, 64px);
   }
 
+  .hero-main h1 {
+    font-size: clamp(44px, 13vw, 58px);
+  }
+
   html[lang="de"] .hero-main h1 {
-    font-size: 29px;
+    font-size: 27px;
+  }
+
+  html[lang="fr"] .hero-main h1 {
+    font-size: 45px;
   }
 
   html[lang="de"] .access-intro h1 {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   html[lang="de"] .access-card h2 {
+    font-size: 42px;
+  }
+
+  html[lang="fr"] .access-card h2 {
     font-size: 42px;
   }
 
@@ -1615,11 +1670,11 @@ select option:checked {
   .code-actions,
   .exercise-card-header,
   .exercise-content {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .hero-links {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .hero-link-note {
@@ -1674,11 +1729,56 @@ select option:checked {
   }
 
   .access-form {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .access-button {
     align-self: stretch;
+  }
+}
+
+@media (max-width: 480px) {
+  html[lang="fr"] .access-intro h1,
+  html[lang="it"] .access-intro h1 {
+    font-size: 49px;
+  }
+}
+
+@media (max-width: 360px) {
+  .hero-main h1 {
+    font-size: 38px;
+  }
+
+  html[lang="de"] .hero-main h1 {
+    font-size: 21px;
+  }
+
+  html[lang="fr"] .hero-main h1 {
+    font-size: 35px;
+  }
+
+  .panel-main h2 {
+    font-size: 38px;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .access-intro h1,
+  html[lang="fr"] .access-intro h1,
+  html[lang="it"] .access-intro h1 {
+    font-size: 40px;
+  }
+
+  html[lang="de"] .access-intro h1 {
+    font-size: 26px;
+  }
+
+  .access-card h2,
+  html[lang="de"] .access-card h2,
+  html[lang="fr"] .access-card h2 {
+    font-size: 36px;
+    overflow-wrap: anywhere;
+    word-break: normal;
   }
 }
 
