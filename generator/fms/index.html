@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Split APA FMS Assessment</title>
-  <link rel="stylesheet" href="../assets/style.css?v=20260831c">
-  <link rel="stylesheet" href="../assets/fms.css?v=20260830b">
+  <link rel="stylesheet" href="../assets/style.css?v=20260831e">
+  <link rel="stylesheet" href="../assets/fms.css?v=20260831d">
 </head>
 <body>
   <main class="page fms-shell" id="fmsShell" hidden>
@@ -17,6 +17,7 @@
       <div class="header-language">
         <span class="small-label" data-i18n="common.language">Language</span>
         <div data-language-select></div>
+        <div class="world-clock" data-world-clock aria-live="off"></div>
       </div>
       <div class="masthead-actions">
         <a class="logout-button small-label fms-back-link" href="../" data-fms="backGenerator">Back to generator</a>
@@ -33,7 +34,7 @@
       </div>
       <div class="fms-stats" aria-label="Assessment overview" data-fms-aria="overviewAria">
         <div><span class="small-label" data-fms="testsLabel">Tests</span><strong>07</strong></div>
-        <div><span class="small-label" data-fms="scoreLabel">Score</span><strong>0–3</strong></div>
+        <div><span class="small-label" data-fms="scoreLabel">Score</span><strong class="fms-score-range"><span>0</span><span aria-hidden="true">-</span><span>3</span></strong></div>
         <div><span class="small-label" data-fms="plansLabel">Plans</span><strong>03</strong></div>
       </div>
     </section>
@@ -91,7 +92,7 @@
     <div class="noscript">JavaScript is required to use this assessment.</div>
   </noscript>
 
-  <script src="../../assets/i18n.js?v=20260828b"></script>
+  <script src="../../assets/i18n.js?v=20260831d"></script>
   <script type="module" src="../assets/fms.js?v=20260831b"></script>
 </body>
 </html>

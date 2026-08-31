@@ -81,6 +81,18 @@
   line-height: 0.85;
 }
 
+.fms-stats strong.fms-score-range {
+  display: inline-flex;
+  gap: 0.22em;
+  align-items: baseline;
+  letter-spacing: 0;
+}
+
+.fms-score-range > span {
+  display: inline-block;
+  color: inherit;
+}
+
 .fms-protocol {
   background: var(--fg);
   color: var(--bg);

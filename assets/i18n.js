@@ -11,11 +11,20 @@
     { code: 'fr', label: 'Français' },
     { code: 'it', label: 'Italiano' }
   ];
+  const locales = { de: 'de-DE', en: 'en-GB', es: 'es-ES', fr: 'fr-FR', it: 'it-IT' };
+  const capitalCities = [
+    { code: 'de', timeZone: 'Europe/Berlin', names: { de: 'Berlin', en: 'Berlin', es: 'Berlín', fr: 'Berlin', it: 'Berlino' } },
+    { code: 'en', timeZone: 'Europe/London', names: { de: 'London', en: 'London', es: 'Londres', fr: 'Londres', it: 'Londra' } },
+    { code: 'es', timeZone: 'Europe/Madrid', names: { de: 'Madrid', en: 'Madrid', es: 'Madrid', fr: 'Madrid', it: 'Madrid' } },
+    { code: 'fr', timeZone: 'Europe/Paris', names: { de: 'Paris', en: 'Paris', es: 'París', fr: 'Paris', it: 'Parigi' } },
+    { code: 'it', timeZone: 'Europe/Rome', names: { de: 'Rom', en: 'Rome', es: 'Roma', fr: 'Rome', it: 'Roma' } }
+  ];
 
   const messageRows = [
     ['common.language', 'Language', 'Lingua', 'Idioma', 'Langue', 'Sprache'],
     ['common.selected', 'Selected', 'Selezionato', 'Seleccionado', 'Sélectionné', 'Ausgewählt'],
     ['common.homeAria', 'Split APA home', 'Home di Split APA', 'Inicio de Split APA', 'Accueil de Split APA', 'Split APA Startseite'],
+    ['common.worldClockAria', 'Local date and time in {city}', 'Data e ora locali a {city}', 'Fecha y hora locales en {city}', 'Date et heure locales à {city}', 'Lokales Datum und lokale Uhrzeit in {city}'],
 
     ['home.pageTitle', 'Split APA | Adapted Physical Activity', 'Split APA | Attività fisica adattata', 'Split APA | Actividad física adaptada', 'Split APA | Activité physique adaptée', 'Split APA | Angepasste körperliche Aktivität'],
     ['home.navAria', 'Main navigation', 'Navigazione principale', 'Navegación principal', 'Navigation principale', 'Hauptnavigation'],
@@ -486,6 +495,71 @@
     }
   }
 
+  function mountWorldClocks() {
+    const roots = [...document.querySelectorAll('[data-world-clock]')];
+    if (!roots.length) return;
+
+    const language = getLanguage();
+    const locale = locales[language] || locales.en;
+    let cityIndex = Math.max(0, capitalCities.findIndex((capital) => capital.code === language));
+
+    roots.forEach((root) => {
+      root.innerHTML = [
+        '<span class="world-clock-track">',
+        '<span class="world-clock-city"></span>',
+        '<span class="world-clock-separator" aria-hidden="true">/</span>',
+        '<time class="world-clock-date"></time>',
+        '<span class="world-clock-separator" aria-hidden="true">/</span>',
+        '<time class="world-clock-time"></time>',
+        '</span>'
+      ].join('');
+      root.setAttribute('role', 'timer');
+    });
+
+    const render = () => {
+      const now = new Date();
+      const capital = capitalCities[cityIndex];
+      const city = capital.names[language] || capital.names.en;
+      const date = new Intl.DateTimeFormat(locale, {
+        timeZone: capital.timeZone,
+        day: '2-digit',
+        month: 'short',
+        year: 'numeric'
+      }).format(now).replace(/,/g, '');
+      const time = new Intl.DateTimeFormat(locale, {
+        timeZone: capital.timeZone,
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hourCycle: 'h23'
+      }).format(now);
+
+      roots.forEach((root) => {
+        root.querySelector('.world-clock-city').textContent = city;
+        root.querySelector('.world-clock-date').textContent = date;
+        root.querySelector('.world-clock-time').textContent = time;
+        root.setAttribute('aria-label', t('common.worldClockAria', { city }, language));
+      });
+    };
+
+    render();
+    window.setInterval(render, 1000);
+
+    const reducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!reducedMotion) {
+      window.setInterval(() => {
+        roots.forEach((root) => root.classList.add('is-switching'));
+        window.setTimeout(() => {
+          cityIndex = (cityIndex + 1) % capitalCities.length;
+          render();
+          window.requestAnimationFrame(() => {
+            roots.forEach((root) => root.classList.remove('is-switching'));
+          });
+        }, 180);
+      }, 6000);
+    }
+  }
+
   function searchAliases(language = getLanguage()) {
     const districts = {};
     const movements = {};
@@ -507,6 +581,9 @@
     districtGroup,
     apply,
     mountLanguageSelectors,
+    mountWorldClocks,
     searchAliases
   };
+
+  mountWorldClocks();
 }());
