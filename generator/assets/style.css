@@ -132,7 +132,7 @@ button:active:not(:disabled),
 
 .access-masthead {
   display: grid;
-  grid-template-columns: minmax(0, 280px) minmax(180px, 220px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 280px) minmax(220px, 250px) minmax(0, 1fr);
   min-height: 74px;
   border-bottom: 0.5px solid var(--hairline);
 }
@@ -408,7 +408,7 @@ html[lang="fr"] .access-card h2 {
 
 .masthead {
   display: grid;
-  grid-template-columns: minmax(0, 280px) minmax(180px, 220px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 280px) minmax(220px, 250px) minmax(0, 1fr);
   min-height: 74px;
   border-bottom: 0.5px solid var(--hairline);
   background: var(--bg);
@@ -775,6 +775,7 @@ select option:checked {
   padding-left: 12px;
   font-size: 11px;
   letter-spacing: 0.05em;
+  text-overflow: clip;
 }
 
 .flow-select-trigger {

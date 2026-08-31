@@ -26,9 +26,6 @@ const copyRows = [
   ['score2', 'Pattern completed pain-free with compensation.', 'Schema completato senza dolore ma con compensi.', 'Patrón completado sin dolor, pero con compensaciones.', 'Schéma réalisé sans douleur, mais avec compensation.', 'Bewegungsmuster schmerzfrei, jedoch mit Kompensation ausgeführt.'],
   ['score1', 'Pattern cannot be completed as instructed.', 'Schema non completato secondo le istruzioni.', 'El patrón no puede completarse según las instrucciones.', 'Le schéma ne peut pas être réalisé conformément aux consignes.', 'Bewegungsmuster kann nicht wie vorgegeben ausgeführt werden.'],
   ['score0', 'Pain is reported during the movement or clearing test.', 'È presente dolore durante il movimento o il test di esclusione.', 'Se refiere dolor durante el movimiento o la prueba de descarte.', 'Une douleur est signalée pendant le mouvement ou le test de provocation.', 'Während der Bewegung oder des Provokationstests treten Schmerzen auf.'],
-  ['subjectName', 'Subject name', 'Nome del soggetto', 'Nombre de la persona', 'Nom du sujet', 'Name der getesteten Person'],
-  ['optionalPlaceholder', 'Optional', 'Facoltativo', 'Opcional', 'Facultatif', 'Optional'],
-  ['assessmentDate', 'Assessment date', 'Data della valutazione', 'Fecha de evaluación', 'Date de l’évaluation', 'Bewertungsdatum'],
   ['bilateralTest', 'Bilateral test', 'Test bilaterale', 'Prueba bilateral', 'Test bilatéral', 'Bilateraler Test'],
   ['singleTest', 'Single-score test', 'Test a punteggio singolo', 'Prueba de puntuación única', 'Test à score unique', 'Test mit Einzelwert'],
   ['focusLabel', 'What it observes', 'Cosa osserva', 'Qué observa', 'Ce qui est observé', 'Beobachtungsschwerpunkt'],
@@ -50,30 +47,34 @@ const copyRows = [
   ['resultsEmpty', 'No assessment generated. Complete all seven tests and select Generate assessment.', 'Nessuna valutazione generata. Completa tutti e sette i test e seleziona Genera la valutazione.', 'No se ha generado ninguna evaluación. Completa las siete pruebas y selecciona Generar evaluación.', 'Aucune évaluation n’a été générée. Renseignez les sept tests puis sélectionnez Générer l’évaluation.', 'Noch keine Bewertung erstellt. Vervollständigen Sie alle sieben Tests und wählen Sie Bewertung erstellen.'],
   ['footerApp', 'Split APA / FMS-guided movement profile', 'Split APA / Profilo motorio guidato dall’FMS', 'Split APA / Perfil de movimiento guiado por FMS', 'Split APA / Profil de mouvement guidé par le FMS', 'Split APA / FMS gestütztes Bewegungsprofil'],
   ['footerDisclaimer', 'Screening support / Not a diagnosis', 'Supporto allo screening / Non è una diagnosi', 'Apoyo al cribado / No es un diagnóstico', 'Aide au dépistage / Ne constitue pas un diagnostic', 'Screening-Unterstützung / Keine Diagnose'],
-  ['finalScore', 'Composite score', 'Punteggio complessivo', 'Puntuación total', 'Score composite', 'Gesamtwert'],
-  ['anonymousSubject', 'this assessed subject', 'questo soggetto', 'esta persona evaluada', 'ce sujet', 'dieser getesteten Person'],
-  ['profileStrong', 'The profile for {subject} shows all seven patterns completed at level 2 or 3, without pain or side-to-side asymmetry. Movement quality is globally consistent within the test conditions; maintain technical precision and progress gradually.', 'Il profilo di {subject} mostra tutti e sette gli schemi completati a livello 2 o 3, senza dolore né asimmetrie tra i lati. La qualità del movimento è globalmente coerente nelle condizioni del test; mantieni precisione tecnica e progressione graduale.', 'El perfil de {subject} muestra los siete patrones completados con nivel 2 o 3, sin dolor ni asimetrías entre lados. La calidad del movimiento es globalmente coherente en las condiciones de la prueba; conviene mantener la precisión técnica y progresar de forma gradual.', 'Le profil de {subject} montre que les sept schémas sont réalisés au niveau 2 ou 3, sans douleur ni asymétrie entre les côtés. La qualité du mouvement est globalement cohérente dans les conditions du test ; il convient de préserver la précision technique et de progresser graduellement.', 'Das Profil von {subject} zeigt alle sieben Muster auf Stufe 2 oder 3 ohne Schmerzen oder Seitenasymmetrie. Die Bewegungsqualität ist unter den Testbedingungen insgesamt konsistent; technische Präzision beibehalten und schrittweise steigern.'],
-  ['profileMixed', 'The profile for {subject} shows usable movement strategies with compensations or isolated priorities. Begin with the lowest-scoring patterns, improve control and available mobility, then increase complexity.', 'Il profilo di {subject} mostra strategie motorie utilizzabili con compensi o priorità isolate. Parti dagli schemi con punteggio più basso, migliora controllo e mobilità disponibile, quindi aumenta la complessità.', 'El perfil de {subject} muestra estrategias de movimiento utilizables, con compensaciones o prioridades aisladas. Empieza por los patrones con menor puntuación, mejora el control y la movilidad disponible y, después, aumenta la complejidad.', 'Le profil de {subject} montre des stratégies motrices utilisables, avec des compensations ou des priorités isolées. Commencez par les schémas les moins bien notés, améliorez le contrôle et la mobilité disponible, puis augmentez la complexité.', 'Das Profil von {subject} zeigt nutzbare Bewegungsstrategien mit Kompensationen oder einzelnen Prioritäten. Beginnen Sie mit den niedrigsten Werten, verbessern Sie Kontrolle und verfügbare Beweglichkeit und erhöhen Sie anschließend die Komplexität.'],
-  ['profilePriority', 'The profile for {subject} contains movement patterns that could not be completed as instructed or show relevant asymmetry. Address these priorities with low-complexity, pain-free work before adding speed, load, or advanced coordination.', 'Il profilo di {subject} comprende schemi non completati secondo le istruzioni o con asimmetrie rilevanti. Affronta queste priorità con un lavoro semplice e privo di dolore prima di aggiungere velocità, carico o coordinazione avanzata.', 'El perfil de {subject} incluye patrones que no pudieron completarse según las instrucciones o que presentan asimetrías relevantes. Aborda estas prioridades con trabajo sencillo y sin dolor antes de añadir velocidad, carga o coordinación avanzada.', 'Le profil de {subject} comporte des schémas qui n’ont pas pu être réalisés conformément aux consignes ou qui présentent une asymétrie significative. Traitez ces priorités avec un travail simple et indolore avant d’ajouter de la vitesse, de la charge ou une coordination avancée.', 'Das Profil von {subject} enthält Muster, die nicht wie vorgegeben ausgeführt werden konnten oder eine relevante Asymmetrie zeigen. Diese Prioritäten zunächst mit einfachem, schmerzfreiem Training bearbeiten, bevor Geschwindigkeit, Last oder komplexe Koordination hinzukommen.'],
+  ['finalScore', 'Composite score', 'Punteggio composito', 'Puntuación compuesta', 'Score composite', 'Gesamtwert'],
+  ['profileStrong', 'All seven movement patterns were completed without pain, score 1, or side-to-side asymmetry. The screen indicates an acceptable-to-optimal movement baseline under standardized test conditions; preserve movement quality and progress exposure gradually.', 'Tutti e sette gli schemi di movimento sono stati completati senza dolore, punteggi pari a 1 o asimmetrie tra i lati. Lo screening indica una base motoria da accettabile a ottimale nelle condizioni standardizzate del test; preservare la qualità del movimento e aumentare gradualmente l’esposizione.', 'Los siete patrones de movimiento se completaron sin dolor, puntuaciones de 1 ni asimetrías entre lados. El cribado indica una base de movimiento entre aceptable y óptima en condiciones estandarizadas; se recomienda preservar la calidad del movimiento y progresar la exposición de forma gradual.', 'Les sept schémas moteurs ont été réalisés sans douleur, score 1 ni asymétrie entre les côtés. Le dépistage indique une base motrice acceptable à optimale dans les conditions standardisées du test ; il convient de préserver la qualité du mouvement et de progresser graduellement.', 'Alle sieben Bewegungsmuster wurden ohne Schmerzen, Wert 1 oder Seitenasymmetrie ausgeführt. Das Screening zeigt unter standardisierten Testbedingungen eine akzeptable bis optimale Bewegungsbasis; Bewegungsqualität erhalten und Belastung schrittweise steigern.'],
+  ['profileMixed', 'The screen identifies pain-free patterns completed with compensation. These findings represent modifiable movement-quality limitations rather than a diagnosis. Prioritize the lowest-scoring patterns, restore available mobility and control, and reassess before increasing complexity or load.', 'Lo screening identifica schemi completati senza dolore ma con compensi. Questi reperti descrivono limitazioni modificabili della qualità del movimento e non costituiscono una diagnosi. Dare priorità agli schemi con punteggio più basso, recuperare mobilità disponibile e controllo, quindi rivalutare prima di aumentare complessità o carico.', 'El cribado identifica patrones completados sin dolor, pero con compensaciones. Estos hallazgos describen limitaciones modificables de la calidad del movimiento y no constituyen un diagnóstico. Deben priorizarse los patrones con menor puntuación, recuperar movilidad y control disponibles y reevaluar antes de aumentar la complejidad o la carga.', 'Le dépistage met en évidence des schémas réalisés sans douleur mais avec compensations. Ces constatations décrivent des limitations modifiables de la qualité du mouvement et ne constituent pas un diagnostic. Il convient de cibler les schémas les moins bien notés, de restaurer la mobilité et le contrôle disponibles, puis de réévaluer avant d’augmenter la complexité ou la charge.', 'Das Screening zeigt schmerzfrei, jedoch mit Kompensationen ausgeführte Muster. Diese Befunde beschreiben veränderbare Einschränkungen der Bewegungsqualität und stellen keine Diagnose dar. Niedrig bewertete Muster priorisieren, verfügbare Beweglichkeit und Kontrolle verbessern und vor höherer Komplexität oder Last erneut testen.'],
+  ['profilePriority', 'The screen identifies one or more dysfunctional patterns, relevant side-to-side asymmetries, or both. Do not load a pattern scored 1. Begin with pain-free, low-complexity work directed at the primary limitation, then reassess before introducing speed, external load, or advanced coordination.', 'Lo screening identifica uno o più schemi disfunzionali, asimmetrie rilevanti tra i lati o entrambe le condizioni. Non caricare uno schema con punteggio 1. Iniziare con un lavoro privo di dolore e a bassa complessità, orientato alla limitazione prioritaria, quindi rivalutare prima di introdurre velocità, carico esterno o coordinazione avanzata.', 'El cribado identifica uno o más patrones disfuncionales, asimetrías relevantes entre lados o ambas condiciones. No debe cargarse un patrón con puntuación 1. Se recomienda iniciar con trabajo sin dolor y de baja complejidad dirigido a la limitación prioritaria, y reevaluar antes de introducir velocidad, carga externa o coordinación avanzada.', 'Le dépistage identifie un ou plusieurs schémas dysfonctionnels, des asymétries pertinentes entre les côtés, ou les deux. Un schéma coté 1 ne doit pas être chargé. Commencez par un travail indolore et peu complexe ciblant la limitation prioritaire, puis réévaluez avant d’introduire vitesse, charge externe ou coordination avancée.', 'Das Screening zeigt mindestens ein dysfunktionales Muster, relevante Seitenasymmetrien oder beides. Ein mit 1 bewertetes Muster nicht belasten. Mit schmerzfreier, einfacher Arbeit an der vorrangigen Einschränkung beginnen und vor Geschwindigkeit, externer Last oder komplexer Koordination erneut testen.'],
+  ['profilePain', 'Pain was reported during at least one movement or clearing test. This finding takes precedence over the composite score and all other movement-quality findings. Do not train the symptomatic pattern through pain; obtain an appropriate clinical assessment before exercise selection.', 'È stato riferito dolore durante almeno un movimento o test di esclusione. Questo reperto ha priorità sul punteggio composito e su tutti gli altri risultati relativi alla qualità del movimento. Non allenare lo schema sintomatico attraverso il dolore; richiedere una valutazione clinica appropriata prima di selezionare gli esercizi.', 'Se refirió dolor durante al menos un movimiento o una prueba de descarte. Este hallazgo tiene prioridad sobre la puntuación compuesta y sobre cualquier otro resultado de calidad del movimiento. No entrenes el patrón sintomático con dolor; solicita una valoración clínica adecuada antes de seleccionar ejercicios.', 'Une douleur a été signalée pendant au moins un mouvement ou un test de provocation. Cette constatation prévaut sur le score composite et sur tous les autres résultats relatifs à la qualité du mouvement. N’entraînez pas le schéma symptomatique dans la douleur ; demandez une évaluation clinique adaptée avant de sélectionner des exercices.', 'Bei mindestens einer Bewegung oder einem Provokationstest wurden Schmerzen angegeben. Dieser Befund hat Vorrang vor dem Gesamtwert und allen anderen Ergebnissen zur Bewegungsqualität. Das symptomatische Muster nicht unter Schmerzen trainieren; vor der Übungsauswahl eine angemessene klinische Abklärung einholen.'],
+  ['scoreContext', 'The composite score is descriptive and is not interpreted in isolation. Clinical priority follows this order: pain or score 0, score 1, relevant asymmetry, then score 2 with compensation.', 'Il punteggio composito è descrittivo e non viene interpretato isolatamente. La priorità clinica segue questo ordine: dolore o punteggio 0, punteggio 1, asimmetria rilevante, quindi punteggio 2 con compensi.', 'La puntuación compuesta es descriptiva y no se interpreta de forma aislada. La prioridad clínica sigue este orden: dolor o puntuación 0, puntuación 1, asimetría relevante y, después, puntuación 2 con compensaciones.', 'Le score composite est descriptif et ne s’interprète pas isolément. La priorité clinique suit cet ordre : douleur ou score 0, score 1, asymétrie pertinente, puis score 2 avec compensations.', 'Der Gesamtwert ist beschreibend und wird nicht isoliert interpretiert. Die klinische Priorität lautet: Schmerz oder Wert 0, Wert 1, relevante Asymmetrie, danach Wert 2 mit Kompensation.'],
   ['focusHeading', 'Recommended focus', 'Priorità consigliate', 'Prioridades recomendadas', 'Priorités recommandées', 'Empfohlene Schwerpunkte'],
   ['painWarning', 'Pain was reported in: {tests}. A score of 0 requires professional clinical assessment before an exercise plan is generated. The automated workout codes are therefore withheld.', 'È stato riferito dolore in: {tests}. Un punteggio pari a 0 richiede una valutazione clinica professionale prima di generare un programma di esercizio. I codici automatici vengono pertanto sospesi.', 'Se refirió dolor en: {tests}. Una puntuación de 0 requiere valoración clínica profesional antes de generar un programa de ejercicio. Por este motivo, no se muestran los códigos automáticos.', 'Une douleur a été signalée pour : {tests}. Un score de 0 nécessite une évaluation clinique professionnelle avant de générer un programme d’exercices. Les codes automatiques ne sont donc pas proposés.', 'Schmerzen wurden angegeben bei: {tests}. Ein Wert von 0 erfordert eine professionelle klinische Abklärung, bevor ein Übungsprogramm erstellt wird. Die automatischen Trainingscodes werden daher nicht ausgegeben.'],
-  ['lowPriority', 'Score 1 in {tests}: prioritize accessible range of motion, precise motor control, and low-complexity pattern practice.', 'Punteggio 1 in {tests}: dai priorità ad ampiezza di movimento accessibile, controllo motorio preciso e pratica dello schema a bassa complessità.', 'Puntuación 1 en {tests}: prioriza un rango de movimiento accesible, control motor preciso y práctica del patrón con baja complejidad.', 'Score 1 pour {tests} : privilégiez une amplitude accessible, un contrôle moteur précis et un entraînement du schéma à faible complexité.', 'Wert 1 bei {tests}: verfügbare Bewegungsamplitude, präzise motorische Kontrolle und einfache Musterübung priorisieren.'],
-  ['asymmetryPriority', 'Side-to-side asymmetry in {tests}: work bilaterally, begin with the less proficient side, and avoid reinforcing the stronger strategy.', 'Asimmetria tra i lati in {tests}: lavora bilateralmente, inizia dal lato meno efficiente ed evita di rinforzare la strategia dominante.', 'Asimetría entre lados en {tests}: trabaja de forma bilateral, comienza por el lado menos competente y evita reforzar la estrategia dominante.', 'Asymétrie entre les côtés pour {tests} : travaillez des deux côtés, commencez par le côté le moins efficient et évitez de renforcer la stratégie dominante.', 'Seitenasymmetrie bei {tests}: beidseitig arbeiten, mit der weniger kompetenten Seite beginnen und die dominante Strategie nicht weiter verstärken.'],
-  ['compensationPriority', 'Score 2 in {tests}: preserve pain-free execution while reducing compensation and improving movement quality.', 'Punteggio 2 in {tests}: mantieni un’esecuzione priva di dolore riducendo i compensi e migliorando la qualità del movimento.', 'Puntuación 2 en {tests}: mantén una ejecución sin dolor mientras reduces las compensaciones y mejoras la calidad del movimiento.', 'Score 2 pour {tests} : conservez une exécution indolore tout en réduisant les compensations et en améliorant la qualité du mouvement.', 'Wert 2 bei {tests}: schmerzfreie Ausführung beibehalten, Kompensationen reduzieren und Bewegungsqualität verbessern.'],
+  ['painPriority', 'Score 0 / pain in {tests}: suspend automated exercise selection and obtain an appropriate clinical assessment before training the symptomatic pattern.', 'Punteggio 0 / dolore in {tests}: sospendere la selezione automatica degli esercizi e richiedere una valutazione clinica appropriata prima di allenare lo schema sintomatico.', 'Puntuación 0 / dolor en {tests}: suspender la selección automática de ejercicios y solicitar una valoración clínica adecuada antes de entrenar el patrón sintomático.', 'Score 0 / douleur pour {tests} : suspendre la sélection automatique des exercices et demander une évaluation clinique adaptée avant d’entraîner le schéma symptomatique.', 'Wert 0 / Schmerz bei {tests}: automatische Übungsauswahl aussetzen und vor dem Training des symptomatischen Musters eine angemessene klinische Abklärung einholen.'],
+  ['lowPriority', 'Score 1 in {tests}: the pattern was not completed to the required criteria. Avoid loading it; use accessible range, precise motor control, and low-complexity pattern practice, then reassess.', 'Punteggio 1 in {tests}: lo schema non è stato completato secondo i criteri richiesti. Evitare di caricarlo; utilizzare ampiezza accessibile, controllo motorio preciso e pratica a bassa complessità, quindi rivalutare.', 'Puntuación 1 en {tests}: el patrón no se completó según los criterios requeridos. Evita cargarlo; utiliza un rango accesible, control motor preciso y práctica de baja complejidad, y después reevalúa.', 'Score 1 pour {tests} : le schéma n’a pas satisfait aux critères requis. Évitez de le charger ; utilisez une amplitude accessible, un contrôle moteur précis et une pratique peu complexe, puis réévaluez.', 'Wert 1 bei {tests}: Das Muster erfüllte die geforderten Kriterien nicht. Nicht belasten; verfügbare Bewegungsamplitude, präzise motorische Kontrolle und einfache Musterübung einsetzen, danach erneut testen.'],
+  ['asymmetryPriority', 'Side-to-side asymmetry in {details}: the lower side determines the recorded score. Work bilaterally, begin with the less proficient side, and avoid reinforcing the dominant strategy.', 'Asimmetria tra i lati in {details}: il lato con il valore più basso determina il punteggio registrato. Lavorare bilateralmente, iniziare dal lato meno efficiente ed evitare di rinforzare la strategia dominante.', 'Asimetría entre lados en {details}: el lado con menor valor determina la puntuación registrada. Trabaja bilateralmente, empieza por el lado menos competente y evita reforzar la estrategia dominante.', 'Asymétrie entre les côtés pour {details} : le côté le moins bien coté détermine le score enregistré. Travaillez bilatéralement, commencez par le côté le moins efficient et évitez de renforcer la stratégie dominante.', 'Seitenasymmetrie bei {details}: Die niedriger bewertete Seite bestimmt den erfassten Wert. Beidseitig arbeiten, mit der weniger kompetenten Seite beginnen und die dominante Strategie nicht weiter verstärken.'],
+  ['compensationPriority', 'Score 2 in {tests}: the pattern was completed without pain but with compensation. Preserve symptom-free execution while improving the limiting mobility, stability, or motor-control component.', 'Punteggio 2 in {tests}: lo schema è stato completato senza dolore ma con compensi. Preservare un’esecuzione asintomatica migliorando la componente limitante di mobilità, stabilità o controllo motorio.', 'Puntuación 2 en {tests}: el patrón se completó sin dolor, pero con compensaciones. Mantén una ejecución asintomática mientras mejoras el componente limitante de movilidad, estabilidad o control motor.', 'Score 2 pour {tests} : le schéma a été réalisé sans douleur mais avec compensations. Préservez une exécution asymptomatique tout en améliorant la composante limitante de mobilité, de stabilité ou de contrôle moteur.', 'Wert 2 bei {tests}: Das Muster wurde schmerzfrei, jedoch mit Kompensation ausgeführt. Symptomfreie Ausführung erhalten und die limitierende Komponente aus Beweglichkeit, Stabilität oder motorischer Kontrolle verbessern.'],
+  ['recordedObservations', 'Recorded observations: {notes}. Correlate these notes with the standardized scores and the person’s clinical and functional context.', 'Osservazioni registrate: {notes}. Correlare queste note con i punteggi standardizzati e con il contesto clinico e funzionale della persona.', 'Observaciones registradas: {notes}. Correlaciona estas notas con las puntuaciones estandarizadas y con el contexto clínico y funcional de la persona.', 'Observations consignées : {notes}. Mettez ces notes en relation avec les scores standardisés et le contexte clinique et fonctionnel de la personne.', 'Dokumentierte Beobachtungen: {notes}. Diese Angaben mit den standardisierten Werten sowie dem klinischen und funktionellen Kontext der Person abgleichen.'],
   ['maintenancePriority', 'All patterns are pain-free and symmetrical. Maintain mobility and motor control while progressing difficulty gradually.', 'Tutti gli schemi sono privi di dolore e simmetrici. Mantieni mobilità e controllo motorio aumentando gradualmente la difficoltà.', 'Todos los patrones son indoloros y simétricos. Mantén la movilidad y el control motor mientras aumentas la dificultad de forma gradual.', 'Tous les schémas sont indolores et symétriques. Entretenez la mobilité et le contrôle moteur tout en augmentant progressivement la difficulté.', 'Alle Muster sind schmerzfrei und symmetrisch. Beweglichkeit und motorische Kontrolle erhalten und die Schwierigkeit schrittweise steigern.'],
   ['asymmetryTag', 'Asymmetry', 'Asimmetria', 'Asimetría', 'Asymétrie', 'Asymmetrie'],
   ['painTag', 'Pain', 'Dolore', 'Dolor', 'Douleur', 'Schmerz'],
   ['plansHeading', 'Three progressive plans.', 'Tre programmi progressivi.', 'Tres programas progresivos.', 'Trois programmes progressifs.', 'Drei progressive Programme.'],
-  ['plansLead', 'Each code uses exercises already present in the Split APA archive and preserves district order. Review the selection before use.', 'Ogni codice utilizza esercizi già presenti nell’archivio Split APA e mantiene l’ordine dei distretti. Controlla la selezione prima dell’uso.', 'Cada código utiliza ejercicios ya incluidos en el archivo de Split APA y conserva el orden de las regiones. Revisa la selección antes de utilizarla.', 'Chaque code utilise des exercices déjà présents dans la base Split APA et respecte l’ordre des régions. Vérifiez la sélection avant utilisation.', 'Jeder Code verwendet Übungen aus dem Split APA Archiv und behält die Reihenfolge der Körperregionen bei. Auswahl vor der Anwendung prüfen.'],
+  ['plansLead', 'Exercises are matched only to the clinically prioritized FMS patterns by body district, joint area, movement tag, and appropriate difficulty. These are screening-guided candidates, not an automatic clinical prescription; verify pain-free execution, dosage, and progression criteria before use.', 'Gli esercizi sono associati esclusivamente agli schemi FMS prioritari in base a distretto corporeo, area articolare, tag di movimento e difficoltà appropriata. Sono proposte guidate dallo screening, non una prescrizione clinica automatica; verificare esecuzione priva di dolore, dosaggio e criteri di progressione prima dell’uso.', 'Los ejercicios se asocian únicamente a los patrones FMS prioritarios según región corporal, área articular, etiqueta de movimiento y dificultad adecuada. Son propuestas guiadas por el cribado, no una prescripción clínica automática; verifica la ejecución sin dolor, la dosificación y los criterios de progresión antes de utilizarlos.', 'Les exercices sont associés uniquement aux schémas FMS prioritaires selon la région corporelle, la zone articulaire, le mouvement et le niveau de difficulté approprié. Il s’agit de propositions guidées par le dépistage, et non d’une prescription clinique automatique ; vérifiez l’exécution indolore, le dosage et les critères de progression avant utilisation.', 'Die Übungen werden ausschließlich den vorrangigen FMS Mustern nach Körperregion, Gelenkbereich, Bewegungsmerkmal und angemessenem Schwierigkeitsgrad zugeordnet. Es handelt sich um screeninggestützte Vorschläge, nicht um eine automatische klinische Verordnung; schmerzfreie Ausführung, Dosierung und Progressionskriterien vor der Anwendung prüfen.'],
   ['foundationLabel', 'Level 01', 'Livello 01', 'Nivel 01', 'Niveau 01', 'Stufe 01'],
   ['foundationTitle', 'Foundation', 'Base', 'Base', 'Fondations', 'Grundlage'],
-  ['foundationDescription', 'Low-complexity exercises focused on accessible mobility and controlled execution.', 'Esercizi a bassa complessità orientati alla mobilità accessibile e all’esecuzione controllata.', 'Ejercicios de baja complejidad centrados en una movilidad accesible y una ejecución controlada.', 'Exercices peu complexes centrés sur une mobilité accessible et une exécution contrôlée.', 'Einfache Übungen mit Schwerpunkt auf verfügbarer Beweglichkeit und kontrollierter Ausführung.'],
+  ['foundationDescription', 'Initial, low-complexity exposure for the identified priority patterns. Use a pain-free range and controlled execution before adding load.', 'Esposizione iniziale a bassa complessità per gli schemi prioritari identificati. Utilizzare un’ampiezza priva di dolore e un’esecuzione controllata prima di aggiungere carico.', 'Exposición inicial de baja complejidad para los patrones prioritarios identificados. Utiliza un rango sin dolor y una ejecución controlada antes de añadir carga.', 'Exposition initiale peu complexe pour les schémas prioritaires identifiés. Utilisez une amplitude indolore et une exécution contrôlée avant d’ajouter de la charge.', 'Einfache Anfangsbelastung für die identifizierten Prioritätsmuster. Schmerzfreien Bewegungsumfang und kontrollierte Ausführung sichern, bevor Last hinzukommt.'],
   ['intermediateLabel', 'Level 02', 'Livello 02', 'Nivel 02', 'Niveau 02', 'Stufe 02'],
   ['intermediateTitle', 'Progressive', 'Progressivo', 'Progresivo', 'Progressif', 'Aufbau'],
-  ['intermediateDescription', 'Moderate difficulty with more active control, coordination, and pattern integration.', 'Difficoltà moderata con maggiore controllo attivo, coordinazione e integrazione degli schemi.', 'Dificultad moderada con mayor control activo, coordinación e integración de patrones.', 'Difficulté modérée avec davantage de contrôle actif, de coordination et d’intégration des schémas.', 'Mittlere Schwierigkeit mit mehr aktiver Kontrolle, Koordination und Musterintegration.'],
+  ['intermediateDescription', 'Progressive control and coordination for the same priority patterns. Use only after the foundation exercises remain consistently pain-free and technically controlled.', 'Controllo e coordinazione progressivi per gli stessi schemi prioritari. Utilizzare solo quando gli esercizi di base risultano costantemente privi di dolore e tecnicamente controllati.', 'Control y coordinación progresivos para los mismos patrones prioritarios. Utilízalo solo cuando los ejercicios de base se mantengan sin dolor y con control técnico constante.', 'Contrôle et coordination progressifs pour les mêmes schémas prioritaires. À utiliser uniquement lorsque les exercices de base restent constamment indolores et techniquement maîtrisés.', 'Progressive Kontrolle und Koordination für dieselben Prioritätsmuster. Erst einsetzen, wenn die Grundlagenübungen dauerhaft schmerzfrei und technisch kontrolliert bleiben.'],
   ['advancedLabel', 'Level 03', 'Livello 03', 'Nivel 03', 'Niveau 03', 'Stufe 03'],
   ['advancedTitle', 'Advanced', 'Avanzato', 'Avanzado', 'Avancé', 'Fortgeschritten'],
-  ['advancedDescription', 'Higher-complexity exercises for later progression after consistent pain-free control.', 'Esercizi a maggiore complessità per una progressione successiva, dopo aver acquisito un controllo costante e privo di dolore.', 'Ejercicios de mayor complejidad para una progresión posterior, una vez logrado un control constante y sin dolor.', 'Exercices plus complexes pour une progression ultérieure, après acquisition d’un contrôle constant et indolore.', 'Komplexere Übungen für eine spätere Progression nach stabiler, schmerzfreier Kontrolle.'],
+  ['advancedDescription', 'Later-stage integration of the same priority patterns at higher complexity. Use only after reassessment confirms adequate pain-free control for progression.', 'Integrazione in fase avanzata degli stessi schemi prioritari a maggiore complessità. Utilizzare solo dopo che la rivalutazione conferma un controllo adeguato e privo di dolore per la progressione.', 'Integración avanzada de los mismos patrones prioritarios con mayor complejidad. Utilízalo solo después de que la reevaluación confirme un control adecuado y sin dolor para progresar.', 'Intégration avancée des mêmes schémas prioritaires avec une complexité supérieure. À utiliser uniquement après qu’une réévaluation confirme un contrôle indolore suffisant pour progresser.', 'Spätere Integration derselben Prioritätsmuster mit höherer Komplexität. Erst verwenden, wenn eine erneute Bewertung eine ausreichende schmerzfreie Kontrolle für die Progression bestätigt.'],
+  ['planCoverage', '{count} matched exercises / Targets: {tests}', '{count} esercizi pertinenti / Obiettivi: {tests}', '{count} ejercicios pertinentes / Objetivos: {tests}', '{count} exercices pertinents / Cibles : {tests}', '{count} passende Übungen / Ziele: {tests}'],
   ['copyCode', 'Copy code', 'Copia codice', 'Copiar código', 'Copier le code', 'Code kopieren'],
   ['openPlan', 'Open plan', 'Apri programma', 'Abrir programa', 'Ouvrir le programme', 'Programm öffnen'],
   ['copySuccess', 'Code copied.', 'Codice copiato.', 'Código copiado.', 'Code copié.', 'Code kopiert.'],
@@ -174,14 +175,21 @@ const tests = [
 ];
 
 const districtOrder = ['neck', 'upper-limb', 'trunk', 'lower-limb'];
+const clinicalPatternOrder = [
+  'active-straight-leg-raise',
+  'shoulder-mobility',
+  'rotary-stability',
+  'trunk-stability-pushup',
+  'inline-lunge',
+  'hurdle-step',
+  'deep-squat'
+];
 let archivePromise = null;
 
 const els = {
   shell: document.getElementById('fmsShell'),
   form: document.getElementById('fmsForm'),
   list: document.getElementById('fmsTestList'),
-  subjectName: document.getElementById('subjectName'),
-  assessmentDate: document.getElementById('assessmentDate'),
   reset: document.getElementById('resetAssessment'),
   message: document.getElementById('formMessage'),
   results: document.getElementById('results'),
@@ -194,12 +202,6 @@ function hasAccess() {
   } catch (error) {
     return false;
   }
-}
-
-function setToday() {
-  const now = new Date();
-  const local = new Date(now.getTime() - now.getTimezoneOffset() * 60000);
-  els.assessmentDate.value = local.toISOString().slice(0, 10);
 }
 
 function applyPageCopy() {
@@ -408,11 +410,7 @@ function collectDraft() {
   tests.forEach((test) => {
     values[`pain-${test.id}`] = els.form.elements[`pain-${test.id}`].checked;
   });
-  return {
-    subjectName: els.subjectName.value,
-    assessmentDate: els.assessmentDate.value,
-    values
-  };
+  return { values };
 }
 
 function saveDraft() {
@@ -430,13 +428,8 @@ function restoreDraft() {
   } catch (error) {
     draft = null;
   }
-  if (!draft) {
-    setToday();
-    return;
-  }
+  if (!draft) return;
 
-  els.subjectName.value = draft.subjectName || '';
-  els.assessmentDate.value = draft.assessmentDate || '';
   Object.entries(draft.values || {}).forEach(([name, value]) => {
     const controls = [...els.form.querySelectorAll(`[name="${name}"]`)];
     if (!controls.length) return;
@@ -449,7 +442,6 @@ function restoreDraft() {
       controls[0].value = value;
     }
   });
-  if (!els.assessmentDate.value) setToday();
 }
 
 async function fetchJson(url) {
@@ -495,8 +487,8 @@ function targetMatchScore(exercise, target) {
   const areaMatch = target.areas.includes(exercise.movementDistrict);
   const tags = Array.isArray(exercise.movementTags) ? exercise.movementTags : [];
   const tagMatches = target.tags.filter((tag) => tags.includes(tag)).length;
-  if (!areaMatch && !tagMatches) return 0;
-  return 5 + (areaMatch ? 5 : 0) + tagMatches * 2;
+  if (!areaMatch || !tagMatches) return 0;
+  return 12 + tagMatches * 4;
 }
 
 function testExerciseScore(exercise, test) {
@@ -507,22 +499,32 @@ function testExerciseScore(exercise, test) {
 }
 
 function priorityWeight(result) {
-  if (result.final <= 1) return 5 + (result.asymmetry ? 2 : 0);
-  if (result.final === 2) return 3 + (result.asymmetry ? 2 : 0);
-  return result.asymmetry ? 3 : 1;
+  if (result.final <= 1) return 9 + (result.asymmetry ? 3 : 0);
+  if (result.final === 2) return 5 + (result.asymmetry ? 3 : 0);
+  return result.asymmetry ? 4 : 1;
 }
 
 function compareExerciseIds(a, b) {
   return String(a.id).localeCompare(String(b.id), 'en', { numeric: true });
 }
 
-function buildPlanExercises(archive, results, tier) {
-  const focusResults = results.some((result) => result.final < 3 || result.asymmetry)
+function sortClinicalFindings(values) {
+  return [...values].sort((a, b) => (
+    a.final - b.final
+    || clinicalPatternOrder.indexOf(a.id) - clinicalPatternOrder.indexOf(b.id)
+    || Number(b.asymmetry) - Number(a.asymmetry)
+  ));
+}
+
+function planFocusResults(results) {
+  const focus = results.some((result) => result.final < 3 || result.asymmetry)
     ? results.filter((result) => result.final < 3 || result.asymmetry)
     : results;
-  const sortedFocus = [...focusResults].sort((a, b) => (
-    a.final - b.final || Number(b.asymmetry) - Number(a.asymmetry) || tests.indexOf(a) - tests.indexOf(b)
-  ));
+  return sortClinicalFindings(focus);
+}
+
+function buildPlanExercises(archive, results, tier) {
+  const sortedFocus = planFocusResults(results);
 
   const allowed = archive.filter((exercise) => {
     const level = difficulty(exercise);
@@ -530,6 +532,13 @@ function buildPlanExercises(archive, results, tier) {
   });
   const selected = [];
   const selectedIds = new Set();
+
+  const addExercise = (exercise) => {
+    if (!exercise || selectedIds.has(exercise.id) || selected.length >= tier.count) return false;
+    selected.push(exercise);
+    selectedIds.add(exercise.id);
+    return true;
+  };
 
   const candidatesForTest = (result, pool = allowed) => pool
     .map((exercise) => ({
@@ -540,13 +549,15 @@ function buildPlanExercises(archive, results, tier) {
     .filter((candidate) => candidate.score > 0 && !selectedIds.has(candidate.exercise.id))
     .sort((a, b) => b.score - a.score || a.distance - b.distance || compareExerciseIds(a.exercise, b.exercise));
 
-  for (let round = 0; round < 3 && selected.length < tier.count; round += 1) {
+  const quotas = new Map(sortedFocus.map((result) => [
+    result.id,
+    result.final <= 1 ? 3 : (result.asymmetry || result.final === 2 ? 2 : 1)
+  ]));
+  const maxQuota = Math.max(0, ...quotas.values());
+  for (let round = 0; round < maxQuota && selected.length < tier.count; round += 1) {
     sortedFocus.forEach((result) => {
-      if (selected.length >= tier.count) return;
-      const candidate = candidatesForTest(result)[0];
-      if (!candidate) return;
-      selected.push(candidate.exercise);
-      selectedIds.add(candidate.exercise.id);
+      if (round >= quotas.get(result.id) || selected.length >= tier.count) return;
+      addExercise(candidatesForTest(result)[0]?.exercise);
     });
   }
 
@@ -563,22 +574,32 @@ function buildPlanExercises(archive, results, tier) {
     .sort((a, b) => b.score - a.score || a.distance - b.distance || compareExerciseIds(a.exercise, b.exercise));
 
   aggregate.forEach((candidate) => {
-    if (selected.length >= tier.count || selectedIds.has(candidate.exercise.id)) return;
-    selected.push(candidate.exercise);
-    selectedIds.add(candidate.exercise.id);
+    addExercise(candidate.exercise);
   });
 
   if (selected.length < tier.count) {
     archive
-      .filter((exercise) => !selectedIds.has(exercise.id))
+      .filter((exercise) => {
+        const level = difficulty(exercise);
+        return !selectedIds.has(exercise.id)
+          && level >= tier.fallbackMinDifficulty
+          && level <= tier.fallbackMaxDifficulty;
+      })
+      .map((exercise) => ({
+        exercise,
+        score: sortedFocus.reduce((sum, result) => (
+          sum + testExerciseScore(exercise, result) * priorityWeight(result)
+        ), 0),
+        distance: Math.abs(difficulty(exercise) - tier.preferredDifficulty)
+      }))
+      .filter((candidate) => candidate.score > 0)
       .sort((a, b) => (
-        Math.abs(difficulty(a) - tier.preferredDifficulty) - Math.abs(difficulty(b) - tier.preferredDifficulty)
-        || compareExerciseIds(a, b)
+        b.score - a.score
+        || a.distance - b.distance
+        || compareExerciseIds(a.exercise, b.exercise)
       ))
-      .forEach((exercise) => {
-        if (selected.length >= tier.count) return;
-        selected.push(exercise);
-        selectedIds.add(exercise.id);
+      .forEach((candidate) => {
+        addExercise(candidate.exercise);
       });
   }
 
@@ -613,28 +634,48 @@ function formatList(values) {
   }
 }
 
-function profileNarrative(results, subject) {
+function profileNarrative(results) {
+  if (results.some((result) => result.pain || result.final === 0)) {
+    return `${tx('profilePain')} ${tx('scoreContext')}`;
+  }
   const hasPriority = results.some((result) => result.final <= 1 || result.asymmetry);
-  const allStrong = results.every((result) => result.final >= 2 && !result.asymmetry && !result.pain);
-  if (hasPriority) return tx('profilePriority', { subject });
-  if (allStrong) return tx('profileStrong', { subject });
-  return tx('profileMixed', { subject });
+  const allStrong = results.every((result) => result.final === 3 && !result.asymmetry && !result.pain);
+  const profile = hasPriority ? tx('profilePriority') : (allStrong ? tx('profileStrong') : tx('profileMixed'));
+  return `${profile} ${tx('scoreContext')}`;
+}
+
+function resultLabel(result) {
+  const name = testText(result.id, 'name');
+  if (!result.bilateral) return name;
+  return `${name} (${tx('leftSide')} ${result.left} / ${tx('rightSide')} ${result.right})`;
 }
 
 function buildPriorities(results) {
   const priorities = [];
-  const scoreOne = results.filter((result) => result.final === 1);
-  const asymmetries = results.filter((result) => result.asymmetry && !result.pain);
-  const scoreTwo = results.filter((result) => result.final === 2 && !result.asymmetry);
+  const pain = sortClinicalFindings(results.filter((result) => result.pain || result.final === 0));
+  const scoreOne = sortClinicalFindings(results.filter((result) => result.final === 1));
+  const asymmetries = sortClinicalFindings(results.filter((result) => result.asymmetry && !result.pain));
+  const scoreTwo = sortClinicalFindings(results.filter((result) => result.final === 2 && !result.asymmetry));
+  const observations = results.filter((result) => result.notes);
 
+  if (pain.length) {
+    priorities.push(tx('painPriority', { tests: formatList(pain.map(resultLabel)) }));
+  }
   if (scoreOne.length) {
-    priorities.push(tx('lowPriority', { tests: formatList(scoreOne.map((result) => testText(result.id, 'name'))) }));
+    priorities.push(tx('lowPriority', { tests: formatList(scoreOne.map(resultLabel)) }));
   }
   if (asymmetries.length) {
-    priorities.push(tx('asymmetryPriority', { tests: formatList(asymmetries.map((result) => testText(result.id, 'name'))) }));
+    priorities.push(tx('asymmetryPriority', { details: formatList(asymmetries.map(resultLabel)) }));
   }
   if (scoreTwo.length) {
     priorities.push(tx('compensationPriority', { tests: formatList(scoreTwo.map((result) => testText(result.id, 'name'))) }));
+  }
+  if (observations.length) {
+    priorities.push(tx('recordedObservations', {
+      notes: formatList(observations.map((result) => (
+        `${testText(result.id, 'name')}: ${result.notes.replace(/[.!?]+$/u, '')}`
+      )))
+    }));
   }
   if (!priorities.length) priorities.push(tx('maintenancePriority'));
   return priorities;
@@ -658,7 +699,7 @@ function createScoreTable(results) {
   return table;
 }
 
-function createPlanCard(tier, code) {
+function createPlanCard(tier, code, exercises, focusResults) {
   const card = document.createElement('article');
   card.className = 'fms-plan-card';
   const label = document.createElement('div');
@@ -668,6 +709,12 @@ function createPlanCard(tier, code) {
   title.textContent = tx(`${tier.id}Title`);
   const description = document.createElement('p');
   description.textContent = tx(`${tier.id}Description`);
+  const coverage = document.createElement('div');
+  coverage.className = 'fms-plan-coverage small-label';
+  coverage.textContent = tx('planCoverage', {
+    count: exercises.length,
+    tests: formatList(focusResults.map((result) => testText(result.id, 'name')))
+  });
   const field = document.createElement('textarea');
   field.readOnly = true;
   field.value = code;
@@ -704,12 +751,11 @@ function createPlanCard(tier, code) {
   });
 
   actions.append(copy, open);
-  card.append(label, title, description, field, actions, status);
+  card.append(label, title, description, coverage, field, actions, status);
   return card;
 }
 
 async function renderAssessment(results) {
-  const subject = els.subjectName.value.trim() || tx('anonymousSubject');
   const total = results.reduce((sum, result) => sum + result.final, 0);
   const painResults = results.filter((result) => result.pain || result.final === 0);
 
@@ -730,7 +776,7 @@ async function renderAssessment(results) {
   const narrativeTitle = document.createElement('h3');
   narrativeTitle.textContent = tx('focusHeading');
   const narrativeText = document.createElement('p');
-  narrativeText.textContent = profileNarrative(results, subject);
+  narrativeText.textContent = profileNarrative(results);
   const list = document.createElement('ul');
   list.className = 'fms-priority-list';
   buildPriorities(results).forEach((priority) => {
@@ -757,10 +803,11 @@ async function renderAssessment(results) {
 
   const archive = await loadArchive();
   const tiers = [
-    { id: 'foundation', minDifficulty: 1, maxDifficulty: 2, preferredDifficulty: 1.5, count: 8 },
-    { id: 'intermediate', minDifficulty: 2, maxDifficulty: 4, preferredDifficulty: 3, count: 10 },
-    { id: 'advanced', minDifficulty: 3, maxDifficulty: 5, preferredDifficulty: 4.5, count: 12 }
+    { id: 'foundation', minDifficulty: 1, maxDifficulty: 2, fallbackMinDifficulty: 1, fallbackMaxDifficulty: 3, preferredDifficulty: 1.5, count: 8 },
+    { id: 'intermediate', minDifficulty: 2, maxDifficulty: 4, fallbackMinDifficulty: 1, fallbackMaxDifficulty: 5, preferredDifficulty: 3, count: 10 },
+    { id: 'advanced', minDifficulty: 3, maxDifficulty: 5, fallbackMinDifficulty: 2, fallbackMaxDifficulty: 5, preferredDifficulty: 4.5, count: 12 }
   ];
+  const focusResults = planFocusResults(results);
 
   const plans = document.createElement('section');
   plans.className = 'fms-plans';
@@ -776,7 +823,7 @@ async function renderAssessment(results) {
   grid.className = 'fms-plan-grid';
   tiers.forEach((tier) => {
     const exercises = buildPlanExercises(archive, results, tier);
-    grid.appendChild(createPlanCard(tier, createWorkoutCode(exercises)));
+    grid.appendChild(createPlanCard(tier, createWorkoutCode(exercises), exercises, focusResults));
   });
   plans.append(plansHeading, grid);
   fragment.appendChild(plans);
@@ -805,8 +852,6 @@ async function handleSubmit(event) {
 
 function resetAssessment() {
   els.form.reset();
-  els.subjectName.value = '';
-  setToday();
   els.list.querySelectorAll('.is-incomplete').forEach((card) => card.classList.remove('is-incomplete'));
   els.resultsBody.innerHTML = `<div class="empty-state">${tx('resultsEmpty')}</div>`;
   els.message.textContent = tx('formReset');
@@ -834,8 +879,6 @@ function init() {
   els.reset.addEventListener('click', resetAssessment);
   els.form.addEventListener('input', saveDraft);
   els.form.addEventListener('change', saveDraft);
-  els.subjectName.addEventListener('input', saveDraft);
-  els.assessmentDate.addEventListener('change', saveDraft);
   els.shell.hidden = false;
 }
 
