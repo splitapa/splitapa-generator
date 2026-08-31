@@ -726,40 +726,6 @@ html[lang="de"] .hero-main h1 {
   color: rgba(0, 0, 0, 0.48);
 }
 
-.sort-field select {
-  background-image: url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 6L8 10L12 6' fill='none' stroke='%236366f1' stroke-width='1.5' stroke-linecap='square' stroke-linejoin='miter'/%3E%3C/svg%3E");
-  background-position: calc(100% - 13px) 50%;
-  background-repeat: no-repeat;
-  background-size: 16px 16px;
-  cursor: pointer;
-  font-family: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  transition: border-color 220ms ease, background-color 220ms ease, box-shadow 220ms ease;
-}
-
-.sort-field select {
-  color-scheme: dark;
-}
-
-.sort-field select:hover:not(:disabled),
-.sort-field select:focus-visible {
-  border-color: var(--accent);
-  outline: 0;
-  background-color: #0b0b0b;
-  box-shadow: var(--focus-ring);
-}
-
-.sort-field select option {
-  background: #090909;
-  color: var(--fg);
-}
-
-select option:checked {
-  background: var(--accent);
-  color: var(--fg);
-}
-
 .flow-select {
   min-width: 0;
   margin-top: 12px;
@@ -820,6 +786,21 @@ select option:checked {
   outline: 0;
   background: #0b0b0b;
   box-shadow: var(--focus-ring);
+}
+
+.flow-select.disabled .flow-select-trigger,
+.flow-select-trigger:disabled {
+  border-color: var(--hairline);
+  background: var(--bg);
+  color: var(--dim);
+  cursor: not-allowed;
+  opacity: 0.62;
+  box-shadow: none;
+}
+
+.flow-select.disabled .flow-select-trigger::after,
+.flow-select-trigger:disabled::after {
+  border-color: var(--dim);
 }
 
 .flow-select.open .flow-select-trigger::after {
@@ -1165,7 +1146,8 @@ select option:checked {
   display: grid;
   gap: 12px;
   justify-items: end;
-  min-width: min(100%, 280px);
+  width: min(100%, 300px);
+  min-width: 0;
 }
 
 #outputMeta {
@@ -1175,6 +1157,7 @@ select option:checked {
 
 .sort-field {
   display: grid;
+  width: 100%;
   gap: 8px;
   justify-items: end;
 }
@@ -1183,22 +1166,9 @@ select option:checked {
   color: var(--dim);
 }
 
-.sort-field select {
+.sort-field .flow-select {
   width: 100%;
-  min-height: 48px;
-  padding: 0 46px 0 14px;
-  border: 0.5px solid var(--control-border);
-  border-radius: 0;
-  background-color: var(--bg);
-  color: var(--fg);
-  font-size: 12px;
-  letter-spacing: 0.06em;
-}
-
-.sort-field select:disabled {
-  color: var(--dim);
-  cursor: not-allowed;
-  opacity: 0.62;
+  margin-top: 0;
 }
 
 .workout-list {
@@ -1739,6 +1709,22 @@ select option:checked {
 }
 
 @media (max-width: 480px) {
+  .output {
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+
+  .flow-select-trigger {
+    padding-right: 38px;
+    padding-left: 10px;
+    font-size: 11px;
+    letter-spacing: 0.05em;
+  }
+
+  .flow-select-trigger::after {
+    right: 15px;
+  }
+
   html[lang="fr"] .access-intro h1,
   html[lang="it"] .access-intro h1 {
     font-size: 49px;

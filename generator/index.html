@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Split APA Generator</title>
-  <link rel="stylesheet" href="assets/style.css?v=20260830b">
+  <link rel="stylesheet" href="assets/style.css?v=20260831c">
 </head>
 <body>
   <section class="access-screen" id="accessScreen" aria-labelledby="accessTitle">
@@ -147,14 +147,10 @@
         </div>
         <div class="output-side">
           <div class="small-label" id="outputMeta" data-i18n="generator.noWorkout">No workout generated</div>
-          <label class="sort-field">
+          <div class="sort-field">
             <span class="small-label" data-i18n="generator.sortDifficulty">Sort difficulty</span>
-            <select id="sortSelect" aria-label="Sort generated exercises by difficulty" data-i18n-aria="generator.sortAria" disabled>
-              <option value="default" data-i18n="generator.sort.default">Generated order</option>
-              <option value="easy-hard" data-i18n="generator.sort.easyHard">Easy to hard</option>
-              <option value="hard-easy" data-i18n="generator.sort.hardEasy">Hard to easy</option>
-            </select>
-          </label>
+            <div class="flow-select sort-select" id="sortSelect" aria-label="Sort generated exercises by difficulty" data-i18n-aria="generator.sortAria"></div>
+          </div>
         </div>
       </div>
       <div class="workout-list" id="workoutList" aria-live="polite"></div>
@@ -171,6 +167,6 @@
   </noscript>
 
   <script src="../assets/i18n.js?v=20260828b"></script>
-  <script type="module" src="assets/app.js?v=20260828d"></script>
+  <script type="module" src="assets/app.js?v=20260831c"></script>
 </body>
 </html>

@@ -59,7 +59,13 @@ const quantityOptions = [
   { value: '5', label: ui('generator.quantity.many', { count: 5 }) },
   { value: 'all', label: ui('generator.quantity.all') }
 ];
+const sortOptions = [
+  { value: 'default', label: ui('generator.sort.default') },
+  { value: 'easy-hard', label: ui('generator.sort.easyHard') },
+  { value: 'hard-easy', label: ui('generator.sort.hardEasy') }
+];
 const smartHeaders = [...document.querySelectorAll('[data-smart-header]')];
+let sortControl = null;
 let lastScrollY = window.scrollY;
 let headerTicking = false;
 
@@ -551,6 +557,7 @@ function closeOtherFlowSelects(currentRoot) {
 function setupFlowSelectTrigger(root, trigger) {
   trigger.addEventListener('click', (event) => {
     event.preventDefault();
+    if (trigger.disabled || root.classList.contains('disabled')) return;
     const shouldOpen = !root.classList.contains('open');
     closeOtherFlowSelects(root);
     root.classList.toggle('open', shouldOpen);
@@ -573,6 +580,7 @@ function renderSingleFlowSelect(root, {
   trigger.className = 'flow-select-trigger';
   trigger.setAttribute('aria-haspopup', 'listbox');
   trigger.setAttribute('aria-expanded', 'false');
+  trigger.setAttribute('aria-label', ariaLabel);
   trigger.textContent = placeholder;
   setupFlowSelectTrigger(root, trigger);
 
@@ -599,6 +607,14 @@ function renderSingleFlowSelect(root, {
     if (notify) onChange(selectedOption);
   };
 
+  const setDisabled = (disabled) => {
+    const isDisabled = Boolean(disabled);
+    root.classList.toggle('disabled', isDisabled);
+    root.setAttribute('aria-disabled', String(isDisabled));
+    trigger.disabled = isDisabled;
+    if (isDisabled) closeFlowSelect(root);
+  };
+
   options.forEach((option) => {
     const button = document.createElement('button');
     button.type = 'button';
@@ -618,7 +634,7 @@ function renderSingleFlowSelect(root, {
 
   root.append(trigger, menu);
   setValue(initialValue, false, false);
-  return { setValue };
+  return { setValue, setDisabled };
 }
 
 function renderQuantityControl() {
@@ -630,6 +646,22 @@ function renderQuantityControl() {
   });
 }
 
+function renderSortControl() {
+  sortControl = renderSingleFlowSelect(els.sortSelect, {
+    options: sortOptions,
+    initialValue: state.sortMode,
+    ariaLabel: ui('generator.sortAria'),
+    onChange: (option) => {
+      if (option) handleSortChange(option.value);
+    }
+  });
+  sortControl.setDisabled(true);
+}
+
+function setSortControlValue(value) {
+  sortControl?.setValue(sortModes.has(value) ? value : 'default', true, false);
+}
+
 function renderDistrictControls() {
   els.districtTabs.innerHTML = '';
   els.districtSelect.innerHTML = '';
@@ -639,6 +671,7 @@ function renderDistrictControls() {
   trigger.className = 'flow-select-trigger';
   trigger.setAttribute('aria-haspopup', 'listbox');
   trigger.setAttribute('aria-expanded', 'false');
+  trigger.setAttribute('aria-label', ui('generator.selectDistrictsAria'));
   trigger.textContent = ui('generator.selectDistricts');
   setupFlowSelectTrigger(els.districtSelect, trigger);
 
@@ -743,7 +776,7 @@ async function selectDistricts(ids) {
   state.outputMetaLabel = 'generator.generatedLabel';
   state.outputMetaText = '';
   state.outputTotal = null;
-  els.sortSelect.value = 'default';
+  setSortControlValue('default');
   updateUrl(state.selectedDistrictIds);
   renderSelectedDistrict();
 
@@ -831,10 +864,10 @@ function updateWorkoutCodeField() {
 }
 
 function setSortEnabled(enabled) {
-  els.sortSelect.disabled = !enabled;
+  sortControl?.setDisabled(!enabled);
   if (!enabled) {
     state.sortMode = 'default';
-    els.sortSelect.value = 'default';
+    setSortControlValue('default');
   }
   updateWorkoutCodeField();
 }
@@ -874,8 +907,8 @@ function sortGeneratedExercises() {
   });
 }
 
-function handleSortChange() {
-  state.sortMode = els.sortSelect.value;
+function handleSortChange(value) {
+  state.sortMode = sortModes.has(value) ? value : 'default';
   sortGeneratedExercises();
   renderWorkout();
 }
@@ -994,7 +1027,7 @@ async function loadWorkoutCode() {
     state.outputMetaLabel = 'generator.restoredLabel';
     state.outputMetaText = '';
     state.outputTotal = null;
-    els.sortSelect.value = state.sortMode;
+    setSortControlValue(state.sortMode);
     els.outputTitle.textContent = ui('generator.restoredWorkout');
 
     const restoredDistrictIds = normalizeDistrictIds(exercises.map((exercise) => exercise.districtId));
@@ -1049,7 +1082,7 @@ async function generateWorkout() {
   state.outputMetaLabel = 'generator.generatedLabel';
   state.outputMetaText = '';
   state.outputTotal = null;
-  els.sortSelect.value = 'default';
+  setSortControlValue('default');
   els.outputTitle.textContent = metas.length === 1
     ? ui('generator.singleWorkout', { district: metas[0].title })
     : ui('generator.multiWorkout');
@@ -1083,7 +1116,7 @@ function clearWorkout() {
   state.outputMetaLabel = 'generator.generatedLabel';
   state.outputMetaText = '';
   state.outputTotal = null;
-  els.sortSelect.value = 'default';
+  setSortControlValue('default');
   if (metas.length) {
     els.outputTitle.textContent = metas.length === 1
       ? ui('generator.singleWorkout', { district: metas[0].title })
@@ -1114,7 +1147,7 @@ async function handleSmartSearch(event) {
     state.outputMetaLabel = 'generator.smartLabel';
     state.outputMetaText = '';
     state.outputTotal = result.total;
-    els.sortSelect.value = 'default';
+    setSortControlValue('default');
 
     if (!result.matches.length) {
       els.workoutList.innerHTML = '';
@@ -1420,6 +1453,7 @@ async function init() {
     });
     renderDistrictControls();
     renderQuantityControl();
+    renderSortControl();
     document.addEventListener('click', (event) => {
       document.querySelectorAll('.flow-select.open').forEach((root) => {
         if (!root.contains(event.target)) closeFlowSelect(root);
@@ -1437,7 +1471,6 @@ async function init() {
     els.generateButton.addEventListener('click', generateWorkout);
     els.clearButton.addEventListener('click', clearWorkout);
     els.askForm.addEventListener('submit', handleSmartSearch);
-    els.sortSelect.addEventListener('change', handleSortChange);
     els.copyCodeButton.addEventListener('click', copyWorkoutCode);
     els.loadCodeButton.addEventListener('click', loadWorkoutCode);
 
