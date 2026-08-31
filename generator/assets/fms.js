@@ -1,5 +1,5 @@
 const accessStorageKey = 'splitapaBetaAccess';
-const draftStorageKey = 'splitapaFmsDraft';
+const legacyDraftStorageKey = 'splitapaFmsDraft';
 const pendingWorkoutStorageKey = 'splitapaPendingWorkoutCode';
 const workoutCodePrefix = 'SAPA1-';
 const i18n = window.SplitApaI18n;
@@ -400,48 +400,6 @@ function collectResults(markIncomplete = false) {
     };
   });
   return { complete, results };
-}
-
-function collectDraft() {
-  const values = {};
-  new FormData(els.form).forEach((value, key) => {
-    values[key] = value;
-  });
-  tests.forEach((test) => {
-    values[`pain-${test.id}`] = els.form.elements[`pain-${test.id}`].checked;
-  });
-  return { values };
-}
-
-function saveDraft() {
-  try {
-    window.localStorage.setItem(draftStorageKey, JSON.stringify(collectDraft()));
-  } catch (error) {
-    // The assessment remains available for the current page load.
-  }
-}
-
-function restoreDraft() {
-  let draft;
-  try {
-    draft = JSON.parse(window.localStorage.getItem(draftStorageKey) || 'null');
-  } catch (error) {
-    draft = null;
-  }
-  if (!draft) return;
-
-  Object.entries(draft.values || {}).forEach(([name, value]) => {
-    const controls = [...els.form.querySelectorAll(`[name="${name}"]`)];
-    if (!controls.length) return;
-    if (controls[0].type === 'radio') {
-      const match = controls.find((control) => control.value === String(value));
-      if (match) match.checked = true;
-    } else if (controls[0].type === 'checkbox') {
-      controls[0].checked = value === true || value === 'true' || value === 'on';
-    } else {
-      controls[0].value = value;
-    }
-  });
 }
 
 async function fetchJson(url) {
@@ -850,16 +808,20 @@ async function handleSubmit(event) {
   }
 }
 
-function resetAssessment() {
+function clearAssessment(announce = false) {
   els.form.reset();
   els.list.querySelectorAll('.is-incomplete').forEach((card) => card.classList.remove('is-incomplete'));
   els.resultsBody.innerHTML = `<div class="empty-state">${tx('resultsEmpty')}</div>`;
-  els.message.textContent = tx('formReset');
+  els.message.textContent = announce ? tx('formReset') : '';
   try {
-    window.localStorage.removeItem(draftStorageKey);
+    window.localStorage.removeItem(legacyDraftStorageKey);
   } catch (error) {
-    // No stored draft to remove.
+    // The form is still cleared when browser storage is unavailable.
   }
+}
+
+function resetAssessment() {
+  clearAssessment(true);
 }
 
 function init() {
@@ -872,13 +834,13 @@ function init() {
   applyPageCopy();
   i18n.mountLanguageSelectors();
   renderTests();
-  restoreDraft();
+  clearAssessment();
   setupSmartHeader();
 
   els.form.addEventListener('submit', handleSubmit);
   els.reset.addEventListener('click', resetAssessment);
-  els.form.addEventListener('input', saveDraft);
-  els.form.addEventListener('change', saveDraft);
+  window.addEventListener('pagehide', () => clearAssessment());
+  window.addEventListener('pageshow', () => clearAssessment());
   els.shell.hidden = false;
 }
 
